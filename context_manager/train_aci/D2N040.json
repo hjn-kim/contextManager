@@ -1,0 +1,548 @@
+{
+  "id": "D2N040",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "carolyn is a 34 -year-old female with a history of diabetes mellitus type two who is here today with a headache so hi there carolyn it's nice to see you again listen i'm sorry you're having headaches well let's talk about it but i would like to record this conversation with this app that's gon na help me focus on you more would that be okay with you"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yes that's okay"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay great thanks so carolyn tell me about your headache and headache or headaches when did when did they start and and what symptoms are you having"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "my headache started about a week ago it's feeling like a dull pain in the back of my head i have flushing in my ears they get really red and hot and sometimes i just feel a little bit dizzy when i get these headaches but i've taken tylenol and advil and it's not really going away it just keeps coming back"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and alright and so this started about a week ago has it been fairly constant since it started or does it come and go does it come and go or what"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it comes and goes i it it's relieved when i take my tylenol or advil but then it comes right back"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "hmmm okay and do you notice any any timing difference you know is it is it worse in the morning worse in the evening is there anything else that makes it better or worse"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "it's definitely worse in the evening"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and do you feel any sort of tightness in the back of your neck or in your shoulders or you know you said it's in the back of your head primarily any discomfort anywhere else"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yes no just in the back of my head"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and did the headache start all of a sudden carolyn or has it been gradual or what"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i've been under a lot of stress lately so maybe about when some stress started occurring"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay okay and alright and have you noticed any fever along with the headache"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no no fever"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and any visual changes you know wavy lines in your vision spots in your vision or anything like that"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay and have you had headaches like this before"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i have"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay so this is n't the worst headache you've ever had what did you say"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no it's not"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay alright and so okay fair enough now how's your diabetes been been been doing lately have you what have your blood sugars been running in the low one hundreds or two hundreds or what"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i have n't been checking my blood sugars"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "really okay well we will get you back on that and and we can talk about that but how about your metformin are you still taking the five hundred milligrams once a day no actually it looks like we increased your metformin to five hundred milligrams twice a day last visit are you still taking that"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay great and okay you're still watching your diet and getting some exercise"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "i have not been eating well because i've been stressed over the last week but i have n't been exercising for maybe the past week but generally i've been doing better"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay the headache has has maybe made you feel uncomfortable and prevented your your exercise would you say or what"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes it has"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay okay so you probably have n't been out golfing i remember you're a big golfer so not not lately uh so you know being"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "not lately"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "being down being down here in florida we got ta get get some golf in so hey did you see the masters by the way a few weeks ago was n't that i do n't know did you happen to catch it"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "i did"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "yeah that was crazy what a what a finish what an amazing what an amazing tournament right what do you think yeah yeah that's great well we'll we'll get you feeling better and get you back out there and now are you still working a lot on the computer ac or"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i am"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "carolyn okay yeah you're still working a lot on the computer for work okay are you taking breaks every hour or so you know get up stand around walk stand walk around that can be helpful"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "no i really do n't get the opportunity to"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "hmmm okay understood alright well listen let's go ahead and examine you okay so so on your physical exam your physical exam is pretty normal unremarkable for the most part and you know few things a few exceptions so first of all on your heent exam your eye exam your extraocular motions are intact without pain you have a funduscopic exam that shows no papilledema that's good that just means there's no swelling in the back of your eye and on your neck exam you do have some posterior mild posterior paraspinal muscular tenderness in the cervical spine and in bilateral trapezius musculature as well and some tightness in those muscles as well and otherwise on your exam let's see your heart exam on your heart exam you have that grade three out of six systolic ejection murmur that's unchanged from your prior exam so it just means i hear some sounds in your heart as it's beating and i'm not too worried about that we'll watch that and otherwise normal heart exam and and your physical examination otherwise is normal and unremarkable and so now let's talk about my assessment and your plan so carolyn for your first problem of the headache i do think that you have a tension type headache and i think this because you've got some tension and tightness in your paraspinal muscles meaning the muscles around your neck and your shoulders and you know working at the computer i think is contributing to this and also probably the stress so you can continue to take that tylenol for the pain i'm also gon na give you a mild muscle relaxant i'll write you for flexeril five milligrams three times a day and you can take that that will help relax those muscles in your neck and that should help with the symptoms i want you to come back or give us a call if the headaches become more severe or suddenly worsen or you develop a fever but i do n't think that this is a a sign of a stroke or any bleeding in your brain or anything like that i think it's more related to tightness in your muscles in your neck now for your second problem of your diabetes mellitus let's continue you on the metformin five hundred milligrams i am going to order a hemoglobin a1c and also a cbc and a chem-12 to check some of your blood tests blood chemistries and so forth and we will continue you on the metformin i do want you to check your blood sugars daily and that will be very helpful so when you come back in a month i want you to bring those numbers with you we can talk about it again and please do try to get back into your exercise routine that's really gon na help you keep those blood sugars under control as well okay so how does that sound for a plan any other questions for me"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "well would it so only call if if it gets worse or not any better"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "yeah that that just right but also let's set up an appointment in four weeks and i wan na see you back in four weeks if it's not if the headache is not better within the next few days with this flexeril then you can give us a call and and get back in later this week or early next but definitely if things get worse give us a call sooner and you know i meant to ask you on i wanted to ask if you had a history of any any trauma meaning have you hit your head or you have n't fallen hit your head or anything like that have you"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "no no i think it's just stress"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay alright understood okay great well then i'll see you back in a month if not before okay you take care of yourself nice seeing you"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "sure"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 34-year-old female with a history of diabetes mellitus type 2 presenting with a headache."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Headache"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the onset and symptoms of the patient's headache."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a dull headache starting one week ago, ear flushing, and dizziness."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the headache is constant or intermittent."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the headache is intermittent and temporarily relieved by Tylenol and Advil."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about timing and factors that worsen or improve the headache."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the headache is worse in the evening."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about neck or shoulder tightness."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies discomfort outside of the back of her head."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the headache onset was sudden or gradual."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient attributes the headache onset to recent stress."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a fever."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies fever."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about visual changes."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies vision changes."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of similar headaches."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms a history of similar headaches."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes"
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about recent blood sugar levels."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she has not been checking her blood sugar."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking metformin 500 mg twice a day."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is taking metformin 500 mg twice a day."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about diet and exercise."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports poor diet and lack of exercise over the past week due to stress."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient enjoys golfing."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient takes breaks while working at the computer."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she does not have the opportunity to take breaks while working."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reports normal eye exam, posterior paraspinal/trapezius tenderness, and a grade 3/6 systolic ejection murmur."
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor diagnoses a tension-type headache and recommends Tylenol and Flexeril 5 mg three times a day."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders hemoglobin A1c, CBC, and CMP, and instructs the patient to check blood sugar daily."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks when she should call the office regarding her symptoms."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up in four weeks and instructs the patient to call if symptoms worsen or do not improve."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of head trauma."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies head trauma."
+        }
+      ]
+    }
+  ],
+  "case_description": "headache; diabetes mellitus",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

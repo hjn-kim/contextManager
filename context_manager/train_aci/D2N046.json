@@ -1,0 +1,329 @@
+{
+  "id": "D2N046",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "okay so we are recording okay so okay so i understand you've so you've got a past medical history of type two diabetes and you're coming in and for evaluation of a newly diagnosed ovarian cancer so how are you doing today"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i do n't hear the question but i'm assuming that you when you say batcher so when i start talking about my dog and my three cats and all that those sort of things are not going to be included in the in the note"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "right i want you you can talk about those things yes"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay so with your newly diagnosed ovarian cancer so how are you feeling today how are you doing"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i'm doing pretty good depressed"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "little depressed i can understand it's a lot to take on is n't it"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay okay so lem me ask you some questions so what kind of symptoms were you having that prompted you your doctor to do the tests"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i was having severe pain and bleeding"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay now do you have other symptoms such as weight loss constipation vomiting or issues with urination"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no vomiting but constipation and weight loss"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay yeah that's understandable so do you have any children or have you ever been pregnant"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i'm sorry i did n't hear that part"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "do you have any children or have you ever been pregnant"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no to either one of those"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay so and do you know at what age you got your period and when you started menopause"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "thirteen for my period and twenty eighth for menopause"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay do you take any oral hormone replacement therapy"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay any history of endometriosis"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "any history of what"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "endometriosis"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay how about any family history of any gynecological cancers"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "i was adopted"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay okay so i'm just gon na do a quick exam of your abdomen and then perform a vaginal exam okay"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "alright okay so i do feel the mass on the where to go here okay"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "i did n't know you're gon na play a doctor today"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "i did okay okay so i do feel the mass on the left side but everything else looks good and on abdominal exam there is slight tenderness to palpation of the left lower quadrant no rebounding or guarding on vaginal exam there are no external lesions on the labia the vaginal vault is within normal limits the cervix is pink without lesions and on bimanual exam i appreciate a left adnexal mass and there is no masses on the right okay so now i reviewed the results of your abdominal ct which show a three centimeter left ovarian mass with an associated local localized lymph node involvement there is no evidence of gross peritoneal or metastatic disease so lem me tell you a little bit about my assessment and plan so for the first problem so i do think this is most likely ovarian cancer looking at your ct scan it looks like stage three a disease based on the lymph node involvement i want to start by sending off some blood tests like a ca-125 and hcg and afp and ldh these are just tests that help me to determine what type of tumor i'm dealing with and then i want you to undergo genetic counseling and testing to see if you have a genetic predisposition for developing ovarian cancer so this stage of ovarian cancer is treated by performing surgery followed by adjunct chemotherapy so this means we'll start chemotherapy after you've recovered from surgery okay so for the surgery i would perform a hysterectomy remove both ovaries and perform a lymph node dissection to remove the involved and involve lymph nodes as well as any other ones i see and i'll also send a sample of any tissue if there anything that looks suspicious at all and we'll be able to tell exactly what stage this is based on the pathology reports i then recommend chemotherapy with cisplatin and taxol and based on how the surgery goes i may want you to receive intraperitoneal intraperitoneal chemo which is done inserting a small tube into your belly for the chemo to go directly into your peritoneum now i know that was a lot sick in do you have any questions or"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "am i gon na die"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "well that's a good question so based on what i see at this time i will we believe you have a favorable diagnosis prognosis and you're also still young and healthy which makes your prognosis even better and we do need to see a final pathology report to give you a definitive answer though okay"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "alright alright"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a new patient with a history of type 2 diabetes presenting for evaluation of newly diagnosed ovarian cancer."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Ovarian cancer"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports symptoms of depression."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the symptoms that prompted the initial testing."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports severe abdominal pain and vaginal bleeding."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about weight loss, constipation, vomiting, and urinary issues."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports constipation and weight loss, but denies vomiting."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about a family history of gynecological cancers."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient was adopted and has no knowledge of family history."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares the intent to perform an abdominal and vaginal examination."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows left lower quadrant tenderness without rebound or guarding, no external labial lesions, normal vaginal vault, pink cervix, and a left adnexal mass."
+        },
+        {
+          "type": "detail",
+          "summary": "CT scan shows a 3 cm left ovarian mass with localized lymph node involvement and no evidence of metastatic disease."
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the condition as stage IIIA ovarian cancer."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders blood tests (CA-125, hCG, AFP, LDH) and genetic counseling."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends hysterectomy, oophorectomy, and lymph node dissection, followed by chemotherapy with cisplatin and Taxol, with potential intraperitoneal chemotherapy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about her prognosis and risk of mortality."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor states the prognosis is favorable based on current status and age, pending final pathology."
+        }
+      ]
+    }
+  ],
+  "case_description": "ovarian cancer",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

@@ -1,0 +1,1186 @@
+{
+  "id": "D2N028",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "patrick allen . date of birth : 7/7/1977 . new patient visit . past medical history includes gerd , anxiety , depression . here for chronic abdominal pain . he had an abdominal ct on 1/23/2020 . impression is a normal ct of the ab- abdomen ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hello , are you mr. allen ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "yes , i am ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "hi . my name is dr. edwards . nice to meet you ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "nice to meet you ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "welcome to the gi specialty clinic ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "thank you ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "did you have any problems finding us ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "no , i've been here with my sister once before ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "good . so how can i help you today ? uh , the referral i have is for abdominal pain and diarrhea ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "right . so i've had ... i've been having this pain right here in my stomach , like right around here ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "so in the area of your mid abdomen , just below the belly button ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "correct . i've had the pain on and off for about two years . i finally went to the er and a ... a few months ago and they did a ct scan ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "i saw that ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "yeah . they said they did n't really see anything on the scan ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "yes , i agree . it looked normal ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "the problem is i'm either constipated or have explosive diarrhea ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "is the pain there all the time ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "it's a nagging feeling and it just depends . sometimes it bothers me , sometimes it does n't ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "has this been the case over the past two years as well ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "more recently in the past couple months , at least with the constipation and diarrhea ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "and before that , how are your bowel movements ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "they were normal ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "uh , okay . so any blood in your stool ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "do you feel like you have more constipation or diarrhea ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "probably more constipation ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay , so when you're constipated , do you not have a bowel movement or is the stool hard ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "i usually do n't go , but when i do , it's hard ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "and how often do you have a bowel movement when you are constipated ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "about three to four times a week . it's like when i need to go to the bathroom , if i can massage it , it feels like it's moving some and i can eventually go ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay . and when you have a bowel movement , does the pain change ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "yeah , it gets a little better ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "and are you eating and drinking okay ? any nausea or vomiting , heartburn or indigestion ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "none of that ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "okay . so tell me about the diarrhea , how often do you get it ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "it kinda just depends on what i eat . i think i have a very sensitive stomach . if i eat pasta with a creamy sauce , i'm probably gon na have diarrhea ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "okay . and it does n't happen for multiple days in a row or is it just one time ?"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "it's usually just one time and then it's over ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "and how's your weight been ? any fluctuation ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "nice and pretty stable , although i could stand to lose about 25 pounds ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "okay . and is there any family history of gi issues that you know of ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "not that i can think of . well , actually my sister does have problems with her stomach too . she has irritable bowel syndrome and that is kind of what i always thought i had even thought i've never been diagnosed with it ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "okay . and is there any family history of gi cancer or liver disease ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "have you ever had any surgeries on your abdomen ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "i've never had any surgery ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "okay , so your gallbladder , appendix , all those are still intact ?"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "yup ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "and have you ever had a colonoscopy ?"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "no . i thought that happen when you turn 50 ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "well , that's for colon cancer screening , but there are other reasons to have a colonoscopy , like unexplained abdominal pain and changes in bowel habits ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "well , come have a seat here and lay back so i can examine you ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "i'm gon na start by listening to your belly with my steth- stethoscope . and i hear bowel sounds in all four quadrants ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "what does that mean ? is everything okay ?"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "it just means that i can hear little noises in all areas of your belly , which means your bowels are active and working ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "okay , good ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "so now , i'm going to push on your upper and lower abdomen . let me know if you have any pain ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "it hurts a little when you push right there on the left side , near my belly button ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "okay . i do feel stool in your lower colon , which would coincide with constipation , but i also feel a slight enlargement of your liver here on the upper right side . have you had any lab work done recently ?"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "yes , i have a physical about four months ago and they ... i had blood drawn then ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "okay . and did your primary care physician say anything about the lab results ?"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "patient",
+      "text": "he said i had some very slightly elevated liver enzymes , but we would recheck them in about six months ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "and you remember what enzymes were elevated , alt , ast , alp ?"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "patient",
+      "text": "he said the alt and the ast were elevated ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "doctor",
+      "text": "and do you take any medications , either prescription or over-the-counter ?"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "patient",
+      "text": "i take crestor and olmesartan daily and then tylenol for occasion- occasional pain ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "doctor",
+      "text": "and how frequently do you take the tylenol ?"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "patient",
+      "text": "hardly ever . maybe once a month ."
+    },
+    {
+      "id": "line_0071",
+      "speaker": "doctor",
+      "text": "and do you consume alcohol ?"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "patient",
+      "text": "uh , yes , but only a couple of beers after working in the yard on saturdays ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "doctor",
+      "text": "okay . and no previous history of heavy alcohol or drug use ?"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "doctor",
+      "text": "and have you had any recent issues with excessive bruising or bleeding ?"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0077",
+      "speaker": "doctor",
+      "text": "and how about any issues with your ankles or feet swelling ?"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0079",
+      "speaker": "doctor",
+      "text": "okay . i'm gon na take a look at your eyes and skin . i do n't see any jaundice ."
+    },
+    {
+      "id": "line_0080",
+      "speaker": "patient",
+      "text": "what would cause that ?"
+    },
+    {
+      "id": "line_0081",
+      "speaker": "doctor",
+      "text": "issues with your liver . let me take a quick listen to your heart and lungs ."
+    },
+    {
+      "id": "line_0082",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0083",
+      "speaker": "doctor",
+      "text": "lungs are clear , bilateral heart sounds are normal , no murmurs , gallops , or rubs noted ."
+    },
+    {
+      "id": "line_0084",
+      "speaker": "patient",
+      "text": "that's good ."
+    },
+    {
+      "id": "line_0085",
+      "speaker": "doctor",
+      "text": "yes . the rest of your physical exam is normal other than what seems to be an increased stool burden in your colon and a slight hepatomegaly ."
+    },
+    {
+      "id": "line_0086",
+      "speaker": "patient",
+      "text": "what's that ?"
+    },
+    {
+      "id": "line_0087",
+      "speaker": "doctor",
+      "text": "increase stool burden means that there's a lot of stool sitting in your colon ."
+    },
+    {
+      "id": "line_0088",
+      "speaker": "patient",
+      "text": "and that's the constipation , right ? but what about the other thing ?"
+    },
+    {
+      "id": "line_0089",
+      "speaker": "doctor",
+      "text": "the hepatomegaly means the liver is enlarged ."
+    },
+    {
+      "id": "line_0090",
+      "speaker": "patient",
+      "text": "but you said mine was slightly enlarged ?"
+    },
+    {
+      "id": "line_0091",
+      "speaker": "doctor",
+      "text": "correct ."
+    },
+    {
+      "id": "line_0092",
+      "speaker": "patient",
+      "text": "so what does that mean ?"
+    },
+    {
+      "id": "line_0093",
+      "speaker": "doctor",
+      "text": "well , let's talk about what we found and then some possible next steps if you're in agreement ."
+    },
+    {
+      "id": "line_0094",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0095",
+      "speaker": "doctor",
+      "text": "so as i said , the hepatomegaly means your liver is enlarged ."
+    },
+    {
+      "id": "line_0096",
+      "speaker": "patient",
+      "text": "could that be why my stomach is hurting and i'm having issues with the constipation and diarrhea ?"
+    },
+    {
+      "id": "line_0097",
+      "speaker": "doctor",
+      "text": "no , i think you're constipated and have occasional bouts of diarrhea because of certain foods you eat . and we can get you started right away on a fiber supplement that should help with that ."
+    },
+    {
+      "id": "line_0098",
+      "speaker": "patient",
+      "text": "so what about my liver ? why is it enlarged ?"
+    },
+    {
+      "id": "line_0099",
+      "speaker": "doctor",
+      "text": "well , there are many reasons why people can have an elevated liver enzymes and also enlarged liver . some possible causes are certain medications that can be toxic to liver , alcohol abuse , fatty liver disease , hepatitis , cirrhosis , and other liver diseases like wilson's disease ."
+    },
+    {
+      "id": "line_0100",
+      "speaker": "patient",
+      "text": "so what do i need to do ?"
+    },
+    {
+      "id": "line_0101",
+      "speaker": "doctor",
+      "text": "well , i think since it's been about four months since your blood work was done , we should check your liver enzymes in addition to a few other labs ."
+    },
+    {
+      "id": "line_0102",
+      "speaker": "patient",
+      "text": "okay . and then what ?"
+    },
+    {
+      "id": "line_0103",
+      "speaker": "doctor",
+      "text": "we will get those drawn today and then depending upon the results you may need an ultrasound of your liver . i think we need to talk about your medications too ."
+    },
+    {
+      "id": "line_0104",
+      "speaker": "patient",
+      "text": "which medications ?"
+    },
+    {
+      "id": "line_0105",
+      "speaker": "doctor",
+      "text": "crestor , how long have you been taking that ?"
+    },
+    {
+      "id": "line_0106",
+      "speaker": "patient",
+      "text": "about 18 months ."
+    },
+    {
+      "id": "line_0107",
+      "speaker": "doctor",
+      "text": "okay . well , crestor is one of the medications that can cause liver toxicity so it may be a good idea to discuss other alternatives ."
+    },
+    {
+      "id": "line_0108",
+      "speaker": "patient",
+      "text": "should i talk to my primary care or can you change it ?"
+    },
+    {
+      "id": "line_0109",
+      "speaker": "doctor",
+      "text": "i would recommend calling your primary care and discuss that with him since he follows you for your blood pressure and cholesterol ."
+    },
+    {
+      "id": "line_0110",
+      "speaker": "patient",
+      "text": "okay . i'll call him this afternoon ."
+    },
+    {
+      "id": "line_0111",
+      "speaker": "doctor",
+      "text": "great . i also think we should go ahead and get you scheduled for a liver ultrasound . if your blood work looks good , then we can always cancel that ."
+    },
+    {
+      "id": "line_0112",
+      "speaker": "patient",
+      "text": "okay . when do you think i'll be able to get the ultrasound done ?"
+    },
+    {
+      "id": "line_0113",
+      "speaker": "doctor",
+      "text": "hopefully , within the next two weeks . you will receive a call from the radiology scheduling this afternoon to get it set up ."
+    },
+    {
+      "id": "line_0114",
+      "speaker": "patient",
+      "text": "okay . and then what happens ?"
+    },
+    {
+      "id": "line_0115",
+      "speaker": "doctor",
+      "text": "when i get the results from the test , i will contact you . and depending upon what we find , we'll come up with our next steps ."
+    },
+    {
+      "id": "line_0116",
+      "speaker": "patient",
+      "text": "and when should i see you again ?"
+    },
+    {
+      "id": "line_0117",
+      "speaker": "doctor",
+      "text": "uh , let's schedule an appointment when you check out to return in four weeks . we'll discuss how you're doing with the fiber supplement and your constipation and review test results to determine if we need to do further testing on your liver ."
+    },
+    {
+      "id": "line_0118",
+      "speaker": "patient",
+      "text": "okay . is there anything else i can do to help with these issues ?"
+    },
+    {
+      "id": "line_0119",
+      "speaker": "doctor",
+      "text": "definitely refrain from drinking any alcohol , increase your water intake to at least 48 ounces a day in addition to taking the fiber supplement to help with your constipation . and be mindful of eating foods that you were sensitive to so you can avoid the bouts of diarrhea ."
+    },
+    {
+      "id": "line_0120",
+      "speaker": "patient",
+      "text": "okay . and i'll talk to my primary care about my crestor ."
+    },
+    {
+      "id": "line_0121",
+      "speaker": "doctor",
+      "text": "excellent . and do you have any other questions for me ?"
+    },
+    {
+      "id": "line_0122",
+      "speaker": "patient",
+      "text": "i do n't think so ."
+    },
+    {
+      "id": "line_0123",
+      "speaker": "doctor",
+      "text": "great . so remember when you check out the front desk , schedule follow-up appointment with me for four weeks and then go to the lab to get your blood work drawn ."
+    },
+    {
+      "id": "line_0124",
+      "speaker": "patient",
+      "text": "okay . sounds good ."
+    },
+    {
+      "id": "line_0125",
+      "speaker": "doctor",
+      "text": "and expect a call from radiology scheduling about setting up your ultrasound ."
+    },
+    {
+      "id": "line_0126",
+      "speaker": "patient",
+      "text": "all right . thanks , dr. edwards ."
+    },
+    {
+      "id": "line_0127",
+      "speaker": "doctor",
+      "text": "thank you , mr. allen ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Patrick Allen is a 42-year-old male with a history of GERD, anxiety, and depression presenting for a new patient visit.",
+          "eval_only": null
+        },
+        {
+          "type": "detail",
+          "summary": "The patient had a normal abdominal CT scan on 01/23/2020.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Abdominal pain and diarrhea.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports intermittent mid-abdominal pain localized inferior to the umbilicus for approximately 2 years.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports symptoms of constipation and episodic diarrhea for the past 2 months.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the abdominal pain is constant.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as a nagging feeling that fluctuates in intensity.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is any blood in the patient's stool.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies blood in his stool.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks whether the patient experiences more constipation or diarrhea.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports experiencing more constipation than diarrhea.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the frequency of bowel movements during constipation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has 3-4 bowel movements per week when constipated and finds abdominal massage helpful.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain changes after a bowel movement.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that the pain improves slightly after a bowel movement.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about nausea, vomiting, heartburn, indigestion, and dietary intake.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies nausea, vomiting, heartburn, and indigestion, and confirms normal eating and drinking.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient notes that pasta with creamy sauce triggers episodes of diarrhea.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about weight fluctuations.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports stable weight but expresses a desire to lose 25 pounds.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of gastrointestinal issues.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's sister has irritable bowel syndrome.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of gastrointestinal cancer or liver disease.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies family history of gastrointestinal cancer or liver disease.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about prior abdominal surgeries.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any prior abdominal surgeries.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has ever had a colonoscopy.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has never had a colonoscopy.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam reveals normoactive bowel sounds in all four quadrants.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam reveals mild left periumbilical tenderness.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam reveals increased stool burden in the colon and mild hepatomegaly.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0064",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports mildly elevated liver enzymes (AST and ALT) from bloodwork 4 months ago.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0068",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient takes Crestor and olmesartan daily, and Tylenol as needed.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0071",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about alcohol consumption.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0072",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient drinks 2 beers once a week.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0075",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about excessive bruising or bleeding.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0076",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies excessive bruising or bleeding.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0077",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about lower extremity edema.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0078",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies lower extremity edema.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0079",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows no jaundice.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0083",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows clear lungs and normal heart sounds without murmurs, gallops, or rubs.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0097",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends starting a daily fiber supplement for constipation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0101",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders repeat liver enzyme labs.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0103",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans for a potential liver ultrasound depending on lab results.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0106",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been taking Crestor for 18 months.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0109",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to contact his primary care provider to discuss alternative medications for Crestor.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0111",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a liver ultrasound.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0117",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is to return to the clinic in 4 weeks.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0119",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to cease alcohol consumption, increase water intake to 48 ounces daily, and avoid trigger foods.",
+          "eval_only": null
+        }
+      ]
+    }
+  ],
+  "case_description": "abdominal pain; diarrhea; hepatomegaly",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

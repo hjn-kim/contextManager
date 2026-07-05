@@ -1,0 +1,768 @@
+{
+  "id": "D2N067",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi elizabeth so i see that you were experiencing some kind of injury did you say that you hurt your knee"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yes i hurt my knee when i was skiing two weeks ago"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay skiing that sounds exciting alright so what happened what what's when did the injury like what sorry what happened in the injury"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "so i was flying down this black diamond you know like i like to do"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "yes"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "and this kid who was going faster than me spent by me so then i tried to speed past them and then i ran into a tree and twisted my knee"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "so we were downhill skiing racing at this point okay is it your left or your right knee"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "it's my right"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and does it hurt on the inside or the outside"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "the inside"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay so the medial aspect of the right knee when you fell did you hear a pop"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i did yes"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay alright"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i think that was my left knee"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay okay alright so we got we got ta pick one if it if it"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i'm just trying to be real"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "no"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "what happens in the in a real"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "a hundred percent so how about this right now you're like i what i'm hearing is that you're experiencing bilateral knee pain like both of your knees hurt but i'm assuming that like your right knee hurts more is that correct"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah my left knee does n't really hurt"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "uh uh"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "that's the one that popped it the left knee just feels unstable but my right knee hurts"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "gotcha gotcha okay yeah i think hmmm alright so we're gon na we're gon na go ahead and look at this sort of but on a scale of one to ten how severe is your pain"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "it's a seven"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay that's pretty bad alright and does it has it been increasing or like rapidly or slowly over the last few days"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "it's been slow"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay alright"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "but sometimes it gets to an eleven"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay what would do you know if you are doing something that would cause it to be an eleven are you back on your ski's"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "no i ca n't ski"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "usually when i walk my dog"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay does it hurt more when you walk for longer periods of time"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay how long does the pain last"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "for as long as my walk is and i do n't sometimes i walk five minutes kinda depends on the wind"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay alright"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "sometimes i walk there is"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay alright have you done anything to help with the pain"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "well i wear a brace and i have used a lot of thc cream on it"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay alright thc cream is an interesting choice but do you think that's been helpful"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "alright have you taken"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "reasons"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "not a problem have you taken any medications"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "no just gummies"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay like vitamins or more thc"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "kind of like thc gummies"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "thc gummies"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "my grandma gave them to me"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "thc gummies from grandma that's an excellent grandmother that you have okay have you noticed any swelling stiffness tenderness"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "yeah i i get a lot of swelling and it really is it's very stiff in the morning until i get walking"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "okay alright and then have you had any hospitalizations or surgeries in the past"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "well i had surgery on my right knee before"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "okay so you've had surgery before alright do you remember what kind of surgery"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "i do n't know they told me they reconstructed the whole thing i was fourteen i was a really good gymnast back then really good"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "and i was doing a back summer salt and i felt a pop then and then since that time i've really had problems with my knee"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "uh uh"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "but you know the athlete that i am i can still really ski very well so i just kept going"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "and i'm really tough my pain tolerance is very high"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "okay okay okay how so do you have any other exercises that i might wan na know about outside of intense gym and ski events"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "no i think that's about it"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "okay and how frequently do you normally ski"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "i ski probably three times a week"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "okay and then are you on any medications at this time other than the thc"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "okay alright what"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "nothing no"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "okay alright not a problem so if you do n't mind i'm gon na go ahead and start my examination i'm just gon na call it out for the sake of being able to document it appropriately and you or just just let me know if you want me to explain anything further so with your knee i know that you said it hurts on the right inside a lot right so when i press on the inside of your knee does that hurt"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "okay and when i press on the outside of your left of your right knee sorry does that hurt"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "okay alright so when i move your your kneecap does that hurt"
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "no it kinda makes a shooting pain down to my ankle though"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "but it does n't hurt my knee"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "okay so does the pain radiate frequently"
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0081",
+      "speaker": "patient",
+      "text": "i've never really noticed it just messed with my kneecap"
+    },
+    {
+      "id": "line_0082",
+      "speaker": "doctor",
+      "text": "okay alright on your skin exam i do appreciate some mild swelling and bruising that's really interesting since it's been two weeks with your knee are you able to bend it"
+    },
+    {
+      "id": "line_0083",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0084",
+      "speaker": "doctor",
+      "text": "okay and then when you walked in on your gait i think i think i did appreciate a slight limp are you i i i i think you are you are protecting one of your knees does that sound familiar"
+    },
+    {
+      "id": "line_0085",
+      "speaker": "patient",
+      "text": "yeah i waddle pretty pretty good now"
+    },
+    {
+      "id": "line_0086",
+      "speaker": "doctor",
+      "text": "okay alright and when you move your knee away from your body you're bending like your you're pulling it towards me does that hurt"
+    },
+    {
+      "id": "line_0087",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0088",
+      "speaker": "doctor",
+      "text": "okay and then when you pull your knee back towards you does that hurt"
+    },
+    {
+      "id": "line_0089",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0090",
+      "speaker": "doctor",
+      "text": "alright so pain on dorsiflexion but not on plantar flexion plantar flexion okay alright so what we are gon na do right now i think i'm gon na look at your x-rays but when i when i look at the results of your x-ray i do not appreciate any fracture what i am noticing is the development of a little bit of arthritis and that could explain like why you say that your joints hurt a bit more during like windy weather and what not so this is what we're gon na do for my assessment and plan right the first thing is i think you have a strain of your posterior cruciate ligament what that means is what that will mean for you though is that we are gon na continue to brace your right knee that's gon na hopefully take off some of the stress that you might be putting on it especially since you're limping i am going to recommend you for physical therapy i think it would be an i think it's a good idea to maybe start three times a week to get your strength back into your knee i would recommend not skiing or doing any gymnastics for now and i think that physical therapy will really help considering the injury that you had when you were fourteen i'm gon na prescribe you some medications i do n't necessarily recommend consuming gummies at the same time but the medications i'm gon na give you are gon na be meloxicam fifteen milligrams you're gon na take that once a day that will help with like the swelling and the bruising i'm also gon na prescribe you just like a higher strength nsaid so ibuprofen eight hundred milligrams a day you can take that twice a day as needed for your left knee i think you are i think you just kind of like strength a little bit but like not enough to necessarily require any kind of like medication or bracing i think you just take it easy on your body i know that you're like very active from what i hear and i i think that that's really exciting but i think you might need to listen to your body and give yourself a bit of a break you'll be able to do like several workouts when you go to when you go to physical therapy but you know let the yeah let your therapist be your guide about like what you should and should not be putting your body through does that make sense"
+    },
+    {
+      "id": "line_0091",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0092",
+      "speaker": "doctor",
+      "text": "alright do you have any questions right now"
+    },
+    {
+      "id": "line_0093",
+      "speaker": "patient",
+      "text": "no thank you so much"
+    },
+    {
+      "id": "line_0094",
+      "speaker": "doctor",
+      "text": "no problem"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right knee injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient sustained a right knee injury while skiing two weeks ago."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient twisted her knee after colliding with a tree while skiing."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury involves the right knee."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain on the medial aspect of the right knee."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient heard a pop at the time of injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies left knee pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the left knee feels unstable."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a pain level of 7 out of 10."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain has been slowly increasing."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain can reach 11 out of 10."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain increases with prolonged ambulation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain lasts as long as she is ambulating."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses a brace and THC cream for pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses THC gummies for pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports constant swelling and morning stiffness that resolves with ambulation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient has a history of right knee reconstruction at age 14."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0065",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient skis 3 times per week."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0071",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain on palpation of the medial right knee."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0075",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports shooting pain to the ankle with kneecap movement."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0079",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies radiating pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0082",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes mild effusion on physical exam."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0085",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient exhibits an antalgic gait."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0087",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain with dorsiflexion."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0089",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain with plantarflexion."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0090",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-rays show no fracture and mild arthritis."
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor assesses a right knee posterior cruciate ligament strain."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends continued bracing and physical therapy 3 times per week."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to avoid skiing and gymnastics."
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg daily and ibuprofen 800 mg twice daily as needed."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to discontinue THC gummies."
+        }
+      ]
+    }
+  ],
+  "case_description": "Right knee injury",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

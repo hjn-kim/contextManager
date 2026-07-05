@@ -1,0 +1,454 @@
+{
+  "id": "D2N061",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi virginia how're you today"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm good thanks how are you"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "good so you know you got that knee x-ray when you first came in but tell me a little bit about what happened"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i was playing basketball and jerry ran into me and the inside of my knee hurts"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay did you fall to the ground or did you just kinda plant and he pushed and you went one way and your knee did n't"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i did fall to the ground"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "you did fall to the ground okay and did you land on the kneecap i mean did it hurt a lot were you able to get up and continue on"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i landed on my side i was not able to continue on"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay so you get off the off the court is jerry a good player you just got ta ask that question"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "not really"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "no"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "he does n't have much game"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay okay well you know i love basketball i'm a little short for the game but i absolutely love to watch basketball so it's really cool that you're out there playing it so tell me about a little bit about where it hurts"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "on the inside"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "on the inside of it okay and after the injury did they do anything special for you or you know did you get ice on it right away or try anything"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i had ice and an ace wrap"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "you had ice and what"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "an ace wrap"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "and an ace wrap okay now how many days ago was this exactly"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "seven"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "seven days ago okay yeah your right knee still looks a little swollen for seven days ago so i'm gon na go ahead and now i also see that you're diabetic and that you take five hundred milligrams of metformin twice a day are you still you're still on that medication is that correct"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "correct"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "and do you check your blood sugars every morning at home"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "every morning"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay great and since this i'm the reason i'm asking all these questions i'm a little concerned about the inactivity with your your knee pain and you know how diabetes you need to be very you know active and and taking your medicine to keep that under control so you know may wan na continue to follow up with your pcp for that diabetes as we go through here and just watch your blood sugars extra as we go through that now i'm gon na go ahead and examine your your right knee and when i push on the outside does that hurt at all"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay and when i push on this inside where it's a little swollen does that hurt"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "yeah okay i'm just gon na ask a question did you hear or feel a pop in your knee when you were doing this"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "i did not no"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "you did not okay okay what are you doing for the pain today"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "some exercises ice and mobic"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay okay so i'm gon na continue all of my exam when i go ahead and pull on your knee the first thing i'm looking at is i do see some ecchymosis and swelling on the inside of that right knee and when i push around that knee i can see that there is fluid in the knee a little bit of fluid in the knee we call that effusion so i can appreciate some of that effusion and that could be either fluid or blood at this point from the injury that you had now you do have pain with palpation on the medial aspect of that right knee and that's that's concerning for me when i'm gon na just i just wan na move your knee a little bit it does n't look like when i extend it and flex it that you have a full range of motion does it hurt a lot when i moved it back a little more than normal"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yes it hurts"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay okay yeah so you do have some decreased range of motion in that right knee now i'm just gon na sit here and and lay you back and i'm gon na pull on your knee and twist your knee a little bit okay you currently there is a negative varus and valgus stress test that's really important so here's what i'm thinking for that right knee i think you have may have a medial collateral ligament strain from you know maybe the twisting motion be right before you fell to the ground i want you to continue to use an ace wrap i'm gon na give you a right knee brace we're gon na wear that for a few days and then i'm gon na send you to physical therapy so we can continue strengthening the muscles around the right knee now that x-ray as far as the x-ray results that x-ray that i did it this morning in the office the the bony alignment's in good position i do n't see any evidence of any fractures i do notice the the effusion around the right knee just a small amount of fluid but we're just gon na continue to watch that i'm gon na give you a prescription i'd like you to stop taking any of the nonsteroidals that you're taking the motrin or advil whichever one of those and i'm gon na give you meloxicam fifteen milligrams and i want you to take that daily for the pain and swelling i want you to just continue exercising with the the braces and everything on so if you can you can get out and do some light walking that'll be good and then again for your diabetes like i said just continue to watch those blood sugars daily and if you start to see any significant increase in them because of your loss of activity just reach out to your primary care physician now do you have any questions for me"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "when can i play basketball again"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "yeah that's a great question i'm gon na ask well my first off i want to see you back here in in seven days you know in a week i want you to make an appointment we're gon na relook at it we're gon na determine if that swelling got any worse and if we need to go on to potentially ordering like a cat scan or an mri of that knee to look and see if there was any significant damage to the ligament so that's for for sure for seven days you're not gon na be playing basketball now are you in a ligue or is that just you get like pick up basketball"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "i just played the wife with fun"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay okay good that's a great activity like i said i wish i could play now i i also know your your family do n't they own that sports store down right off a main street that sells a lot of sporting equipment"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yeah they do"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay i you know i'm i'm just thinking you know i need to get some new shoes for some of it my activities i love the i wish i could play basketball but i do a lot of bike riding so i'm always looking for anything that's gon na help me on the bike do you does your family have supplies like that"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "we do let me know and i can get you the hook up"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay great great so i'll i i will let you know i'll just get on and take a look first but i'm gon na go ahead and get get you discharged i'll have my assistant come in we will get you discharged and like i said we will make an appointment for seven days and we will go from there any questions"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "i think you've answered them all thank you"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay great"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right knee pain"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the injury occurred while playing basketball when another player ran into her."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient fell to the ground during the injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient landed on her side and was unable to continue playing."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient localizes the pain to the medial aspect of the knee."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient used ice and an ACE wrap immediately after the injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury occurred seven days ago."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient takes metformin 500 mg twice a day."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient monitors her blood sugar every morning."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient monitors her blood sugar every morning."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to continue following up with her primary care physician for diabetes management and to monitor blood sugars due to activity changes."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "There is no pain to palpation on the lateral aspect of the right knee."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "There is pain to palpation on the medial aspect of the right knee."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient heard or felt a pop at the time of injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies hearing or feeling a pop."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is using exercises, ice, and Mobic for pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows ecchymosis, swelling, and effusion on the medial aspect of the right knee with decreased range of motion."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows negative varus and valgus stress tests."
+        },
+        {
+          "type": "detail",
+          "summary": "X-rays show good bony alignment, no fractures, and effusion."
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg daily."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to stop taking other anti-inflammatories, use an ACE wrap and knee brace, perform light walking, attend physical therapy, and stop playing basketball."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks when she can return to playing basketball."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up in 7 days to re-evaluate swelling and consider further imaging like a CT or MRI."
+        }
+      ]
+    }
+  ],
+  "case_description": "Right knee pain; diabetes",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}
