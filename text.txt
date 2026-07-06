@@ -1,0 +1,24 @@
+실행
+$env:GOOGLE_API_KEY="AIzaSyBzpKLIwd2v5gE7N-u5GubCqH8ig3_ZX2s"
+python annotation_gemini.py --mode batch --input train.csv --output output/ --limit
+
+
+04.30
+1. --ids 생성 (ann-line502)
+limit 이외에 D2N007와 같이 id 입력으로 지정할수 있게
+
+2. 기존 format_training_data (ann- line 371, 391, 400)
+ann.type, ann.summary → ann.detail_list 로 교체
+detail_list 배열 전체를 그대로 포함
+context buffer: ann.summary → detail_list의 모든 summary로 변경
+
+06.25
+line 537 def _parse_mts_dialogue
+line 559 mts 적용
+
+
+.jsonl 훈련 데이터 만들기
+python context_manager_labels.py --input ..\data\challenge_data\train\aci\ --output ..\data\training\eviction_policy_bertscore_0p75.jsonl --threshold 0.75 --label-method bertscore --embedding-model all-MiniLM-L6-v2
+
+훈련 pt 만들기
+python -c "from policy import train_policy; train_policy(r'..\data\training\eviction_policy_bertscore_0p75.jsonl', r'..\models\policy\eviction_mlp_bertscore_0p75.pt')"
