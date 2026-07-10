@@ -1,0 +1,730 @@
+{
+  "id": "D2N077",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey diana it's good to see you in here so i see that you injured your wrist could you tell me a bit about what happened"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah i was walking up and down the stairs i was doing my laundry and i slipped and i tried to catch myself and i put my arms out to catch myself and then all of a sudden i just my wrist started to hurt real bad and it got real swollen"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "wow okay so which wrist are we talking about left or right"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "it's my right one of course"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and then have you ever injured this arm before"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "no i have not"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay alright so on a scale of one to ten how severe is the pain"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "gosh it's like a nine"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "wow okay have you done anything to ease it"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah i did the ice thing i put ice on it and then i you know i even i have a ace wrap at home i try to do that"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "and then i took some ibuprofen but it helps a little bit but it's just it's it's just not right"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "really"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "yeah okay have you sorry i'm trying to think how long ago did this injury happen"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "this happened yesterday morning"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "maybe just you know i just bumped it but"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "it's just not it's really bad"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay no i understand okay so i'm going so you said you were doing laundry"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yes i had my back hit my basket and for some reason this cold started to kinda fall out a little bit i was trying to catch it i missed a step and i just totally"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay alright any does the pain extend anywhere"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no not really"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "it's just really along my wrist"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay any numbness any tingling"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "a little one and one ca n't tell if it's just because of the swelling in my wrist but just i can like i can feel it my fingers still"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "but just maybe a little bit of tingling"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay alright and are you so so okay i'm gon na think on this but in the meantime i'm gon na do my physical exam alright"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay so you know looking at your looking at your head and your neck i do n't appreciate any like adenopathy no thyromegaly no no carotid bruit looking at your listening to your heart i do n't appreciate any murmur no rub no gallop your lungs are clear to auscultation bilaterally your lower legs you have palpable pulses no lower edema your shoulders every like your upper extremities i see normal range of movement with your right wrist let's go ahead and focus on it so when i push on the inside here does it hurt"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "it does"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "and what about the outside does that hurt as well"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "yeah it does"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "are you able to move your wrist towards your arm like"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "not without extreme pain"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay so pain on flexion what about extension when you pick your wrist up"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yeah i have a hard time doing that actually"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "alright what about we're gon na go ahead and hold your arm like straight like flat and then try and move it sideways does radial deviation hurt"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "alright and then lateral as well"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "yeah it's really hard to move any direction of this hand for some reason"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "alright so wrist abduction adduction positive for pain on movement are you able to make a fist"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "hmmm yeah a little bit but i ca n't do it really tight"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay alright okay so i'm just gon na go ahead and feel on your fingers really quickly alright metacarpals intact noticed some obvious swelling ecchymosis obvious swelling and bruising tenderness on palpation throughout there is evidence of potential fracture feeling some bony crepitus alright so this pain is it like chronic i wanted to ask you"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "yeah i would say it kinda goes away when i take that ibuprofen but for the most part i feel it i feel it there and it it's just really really bad when i move it all"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay so when you like is there a position either hurts less or hurts more like say if your arm is raised and elevated over your head does it hurt more or is it just best to keep it like down"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "it's good if i keep it a little bit above my like a little i guess a little bit like around my like just a regular level like if you're typing or something and then i just put it on a pillow and i just let it stay straight like i feel better"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "okay yeah no i do n't think i understand completely okay so i took a look at your vitals and your blood pressure is a little elevated but honestly that's probably to do with the pain right our body can respond to pain in that way we are looking at like a hundred and forty over over seventy it's not anything crazy but something to mention i see that your heart rate is also a little elevated at like about like eighty beats a minute you are not running a fever so that's great look at ninety ninety seven . two your respiratory rate is pretty normal at like twenty so before we came in i i know that we had you do an x-ray and i'm sure that that was a bit more painful because we had to do so many manipulations but i do wan na note that you are positive for what we call a colles' fracture what that means is that the joints between your wrist like the bones between your wrist that there there is evidence of a a fracture and we are gon na have to treat it a little conservatively at first and then consider some of the options options that are available to us so for your primary diagnosis of a colles' fracture we are going to give you a thumb spica for today and that's going to"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "i'm sorry"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "pardon what"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "a what"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "we're gon na brace you we're gon na give you a brace"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "okay thank you"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "sorry no problem sorry yeah not a thumb spica we're gon na brace your arm and you're gon na have that we we have a couple of options but i think the best course of action is gon na be for surgery we will in the meantime give you pain medication i wan na put you on fifty milligrams of ultram every six hours and then i also wan na get you on get you into physical therapy a few weeks after surgery this is gon na be just a normal procedure you will be in for an overnight stay but after that once we assess and make sure that everything is good you'll be able to go home okay"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "when do i have to have the surgery"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "we would like it to happen as quickly as possible you know your body is a wonderful miracle and it's going to start trying to heal on it's own what we need to do is get your wrist straight and then like put screws in to make sure that we hold it in place or else it could like heal and malform"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "alright so what"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "how how long do i have to wear that brace"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "you're gon na be wearing the brace for about six weeks"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "six weeks"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "yeah so you're gon na you're gon na come in for your surgery we're gon na perform it you're gon na stay overnight and then you'll be bracing it for six weeks in the meantime you'll also then go to physical therapy i want you there like we're gon na they're gon na do an assessment and determine how much but i'm thinking probably three times a week just to make sure that you can get your wrist as strong as possible to prevent like future injury now the cool thing about getting any kind of a bone break is that your your body comes out even stronger so this should n't happen again but unfortunately like it's these situations that oof that just kind of"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "oof"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "these these deform these deformities that really that really kind of hurt is the short version alright no problem any other questions"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "no well i am going on vacation do i need to cancel it like can i still go even with the i mean after the surgery"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "do it as soon as possible i'm going a vacation in a month so"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "okay how long is the vacation"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "it's only for like a couple weeks"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "okay well so you might have to postpone it just because depending on what physical therapy says right if they feel that you can sustain if you can like sustain the exercises while you're gone that if there's something that you can do by yourself then you should be fine but we do wan na give it you said that it's gon na happen in a couple of weeks"
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "no vacation in a month"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "okay okay yeah so how about in a month we come you come back let's do a checkup again see where we are at and then we can assess whether or not this is something that i would recommend you do"
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "that sounds good thank you"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "no problem bye"
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "bye"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "the fracture appears extra-articular and usually proximal to the radial ulnar joint dorsal angulation of the distal fracture fragment is present to a variable degree if dorsal angulation is severe presenting with a dinner fork deformity ulnar styloid fracture is present"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Evaluation of a right wrist injury in a 61-year-old female.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient sustained the injury yesterday morning after slipping on stairs while carrying laundry and attempting to catch herself.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury is to the right wrist.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any previous injuries to the right arm.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates her pain as 9/10.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been using ice and an ACE wrap for the injury.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been taking ibuprofen for pain relief.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury occurred yesterday morning.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The pain is localized to the wrist.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports numbness and tingling in her fingers.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include normal head, neck, heart, lung, and lower extremity findings, but limited range of motion and tenderness in the right wrist.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient experiences extreme pain with wrist flexion.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has difficulty with wrist extension due to pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient experiences pain with radial deviation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient experiences pain with lateral deviation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows metacarpals are intact, but there is swelling, bruising, tenderness, and bony crepitus.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain relief when resting her arm on a pillow in a straight position.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Vitals show elevated blood pressure of 140/70 mmHg, heart rate of 80 bpm, respiratory rate of 20, and temperature of 97.2 F.",
+          "eval_only": null
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Colles' fracture diagnosis and treatment plan.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends surgery (ORIF) with an overnight hospital stay.",
+          "eval_only": null
+        },
+        {
+          "type": "medication",
+          "summary": "Ultram 50 mg every 6 hours.",
+          "eval_only": null
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient will initiate physical therapy a few weeks after surgery.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0059",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about the timing of the surgery.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises surgery as soon as possible to prevent malformation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0063",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about the duration of brace wear.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0064",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient will wear the brace for 6 weeks.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0066",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient will attend physical therapy 3 times per week post-surgery.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0069",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if she can still go on her planned vacation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0076",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will follow up in 4 weeks to assess progress and vacation plans.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0080",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-rays reveal an extra-articular Colles' fracture with dorsal angulation and an ulnar styloid fracture.",
+          "eval_only": null
+        }
+      ]
+    }
+  ],
+  "case_description": "Right wrist injury",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

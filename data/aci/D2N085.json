@@ -1,0 +1,374 @@
+{
+  "id": "D2N085",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi russell how are you what's been going on"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "well i've been having this sharp pain on the right side of my abdomen below my ribs for the last several days"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "i saw my doctor and they ordered a cat scan and said i had a kidney stone and sent me to see a urologist"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "okay well does the pain move or or or go anywhere or does it stay right in that same spot"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "yeah it feels like it goes to my lower abdomen in into my groin"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "okay and is the pain constant or does it come and go"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "it comes and goes when it comes it's it's pretty it's pretty bad i feel like i ca n't find a comfortable position"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay and do you notice any any pain when you urinate or when you pee"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "yeah it kinda burns a little bit"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay do you notice any blood"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "i do n't think there is any you know frank blood but the urine looks a little dark sometimes"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay and what have you taken for the pain"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "i have taken some tylenol but it has n't really helped"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay and do you have any nausea vomiting any fever chills"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "i feel nauseated but i'm not vomiting"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay is anyone in your in your family had kidney stones"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "yes my father had them"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "and have you had kidney stones before"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "yeah so i i've i've had them but i've been able to pass them but this is taking a lot longer"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay well i'm just gon na go ahead and do a physical examination i'm gon na be calling out some of my exam findings and i'm going to explain what what those mean when i'm done okay"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "okay so on physical examination of the abdomen on a abdominal exam there is no tenderness to palpation there is no evidence of any rebound or guarding there is no peritoneal signs there is positive cva tenderness on the right flank so essentially what that means russell is that you know you have some tenderness over your over your right kidney and that just means that you might have some inflammation there so i i reviewed the results of the ct scan of your abdomen that the primary care doctor ordered and it does show a . five centimeter kidney stone located in the proximal right ureter so this the ureter is the duct in which urine passes between the kidney and the bladder there's no evidence of what we call hydronephrosis this means you know swelling of the kidney which is good means that things are still able to get through so let's talk a little bit about my assessment and my plan"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "so for your first problem of this acute nephrolithiasis or kidney stone i i wan na go ahead and recommend that you push fluids to help facilitate urination and peeing to help pass the stone i'm going to prescribe oxycodone five milligrams every six to eight hours as needed for pain you can continue to alternate that with some tylenol i'm going to give you a strainer that you can use to strain your urine so that we can see it see the stone when it passes and we can send it for some some tests if that happens i'm also gon na order what we call a basic metabolic panel a urinalysis and a urine culture now i wan na see you again in one to two weeks and if you're still having symptoms we'll have to discuss further treatment such as lithotripsy which is essentially a shock wave procedure in which we sedate you and use shock waves to break up the stone to help it pass we could also do what we call a ureteroscopy which is a small telescope small camera used to go up to to the urethra and bladder and up into the ureter to retrieve the stone so let's see how you do over the next week and i want you to contact me if you're having worsening symptoms"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "okay okay sounds good thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient presents with right-sided abdominal pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Abdominal pain"
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports sharp right-sided abdominal pain for several days."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a history of kidney stones and a recent CT scan."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain radiates."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain radiates to the lower abdomen and groin."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is constant or intermittent."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain is intermittent and severe."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has dysuria."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports dysuria."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has hematuria."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies frank hematuria but reports dark urine."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient has taken for pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports using Tylenol for pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about nausea, vomiting, fever, and chills."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports nausea but denies vomiting."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of kidney stones."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient's father has a history of kidney stones."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's history of kidney stones."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient has a history of kidney stones."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares they will perform a physical examination."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows no abdominal masses, tenderness, rebound, or guarding, but positive right CVA tenderness; CT scan shows a 0.5 cm proximal right ureteral stone without hydronephrosis."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Nephrolithiasis"
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor recommends increased fluid intake and provides a urine strainer."
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes oxycodone 5 mg every 6 to 8 hours as needed."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a basic metabolic panel, urinalysis, and urine culture, and schedules a follow-up in 1 to 2 weeks."
+        }
+      ]
+    }
+  ],
+  "case_description": "right-sided abdominal pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

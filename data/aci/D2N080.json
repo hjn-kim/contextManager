@@ -1,0 +1,594 @@
+{
+  "id": "D2N080",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "okay hi andrea well i"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hello"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i understand you're you've come in with some right knee pain can you tell me about it what's going on"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "it it's not the right knee it's the left knee"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay the left knee"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "and it just happens occasionally less than once a day when i'm walking all of a sudden it is kind of like gives out and i think here i'm going to fall but i usually catch myself so lot of times i have to hold a grocery cart and that helps a lot so it comes and goes and it it passes just about as quickly as it comes i do n't know what it is whether i stepped wrong or i just do n't know"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay well so where does it hurt like in on the inside or the outside or"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "internally and it it just the whole kneecap fades"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay well did you hear or feel a pop at any point"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "like that"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "have you ever had any type of injury to that knee i mean did you fall or bump it against something or"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no not that i can recall"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and have is it painful have you taken anything for for pain"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no because it does n't last that long"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "it just like i said it just it goes about as fast as i came in"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "so is it interfering with your just things you like to do and"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "hmmm no not really"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "so i know you said that you like to do a lot of travel"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah i've got a trip planned here in the next month or so and we are going down to columbus georgia to a a lion's club function and probably be doing a lot of walking there and they got some line dances planned and i do n't think i will be able to participate in that because of the knee"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "is that where you would be kicking your leg out or something"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no it's do n't you know what line dancing is like dancing in theories of fairly fast moves but it's mostly sideways motion"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "and is and that you think that's when your knee might give out then or just not gon na take the chance"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "not gon na take the chance"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay yeah that sounds like a good idea have you thought about even having a a cane just in case or do you think that's does that happen often enough"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "wrap it i would n't be able to keep track of it so no no pain"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay okay well so since you're in how about your blood pressure how how is it doing and have you been taking your blood pressures at home like we talked about"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yes they are doing fine still about the same"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "so"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "correct that whatever"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "so what has it been running"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i ca n't really remember it's been several days since i took it but i think it runs around one twenty over seventy somewhere along in there"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay alright and so what about your medication we have you on some medication for your blood pressure right"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yes i take take them regularly at eight thirty in the morning and eight thirty at night"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "and what is the medication and the dosage that you are taking"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "i'm taking a farxiga and amlodipine"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "and lisinopril and the hydrochlorothiazide so i i ca n't pronounce that one so but those are all small dosage pills"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "that but yeah go ahead"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "no that was it i just take them regularly eight thirty in the morning eight thirty at night"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "yeah well that's good i i know you said you set an alarm on your phone to make sure that you get them taken at the right time so that's really good and how are your blood sugars doing how is your diet doing"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "my blood sugar has been running a little higher at about one thirty"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "is that in the morning when you're fasting"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "and i have been told that sometimes the morning blood sugars are higher for some reason but i do n't know i i do n't really worry about it as long as it does n't get up too extremely high so"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "and are you taking your metformin"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "yes yes that's along with the blood pressure medicine morning and night"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay alright so are you are you eating like late at night or anything like that"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "no we usually eat by six"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "okay okay alright well hopefully we can get you to feeling better okay so i want to do a quick physical exam really check that knee out so your vital signs look good they they look alright your temperature is ninety eight . two your pulse is seventy two respirations are sixteen blood pressure is one twenty two over seventy so that looks fine i'm gon na go ahead and take a listen to your heart and lungs so on your heart exam it's a nice regular rate and rhythm but i appreciate a slight two over six systolic ejection murmur at the left base here on your lung exam your lungs are clear to auscultation bilaterally okay now let's take a quick look at that knee so does it hurt when i press on it"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "okay can you bend your knee and straighten it out"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "okay i'm gon na do some maneuvers and i'm gon na just gon na call out my findings on this okay on your right knee exam no ecchymosis or edema no effusion no pain to palpation of the of the left medial knee is there any decreased range of motion do you feel you feel like you're you're able to fully move that as you should the same as the other knee"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "okay so no decreased range of motion negative varus and valgus test okay and so with your x-rays i reviewed the result of your left knee x-ray which showed no evidence of fracture or bony abnormality so lem me tell you a little bit about my plan so your left knee pain i think you just have some arthritis in that i want to prescribe some meloxicam fifteen milligrams a day we might do some physical therapy for that just to strengthen the muscles around that area and prevent any further problems with that okay and so for your second problem the hypertension so i wan na continue the lisinopril at twenty milligrams a day and order an echocardiogram just to evaluate that heart murmur alright and"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "for the diabetes mellitus i wan na order a hemoglobin a1c to see if we need to make any adjustments to your metformin and i'm also gon na order a lipid panel okay do you have any questions"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "no i do n't think so when will all this take place"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "we will get you scheduled for the echocardiogram i will have my nurse come in and we will get that set up okay"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The patient presents for evaluation of left knee pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports intermittent left knee pain and instability occurring less than once daily.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as localized deep in the patella.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient heard or felt a pop in the knee.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced any trauma or injury to the knee.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has taken any medication for the knee pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the knee pain interferes with the patient's daily activities.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient enjoys traveling and is planning a trip to Columbus, Georgia.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient uses a cane for the knee instability.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": null
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's home blood pressure monitoring.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports her home blood pressure was approximately 120/70 mmHg.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the names and dosages of the patient's medications.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports taking Farxiga, amlodipine, lisinopril, and hydrochlorothiazide.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": null
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's blood sugar levels and diet.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports fasting morning blood glucose levels of approximately 130.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking metformin.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient eats late at night.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Vital signs are: temperature 98.2 F, pulse 72 bpm, respirations 16, and blood pressure 122/70 mmHg.",
+          "eval_only": null
+        },
+        {
+          "type": "detail",
+          "summary": "Cardiac exam reveals a 2/6 systolic ejection murmur at the left base; lung exam is clear.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam of the right knee shows no ecchymosis, edema, effusion, or pain; left knee shows full range of motion and negative varus/valgus stress tests.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-rays of the left knee show no evidence of fracture or bony abnormality.",
+          "eval_only": null
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg once daily.",
+          "eval_only": null
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends physical therapy for the knee.",
+          "eval_only": null
+        },
+        {
+          "type": "medication",
+          "summary": "The patient will continue lisinopril 20 mg once daily.",
+          "eval_only": null
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an echocardiogram to evaluate the heart murmur.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a hemoglobin A1c and a lipid panel.",
+          "eval_only": null
+        }
+      ]
+    }
+  ],
+  "case_description": "Left knee pain; hypertension;type 2 diabetes",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

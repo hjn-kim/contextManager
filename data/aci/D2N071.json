@@ -1,0 +1,461 @@
+{
+  "id": "D2N071",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "i know the nurse told you about dax ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'd like to tell dax a little bit about you , okay ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so ralph is a 62-year-old male with a past medical history significant for depression and prior lobectomy as well as hypertension , who presents for his annual exam . so , ralph , it's been a while since i saw you . how are you doing ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "um , relatively speaking , okay . it was kind of a , a tough spring with all the pollen and everything and , uh , we dropped my oldest daughter off at college and moved her into her dorm , so little stressful , little chaotic , in the heat of the summer , but so far , so good ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . i know . i know . that's a , that's a hard thing to get over , moving kids out of the house and that type of thing ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "so , um well , how are you doing from , you know , let's talk a little bit about your depression . how are you doing with that ? i know that we had put you on the prozac last year ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah , i've been staying on top of the meds , and i have n't had any incidents in a while , so it's , it's been pretty good , and everything's managed and maintained . um , still kind of working with my hypertension . that's been a little bit more of a struggle than anything ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . yeah , i , i see that we have you on the norvasc . and so are you taking it at home ? is it running high , or ..."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i ... i'm pretty regular with the medications during the business week , but on there's weekends , you know , if i'm on the fly or doing something , sometimes i forget , or i forget to bring it with me . uh , but for the most part , it's been okay ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . all right . um , and then i know that you've had that prior lobectomy a couple years ago . any issues with shortness of breath with all the allergies or anything ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "other than during the heat and the pollen , it's been pretty good ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . all right . so i , i know that the nurse went over the review of systems sheet with you , and , and you endorsed some nasal congestion from the pollen , but how about any shortness of breath , cough , muscle aches ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "sometimes i , i regularly , uh , go for a run in the morning . that's my workout , and sometimes if it's , uh , relatively humid , i'll struggle a little bit , and i might feel a little bit of pounding in my chest . it usually goes away , but , uh , again , for the most part , it's been pretty good ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay , so you also have some shortness of breath with with exertion ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "correct . correct ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "all right , and how far are you running ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "uh , like 4 to 5 miles a day ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay , great . all right . well , let's go ahead . i'd like to do a quick physical exam . let's look at your blood pressure ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the vital signs . so here in the office today , your blood pressure looks quite well , at 120 over 80 . let's look at your prior trends . hey , dragon , show me the blood pressure readings . so , yeah , it looks , it looks good . i think you're doing a good job . it looks lower than it has in the past , so continue on the current medication ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "all right , so i'm just gon na listen to your heart and lungs and check you out , okay ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "you got it ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay , so on exam , everything seems to be good . your heart , i hear a slight two out of six systolic ejection murmur , and your lungs sound nice and clear , and you do n't have any lower extremity edema . um , your ... you do have some pain to palpation of the , of the sinuses here , so i think you do have a little bit of congestion there . let's go ahead and look at some of your results , okay ? hey , dragon , show me the ekg . so they did an ekg before you came in today ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "and in reviewing the results , it looks like your ekg is completely normal , so that's good ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "good ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "so i'm not too concerned about that , that chest pounding . hey , dragon , show me the chest x-ray . and we also did a chest x-ray , which , which looks really good , uh , and you know , your prior lobectomy , there's no ... everything looks good , okay ? it looks normal . so let's talk a little bit about my assessment and my plan for you . so for your first problem , your , your depression , it seems , again , like you're doing really well-"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": ". with your current strategy . let's continue you on the prozac 20 milligrams a day and do you need a refill on that ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "uh , actually , i do need a refill ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay . hey , dragon , order a refill of prozac , 20 milligrams daily . from a ... for your next problem , the lobectomy , i think , you know , i do n't think we need to do any more workup of that . it seems like you're exercising a lot . your breathing function is fine . so , uh , i , i do n't think you need to follow up with the surgeon anymore . and then for your last problem , your hypertension ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "you're doing a great job of keeping it controlled . i know you said you have n't been taking it that much on the weekends , but your blood pressure here looks good , and it's much better over the last several years . so let's go ahead . i do wan na order just , um , an echocardiogram for that murmur . hey , dragon , order an echocardiogram . and i'll just follow up with the results , and we'll go ahead and order , um , your routine blood work , and i'll be in touch with you through the patient portal , okay ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "perfect ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "all right . good to see you ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "same here ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "hey , dragon , finalize the note . the nurse will be in ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "thank you ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The patient is a 62-year-old male with a history of depression, prior lobectomy, and hypertension presenting for an annual exam."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient moved his daughter into college over the summer, which was stressful."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Depression"
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with his depression."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports consistency with his medication and no recent incidents of depression."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking his Norvasc and if his blood pressure is running high."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports taking Norvasc regularly during the business week but occasionally forgetting it on weekends."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Lobectomy"
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about shortness of breath related to allergies."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports breathing is generally good except during heat and pollen exposure."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient endorses nasal congestion from pollen."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about shortness of breath, cough, and muscle aches."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient runs 4 to 5 miles every morning."
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports struggling with breathing and chest pounding during humid runs."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms dyspnea on exertion."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how far the patient runs."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient runs 4 to 5 miles a day."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's blood pressure is 124/80 mmHg."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam reveals a 2/6 systolic ejection murmur, clear lungs, no edema, and sinus tenderness."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The EKG is normal."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The chest X-ray is unremarkable."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Prozac 20 mg daily."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs a refill for Prozac."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he needs a refill for Prozac."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Prozac 20 mg daily."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor discontinues surgical follow-up for the lobectomy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an echocardiogram and routine blood work, with follow-up via the patient portal."
+        }
+      ]
+    }
+  ],
+  "case_description": "annual exam; lobectomy;hypertension;depression",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

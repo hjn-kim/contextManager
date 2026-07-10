@@ -1,11 +1,11 @@
 """
 ATLAS Eviction Policy (Component 3)
 =====================================
-Lightweight MLP: 396-d -> 128 -> 64 -> 1 -> Sigmoid
+Lightweight MLP: 396-d → 128 → 64 → 1 → Sigmoid
 Scores each summary in buffer. Low score = evict.
 
 Input features per summary (396-d):
-  [0:384]  sentence embedding (all-MiniLM-L6-v2, frozen)
+  [0:384]  sentence embedding (all-MiniLM-L6-v2, frozen, L2-normalized)
   [384]    position: i / t
   [385]    recency: (t - i) / t
   [386]    speaker: 0=provider, 1=patient
@@ -14,6 +14,7 @@ Input features per summary (396-d):
   [389:396] type one-hot (agenda_item, detail, medication, social_history, follow_up, question_unanswered, question)
 """
 
+import sys
 import torch
 import torch.nn as nn
 import random
@@ -57,66 +58,69 @@ TYPE_TO_INDEX = {
     "question": 6,
 }
 
+
 # =============================================================================
-# SCISPACY ENTITY COUNT
+# scispaCy entity_count (mirrors context_manager_labels.py's loader so
+# inference-time features match the distribution the model was trained on —
+# leaving this at 0.0 makes checkmodel.py flag dim 388 as a dead input.)
 # =============================================================================
 
-_ENTITY_COUNT_CACHE = {}
 _SCISPACY_NLP = None
+_SCISPACY_LOAD_ATTEMPTED = False
+_ENTITY_COUNT_CACHE = {}
 
 
 def _get_scispacy_nlp():
-    """
-    scispaCy 모델을 최초 한 번만 로드한다.
+    """Lazy-load scispaCy model. Returns None (and warns once) if unavailable."""
+    global _SCISPACY_NLP, _SCISPACY_LOAD_ATTEMPTED
 
-    기존 C3 모델이 en_core_sci_sm의 entity_count를 사용해 학습되었으므로,
-    추론 환경에서 모델을 불러오지 못하면 0으로 대체하지 않고 오류를 발생시킨다.
-    """
-    global _SCISPACY_NLP
+    if _SCISPACY_LOAD_ATTEMPTED:
+        return _SCISPACY_NLP
 
-    if _SCISPACY_NLP is None:
-        try:
-            import spacy
-
-            _SCISPACY_NLP = spacy.load("en_core_sci_sm")
-            print("Loaded scispaCy model: en_core_sci_sm")
-
-        except Exception as exc:
-            raise RuntimeError(
-                "C3 policy was trained with scispaCy entity_count, "
-                "but en_core_sci_sm could not be loaded. "
-                "Install the same scispaCy model used during training."
-            ) from exc
+    _SCISPACY_LOAD_ATTEMPTED = True
+    try:
+        import spacy
+        _SCISPACY_NLP = spacy.load("en_core_sci_sm")
+        print("Loaded scispaCy model: en_core_sci_sm", flush=True)
+    except Exception as exc:
+        _SCISPACY_NLP = None
+        print(
+            "WARNING: scispaCy model en_core_sci_sm is unavailable. "
+            f"entity_count will be 0.0. Reason: {exc}",
+            file=sys.stderr,
+            flush=True,
+        )
 
     return _SCISPACY_NLP
 
 
-def get_entity_count_cached(text: str) -> float:
-    """
-    summary에서 scispaCy가 검출한 의료 엔터티 개수를 반환한다.
+def get_entity_count(text: str, use_scispacy: bool = True) -> float:
+    """Cached medical entity count. 0.0 if disabled or scispaCy unavailable."""
+    if not use_scispacy:
+        return 0.0
 
-    context_manager_labels.py의 학습 feature 생성 방식과 동일하게:
-      1. 앞뒤 공백 제거
-      2. en_core_sci_sm 적용
-      3. len(doc.ents)를 float로 반환
-      4. 동일 summary는 캐시 사용
-    """
     key = (text or "").strip()
-
     if key in _ENTITY_COUNT_CACHE:
         return _ENTITY_COUNT_CACHE[key]
 
     nlp = _get_scispacy_nlp()
-    doc = nlp(key)
+    if nlp is None:
+        _ENTITY_COUNT_CACHE[key] = 0.0
+        return 0.0
 
-    count = float(len(doc.ents))
+    count = float(len(nlp(key).ents))
     _ENTITY_COUNT_CACHE[key] = count
-
     return count
 
-def extract_features(buffer_item, current_step: int, encoder=None) -> List[float]:
+
+def extract_features(buffer_item, current_step: int, encoder=None,
+                      use_scispacy: bool = True) -> List[float]:
     if encoder:
-        embedding = encoder.encode(buffer_item.summary).tolist()
+        embedding = encoder.encode(
+            buffer_item.summary,
+            convert_to_numpy=True,
+            normalize_embeddings=True,
+        ).tolist()
     else:
         embedding = [0.0] * 384
 
@@ -125,7 +129,7 @@ def extract_features(buffer_item, current_step: int, encoder=None) -> List[float
     recency = (t - buffer_item.timestamp) / t
     speaker = 1.0 if buffer_item.speaker == "patient" else 0.0
     token_count = float(buffer_item.token_count)
-    entity_count = get_entity_count_cached(buffer_item.summary)
+    entity_count = get_entity_count(buffer_item.summary, use_scispacy=use_scispacy)
 
     type_onehot = [0.0] * 7  # 7 types (added question)
     type_idx = TYPE_TO_INDEX.get(buffer_item.type, 1)
@@ -137,8 +141,10 @@ def extract_features(buffer_item, current_step: int, encoder=None) -> List[float
 
 
 class LearnedEvictionStrategy:
-    def __init__(self, model_path: str = None, config: PolicyConfig = None):
+    def __init__(self, model_path: str = None, config: PolicyConfig = None,
+                 use_scispacy: bool = True):
         self.config = config or DEFAULT_CONFIG.policy
+        self.use_scispacy = use_scispacy
         self.model = EvictionMLP(self.config)
         if model_path:
             self.model.load_state_dict(torch.load(model_path, map_location="cpu"))
@@ -152,7 +158,7 @@ class LearnedEvictionStrategy:
         encoder = self._get_encoder()
         features = []
         for item in items:
-            feat = extract_features(item, current_step, encoder)
+            feat = extract_features(item, current_step, encoder, use_scispacy=self.use_scispacy)
             features.append(feat)
         with torch.no_grad():
             x = torch.tensor(features, dtype=torch.float32)
