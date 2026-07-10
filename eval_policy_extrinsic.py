@@ -73,7 +73,7 @@ from prompts import REALTIME_SYSTEM, REALTIME_USER
 
 DEFAULT_BASE_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
 DEFAULT_C1_ADAPTER = PROJECT_ROOT / "AAA_atlas_c1_lora_adapter_checkpoint100"
-DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "challenge_data" / "valid" / "eval"
+DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "eval"
 DEFAULT_BUDGETS = [100, 256, 512]
 DEFAULT_OUTPUT = PROJECT_ROOT / "output" / "eval_policy_extrinsic_results.json"
 DEFAULT_CSV = PROJECT_ROOT / "output" / "eval_policy_extrinsic_results.csv"
