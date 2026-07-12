@@ -72,7 +72,7 @@ from prompts import REALTIME_SYSTEM, REALTIME_USER
 
 DEFAULT_BASE_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
 DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v2-llama-3.2-3b"
-DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "challenge_data" / "valid" / "eval"
+DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "aci"
 DEFAULT_BUDGETS = [100, 256, 512]
 DEFAULT_CSV = PROJECT_ROOT / "output" / "strategy_comparison.csv"
 DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots_strategy_comparison"
