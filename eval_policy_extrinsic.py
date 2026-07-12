@@ -1,23 +1,23 @@
 """
-ATLAS Extrinsic Evaluation (Component 1: Agenda LLM)
-======================================================
+ATLAS Extrinsic Evaluation (Component 1 Agenda LLM, fixed LoRA)
+================================================================
 Runs REAL LLM inference (HF transformers + PEFT LoRA, meant for a GPU
 box such as a RunPod pod pulled from GitHub) through the streaming
 harness and scores the output against gold annotations using every
 metric in src/metrics.py (ROUGE, BERTScore, detection P/R/F1, agenda
 completeness, linking/first-mention/resolution accuracy).
 
-For every eviction strategy in STRATEGIES_TO_COMPARE (sliding, random,
-oldest, attention, learned), compares:
-  - "baseline" : meta-llama/Llama-3.2-3B-Instruct, no adapter (zero-shot)
-  - "model"    : --model-path (default: tria-hongik/atlas-c1-v2-llama-3.2-3b,
-                 the C1 LoRA adapter on HF hub)
+The Agenda LLM is held FIXED to the LoRA model (--model-path, default
+tria-hongik/atlas-c1-v2-llama-3.2-3b). What is compared is the EVICTION
+STRATEGY on top of that one model:
+  - baseline strategies : fifo, sliding, random, attention, oracle
+  - learned             : the trained EvictionMLP policy (Component 3)
 
-Results are cached in a CSV keyed by (strategy, model, budget) — combos
-already present are skipped, so reruns only fill in what's missing. Run
-eval_policy_baseline.py first to pre-fill the "baseline" rows cheaply;
-this script then only needs to run "model" (plus any baseline+learned
-combo eval_policy_baseline.py didn't cover) and appends those rows below.
+Results are cached in a CSV keyed by (strategy, budget) — combos already
+present are skipped, so reruns only fill in what's missing. Run
+eval_policy_baseline.py first to pre-fill the baseline-strategy rows; this
+script then only needs to run "learned" (plus any baseline strategy that
+wasn't cached) and appends those rows, then plots baselines vs learned.
 
 Usage:
   python eval_policy_extrinsic.py --policy-model models/policy/eviction_mlp_bertscore_0p75_5e-3.pt
@@ -26,9 +26,9 @@ Usage:
 
 Outputs (output/ by default):
   - strategy_comparison.csv                      long-format cache/result
-                                                   (strategy, model, budget, metric, value)
-  - plots_strategy_comparison/<metric>/budgetN_bar.png          baseline vs model bars, x=strategy
-  - plots_strategy_comparison/<metric>/budgetN_improvement.png  % improvement of model over baseline, x=strategy
+                                                   (strategy, budget, metric, value)
+  - plots_strategy_comparison/<metric>/budgetN_bar.png          metric value per strategy (fixed LoRA model)
+  - plots_strategy_comparison/<metric>/budgetN_improvement.png  learned's % improvement over each baseline
 
 Requirements (RunPod GPU box):
   pip install torch transformers peft accelerate bitsandbytes \
@@ -77,8 +77,16 @@ DEFAULT_BUDGETS = [100, 256, 512]
 DEFAULT_CSV = PROJECT_ROOT / "output" / "strategy_comparison.csv"
 DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots_strategy_comparison"
 
-STRATEGIES_TO_COMPARE = ["sliding", "random", "oldest", "attention", "learned"]
-CSV_FIELDS = ["strategy", "model", "budget", "metric", "value"]
+# The Agenda LLM (Component 1) is held FIXED to the LoRA model for the whole
+# comparison. What varies is the eviction strategy: the baseline strategies
+# (run by eval_policy_baseline.py) vs the trained "learned" policy (Component 3).
+BASELINE_STRATEGIES = ["fifo", "sliding", "random", "attention", "oracle"]
+STRATEGIES_TO_COMPARE = BASELINE_STRATEGIES + ["learned"]
+
+# Buffer budget large enough that eviction never triggers -> oracle keeps all.
+ORACLE_BUDGET = 999_999
+
+CSV_FIELDS = ["strategy", "budget", "metric", "value"]
 
 # meta fields tracked in every report but not real metrics.py values —
 # excluded from the per-metric comparison plots.
@@ -375,10 +383,14 @@ def average_reports(reports: list) -> dict:
 
 def build_eviction_strategy(strategy_name: str, window_size: int, policy_model: str, use_scispacy: bool):
     """
+    "oracle" keeps everything (no eviction, unlimited-budget upper bound).
     "learned" runs the trained EvictionMLP (src/policy.py, Component 3)
-    instead of a baseline. Built once and reused across every model/budget —
+    instead of a baseline. Built once and reused across every budget —
     the eviction policy is orthogonal to which Agenda LLM is under test.
     """
+    if strategy_name == "oracle":
+        return None  # unlimited-budget upper bound — the harness never evicts
+
     if strategy_name == "learned":
         if not policy_model:
             raise ValueError("strategy 'learned' requires --policy-model <path to a trained .pt checkpoint>")
@@ -449,7 +461,7 @@ def load_cache(csv_path: Path):
         with open(csv_path, encoding="utf-8") as f:
             for r in csv.DictReader(f):
                 rows.append(r)
-                done.add((r["strategy"], r["model"], int(r["budget"])))
+                done.add((r["strategy"], int(r["budget"])))
     return rows, done
 
 
@@ -464,14 +476,14 @@ def append_rows(csv_path: Path, rows: list):
 
 
 # =============================================================================
-# COMPARISON PLOTS — baseline vs model, x-axis = strategy
+# COMPARISON PLOTS — eviction strategy on the x-axis (fixed LoRA model)
 # =============================================================================
 
 def write_plots(rows: list, plot_dir: Path):
-    """One pair of PNGs per (metric, budget): a grouped bar (baseline vs
-    model, x=strategy) and an improvement-% bar ((model-baseline)/|baseline|,
-    x=strategy). Only strategies with both a baseline and a model row are
-    plotted."""
+    """Per (metric, budget), two PNGs — all on the fixed LoRA model:
+      (a) bar of the metric per eviction strategy (baselines + oracle +
+          learned), colored so 'baseline vs learned' reads at a glance;
+      (b) learned's % improvement over each baseline strategy."""
     try:
         import matplotlib
         matplotlib.use("Agg")
@@ -481,13 +493,20 @@ def write_plots(rows: list, plot_dir: Path):
               "(pip install matplotlib)", file=sys.stderr)
         return
 
-    # pivot[metric][budget][strategy][model] = value
-    pivot = defaultdict(lambda: defaultdict(lambda: defaultdict(dict)))
+    # pivot[metric][budget][strategy] = value
+    pivot = defaultdict(lambda: defaultdict(dict))
     for r in rows:
         metric = r["metric"]
         if metric in META_KEYS:
             continue
-        pivot[metric][int(r["budget"])][r["strategy"]][r["model"]] = float(r["value"])
+        pivot[metric][int(r["budget"])][r["strategy"]] = float(r["value"])
+
+    def color_for(s):
+        if s == "learned":
+            return "#1f77b4"   # highlight — the trained policy
+        if s == "oracle":
+            return "#7f7f7f"   # grey — upper bound
+        return "#ff7f0e"       # baselines
 
     plot_dir.mkdir(parents=True, exist_ok=True)
     n_saved = 0
@@ -497,47 +516,41 @@ def write_plots(rows: list, plot_dir: Path):
         metric_dir.mkdir(parents=True, exist_ok=True)
 
         for budget, by_strategy in sorted(by_budget.items()):
-            strategies = [
-                s for s in STRATEGIES_TO_COMPARE
-                if "baseline" in by_strategy.get(s, {}) and "model" in by_strategy.get(s, {})
-            ]
+            strategies = [s for s in STRATEGIES_TO_COMPARE if s in by_strategy]
             if not strategies:
                 continue
+            values = [by_strategy[s] for s in strategies]
+            colors = [color_for(s) for s in strategies]
 
-            baseline_vals = [by_strategy[s]["baseline"] for s in strategies]
-            model_vals = [by_strategy[s]["model"] for s in strategies]
-
-            # (a) grouped bar: baseline vs model per strategy
-            x = range(len(strategies))
-            width = 0.35
-            fig, ax = plt.subplots(figsize=(max(5, len(strategies) * 1.5), 4))
-            ax.bar([i - width / 2 for i in x], baseline_vals, width, label="baseline")
-            ax.bar([i + width / 2 for i in x], model_vals, width, label="model")
-            ax.set_xticks(list(x))
-            ax.set_xticklabels(strategies)
+            # (a) absolute metric value per strategy
+            fig, ax = plt.subplots(figsize=(max(5, len(strategies) * 1.3), 4))
+            ax.bar(strategies, values, color=colors)
             ax.set_ylabel(metric)
-            ax.set_title(f"{metric} — baseline vs model (budget={budget})")
-            ax.legend()
+            ax.set_title(f"{metric} by eviction strategy (LoRA model, budget={budget})")
             ax.grid(True, axis="y", alpha=0.3)
             fig.savefig(metric_dir / f"budget{budget}_bar.png", dpi=150, bbox_inches="tight")
             plt.close(fig)
             n_saved += 1
 
-            # (b) improvement %: (model - baseline) / |baseline| * 100
-            improvements = [
-                ((m - b) / abs(b) * 100) if b != 0 else float("nan")
-                for b, m in zip(baseline_vals, model_vals)
-            ]
-            fig, ax = plt.subplots(figsize=(max(5, len(strategies) * 1.5), 4))
-            colors = ["#2ca02c" if v >= 0 else "#d62728" for v in improvements]
-            ax.bar(strategies, improvements, color=colors)
-            ax.axhline(0, color="black", linewidth=0.8)
-            ax.set_ylabel(f"{metric} improvement (%)")
-            ax.set_title(f"{metric} — model improvement over baseline (budget={budget})")
-            ax.grid(True, axis="y", alpha=0.3)
-            fig.savefig(metric_dir / f"budget{budget}_improvement.png", dpi=150, bbox_inches="tight")
-            plt.close(fig)
-            n_saved += 1
+            # (b) learned's improvement over each baseline strategy
+            if "learned" in by_strategy:
+                learned = by_strategy["learned"]
+                base_strats = [s for s in strategies if s != "learned"]
+                improvements = [
+                    ((learned - by_strategy[s]) / abs(by_strategy[s]) * 100)
+                    if by_strategy[s] != 0 else float("nan")
+                    for s in base_strats
+                ]
+                fig, ax = plt.subplots(figsize=(max(5, len(base_strats) * 1.3), 4))
+                bar_colors = ["#2ca02c" if v >= 0 else "#d62728" for v in improvements]
+                ax.bar(base_strats, improvements, color=bar_colors)
+                ax.axhline(0, color="black", linewidth=0.8)
+                ax.set_ylabel(f"{metric}: learned improvement (%)")
+                ax.set_title(f"{metric} — learned vs each baseline (budget={budget})")
+                ax.grid(True, axis="y", alpha=0.3)
+                fig.savefig(metric_dir / f"budget{budget}_improvement.png", dpi=150, bbox_inches="tight")
+                plt.close(fig)
+                n_saved += 1
 
     print(f"Saved {n_saved} comparison plots to {plot_dir}")
 
@@ -548,11 +561,11 @@ def write_plots(rows: list, plot_dir: Path):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="ATLAS extrinsic (Component 1) evaluation: baseline vs model, "
-                     "across sliding/random/oldest/attention/learned eviction strategies"
+        description="ATLAS extrinsic (Component 1) evaluation on a FIXED LoRA model: "
+                     "compares baseline eviction strategies vs the trained learned policy"
     )
     parser.add_argument("--model-path", default=DEFAULT_C1_ADAPTER,
-                         help="LoRA adapter dir/hub-id or full model dir for the 'model' side "
+                         help="LoRA adapter dir/hub-id or full model dir for the fixed Agenda LLM "
                               "(default: C1 hub adapter)")
     parser.add_argument("--base-model", default=DEFAULT_BASE_MODEL)
     parser.add_argument("--policy-model", required=True,
@@ -573,11 +586,12 @@ def main():
     parser.add_argument("--skip-bertscore", action="store_true")
 
     parser.add_argument("--csv", default=str(DEFAULT_CSV),
-                         help="cache/result CSV (strategy, model, budget, metric, value)")
+                         help="cache/result CSV (strategy, budget, metric, value) — "
+                              "shared with eval_policy_baseline.py")
     parser.add_argument("--plot-dir", default=str(DEFAULT_PLOT_DIR))
     parser.add_argument("--no-plots", action="store_true")
     parser.add_argument("--force-rerun", action="store_true",
-                         help="ignore the cache and recompute every (strategy, model, budget) combo")
+                         help="ignore the cache and recompute every (strategy, budget) combo")
     args = parser.parse_args()
 
     dtype = {"bfloat16": torch.bfloat16, "float16": torch.float16, "float32": torch.float32}[args.dtype]
@@ -591,40 +605,53 @@ def main():
         sys.exit(1)
     print(f"Loaded {len(convs)} conversations from {args.data_dir}")
 
-    model_specs = {"baseline": None, "model": args.model_path}
-
+    # Agenda LLM is fixed to the LoRA model, built lazily (and once) the first
+    # time an uncached strategy actually needs it — so a fully-cached rerun that
+    # only needs to plot never pays the model-load cost.
+    llm = None
     new_rows = []
     for strategy_name in STRATEGIES_TO_COMPARE:
+        missing_budgets = [b for b in args.budgets if (strategy_name, b) not in done]
+        if not missing_budgets:
+            print(f"[{strategy_name}] all budgets cached in {csv_path}, skipping")
+            continue
+
+        if llm is None:
+            base_for_load, adapter_path, tok_source = resolve_model_spec(
+                args.model_path, args.base_model, args.hf_token
+            )
+            llm = build_llm("model", base_for_load, adapter_path, tok_source,
+                             dtype, args.load_in_4bit, args.hf_token, args.max_new_tokens)
+
         eviction_strategy = build_eviction_strategy(
             strategy_name, args.window_size, args.policy_model, not args.policy_no_scispacy
         )
-        for label, spec in model_specs.items():
-            missing_budgets = [b for b in args.budgets if (strategy_name, label, b) not in done]
-            if not missing_budgets:
-                print(f"[{strategy_name}/{label}] all budgets cached in {csv_path}, skipping")
-                continue
 
-            print(f"\n=== strategy={strategy_name} model={label} budgets={missing_budgets} ===")
-            if spec is None:
-                base_for_load, adapter_path, tok_source = args.base_model, None, args.base_model
-            else:
-                base_for_load, adapter_path, tok_source = resolve_model_spec(spec, args.base_model, args.hf_token)
-
-            llm = build_llm(label, base_for_load, adapter_path, tok_source,
-                             dtype, args.load_in_4bit, args.hf_token, args.max_new_tokens)
-
-            per_budget = run_model_across_budgets(
-                label, llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore
+        print(f"\n=== strategy={strategy_name} budgets={missing_budgets} ===")
+        if strategy_name == "oracle":
+            # Oracle keeps everything regardless of budget -> identical across
+            # budgets. Run once, replicate to each budget so plots still have an
+            # oracle reference per budget.
+            one = run_model_across_budgets(
+                "model", llm, convs, [ORACLE_BUDGET], eviction_strategy, args.skip_bertscore
             )
-            free_llm(llm)
+            report = next(iter(one.values()))
+            per_budget = {b: report for b in missing_budgets}
+        else:
+            per_budget = run_model_across_budgets(
+                "model", llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore
+            )
 
-            for budget, report in per_budget.items():
-                for metric, value in flatten_metrics(report).items():
-                    new_rows.append({
-                        "strategy": strategy_name, "model": label, "budget": budget,
-                        "metric": metric, "value": value,
-                    })
-                done.add((strategy_name, label, budget))
+        for budget, report in per_budget.items():
+            for metric, value in flatten_metrics(report).items():
+                new_rows.append({
+                    "strategy": strategy_name, "budget": budget,
+                    "metric": metric, "value": value,
+                })
+            done.add((strategy_name, budget))
+
+    if llm is not None:
+        free_llm(llm)
 
     if new_rows:
         append_rows(csv_path, new_rows)
