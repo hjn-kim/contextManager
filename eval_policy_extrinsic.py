@@ -533,24 +533,55 @@ def _safe_filename(s: str) -> str:
 
 
 # =============================================================================
-# CSV CACHE — (strategy, model, budget) already computed -> skip re-running.
-# Lets eval_policy_baseline.py pre-fill the "baseline" rows separately, and
-# this script only fills in whatever is still missing (normally "model").
+# CSV CACHE — (strategy, budget) already computed -> skip re-running.
+# Lets eval_policy_baseline.py pre-fill the baseline-strategy rows separately,
+# and this script only fills in whatever is still missing (normally "learned").
 # =============================================================================
+
+def _csv_header(csv_path: Path):
+    """Return the header row of an existing CSV, or None if absent/empty."""
+    if not csv_path.exists():
+        return None
+    with open(csv_path, encoding="utf-8", newline="") as f:
+        return next(csv.reader(f), None)
+
 
 def load_cache(csv_path: Path):
     rows = []
     done = set()
-    if csv_path.exists():
-        with open(csv_path, encoding="utf-8") as f:
-            for r in csv.DictReader(f):
-                rows.append(r)
-                done.add((r["strategy"], int(r["budget"])))
+    header = _csv_header(csv_path)
+    if header is None:
+        return rows, done
+    if header != CSV_FIELDS:
+        # An old/foreign schema (e.g. the previous strategy,model,budget,...
+        # layout). Reading 4-field rows against a 5-field header shifts columns
+        # and blows up int(budget). Ignore it as cache; append_rows() will back
+        # it up and start a fresh CSV with the current schema.
+        print(f"WARNING: {csv_path} has an incompatible schema {header} "
+              f"(expected {CSV_FIELDS}); ignoring it as cache and rewriting fresh.")
+        return rows, done
+    with open(csv_path, encoding="utf-8", newline="") as f:
+        for r in csv.DictReader(f):
+            try:
+                budget = int(r["budget"])
+            except (TypeError, ValueError):
+                continue  # skip any stray malformed row rather than crash
+            rows.append(r)
+            done.add((r["strategy"], budget))
     return rows, done
 
 
 def append_rows(csv_path: Path, rows: list):
     csv_path.parent.mkdir(parents=True, exist_ok=True)
+    header = _csv_header(csv_path)
+    if header is not None and header != CSV_FIELDS:
+        # Don't append current-schema rows into a file with an incompatible
+        # header — that is exactly what produces mixed/misaligned CSVs. Back the
+        # old file up and start clean.
+        backup = csv_path.with_suffix(csv_path.suffix + ".bak")
+        print(f"WARNING: {csv_path} has an incompatible header; backing it up to "
+              f"{backup} and starting a fresh CSV.")
+        csv_path.replace(backup)
     write_header = not csv_path.exists()
     with open(csv_path, "a", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=CSV_FIELDS)
