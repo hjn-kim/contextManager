@@ -131,19 +131,24 @@ class HFAgendaLLM(AgendaLLM):
             {"role": "system", "content": REALTIME_SYSTEM},
             {"role": "user", "content": REALTIME_USER.format(context=context, speaker=speaker, text=text)},
         ]
-        input_ids = self.tokenizer.apply_chat_template(
-            messages, add_generation_prompt=True, return_tensors="pt"
+        # transformers 5.x makes apply_chat_template return a BatchEncoding
+        # (return_dict defaults to True), not a bare tensor — passing that
+        # straight into generate() blows up on inputs_tensor.shape. Ask for the
+        # dict explicitly and unpack it (also supplies attention_mask).
+        enc = self.tokenizer.apply_chat_template(
+            messages, add_generation_prompt=True, return_tensors="pt", return_dict=True
         ).to(self.device)
+        prompt_len = enc["input_ids"].shape[1]
 
         with torch.no_grad():
             output_ids = self.model.generate(
-                input_ids,
+                **enc,
                 max_new_tokens=self.config.llm.max_tokens,
                 do_sample=False,
                 pad_token_id=self.tokenizer.pad_token_id or self.tokenizer.eos_token_id,
             )
 
-        raw = self.tokenizer.decode(output_ids[0, input_ids.shape[1]:], skip_special_tokens=True)
+        raw = self.tokenizer.decode(output_ids[0, prompt_len:], skip_special_tokens=True)
         output = self._parse(raw)
         self._predict_cache[key] = output
         return output
@@ -476,6 +481,32 @@ def _result_signature(conv, result):
     )
 
 
+_SHARED_TRACKER_ENCODER = None
+_SHARED_ENCODER_FAILED = False
+
+
+def _shared_tracker_encoder():
+    """Load the SystemTracker sentence encoder once and reuse it everywhere.
+
+    run_model_across_budgets builds a fresh SystemTracker per conversation (each
+    needs its own agenda state), and SystemTracker lazily loads a
+    SentenceTransformer on first link — so without sharing, that model is
+    reloaded for EVERY conversation (the repeated 'Loading weights' spam and a
+    big slowdown). Returns None if it can't be built, in which case callers fall
+    back to per-tracker lazy loading."""
+    global _SHARED_TRACKER_ENCODER, _SHARED_ENCODER_FAILED
+    if _SHARED_TRACKER_ENCODER is not None or _SHARED_ENCODER_FAILED:
+        return _SHARED_TRACKER_ENCODER
+    try:
+        from sentence_transformers import SentenceTransformer
+        model_name = SystemTracker().config.embedding_model
+        _SHARED_TRACKER_ENCODER = SentenceTransformer(model_name)
+    except Exception as e:
+        print(f"WARNING: could not preload tracker encoder ({type(e).__name__}: {e})")
+        _SHARED_ENCODER_FAILED = True
+    return _SHARED_TRACKER_ENCODER
+
+
 def run_model_across_budgets(label, llm, convs, budgets, strategy, skip_bertscore,
                              report_cache=None):
     # report_cache is keyed by trajectory signature and shared across the whole
@@ -495,6 +526,9 @@ def run_model_across_budgets(label, llm, convs, budgets, strategy, skip_bertscor
         t0 = time.time()
         for ci, conv in enumerate(convs):
             tracker = SystemTracker()
+            encoder = _shared_tracker_encoder()
+            if encoder is not None:
+                tracker._encoder = encoder  # reuse one model across all trackers
             harness = StreamingHarness(config).load_conversation_dict(conv)
             result = harness.run(llm, tracker=tracker, eviction_strategy=strategy)
 
