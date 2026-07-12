@@ -106,12 +106,27 @@ class HFAgendaLLM(AgendaLLM):
         self.model = model
         self.label = label
         self.device = next(model.parameters()).device
+        # Greedy decoding (do_sample=False) is deterministic, so identical
+        # (context, speaker, text) inputs always produce the same output. The
+        # eviction sweep re-invokes the LLM on the same conversation prefixes
+        # across every strategy and budget (buffers only diverge after a budget
+        # is first exceeded), so caching removes the bulk of redundant
+        # generations. This cache lives on the LLM instance, which is built once
+        # and reused across the whole run.
+        self._predict_cache = {}
+        self._cache_hits = 0
 
     def get_token_count(self, text: str) -> int:
         # Real tokenizer, not harness.py's char/4 placeholder.
         return max(len(self.tokenizer.encode(text, add_special_tokens=False)), 1)
 
     def predict(self, context: str, speaker: str, text: str) -> LLMOutput:
+        key = (context, speaker, text)
+        cached = self._predict_cache.get(key)
+        if cached is not None:
+            self._cache_hits += 1
+            return cached
+
         messages = [
             {"role": "system", "content": REALTIME_SYSTEM},
             {"role": "user", "content": REALTIME_USER.format(context=context, speaker=speaker, text=text)},
@@ -129,7 +144,9 @@ class HFAgendaLLM(AgendaLLM):
             )
 
         raw = self.tokenizer.decode(output_ids[0, input_ids.shape[1]:], skip_special_tokens=True)
-        return self._parse(raw)
+        output = self._parse(raw)
+        self._predict_cache[key] = output
+        return output
 
     @staticmethod
     def _parse(raw: str) -> LLMOutput:
@@ -228,6 +245,17 @@ def build_llm(label: str, base_for_load: str, adapter_path, tokenizer_source: st
     return HFAgendaLLM(llm_config, tokenizer, model, label=label)
 
 
+def log_cache_stats(llm: HFAgendaLLM):
+    """Report how many LLM generations were served from the deterministic
+    prediction cache — i.e. how much cross-strategy/budget work was redundant."""
+    hits = getattr(llm, "_cache_hits", 0)
+    unique = len(getattr(llm, "_predict_cache", {}))
+    total = hits + unique
+    if total:
+        print(f"LLM prediction cache: {hits}/{total} calls served from cache "
+              f"({100 * hits / total:.1f}% redundant), {unique} unique generations.")
+
+
 def free_llm(llm: HFAgendaLLM):
     del llm.model
     gc.collect()
@@ -298,7 +326,10 @@ def build_report(result, conv: dict, skip_bertscore: bool) -> dict:
 
     report["detection"] = compute_detection_metrics(pred_types, gold_types)
 
-    if all_gold_agenda_summaries:
+    # agenda_completeness is itself a bert-score (deberta-xlarge) metric, so
+    # --skip-bertscore skips it too — otherwise "skip bertscore" still pays the
+    # single most expensive metric on every conversation.
+    if all_gold_agenda_summaries and not skip_bertscore:
         report["agenda_completeness"] = compute_agenda_completeness(
             all_pred_summaries, all_gold_agenda_summaries
         )
@@ -408,7 +439,53 @@ def build_eviction_strategy(strategy_name: str, window_size: int, policy_model: 
 # MAIN EVAL LOOP
 # =============================================================================
 
-def run_model_across_budgets(label, llm, convs, budgets, strategy, skip_bertscore):
+def _result_signature(conv, result):
+    """Everything build_report's output depends on, EXCEPT latency (noise).
+
+    Two runs with the same signature produce the same rouge/detection/
+    bertscore/agenda/system-level and the same buffer-size/token counts, so the
+    report can be reused. Different (strategy, budget) combos frequently yield
+    identical trajectories — e.g. any conversation that never exceeds a budget,
+    or sliding at budgets that don't bind the window — and this skips
+    recomputing their (often deberta-backed) metrics."""
+    outs = tuple(
+        (
+            bool(o.get("relevant")),
+            tuple((d.get("type"), d.get("summary")) for d in (o.get("detail_list") or [])),
+        )
+        for o in result.llm_outputs
+    )
+    tracker = result.tracker_states[-1] if result.tracker_states else {}
+    preds = tuple(
+        (
+            p.get("utterance_id"),
+            bool(p.get("relevant")),
+            p.get("linked_agenda_item_id"),
+            p.get("first_mention"),
+            p.get("resolution_status"),
+        )
+        for p in (tracker.get("predictions") or [])
+    )
+    meta = result.metadata or {}
+    return (
+        conv.get("id"),
+        outs,
+        preds,
+        meta.get("final_buffer_size"),
+        meta.get("final_buffer_tokens"),
+    )
+
+
+def run_model_across_budgets(label, llm, convs, budgets, strategy, skip_bertscore,
+                             report_cache=None):
+    # report_cache is keyed by trajectory signature and shared across the whole
+    # run, so identical (strategy, budget, conv) outcomes score their metrics
+    # only once. Pass the same dict across every call to dedupe across budgets
+    # AND strategies. Note: reused reports keep the FIRST run's avg_latency_ms —
+    # latency is not meaningful once predictions are cached anyway.
+    if report_cache is None:
+        report_cache = {}
+
     per_budget = {}
     for budget in budgets:
         config = AtlasConfig()
@@ -420,9 +497,16 @@ def run_model_across_budgets(label, llm, convs, budgets, strategy, skip_bertscor
             tracker = SystemTracker()
             harness = StreamingHarness(config).load_conversation_dict(conv)
             result = harness.run(llm, tracker=tracker, eviction_strategy=strategy)
-            reports.append(build_report(result, conv, skip_bertscore))
+
+            sig = _result_signature(conv, result)
+            report = report_cache.get(sig)
+            cached = report is not None
+            if not cached:
+                report = build_report(result, conv, skip_bertscore)
+                report_cache[sig] = report
+            reports.append(report)
             print(f"    [{label}] budget={budget} conv {ci+1}/{len(convs)} "
-                  f"({conv.get('id', '?')}) done", flush=True)
+                  f"({conv.get('id', '?')}) {'cached' if cached else 'scored'}", flush=True)
 
         per_budget[budget] = {
             "n_conversations": len(reports),
@@ -583,7 +667,9 @@ def main():
     parser.add_argument("--load-in-4bit", action="store_true")
     parser.add_argument("--max-new-tokens", type=int, default=256)
     parser.add_argument("--hf-token", default=None)
-    parser.add_argument("--skip-bertscore", action="store_true")
+    parser.add_argument("--skip-bertscore", action="store_true",
+                         help="skip all deberta-xlarge bert-score metrics — both summary "
+                              "bertscore AND agenda_completeness (which is bert-score based)")
 
     parser.add_argument("--csv", default=str(DEFAULT_CSV),
                          help="cache/result CSV (strategy, budget, metric, value) — "
@@ -609,6 +695,8 @@ def main():
     # time an uncached strategy actually needs it — so a fully-cached rerun that
     # only needs to plot never pays the model-load cost.
     llm = None
+    # Shared across every strategy/budget so identical trajectories score once.
+    report_cache = {}
     new_rows = []
     for strategy_name in STRATEGIES_TO_COMPARE:
         missing_budgets = [b for b in args.budgets if (strategy_name, b) not in done]
@@ -633,13 +721,15 @@ def main():
             # budgets. Run once, replicate to each budget so plots still have an
             # oracle reference per budget.
             one = run_model_across_budgets(
-                "model", llm, convs, [ORACLE_BUDGET], eviction_strategy, args.skip_bertscore
+                "model", llm, convs, [ORACLE_BUDGET], eviction_strategy, args.skip_bertscore,
+                report_cache=report_cache,
             )
             report = next(iter(one.values()))
             per_budget = {b: report for b in missing_budgets}
         else:
             per_budget = run_model_across_budgets(
-                "model", llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore
+                "model", llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore,
+                report_cache=report_cache,
             )
 
         for budget, report in per_budget.items():
@@ -651,6 +741,7 @@ def main():
             done.add((strategy_name, budget))
 
     if llm is not None:
+        log_cache_stats(llm)
         free_llm(llm)
 
     if new_rows:

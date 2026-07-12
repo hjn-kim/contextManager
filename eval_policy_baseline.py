@@ -48,6 +48,7 @@ from eval_policy_extrinsic import (
     resolve_model_spec,
     build_llm,
     free_llm,
+    log_cache_stats,
     build_eviction_strategy,
     run_model_across_budgets,
     flatten_metrics,
@@ -75,7 +76,9 @@ def main():
     parser.add_argument("--load-in-4bit", action="store_true")
     parser.add_argument("--max-new-tokens", type=int, default=256)
     parser.add_argument("--hf-token", default=None)
-    parser.add_argument("--skip-bertscore", action="store_true")
+    parser.add_argument("--skip-bertscore", action="store_true",
+                         help="skip all deberta-xlarge bert-score metrics — both summary "
+                              "bertscore AND agenda_completeness (which is bert-score based)")
 
     parser.add_argument("--csv", default=str(DEFAULT_CSV),
                          help="cache/result CSV (strategy, budget, metric, value) — "
@@ -98,6 +101,8 @@ def main():
     # Fixed LoRA Agenda LLM, built lazily (and once) only if some strategy is
     # actually missing from the cache.
     llm = None
+    # Shared across every strategy/budget so identical trajectories score once.
+    report_cache = {}
     new_rows = []
     for strategy_name in BASELINE_STRATEGIES:
         missing_budgets = [b for b in args.budgets if (strategy_name, b) not in done]
@@ -119,13 +124,15 @@ def main():
         if strategy_name == "oracle":
             # Oracle keeps everything regardless of budget -> run once, replicate.
             one = run_model_across_budgets(
-                "model", llm, convs, [ORACLE_BUDGET], eviction_strategy, args.skip_bertscore
+                "model", llm, convs, [ORACLE_BUDGET], eviction_strategy, args.skip_bertscore,
+                report_cache=report_cache,
             )
             report = next(iter(one.values()))
             per_budget = {b: report for b in missing_budgets}
         else:
             per_budget = run_model_across_budgets(
-                "model", llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore
+                "model", llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore,
+                report_cache=report_cache,
             )
 
         for budget, report in per_budget.items():
@@ -137,6 +144,7 @@ def main():
             done.add((strategy_name, budget))
 
     if llm is not None:
+        log_cache_stats(llm)
         free_llm(llm)
 
     if new_rows:
