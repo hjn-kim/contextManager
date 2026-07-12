@@ -7,30 +7,28 @@ harness and scores the output against gold annotations using every
 metric in src/metrics.py (ROUGE, BERTScore, detection P/R/F1, agenda
 completeness, linking/first-mention/resolution accuracy).
 
-Compares, at budgets 100 / 256 / 512:
+For every eviction strategy in STRATEGIES_TO_COMPARE (sliding, random,
+oldest, attention, learned), compares:
   - "baseline" : meta-llama/Llama-3.2-3B-Instruct, no adapter (zero-shot)
-  - "C1"       : the same base model + AAA_atlas_c1_lora_adapter_checkpoint100
-  - every model passed via --model (local LoRA adapter dir, local full
-    model dir, or a HF hub id — auto-detected)
+  - "model"    : --model-path (default: tria-hongik/atlas-c1-v2-llama-3.2-3b,
+                 the C1 LoRA adapter on HF hub)
 
-Only --model is meant to be supplied by hand; everything else is a
-fixed, overridable default.
+Results are cached in a CSV keyed by (strategy, model, budget) — combos
+already present are skipped, so reruns only fill in what's missing. Run
+eval_policy_baseline.py first to pre-fill the "baseline" rows cheaply;
+this script then only needs to run "model" (plus any baseline+learned
+combo eval_policy_baseline.py didn't cover) and appends those rows below.
 
 Usage:
-  python eval_policy_extrinsic.py
-  python eval_policy_extrinsic.py --model runs/my_lora_ckpt200 runs/my_lora_ckpt300
-  python eval_policy_extrinsic.py --model someuser/some-hub-adapter
-
-  # Use the trained Component 3 eviction policy instead of the fifo default:
-  python eval_policy_extrinsic.py --strategy learned --policy-model models/policy/eviction_mlp_bertscore_0p75.pt
+  python eval_policy_extrinsic.py --policy-model models/policy/eviction_mlp_bertscore_0p75_5e-3.pt
+  python eval_policy_extrinsic.py --policy-model ... --model-path someuser/some-hub-adapter
+  python eval_policy_extrinsic.py --policy-model ... --force-rerun   # ignore cache, recompute everything
 
 Outputs (output/ by default):
-  - eval_policy_extrinsic_results.json  full nested results
-  - eval_policy_extrinsic_results.csv   long-format (model, budget, metric, value)
-  - plots/<metric>/<model>.png          one PNG per (metric, model): budget on
-                                         the x-axis. baseline gets its own image
-                                         too, so every model (incl. baseline) is
-                                         directly comparable file-by-file.
+  - strategy_comparison.csv                      long-format cache/result
+                                                   (strategy, model, budget, metric, value)
+  - plots_strategy_comparison/<metric>/budgetN_bar.png          baseline vs model bars, x=strategy
+  - plots_strategy_comparison/<metric>/budgetN_improvement.png  % improvement of model over baseline, x=strategy
 
 Requirements (RunPod GPU box):
   pip install torch transformers peft accelerate bitsandbytes \
@@ -44,6 +42,7 @@ import json
 import re
 import sys
 import time
+from collections import defaultdict
 from pathlib import Path
 
 import torch
@@ -72,12 +71,14 @@ from prompts import REALTIME_SYSTEM, REALTIME_USER
 # =============================================================================
 
 DEFAULT_BASE_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
-DEFAULT_C1_ADAPTER = PROJECT_ROOT / "AAA_atlas_c1_lora_adapter_checkpoint100"
-DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "eval"
+DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v2-llama-3.2-3b"
+DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "challenge_data" / "valid" / "eval"
 DEFAULT_BUDGETS = [100, 256, 512]
-DEFAULT_OUTPUT = PROJECT_ROOT / "output" / "eval_policy_extrinsic_results.json"
-DEFAULT_CSV = PROJECT_ROOT / "output" / "eval_policy_extrinsic_results.csv"
-DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots"
+DEFAULT_CSV = PROJECT_ROOT / "output" / "strategy_comparison.csv"
+DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots_strategy_comparison"
+
+STRATEGIES_TO_COMPARE = ["sliding", "random", "oldest", "attention", "learned"]
+CSV_FIELDS = ["strategy", "model", "budget", "metric", "value"]
 
 # meta fields tracked in every report but not real metrics.py values —
 # excluded from the per-metric comparison plots.
@@ -380,7 +381,7 @@ def build_eviction_strategy(strategy_name: str, window_size: int, policy_model: 
     """
     if strategy_name == "learned":
         if not policy_model:
-            raise ValueError("--strategy learned requires --policy-model <path to a trained .pt checkpoint>")
+            raise ValueError("strategy 'learned' requires --policy-model <path to a trained .pt checkpoint>")
         from policy import LearnedEvictionStrategy
         print(f"Loading learned eviction policy from {policy_model} (use_scispacy={use_scispacy})")
         return LearnedEvictionStrategy(model_path=policy_model, use_scispacy=use_scispacy)
@@ -419,18 +420,6 @@ def run_model_across_budgets(label, llm, convs, budgets, strategy, skip_bertscor
     return per_budget
 
 
-def print_report(label, budget, report):
-    print(f"\n--- {label} | budget={budget} | "
-          f"{report.get('n_conversations', 0)} conversations | "
-          f"{report.get('elapsed_sec', 0)}s ---")
-    printable = {k: v for k, v in report.items() if k not in ("n_conversations", "elapsed_sec")}
-    print(json.dumps(printable, indent=2, ensure_ascii=False))
-
-
-# =============================================================================
-# CSV + PLOT EXPORT
-# =============================================================================
-
 def flatten_metrics(d: dict, prefix: str = "") -> dict:
     """Nested report dict -> {"rouge.rouge1": 0.42, "detection.detail.f1": 0.7, ...}"""
     flat = {}
@@ -443,31 +432,46 @@ def flatten_metrics(d: dict, prefix: str = "") -> dict:
     return flat
 
 
-def write_csv(all_results: dict, csv_path: Path):
-    """Long-format CSV: one row per (model, budget, metric) — includes every
-    value in the JSON output (metrics.py results + hardware/meta fields)."""
-    rows = []
-    for label, per_budget in all_results.items():
-        for budget, report in per_budget.items():
-            for metric, value in flatten_metrics(report).items():
-                rows.append({"model": label, "budget": budget, "metric": metric, "value": value})
-
-    csv_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["model", "budget", "metric", "value"])
-        writer.writeheader()
-        writer.writerows(rows)
-    print(f"Saved CSV to {csv_path} ({len(rows)} rows)")
-
-
 def _safe_filename(s: str) -> str:
     return re.sub(r"[^A-Za-z0-9._-]+", "_", s)
 
 
-def write_plots(all_results: dict, plot_dir: Path):
-    """One PNG per (metric, model): x=budget, single line for that model.
-    Saved as plot_dir/<metric>/<model>.png. Baseline gets its own image too
-    (like every other model), so it's directly comparable file-by-file."""
+# =============================================================================
+# CSV CACHE — (strategy, model, budget) already computed -> skip re-running.
+# Lets eval_policy_baseline.py pre-fill the "baseline" rows separately, and
+# this script only fills in whatever is still missing (normally "model").
+# =============================================================================
+
+def load_cache(csv_path: Path):
+    rows = []
+    done = set()
+    if csv_path.exists():
+        with open(csv_path, encoding="utf-8") as f:
+            for r in csv.DictReader(f):
+                rows.append(r)
+                done.add((r["strategy"], r["model"], int(r["budget"])))
+    return rows, done
+
+
+def append_rows(csv_path: Path, rows: list):
+    csv_path.parent.mkdir(parents=True, exist_ok=True)
+    write_header = not csv_path.exists()
+    with open(csv_path, "a", newline="", encoding="utf-8") as f:
+        writer = csv.DictWriter(f, fieldnames=CSV_FIELDS)
+        if write_header:
+            writer.writeheader()
+        writer.writerows(rows)
+
+
+# =============================================================================
+# COMPARISON PLOTS — baseline vs model, x-axis = strategy
+# =============================================================================
+
+def write_plots(rows: list, plot_dir: Path):
+    """One pair of PNGs per (metric, budget): a grouped bar (baseline vs
+    model, x=strategy) and an improvement-% bar ((model-baseline)/|baseline|,
+    x=strategy). Only strategies with both a baseline and a model row are
+    plotted."""
     try:
         import matplotlib
         matplotlib.use("Agg")
@@ -477,134 +481,159 @@ def write_plots(all_results: dict, plot_dir: Path):
               "(pip install matplotlib)", file=sys.stderr)
         return
 
-    # pivot: metric -> label -> {budget: value}
-    pivot = {}
-    for label, per_budget in all_results.items():
-        for budget, report in per_budget.items():
-            for metric, value in flatten_metrics(report).items():
-                if metric in META_KEYS:
-                    continue
-                pivot.setdefault(metric, {}).setdefault(label, {})[budget] = value
+    # pivot[metric][budget][strategy][model] = value
+    pivot = defaultdict(lambda: defaultdict(lambda: defaultdict(dict)))
+    for r in rows:
+        metric = r["metric"]
+        if metric in META_KEYS:
+            continue
+        pivot[metric][int(r["budget"])][r["strategy"]][r["model"]] = float(r["value"])
 
     plot_dir.mkdir(parents=True, exist_ok=True)
     n_saved = 0
-    for metric, by_label in sorted(pivot.items()):
+
+    for metric, by_budget in sorted(pivot.items()):
         metric_dir = plot_dir / _safe_filename(metric)
         metric_dir.mkdir(parents=True, exist_ok=True)
 
-        for label, budget_values in by_label.items():
-            if not budget_values:
+        for budget, by_strategy in sorted(by_budget.items()):
+            strategies = [
+                s for s in STRATEGIES_TO_COMPARE
+                if "baseline" in by_strategy.get(s, {}) and "model" in by_strategy.get(s, {})
+            ]
+            if not strategies:
                 continue
-            budgets = sorted(budget_values)
-            values = [budget_values[b] for b in budgets]
 
-            fig, ax = plt.subplots(figsize=(5, 4))
-            ax.plot(budgets, values, marker="o", label=label)
-            ax.set_xlabel("Budget (tokens)")
+            baseline_vals = [by_strategy[s]["baseline"] for s in strategies]
+            model_vals = [by_strategy[s]["model"] for s in strategies]
+
+            # (a) grouped bar: baseline vs model per strategy
+            x = range(len(strategies))
+            width = 0.35
+            fig, ax = plt.subplots(figsize=(max(5, len(strategies) * 1.5), 4))
+            ax.bar([i - width / 2 for i in x], baseline_vals, width, label="baseline")
+            ax.bar([i + width / 2 for i in x], model_vals, width, label="model")
+            ax.set_xticks(list(x))
+            ax.set_xticklabels(strategies)
             ax.set_ylabel(metric)
-            ax.set_title(f"{metric} — {label}")
+            ax.set_title(f"{metric} — baseline vs model (budget={budget})")
             ax.legend()
-            ax.grid(True, alpha=0.3)
-            fig.savefig(metric_dir / f"{_safe_filename(label)}.png", dpi=150, bbox_inches="tight")
+            ax.grid(True, axis="y", alpha=0.3)
+            fig.savefig(metric_dir / f"budget{budget}_bar.png", dpi=150, bbox_inches="tight")
             plt.close(fig)
             n_saved += 1
 
-    print(f"Saved {n_saved} (metric, model) plots to {plot_dir}")
+            # (b) improvement %: (model - baseline) / |baseline| * 100
+            improvements = [
+                ((m - b) / abs(b) * 100) if b != 0 else float("nan")
+                for b, m in zip(baseline_vals, model_vals)
+            ]
+            fig, ax = plt.subplots(figsize=(max(5, len(strategies) * 1.5), 4))
+            colors = ["#2ca02c" if v >= 0 else "#d62728" for v in improvements]
+            ax.bar(strategies, improvements, color=colors)
+            ax.axhline(0, color="black", linewidth=0.8)
+            ax.set_ylabel(f"{metric} improvement (%)")
+            ax.set_title(f"{metric} — model improvement over baseline (budget={budget})")
+            ax.grid(True, axis="y", alpha=0.3)
+            fig.savefig(metric_dir / f"budget{budget}_improvement.png", dpi=150, bbox_inches="tight")
+            plt.close(fig)
+            n_saved += 1
 
+    print(f"Saved {n_saved} comparison plots to {plot_dir}")
+
+
+# =============================================================================
+# MAIN
+# =============================================================================
 
 def main():
-    parser = argparse.ArgumentParser(description="ATLAS extrinsic (Component 1) evaluation")
-    parser.add_argument("--model", nargs="+", default=[],
-                         help="Additional model(s) to evaluate: local LoRA adapter dir, "
-                              "local full model dir, or HF hub id.")
-
-    parser.add_argument("--data-dir", default=str(DEFAULT_DATA_DIR))
-    parser.add_argument("--budgets", nargs="+", type=int, default=DEFAULT_BUDGETS)
-    parser.add_argument("--strategy", default="fifo",
-                         choices=["fifo", "sliding", "random", "oldest", "attention", "learned"],
-                         help="eviction strategy applied to the context buffer. "
-                              "'learned' uses the trained Component 3 EvictionMLP (see --policy-model).")
-    parser.add_argument("--window-size", type=int, default=10, help="only used when --strategy sliding")
-    parser.add_argument("--policy-model", default=None,
-                         help="path to a trained EvictionMLP .pt checkpoint (required when --strategy learned)")
+    parser = argparse.ArgumentParser(
+        description="ATLAS extrinsic (Component 1) evaluation: baseline vs model, "
+                     "across sliding/random/oldest/attention/learned eviction strategies"
+    )
+    parser.add_argument("--model-path", default=DEFAULT_C1_ADAPTER,
+                         help="LoRA adapter dir/hub-id or full model dir for the 'model' side "
+                              "(default: C1 hub adapter)")
+    parser.add_argument("--base-model", default=DEFAULT_BASE_MODEL)
+    parser.add_argument("--policy-model", required=True,
+                         help="path to a trained EvictionMLP .pt checkpoint, used for the 'learned' strategy")
     parser.add_argument("--policy-no-scispacy", action="store_true",
                          help="disable scispaCy entity_count in the learned policy's features "
                               "(only safe if the checkpoint was also trained without it)")
+    parser.add_argument("--window-size", type=int, default=10, help="sliding-window K")
 
-    parser.add_argument("--base-model", default=DEFAULT_BASE_MODEL)
-    parser.add_argument("--c1-adapter", default=str(DEFAULT_C1_ADAPTER))
-    parser.add_argument("--skip-baseline", action="store_true")
-    parser.add_argument("--skip-c1", action="store_true")
+    parser.add_argument("--data-dir", default=str(DEFAULT_DATA_DIR))
+    parser.add_argument("--budgets", nargs="+", type=int, default=DEFAULT_BUDGETS)
+    parser.add_argument("--limit", type=int, default=None, help="limit number of conversations (debug)")
 
     parser.add_argument("--dtype", default="bfloat16", choices=["bfloat16", "float16", "float32"])
     parser.add_argument("--load-in-4bit", action="store_true")
     parser.add_argument("--max-new-tokens", type=int, default=256)
     parser.add_argument("--hf-token", default=None)
-
     parser.add_argument("--skip-bertscore", action="store_true")
-    parser.add_argument("--limit", type=int, default=None, help="limit number of conversations (debug)")
-    parser.add_argument("--output", default=str(DEFAULT_OUTPUT), help="JSON output path")
-    parser.add_argument("--csv", default=str(DEFAULT_CSV), help="CSV output path")
-    parser.add_argument("--plot-dir", default=str(DEFAULT_PLOT_DIR), help="directory for per-metric PNG plots")
-    parser.add_argument("--no-csv", action="store_true")
-    parser.add_argument("--no-plots", action="store_true")
-    args = parser.parse_args()
 
-    if args.strategy == "learned" and not args.policy_model:
-        parser.error("--strategy learned requires --policy-model <path to a trained .pt checkpoint>")
+    parser.add_argument("--csv", default=str(DEFAULT_CSV),
+                         help="cache/result CSV (strategy, model, budget, metric, value)")
+    parser.add_argument("--plot-dir", default=str(DEFAULT_PLOT_DIR))
+    parser.add_argument("--no-plots", action="store_true")
+    parser.add_argument("--force-rerun", action="store_true",
+                         help="ignore the cache and recompute every (strategy, model, budget) combo")
+    args = parser.parse_args()
 
     dtype = {"bfloat16": torch.bfloat16, "float16": torch.float16, "float32": torch.float32}[args.dtype]
 
-    strategy = build_eviction_strategy(
-        args.strategy, args.window_size, args.policy_model, not args.policy_no_scispacy
-    )
+    csv_path = Path(args.csv)
+    cached_rows, done = ([], set()) if args.force_rerun else load_cache(csv_path)
 
-    data_dir = Path(args.data_dir)
-    convs = load_conversations(data_dir, limit=args.limit)
+    convs = load_conversations(Path(args.data_dir), limit=args.limit)
     if not convs:
-        print(f"No conversation JSON files found in {data_dir}", file=sys.stderr)
+        print(f"No conversation JSON files found in {args.data_dir}", file=sys.stderr)
         sys.exit(1)
-    print(f"Loaded {len(convs)} conversations from {data_dir}")
+    print(f"Loaded {len(convs)} conversations from {args.data_dir}")
 
-    model_jobs = []  # (label, spec_or_None)
-    if not args.skip_baseline:
-        model_jobs.append(("baseline", None))
-    if not args.skip_c1:
-        model_jobs.append(("C1", args.c1_adapter))
-    for m in args.model:
-        model_jobs.append((Path(m).name or m, m))
+    model_specs = {"baseline": None, "model": args.model_path}
 
-    all_results = {}
-    for label, spec in model_jobs:
-        print(f"\n=== Model: {label} ===")
-        if spec is None:
-            base_for_load, adapter_path, tok_source = args.base_model, None, args.base_model
-        else:
-            base_for_load, adapter_path, tok_source = resolve_model_spec(spec, args.base_model, args.hf_token)
-
-        llm = build_llm(label, base_for_load, adapter_path, tok_source,
-                         dtype, args.load_in_4bit, args.hf_token, args.max_new_tokens)
-
-        per_budget = run_model_across_budgets(
-            label, llm, convs, args.budgets, strategy, args.skip_bertscore
+    new_rows = []
+    for strategy_name in STRATEGIES_TO_COMPARE:
+        eviction_strategy = build_eviction_strategy(
+            strategy_name, args.window_size, args.policy_model, not args.policy_no_scispacy
         )
-        for budget, report in per_budget.items():
-            print_report(label, budget, report)
+        for label, spec in model_specs.items():
+            missing_budgets = [b for b in args.budgets if (strategy_name, label, b) not in done]
+            if not missing_budgets:
+                print(f"[{strategy_name}/{label}] all budgets cached in {csv_path}, skipping")
+                continue
 
-        all_results[label] = per_budget
-        free_llm(llm)
+            print(f"\n=== strategy={strategy_name} model={label} budgets={missing_budgets} ===")
+            if spec is None:
+                base_for_load, adapter_path, tok_source = args.base_model, None, args.base_model
+            else:
+                base_for_load, adapter_path, tok_source = resolve_model_spec(spec, args.base_model, args.hf_token)
 
-    output_path = Path(args.output)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(all_results, f, indent=2, ensure_ascii=False)
-    print(f"\nSaved full results to {output_path}")
+            llm = build_llm(label, base_for_load, adapter_path, tok_source,
+                             dtype, args.load_in_4bit, args.hf_token, args.max_new_tokens)
 
-    if not args.no_csv:
-        write_csv(all_results, Path(args.csv))
+            per_budget = run_model_across_budgets(
+                label, llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore
+            )
+            free_llm(llm)
+
+            for budget, report in per_budget.items():
+                for metric, value in flatten_metrics(report).items():
+                    new_rows.append({
+                        "strategy": strategy_name, "model": label, "budget": budget,
+                        "metric": metric, "value": value,
+                    })
+                done.add((strategy_name, label, budget))
+
+    if new_rows:
+        append_rows(csv_path, new_rows)
+        print(f"\nAppended {len(new_rows)} rows to {csv_path}")
+    else:
+        print(f"\nNothing new to run — everything already cached in {csv_path}.")
 
     if not args.no_plots:
-        write_plots(all_results, Path(args.plot_dir))
+        write_plots(cached_rows + new_rows, Path(args.plot_dir))
 
 
 if __name__ == "__main__":
