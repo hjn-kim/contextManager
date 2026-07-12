@@ -2,8 +2,9 @@
 ATLAS Baseline Eviction-Strategy Evaluation
 ==============================================
 Runs the "baseline" LLM (meta-llama/Llama-3.2-3B-Instruct, zero-shot, no
-LoRA adapter) through the streaming harness under every eviction strategy
-in STRATEGIES_TO_COMPARE (sliding, random, oldest, attention, learned),
+LoRA adapter) through the streaming harness under a fixed set of eviction
+baselines — fifo, sliding, random, attention — plus an oracle (unlimited
+budget, keeps every sentence, an upper bound rather than a real strategy),
 scoring against gold annotations with every metric in src/metrics.py.
 
 This is the reference/baseline half of eval_policy_extrinsic.py's
@@ -16,8 +17,8 @@ Results are cached in the same CSV, keyed by (strategy, model, budget) —
 combos already present are skipped, so reruns only fill in what's missing.
 
 Usage:
-  python eval_policy_baseline.py --policy-model models/policy/eviction_mlp_bertscore_0p75_5e-3.pt
-  python eval_policy_baseline.py --policy-model ... --force-rerun   # ignore cache, recompute everything
+  python eval_policy_baseline.py
+  python eval_policy_baseline.py --force-rerun   # ignore cache, recompute everything
 
 Requirements (RunPod GPU box): same as eval_policy_extrinsic.py.
 """
@@ -32,34 +33,47 @@ PROJECT_ROOT = Path(__file__).parent
 sys.path.insert(0, str(PROJECT_ROOT / "src"))
 sys.path.insert(0, str(PROJECT_ROOT / "data"))
 
+from baselines import get_strategy
 from eval_policy_extrinsic import (
     DEFAULT_BASE_MODEL,
-    DEFAULT_DATA_DIR,
     DEFAULT_BUDGETS,
     DEFAULT_CSV,
-    STRATEGIES_TO_COMPARE,
     load_conversations,
     build_llm,
     free_llm,
-    build_eviction_strategy,
     run_model_across_budgets,
     flatten_metrics,
     load_cache,
     append_rows,
 )
 
+# Real-environment data location.
+DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "aci"
+
+# Fixed baseline set. "oracle" is the unlimited-budget upper bound (no
+# eviction), not a real eviction strategy — handled specially below.
+STRATEGIES_TO_COMPARE = ["fifo", "sliding", "random", "attention", "oracle"]
+
+# Buffer budget large enough that eviction never triggers -> oracle keeps all.
+ORACLE_BUDGET = 999_999
+
+
+def build_eviction_strategy(strategy_name: str, window_size: int):
+    """Return the eviction callable for a baseline, or None for the oracle
+    (no eviction — the harness keeps every item)."""
+    if strategy_name == "oracle":
+        return None
+    if strategy_name == "sliding":
+        return get_strategy("sliding", window_size=window_size)
+    return get_strategy(strategy_name)
+
 
 def main():
     parser = argparse.ArgumentParser(
-        description="ATLAS baseline evaluation across sliding/random/oldest/attention/learned "
-                     "eviction strategies (no LoRA adapter)"
+        description="ATLAS baseline evaluation across fifo/sliding/random/attention "
+                     "eviction baselines plus the keep-everything oracle (no LoRA adapter)"
     )
     parser.add_argument("--base-model", default=DEFAULT_BASE_MODEL)
-    parser.add_argument("--policy-model", required=True,
-                         help="path to a trained EvictionMLP .pt checkpoint, used for the 'learned' strategy")
-    parser.add_argument("--policy-no-scispacy", action="store_true",
-                         help="disable scispaCy entity_count in the learned policy's features "
-                              "(only safe if the checkpoint was also trained without it)")
     parser.add_argument("--window-size", type=int, default=10, help="sliding-window K")
 
     parser.add_argument("--data-dir", default=str(DEFAULT_DATA_DIR))
@@ -92,9 +106,7 @@ def main():
 
     new_rows = []
     for strategy_name in STRATEGIES_TO_COMPARE:
-        eviction_strategy = build_eviction_strategy(
-            strategy_name, args.window_size, args.policy_model, not args.policy_no_scispacy
-        )
+        eviction_strategy = build_eviction_strategy(strategy_name, args.window_size)
 
         missing_budgets = [b for b in args.budgets if (strategy_name, "baseline", b) not in done]
         if not missing_budgets:
@@ -105,9 +117,19 @@ def main():
         llm = build_llm("baseline", args.base_model, None, args.base_model,
                          dtype, args.load_in_4bit, args.hf_token, args.max_new_tokens)
 
-        per_budget = run_model_across_budgets(
-            "baseline", llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore
-        )
+        if strategy_name == "oracle":
+            # Oracle keeps everything regardless of budget, so LLM behavior is
+            # identical across budgets — run once, replicate to every budget so
+            # the CSV still has an oracle reference row per budget.
+            one = run_model_across_budgets(
+                "baseline", llm, convs, [ORACLE_BUDGET], eviction_strategy, args.skip_bertscore
+            )
+            report = next(iter(one.values()))
+            per_budget = {b: report for b in missing_budgets}
+        else:
+            per_budget = run_model_across_budgets(
+                "baseline", llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore
+            )
         free_llm(llm)
 
         for budget, report in per_budget.items():
