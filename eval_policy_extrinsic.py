@@ -131,6 +131,7 @@ class HFAgendaLLM(AgendaLLM):
             {"role": "system", "content": REALTIME_SYSTEM},
             {"role": "user", "content": REALTIME_USER.format(context=context, speaker=speaker, text=text)},
         ]
+<<<<<<< Updated upstream
         # transformers 5.x makes apply_chat_template return a BatchEncoding
         # (return_dict defaults to True), not a bare tensor — passing that
         # straight into generate() blows up on inputs_tensor.shape. Ask for the
@@ -143,12 +144,37 @@ class HFAgendaLLM(AgendaLLM):
         with torch.no_grad():
             output_ids = self.model.generate(
                 **enc,
+=======
+        model_inputs = self.tokenizer.apply_chat_template(
+            messages,
+            add_generation_prompt=True,
+            tokenize=True,
+            return_tensors="pt",
+            return_dict=True,
+        )
+        model_inputs = {
+            key: value.to(self.device)
+            for key, value in model_inputs.items()
+        }
+
+        with torch.no_grad():
+            output_ids = self.model.generate(
+                **model_inputs,
+>>>>>>> Stashed changes
                 max_new_tokens=self.config.llm.max_tokens,
                 do_sample=False,
                 pad_token_id=self.tokenizer.pad_token_id or self.tokenizer.eos_token_id,
             )
 
+<<<<<<< Updated upstream
         raw = self.tokenizer.decode(output_ids[0, prompt_len:], skip_special_tokens=True)
+=======
+        prompt_length = model_inputs["input_ids"].shape[1]
+        raw = self.tokenizer.decode(
+            output_ids[0, prompt_length:],
+            skip_special_tokens=True,
+        )
+>>>>>>> Stashed changes
         output = self._parse(raw)
         self._predict_cache[key] = output
         return output
