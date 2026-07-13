@@ -90,7 +90,7 @@ DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots_strategy_comparison"
 # attn_implementation="eager"; until that is wired up the strategy would just
 # raise and abort the whole run. We skip it entirely rather than crash. Re-add
 # "attention" here once eager attention is enabled in build_llm.
-BASELINE_STRATEGIES = ["fifo", "sliding", "random", "oracle"]
+BASELINE_STRATEGIES = ["fifo", "sliding", "random", "attention", "oracle"]
 STRATEGIES_TO_COMPARE = BASELINE_STRATEGIES + ["learned"]
 
 # Buffer budget large enough that eviction never triggers -> oracle keeps all.
@@ -243,13 +243,15 @@ def build_llm(label: str, base_for_load: str, adapter_path, tokenizer_source: st
         model = AutoModelForCausalLM.from_pretrained(
             base_for_load, dtype=dtype, device_map="auto",
             quantization_config=quantization_config, token=hf_token,
-        )
+            attn_implementation="eager",
+)
     except TypeError:
         # older transformers: kwarg is `torch_dtype`, not `dtype`
         model = AutoModelForCausalLM.from_pretrained(
             base_for_load, torch_dtype=dtype, device_map="auto",
             quantization_config=quantization_config, token=hf_token,
-        )
+            attn_implementation="eager",
+)
 
     if adapter_path:
         from peft import PeftModel
