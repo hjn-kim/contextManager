@@ -85,11 +85,11 @@ DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots_strategy_comparison"
 # The Agenda LLM (Component 1) is held FIXED to the LoRA model for the whole
 # comparison. What varies is the eviction strategy: the baseline strategies
 # (run by eval_policy_baseline.py) vs the trained "learned" policy (Component 3).
-# "attention" (lowest-attention baseline) is DISABLED for now. It needs real HF
-# attention weights, which requires loading the model with
-# attn_implementation="eager"; until that is wired up the strategy would just
-# raise and abort the whole run. We skip it entirely rather than crash. Re-add
-# "attention" here once eager attention is enabled in build_llm.
+# "attention" (lowest-attention baseline) uses REAL HF attention weights from the
+# fixed LoRA model. It works because build_llm loads the model with
+# attn_implementation="eager" (SDPA/flash return no weights). eager makes
+# generation somewhat slower, so if you only need the non-attention rows you can
+# drop "attention" from this list again.
 BASELINE_STRATEGIES = ["fifo", "sliding", "random", "attention", "oracle"]
 STRATEGIES_TO_COMPARE = BASELINE_STRATEGIES + ["learned"]
 
@@ -239,19 +239,24 @@ def build_llm(label: str, base_for_load: str, adapter_path, tokenizer_source: st
         )
 
     print(f"  [{label}] base model <- {base_for_load}")
+    # attn_implementation="eager" makes the model return attention weights
+    # (output_attentions=True). The default SDPA/flash kernels silently return
+    # None, which is why the "attention" eviction baseline was disabled. eager
+    # is a bit slower for generation, but it is the only path that gives the
+    # lowest-attention strategy real weights instead of raising.
     try:
         model = AutoModelForCausalLM.from_pretrained(
             base_for_load, dtype=dtype, device_map="auto",
             quantization_config=quantization_config, token=hf_token,
             attn_implementation="eager",
-)
+        )
     except TypeError:
         # older transformers: kwarg is `torch_dtype`, not `dtype`
         model = AutoModelForCausalLM.from_pretrained(
             base_for_load, torch_dtype=dtype, device_map="auto",
             quantization_config=quantization_config, token=hf_token,
             attn_implementation="eager",
-)
+        )
 
     if adapter_path:
         from peft import PeftModel
