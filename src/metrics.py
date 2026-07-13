@@ -22,15 +22,61 @@ def compute_rouge(predictions: List[str], references: List[str]) -> Dict[str, fl
         return {}
 
 
-def compute_bertscore(predictions: List[str], references: List[str]) -> float:
+_BERTSCORE_MODEL = "microsoft/deberta-xlarge-mnli"
+_BERTSCORER = None
+_BERTSCORER_UNAVAILABLE = False
+
+
+def _get_bertscorer():
+    """Lazily build a single cached BERTScorer and reuse it everywhere.
+
+    Two reasons this is a function and not a bare bert_score.score() call:
+
+    1. Correctness. bert-score passes tokenizer.model_max_length as the
+       truncation length. deberta-xlarge-mnli leaves model_max_length at the
+       huge default sentinel (~1e30); under transformers 5.x the *fast*
+       tokenizer forwards it to the Rust enable_truncation(), which overflows
+       with "OverflowError: int too big to convert". Capping model_max_length
+       to the model's real 512 fixes it.
+
+    2. Speed. Building the scorer loads a 1.6GB model; caching it avoids
+       reloading on every call (compute_agenda_completeness otherwise reloads
+       it once per reference item).
+
+    Returns None if bert-score can't be initialized, so callers can fall back.
+    """
+    global _BERTSCORER, _BERTSCORER_UNAVAILABLE
+    if _BERTSCORER is not None:
+        return _BERTSCORER
+    if _BERTSCORER_UNAVAILABLE:
+        return None
     try:
-        from bert_score import score
-        P, R, F1 = score(predictions, references,
-                         model_type="microsoft/deberta-xlarge-mnli",
-                         verbose=False)
+        from bert_score import BERTScorer
+        scorer = BERTScorer(model_type=_BERTSCORE_MODEL)
+        tok = getattr(scorer, "_tokenizer", None)
+        mml = getattr(tok, "model_max_length", None) if tok is not None else None
+        if tok is not None and (mml is None or mml > 100_000):
+            tok.model_max_length = 512  # deberta-xlarge-mnli's real context
+        _BERTSCORER = scorer
+        return _BERTSCORER
+    except Exception as e:
+        print(f"WARNING: could not initialize bert-score ({type(e).__name__}: {e})")
+        _BERTSCORER_UNAVAILABLE = True
+        return None
+
+
+def compute_bertscore(predictions: List[str], references: List[str]) -> float:
+    if not predictions or not references:
+        return 0.0
+    scorer = _get_bertscorer()
+    if scorer is None:
+        return 0.0
+    try:
+        P, R, F1 = scorer.score(predictions, references)
         return F1.mean().item()
-    except ImportError:
-        print("WARNING: bert-score not installed")
+    except Exception as e:
+        # Don't let a single scoring failure crash the whole evaluation.
+        print(f"WARNING: bert-score failed at runtime ({type(e).__name__}: {e}).")
         return 0.0
 
 
@@ -75,34 +121,39 @@ def compute_agenda_completeness(system_summaries: List[str],
     if not system_summaries:
         return 0.0
 
-    try:
-        from bert_score import score
-        found = 0
-        for ref in reference_items:
-            refs_repeated = [ref] * len(system_summaries)
-            P, R, F1 = score(system_summaries, refs_repeated,
-                             model_type="microsoft/deberta-xlarge-mnli",
-                             verbose=False)
-            if F1.max().item() > threshold:
-                found += 1
-        return found / len(reference_items)
-    except ImportError:
+    scorer = _get_bertscorer()
+    if scorer is not None:
         try:
-            from sentence_transformers import SentenceTransformer
-            import numpy as np
-            model = SentenceTransformer("all-MiniLM-L6-v2")
-            ref_embs = model.encode(reference_items)
-            sys_embs = model.encode(system_summaries)
             found = 0
-            for ref_emb in ref_embs:
-                sims = np.dot(sys_embs, ref_emb) / (
-                    np.linalg.norm(sys_embs, axis=1) * np.linalg.norm(ref_emb) + 1e-8)
-                if sims.max() > threshold:
+            for ref in reference_items:
+                refs_repeated = [ref] * len(system_summaries)
+                P, R, F1 = scorer.score(system_summaries, refs_repeated)
+                if F1.max().item() > threshold:
                     found += 1
             return found / len(reference_items)
-        except ImportError:
-            print("WARNING: neither bert-score nor sentence-transformers installed.")
-            return -1.0
+        except Exception as e:
+            print(f"WARNING: agenda_completeness bert-score failed "
+                  f"({type(e).__name__}: {e}); falling back to sentence-transformers.")
+
+    # bert-score unavailable OR failing at runtime. Fall back to
+    # sentence-transformers cosine.
+    try:
+        from sentence_transformers import SentenceTransformer
+        import numpy as np
+        model = SentenceTransformer("all-MiniLM-L6-v2")
+        ref_embs = model.encode(reference_items)
+        sys_embs = model.encode(system_summaries)
+        found = 0
+        for ref_emb in ref_embs:
+            sims = np.dot(sys_embs, ref_emb) / (
+                np.linalg.norm(sys_embs, axis=1) * np.linalg.norm(ref_emb) + 1e-8)
+            if sims.max() > threshold:
+                found += 1
+        return found / len(reference_items)
+    except Exception:
+        print("WARNING: agenda_completeness unavailable (no working "
+              "bert-score or sentence-transformers backend).")
+        return -1.0
 
 
 def compute_linking_accuracy(system_links: List[Optional[str]],
@@ -136,6 +187,106 @@ def compute_kv_cache_memory(n_layers: int, n_heads: int, head_dim: int,
     return 2 * n_layers * n_heads * head_dim * seq_len * dtype_bytes
 
 
+def _detail_entries(annotation: dict) -> List[dict]:
+    """Normalize legacy flat outputs and current detail_list outputs."""
+    if not annotation or not annotation.get("relevant"):
+        return []
+
+    detail_list = annotation.get("detail_list")
+    if detail_list:
+        return [
+            {
+                "type": d.get("type", "detail"),
+                "summary": d.get("summary"),
+                "eval_only": d.get("eval_only"),
+            }
+            for d in detail_list
+            if d.get("summary")
+        ]
+
+    if annotation.get("summary"):
+        return [{
+            "type": annotation.get("type", "detail"),
+            "summary": annotation.get("summary"),
+            "eval_only": annotation.get("eval_only"),
+        }]
+
+    return []
+
+
+def align_detail_entries(pred_entries: List[dict], gold_entries: List[dict]):
+    """Align detail entries order-independently, for BOTH detection and ROUGE.
+
+    A single utterance may carry several details, and the model can emit them in
+    any order. Index-based pairing would then mislabel correct predictions and
+    misalign the summaries fed to ROUGE/BERTScore, so we match entries by type:
+      1. Greedily match pred/gold entries that share the same type (correct
+         regardless of position); record their (pred_summary, gold_summary) as a
+         semantically aligned pair.
+      2. Pair the leftover mismatches with each other.
+      3. Pad whatever remains against 'irrelevant'.
+
+    Returns (pred_types, gold_types, summary_pairs):
+      - pred_types / gold_types: two same-length 1:1 label lists for
+        compute_detection_metrics. Their pairing order among leftovers does not
+        affect the aggregated precision/recall.
+      - summary_pairs: [(pred_summary, gold_summary), ...] for the same-type
+        matched entries only — the pairs that are actually comparable for
+        ROUGE/BERTScore. Type-mismatched leftovers are intentionally excluded.
+    """
+    from collections import defaultdict
+
+    pred_types: List[str] = []
+    gold_types: List[str] = []
+    summary_pairs: List[tuple] = []
+
+    if not pred_entries and not gold_entries:
+        pred_types.append("irrelevant")
+        gold_types.append("irrelevant")
+        return pred_types, gold_types, summary_pairs
+
+    # Bucket gold entries by type so we can greedily match AND recover the
+    # matched gold summary for ROUGE alignment.
+    gold_by_type = defaultdict(list)
+    for g in gold_entries:
+        gold_by_type[g.get("type", "irrelevant")].append(g)
+
+    # 1. Match same-type entries first (order-independent).
+    leftover_pred: List[dict] = []
+    for p in pred_entries:
+        ptype = p.get("type", "irrelevant")
+        bucket = gold_by_type.get(ptype)
+        if bucket:
+            g = bucket.pop(0)
+            pred_types.append(ptype)
+            gold_types.append(ptype)      # same type on both sides -> correct
+            if p.get("summary") and g.get("summary"):
+                summary_pairs.append((p["summary"], g["summary"]))
+        else:
+            leftover_pred.append(p)
+
+    # 2. Remaining unmatched gold entries (order among leftovers is irrelevant).
+    leftover_gold = [g for bucket in gold_by_type.values() for g in bucket]
+
+    # 3. Pair leftover mismatches, padding the shorter side with 'irrelevant'.
+    for i in range(max(len(leftover_pred), len(leftover_gold))):
+        p = leftover_pred[i] if i < len(leftover_pred) else None
+        g = leftover_gold[i] if i < len(leftover_gold) else None
+        pred_types.append(p.get("type", "irrelevant") if p else "irrelevant")
+        gold_types.append(g.get("type", "irrelevant") if g else "irrelevant")
+
+    return pred_types, gold_types, summary_pairs
+
+
+def _append_detection_pairs(pred_entries: List[dict], gold_entries: List[dict],
+                            pred_types: List[str], gold_types: List[str]):
+    """Backward-compatible thin wrapper: append order-independent (pred, gold)
+    type labels using align_detail_entries (its summary pairs are discarded)."""
+    p_types, g_types, _ = align_detail_entries(pred_entries, gold_entries)
+    pred_types.extend(p_types)
+    gold_types.extend(g_types)
+
+
 def generate_report(harness_result, gold_annotations: List[dict] = None,
                     utterances: List[dict] = None,
                     eval_annotations: List[dict] = None) -> Dict:
@@ -164,24 +315,33 @@ def generate_report(harness_result, gold_annotations: List[dict] = None,
             pred = harness_result.llm_outputs[i] if i < len(harness_result.llm_outputs) else {"relevant": False}
             gold = gold_by_id.get(uid, {"relevant": False})
 
-            pred_type = pred.get("type", "irrelevant") if pred.get("relevant") else "irrelevant"
-            gold_type = gold.get("type", "irrelevant") if gold.get("relevant") else "irrelevant"
-            pred_types.append(pred_type)
-            gold_types.append(gold_type)
+            pred_entries = _detail_entries(pred)
+            gold_entries = _detail_entries(gold)
+            p_types, g_types, summary_pairs = align_detail_entries(pred_entries, gold_entries)
+            pred_types.extend(p_types)
+            gold_types.extend(g_types)
 
-            if pred.get("relevant") and pred.get("summary") and gold.get("relevant") and gold.get("summary"):
-                aligned_preds.append(pred["summary"])
-                aligned_golds.append(gold["summary"])
+            for pred_summary, gold_summary in summary_pairs:
+                aligned_preds.append(pred_summary)
+                aligned_golds.append(gold_summary)
 
         if aligned_preds and aligned_golds:
             report["rouge"] = compute_rouge(aligned_preds, aligned_golds)
 
         report["detection"] = compute_detection_metrics(pred_types, gold_types)
 
-        system_summaries = [o["summary"] for o in harness_result.llm_outputs
-                          if o.get("relevant") and o.get("summary")]
-        gold_agenda_items = [a["summary"] for a in gold_annotations
-                           if a.get("type") == "agenda_item"]
+        system_summaries = [
+            entry["summary"]
+            for output in harness_result.llm_outputs
+            for entry in _detail_entries(output)
+            if entry.get("summary")
+        ]
+        gold_agenda_items = [
+            entry["summary"]
+            for annotation in gold_annotations
+            for entry in _detail_entries(annotation)
+            if entry.get("type") == "agenda_item"
+        ]
         if gold_agenda_items:
             report["agenda_completeness"] = compute_agenda_completeness(
                 system_summaries, gold_agenda_items)
@@ -191,10 +351,16 @@ def generate_report(harness_result, gold_annotations: List[dict] = None,
         tracker_preds = last_tracker.get("predictions", [])
 
         if tracker_preds:
-            eval_by_id = {}
+            eval_by_key = {}
             for ann in eval_annotations:
-                if ann.get("eval_only"):
-                    eval_by_id[ann["utterance_id"]] = ann["eval_only"]
+                uid = ann["utterance_id"]
+                entries = _detail_entries(ann)
+                if entries:
+                    for i, entry in enumerate(entries):
+                        if entry.get("eval_only"):
+                            eval_by_key[(uid, i)] = entry["eval_only"]
+                elif ann.get("eval_only"):
+                    eval_by_key[(uid, 0)] = ann["eval_only"]
 
             sys_links = []
             gold_links = []
@@ -205,11 +371,16 @@ def generate_report(harness_result, gold_annotations: List[dict] = None,
 
             for pred in tracker_preds:
                 uid = pred["utterance_id"]
-                if uid in eval_by_id and pred.get("relevant"):
-                    gold_eval = eval_by_id[uid]
+                detail_index = pred.get("detail_index")
+                if detail_index is None:
+                    continue
 
-                    if pred["linked_agenda_item_id"] is not None:
-                        sys_links.append(pred["linked_agenda_item_id"])
+                key = (uid, detail_index)
+                if key in eval_by_key and pred.get("relevant"):
+                    gold_eval = eval_by_key[key]
+
+                    if "linked_agenda_item_id" in gold_eval:
+                        sys_links.append(pred.get("linked_agenda_item_id"))
                         gold_links.append(gold_eval.get("linked_agenda_item_id"))
 
                     if pred["first_mention"] is not None:

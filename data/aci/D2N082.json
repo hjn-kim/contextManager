@@ -1,0 +1,486 @@
+{
+  "id": "D2N082",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "you're ready just"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "ready"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "hi kyle how are you today"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "i'm doing well i'm just anxious about my pcp told me that i had some abnormal lab work and why she wanted me to be seen by you today"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "yeah i bet that did make you nervous i i see that she referred you for a low immunoglobulin a level is that your understanding"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "yeah i mean i do n't even really understand what that means but yeah that's what she told me"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "yeah that's a mouthful"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "it it's the the one of the antibodies in your body and that that really makes that your body makes to fight infections it's a little bit low i'm happy to explain it a little bit more to you i just have a few more questions okay so let's start again here"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "i'll do this"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "i i think i would break that"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "yeah i just saw that"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "if you can do that"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "yeah so we'll we'll just"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "you can leave it the way it is for now i just i think break that up"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "okay alright so yeah that sounds fine for me"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "yeah i do you know why she checked these levels in the first place that you've been having problems getting frequent infections"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "yeah yeah i had a recent physical and she did this as part of her my physical i do tend to get infections but i do n't know i i'm so used to it so i do n't know if this is more than usual in the wintertime i get a lot of colds and they do seem to i always say that my colds kind of linger for a long time but i do n't know if it's more than usual"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "okay how about any abdominal infections"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "diarrhea no"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "frequently"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "no not that i can not that i say can think of"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay what about your family are are anyone in your family that you know have immune deficiencies"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "no my family is actually pretty healthy"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay and how about do you have any other medical conditions"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "yeah my pcp just started me on metformin i just got diagnosed with type two diabetes"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay okay yeah diabetes your family your family owns that donut shop right i mean down at the end of the street"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "yes and that's probably part of the cause of my diabetes yes"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "yeah well i guess you're gon na have to watch that"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "i know i know"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "but you know everything in moderation i mean just you know you just need to be careful you ca n't does n't have to go away"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "right"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "but have you ever needed to receive a blood transfusion or blood products"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "no i actually tried to give blood but they i did n't qualify because i had recently traveled internationally"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "okay where did you go"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "i was in zambia"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "hmmm i heard that's beautiful"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "it's so beautiful it's so beautiful i had a great time"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "okay well let me let me go ahead and do a physical examination here i reviewed your vitals you know that the the assistants collected when you first came in including your weight and everything looks good there there is no fever there there is nothing that i'm concerned about there now on your heart exam you have a nice regular rate and rhythm and i do n't appreciate any murmurs that's kind of those extra sounds that i would hear and that that all sounds good on lungs lung exam your lungs are clear there's no wheezes rales or rhonchi now on your neck exam i do n't appreciate any lymph lymphadenopathy swollen lymph glands and then let me just go ahead and i wan na press on your belly a little bit is that tender anywhere that i press it does n't seem like you making any facial"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "no okay so your you know your abdominal exam is your belly is soft there is no tenderness as i i push around there now i did review the results of your recent lab work and it is consistent as as your pcp noted with an iga deficiency that's that immunoglobulin a that we talked about so let me tell you a little bit about the assessment and plan so for your first problem the that a iga deficiency is it very common immunodeficiency your your body makes many different types of antibodies in one of your z iga is just a little bit lower than normal now most of the time people live their entire life without even knowing they have that deficiency and function perfectly normal now some people may find that they get tend to get frequent respiratory tract or sinus or abdominal infections but this does n't necessarily seem to be the case for you now it can go along with other immunodeficiencies but i think there is a low likelihood hood in your case but we're gon na order some additional blood work that includes checking those other antibodies now do you have any questions on what i just told you"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "yeah so is there anything i need to do or should be watching for or should i be worried"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "no i i really do n't think you need to be worried now we're gon na check these additional studies and that will give us some more guidance but really i think this is just a finding that's common to you and you know it it's many people have have have these type of you know immunodeficiency what i want you to watch for is those infections that do n't stop you have trouble getting it under control or you know any changes to your abdominal tract you know severe diarrhea"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "anything like that then you know we may want to look at it a little bit further but for now i do n't think there is anything significant we want to do now go ahead and get your lab work and"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "bring you in for that now the only other thing that i would say is if you eat end up needing any blood products between now and when i see you next make sure you tell them that you have that iga deficiency"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "why is that"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "well there is a risk that your body can strongly react to some blood products and they just need to know that so they're prepared so anytime you get blood just make sure you say that you have a history of a an an iga deficiency"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "okay okay thank you"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "you're welcome"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "okay"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Kyle Lee is a 46-year-old male presenting for evaluation of low immunoglobulin A levels."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "IgA deficiency"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's history of frequent infections."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports frequent colds during winter months that tend to linger."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about abdominal infections or diarrhea."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal issues or diarrhea."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about a family history of immune deficiencies."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies a family history of immune deficiencies."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about other medical conditions."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was recently diagnosed with type 2 diabetes and is taking metformin."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient's family owns a local doughnut shop."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has ever needed a blood transfusion."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies a history of blood transfusions and notes he was ineligible to donate due to international travel."
+        },
+        {
+          "type": "social_history",
+          "summary": "The patient recently traveled to Zambia."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms normal vitals, clear lungs, normal heart rhythm, no lymphadenopathy, and a soft, non-tender abdomen."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the lab results are consistent with IgA deficiency."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order additional blood work to check other antibodies."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if there is anything he should be watching for or worried about."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient should monitor for persistent infections or severe abdominal changes like diarrhea."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is instructed to report his IgA deficiency if he requires blood transfusions in the future."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks why he needs to report his IgA deficiency for blood transfusions."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains that patients with IgA deficiency may have a strong reaction to certain blood products."
+        }
+      ]
+    }
+  ],
+  "case_description": "low immunoglobulin A level",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

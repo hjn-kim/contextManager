@@ -1,0 +1,613 @@
+{
+  "id": "D2N073",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "today i'm seeing christina cooper . her date of birth is 07/01/1954 . uh , ms. cooper is a new patient who was referred by diane nelson for a long-standing iron deficiency anemia ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hello , how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "i'm good , thank you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "so tell me what brings you in today ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "recently i tried to donate blood , around december i think , and they told me i was anemic , which is something i've been dealing with for a while , so it's not the first time i've been told i'm anemic ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "or how have you been feeling in general with this ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "not great . i have been feeling fatigued often during the day , and even feverish with chills at times . when i try to be active i like i ca n't catch my breath and i feel like i'm wheezing . i've had some headaches too , which is not like me ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay . are there any other symptoms ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "i've been noting some chilling sensations . i also get cold so easily . it's annoying . i feel like i have to really bundle up . i do n't know if this is related but my anxiety and depression feel like it has been getting worse lately . i feel like a mess ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "sounds like you're not feeling great , obviously . and i'm glad you came to see us . um , we're certainly going to try to figure this out and figure out what's going on , uh , but it sounds like you've been dealing with this anemia for a long time ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "yeah , i've been anemic since i was 13 years old ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "right . so why do your doctors think you're anemic ? do you have a history of heavy periods ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "well i did have heavy periods until i had a hysterectomy in 1996 . but no , they have not told me why they think i'm anemic , which is frustrating honestly ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "yeah . i can imagine that is . um , let's see if we can help though . since you had your hysterectomy your periods , of course , are no longer the issue . um , when was your last colonoscopy ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "about five to six years ago ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "and was it relatively a normal exam ? did you have any polyps ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "no . they said they'd see me in 10 years ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "well that's good news ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "yeah , i agree ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "um , do you have a pacemaker or defibrillator , or have sleep apnea , or use oxygen at night ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "all right . do you ever drink alcohol ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "yeah , but only once or twice a year ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "okay . are you taking any supplements such as iron or vitamin b12 ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "i already started taking my iron pills which i have not taken in about a year ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "all right . and what are you taking ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "i'm taking 25 milligram tablets , twice daily ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay , and that's the , the ferrous sulfate ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "yeah , that's it . i take one in the morning and one in the evening ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay . anything else ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "yeah , i take vitamin b12 , just the over the counter stuff ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay , very good . all right , well let's go ahead and take a look and see what's going on ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "sounds good . thank you ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "of course . you'll hear me , uh , talk through your exam so that i get all the information documented ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "all right . so use my general physical exam template . i will start by listening to your heart and lungs ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "all right . next , i'd like you to lay back so i can examine your abdomen ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "is there any tenderness where i'm pressing ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "okay . you can sit up . so your physical exam is normal without any significant findings . all right ms. cooper , often when we initially see anemia and your host of symptoms , we suspect internal bleeding ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "is that why they want me to have another upper endoscopy ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "actually it would be an upper endoscopy and a colonoscopy , but yes , likely that's the reason why ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "lovely ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "yeah . unfortunately our cameras do not meet all the way in the middle , so if those tests back , come , if those tests come back fine , then we'll have you swallow a pill camera to take pictures as it moves through your , uh , system ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "we may not need to , but it's just the first thing we can do to make sure that you're not losing blood . um , the second thing we can do is have you see a hematologist . they will tell us if you need to give any , to give you any intravenous iron , or maybe something to help your body store the iron better ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "so let's go ahead , get your upper endoscopy and colonoscopy scheduled ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "um , have you ever had any issue with sedation in the past ?"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "no , i was just sleepy afterwards ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "okay . well we will give you a bowel prep to clean out your bowels ahead of time . um , if we do these tests and they are normal , like i said , then we will consider that capsule endoscopy ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "okay . sounds like a plan ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "all right . so after that you'll be all done and we will send you to the hematologist . additionally , i'm going to need you to start taking your iron pills with orange juice . uh , the vitamin c will help you absorb the iron better . do this for about 8-12 weeks , uh , and then we can reassess your blood work ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "okay , that sounds great ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "all right . well i think we have our plan . on your way out , stop by and schedule your upper endoscopy and c- colonoscopy . uh , we will send a referral to dr. flores who is is the hematologist , so schedule that appointment . um , here are your instructions for the pre- uh , the bowel prep . uh , call us if you have any questions or worsening symptoms . we'll be happy to help you ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "thank you ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "you're welcome . have a great day , have a great day ms. cooper ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "you too ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "all right . this is christina cooper , pleasant 65 year old female who was diagnosed with iron deficiency anemia in 12-2019 , and w- and was unable to donate blood . um , her followup blood work on 01/20/20 was revealed a low hemoglobin , stable hematocrit and normal iron labs , although ferritin was low . um , she was taking ferrous sulfate , three hundred , twenty phil- 25 milligrams by mouth . i've asked her to continue each dose with vitamin c found in orange juice , for the next 12 weeks , then recheck to the cbc , iron , ferritin , b12 , and folate . um , a referral was sent to her hematologist . we will plan for an egd and a colonoscopy to assess for potential sources of anemia or gi bleed . if this is inconclusive , capsule endoscopy will be considered . thanks ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The doctor introduces the visit for a 65-year-old female patient with long-standing iron deficiency anemia."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a history of anemia and an inability to donate blood in December 2019."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports fatigue, feverishness with chills, shortness of breath with activity, wheezing, and headaches."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports tingling sensations, cold sensitivity, and worsening anxiety and depression."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been anemic since age 13."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of heavy menstrual periods."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had heavy periods until a hysterectomy in 1996."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the patient had her last colonoscopy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had a colonoscopy five to six years ago."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the previous colonoscopy had nonsignificant findings."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a pacemaker, defibrillator, sleep apnea, or uses oxygen."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies having a pacemaker, defibrillator, sleep apnea, or using oxygen."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about alcohol consumption."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient drinks alcohol one to two times per year."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking iron or vitamin B12 supplements."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is taking ferrous sulfate 25 mg twice daily."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient takes over-the-counter vitamin B12."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares an intent to perform a physical exam, starting with heart and lungs."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares an intent to examine the abdomen."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is any abdominal tenderness."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal tenderness."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reports the physical exam is normal."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains the need for an upper endoscopy and colonoscopy to investigate potential internal bleeding."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor states that if endoscopy and colonoscopy are inconclusive, a capsule endoscopy will be considered."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor states the patient will be referred to a hematologist for further evaluation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had issues with sedation in the past."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies past issues with sedation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to take iron with orange juice for 12 weeks and then recheck blood work."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0057",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to schedule an upper endoscopy, colonoscopy, and hematology appointment."
+        }
+      ]
+    }
+  ],
+  "case_description": "iron deficiency anemia; chilling sensation; anxiety; depression",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "id": "D2N084",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "alright david so you were just in the emergency department hopefully you can hear me okay through the zoom meeting what happened"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "well it seems that i was outside and i fell down i was walking a bit and i did have a pain in my chest but i did n't think anything of it and i just kept on going and then all of a sudden i'm here"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "hmmm my gosh so it looks like you you went into the er and looks like they said that your ankles were swelling a little bit too and did you have some shortness of breath"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i did but i did n't think anything of it"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "sure yeah okay yeah i know we've been talking through your hypertension looks like your blood pressure was two hundred over ninety have you been taking those meds that we have you on"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i have but i miss them every year and then so i think today i took one"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay alright yeah i have you on bumex cozaar and norvasc does that sound right"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i guess so that sounds about right"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "alright okay yeah you need to make sure that you're you're taking those consistently that's really important and i know that we talked a little bit about watching your diet how have you been doing with that"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i've just been eating anything honestly i try to watch it here and there but to tell you the truth i'd looks i was eating"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "yeah i i know it's hard around the holidays and everything but it is really important that we watch that diet what kind of things are you eating is it is it salty foods or pizza chicken wing kinda stuff or what are you standing or"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "little bit of everything here and there i do lot of chips"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "sure"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "they're pretty good i guess they're salty even though the light salt ones but"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "kinda whatever i can get my hands on really"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay alright how are you feeling right now"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i'm doing a little okay i guess i'm just out of breath a little bit but it's nothing i ca n't handle"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "sure yeah okay so you're taking your meds mostly we talked about getting you a blood pressure cuff at home did you end up getting one of those"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no i have n't got one yet i know i needed to get one"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "yeah that's that will be good if you can take your blood pressures at home and definitely track those what about any problems with shortness of breath lately"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "just like i said when i was walking outside it helped a little bit but again i just walked it off"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "sure any problems sleeping"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no i sleep like a rock"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "good good to hear have you had any chest pain"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "slightly here or there but i thought it was just heartburn"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "sure okay alright let me do a quick physical exam your blood pressure is pretty good in the office today it looks like it's one twenty eight over seventy two your other vital signs look good on your neck exam there is no jugular venous distention on your heart exam just gon na take a listen here i do appreciate a two out of six systolic ejection murmur but i heard that before and that is stable your lungs you want to take a deep breath for me lungs are clear bilaterally now i know we talked about you stopping smoking a a couple of years ago i have here have you kept up with that"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i've been pretty good on it very once every week maybe just one"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay alright good to hear alright and your lower extremities show a trace edema so megan david david i'm looking at your results of your echocardiogram that you got when you were in the er and it it does show preserved ejection fraction of fifty five percent and normal diastolic filling and mild to moderate mild to moderate mitral regurgitation so let me tell you about what that means for the chf that you were in the hospital with sounds like you know based on your diet this is likely caused by your dietary indiscretion and uncontrolled hypertension that we've been monitoring so what i want you to do is continue your bumex two milligrams once daily definitely stay on top of that make sure that you get those meds in every time i'm gon na write you a consult to nutrition since it sounds like maybe we can give you some advice on on watching your diet definitely watching the salty foods that you've been eating does that sound okay"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "that sounds good document"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "awesome weigh yourself daily do you have a scale at home"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no but i can get one"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay good get a scale weigh yourself daily call me if you gain three pounds in two days for the hypertension that we've been treating i want you to continue the cozaar one hundred milligrams daily continue the norvasc five milligrams once daily so i'll be written down in your discharge summary and i'm gon na order a test i'm gon na order a renal artery ultrasound just to make sure that we're not missing anything there does that sound good"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "that sounds good to me"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "great okay david do you have any other questions"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "no other questions at this time just i guess i just need to make sure to take my medication on time that's about it"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "yeah definitely take your medication on time and see that nutritionist and hopefully we can get your get your diet on track as well"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "i will do my best"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "alright thanks hope you feel better"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The doctor initiates a follow-up visit regarding the patient's recent emergency department encounter."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a fall and chest pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's recent emergency department visit for ankle swelling."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experienced shortness of breath."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms experiencing shortness of breath."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's blood pressure was 200/90 mm Hg."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been taking his prescribed medications."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient admits to missing doses of his medication."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor confirms the patient's current medication list."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms his medication list."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with his dietary restrictions."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient admits to not following dietary restrictions."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe his current dietary habits."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports eating salty chips."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is feeling currently."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports feeling shortness of breath."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient obtained a home blood pressure cuff."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he has not yet purchased a blood pressure cuff."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any recent problems with shortness of breath."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports shortness of breath while walking."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any problems sleeping."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any sleep problems."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any chest pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports intermittent chest pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes blood pressure is 128/72 mm Hg, no JVD, 2/6 systolic ejection murmur, and clear lungs."
+        },
+        {
+          "type": "social_history",
+          "summary": "The patient reports smoking once per week."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has continued to limit tobacco use."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient confirms he smokes once per week."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes trace edema in the lower extremities and reviews echocardiogram results showing 55% ejection fraction, normal diastolic filling, and mild to moderate mitral regurgitation."
+        },
+        {
+          "type": "medication",
+          "summary": "The patient will continue Bumex 2 mg once daily."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will provide a referral to a nutritionist."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a scale at home."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient does not have a scale."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to weigh himself daily and call if he gains 3 pounds in 2 days."
+        },
+        {
+          "type": "medication",
+          "summary": "The patient will continue Cozaar 100 mg daily and Norvasc 5 mg once daily."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a renal artery ultrasound."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any other questions."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has no further questions."
+        }
+      ]
+    }
+  ],
+  "case_description": "follow up",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

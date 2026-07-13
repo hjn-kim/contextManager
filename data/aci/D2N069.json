@@ -1,0 +1,536 @@
+{
+  "id": "D2N069",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , ms. thompson . i'm dr. moore . how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hi , dr. moore ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "hi ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i'm doing okay except for my knee ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "all right , hey , dragon , ms. thompson is a 43 year old female here for right knee pain . so tell me what happened with your knee ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "well , i was , um , trying to change a light bulb , and i was up on a ladder and i kinda had a little bit of a stumble and kinda twisted my knee as i was trying to catch my fall ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . and did you injure yourself any place else ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "no , no . it just seems to be the knee ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "all right . and when did this happen ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "it was yesterday ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "all right . and , uh , where does it hurt mostly ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "it hurts like in , in , in the inside of my knee ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "right here ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "all right . and anything make it better or worse ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i have been putting ice on it , uh , and i've been taking ibuprofen , but it does n't seem to help much ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay . so it sounds like you fell a couple days ago , and you've hurt something inside of your right knee ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "and you've been taking a little bit of ice , uh , putting some ice on it , and has n't really helped and some ibuprofen . is that right ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "that's right . yeah ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay , let's review your past history for a second . it looks like , uh , do you have any other past medical history ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "uh , afib ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay , and are you taking any medications for that ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yeah , i am . um , begins with a d."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "uh , digoxin ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "that's it . yeah , that's it ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay , all right . how about any surgeries in the past ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i have had a nose job ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "all right . um , let's do your exam , okay ? so is it tender ... where is it mostly tender right now ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "right on the inside of my knee . right here ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "all right , so if i bend your knee forward , does that seem to hurt ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yes , that hurts ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "all right , how about if i twist it a little bit that way ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "that hurts a lot ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay , okay . and how about down here ? do you feel me touch you down here ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "all right . any other pain down here in your calves ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "no , okay . so on exam you do have some tenderness over the medial portion of your knee over the medial meniscus area . uh , there is no , uh , there is a little bit of tenderness when i flex your , uh , when i , uh , uh , do some valgus stressing on your , on your leg . um , you have normal sensation . so let's take a look at your x-rays ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay . hey dragon , show me the x-rays . so looking at the x-ray , um , of your left knee , uh , it appears to be there's no fractures there right now . i do n't see any , uh , there's a little bit of , uh , fluid , uh , but there is no , uh , there's no , um , fracture or there's no dislocation . everything else seems to be lined up properly , okay ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "so in summary after my exam , uh , looking at your knee , uh , on the x-ray and your exam , you have some tenderness over the medial meniscus , so i think you have probably an acute medial meniscus sprain right now or strain . uh , at this point , my recommendation would be to put you in a knee brace , uh , and we'll go ahead and have you use some crutches temporarily for the next couple days . we'll have you come back in about a week and see how you're doing , and if it's not better , we'll get an mri at that time ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "i'm going to recommend we give you some motrin , 800 milligrams . uh , you can take it about every six hours , uh , with food . uh , and we'll give you about a two week supply ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay . uh , do you have any questions ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "no , i think i'm good ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "all right . hey , dragon , order the medications and procedures discussed , and finalize the report . okay , come with me and we'll get you checked out ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The patient is a 43-year-old female presenting for evaluation of right knee pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient twisted her right knee while stumbling on a ladder yesterday."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any other injuries."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any other injuries."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the injury occurred."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury occurred yesterday."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the location of the pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain on the inside of the right knee."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about factors that improve or worsen the pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been using ice and ibuprofen with little relief."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Review of past medical history."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's past medical history."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a history of atrial fibrillation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking medication for atrial fibrillation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is taking digoxin."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about past surgical history."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a history of rhinoplasty."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Physical examination."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs flexion of the knee."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs valgus stress testing on the knee."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor assesses sensation in the lower leg."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is pain in the calves."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies calf pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Exam shows medial joint line tenderness, pain with flexion and valgus stress, and intact sensation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-rays show no fracture or dislocation, but mild effusion is present."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The diagnosis is an acute medial meniscus sprain."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient will use a knee brace and crutches for a few days, follow up in one week, and potentially obtain an MRI if not improved."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is prescribed Motrin 800 mg every 6 hours with food for two weeks."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions."
+        }
+      ]
+    }
+  ],
+  "case_description": "right knee pain; atrial fibrillation;hx rhinoplasty",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

@@ -1,0 +1,758 @@
+{
+  "id": "D2N075",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "next is betty hill , uh , date of birth is 2/21/1968 . she has a past medical history of uterine fibroids and anemia . she's a new patient with a referral from the er of esophagitis . um , i reviewed our records from the er , including the normal cardiac workup , and we're about to go in and see her now . good morning . you miss hill ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "good morning . yes . that's me ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "hey , i'm dr. sanders . it's nice to meet you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "nice to meet you too ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so tell me about what brings you in today ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "well , i really needed to see you three months ... three months ago , but this was your first available appointment . when i called to make the appointment , i was having chest pains , but it stopped after four days , and i have n't had any since then ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . when did these four days of chest pain occur ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "um , early october ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "of 2020 , correct ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . can you think of anything that might have caused the chest pain ? did you wake up with it ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no . it just it randomly . i tolerated it for four days but then had to go to the emergency room because nothing i did relieved it . they did a bunch of testing and did n't find anything ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . can you point to the area of your chest where the pain was located ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "well , it was here in the center of my chest , right behind my breastbone . it felt like i was having a heart attack . the pain was really sharp ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "did they prescribe you any medications in the er ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no . they ran an ekg and did blood tests , but like i said , everything was normal ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay . i see ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "they thought it was something to do with the gi system , so that's why they referred me here ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "interesting . uh , do you remember having any heartburn or indigestion at , at the time ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "uh , maybe . i do n't think i've ever had heartburn , so i'm not sure what that feels like ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "was the pain worse with eating or exercise ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yes . with eating ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . any difficulty swallowing ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "mm-hmm . i did ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay . and that's also resolved since the initial episode three months ago ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yes . thankfully . the chest pain and swallowing problem got better about three days after i went to the er . but i just feel like there's something wrong ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay . so how has your weight been ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i've been trying to lose weight ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "that's good . any in- ... issues with abdominal pain ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "uh , no ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay . good . and how about your bowel movements ; are they okay ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "they're normal ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "all right . are you aware of any family history of gi problems ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i do n't think so ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "have had you had any surgeries on your abdomen , or gall bladder , or appendix ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yes . they took my gall bladder out several years ago ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay . if you wan na lay down here on the table for me and lets take a look at you ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "so when i push on your lower belly , do you have any pain , or does it feel tender ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay . how about up here in your upper abdomen ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yes . it , it hurts a little ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay . and even when i press lightly like this ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yes . uh , just a little uncomfortable ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay . does it hurt more when i press over here on the left or over here on the right ? or is it about the same ?"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "i'd say it's about the same ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay . so we'll say you have some mild tenderness to light palpation in the upper abdominal quadrants , but everything on your exam looks normal and looks good ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "okay . good ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "so let's talk about your symptoms real quick . obviously , with the chest discomfort , we worry about heart issues , but i'm reassured that those were ruled out with all the testing they did in the er . um , other potential causes could be anxiety , esophagitis , which is irritation of the esophagus . but typically with these , um ... but typically , these cause the pain that would last for a long time rather than that isolated incident like you had . um , it's also possible that you had intense heartburn for a few days ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "well , since you mention anxiety , i was going through a really stressful job transition right around the time this happened ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay . that's good to know . so stress from this could be , um ... could be , uh ... could be very well have contributed to your condition ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "so we could do an , uh , egd or upper endoscopy to take a look at your esophagus and stomach . this would allow us to look for esophagitis . but your symptoms occurred three months ago and you have n't had any additional episodes , so likely if it were esophagitis , it's already healed by the point ... by this point , and we would n't be able to see anything . the other option is just to continue to monitor , uh , for any additional symptoms at which point we could do the egd . uh , with you being asymptomatic for so long right now , i'm comfortable with that option . but what do you think ?"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "i'd like to hold off on the egd and wait to see if i have more symptoms ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "that sounds good . um , so you can call the office if you have any additional episodes of pain or any other symptoms you're concerned about . if that happens , we'll get you scheduled for an egd to take a look . if not , you can follow up with me ... follow up with me as needed for any other gi complaints ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "all right ? if you do n't have any questions for me , i'll walk you out to the check-out desk ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "no . that's it . thank you ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "you're welcome . right this way . all right . uh , in assessment , please summarize the patient's history briefly , and let's list her possible etiologies such as , uh , gerd , dyspepsia , esophagitis , musculoskeletal etiologies , and anxiety . uh , suspect she had an anxiety attack related to her job transition , plus or minus a contribution from her musculoskeletal etiologies . um , in the plan , include our discussion of the egd versus monderning ... monitoring for symptom . patient elected to self-monitor her symptoms and will call with any reoccurrence or change . thanks ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "New patient evaluation for suspected esophagitis in a 53-year-old female with a history of uterine fibroids and anemia.",
+          "eval_only": null
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor reviewed the patient's emergency department records, including a normal cardiac workup.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The doctor asks the patient to describe the reason for her visit.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a 4-day episode of chest pain that occurred three months ago and has since resolved.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the chest pain occurred.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The chest pain occurred in early October 2020.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about potential causes or triggers for the chest pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain was sudden, lasted four days, and was unresponsive to self-treatment, leading to an emergency department visit with normal test results.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to localize the chest pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as sharp and localized behind the sternum.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if any medications were prescribed in the emergency department.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms no medications were prescribed and that EKG and blood tests were normal.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was referred for suspected gastrointestinal issues.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experienced heartburn or indigestion during the episode.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is unsure if she had heartburn as she has never experienced it before.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain was exacerbated by eating or exercise.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain was exacerbated by eating.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experienced dysphagia.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she experienced dysphagia.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that chest pain and dysphagia resolved spontaneously three days after the emergency department visit.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's weight.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is attempting to lose weight.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about abdominal pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about bowel movements.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports normal bowel movements.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of gastrointestinal problems.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies family history of gastrointestinal problems.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about surgical history.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a history of cholecystectomy.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical examination of the abdomen.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient feels tenderness in the lower abdomen.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies lower abdominal tenderness.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient feels tenderness in the upper abdomen.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports mild tenderness in the upper abdomen.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The physical exam reveals mild tenderness to light palpation in the upper abdominal quadrants.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Discussion of potential etiologies for chest pain, including anxiety, esophagitis, and heartburn.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports experiencing significant stress due to a job transition during the time of her symptoms.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Discussion of the role of EGD in evaluating prior symptoms.",
+          "eval_only": null
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor recommends monitoring for symptom recurrence instead of performing an EGD at this time.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient agrees to defer the EGD and monitor for symptom recurrence.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is instructed to notify the office if symptoms recur to schedule an EGD, or follow up as needed for other gastrointestinal complaints.",
+          "eval_only": null
+        }
+      ]
+    }
+  ],
+  "case_description": "chest pain, suspected esophagitis; anxiety",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

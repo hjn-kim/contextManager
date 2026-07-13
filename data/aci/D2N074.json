@@ -1,0 +1,489 @@
+{
+  "id": "D2N074",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "patient , bruce ward . date of birth 5/21/1969 . please use my neuro consult template . this is a 52-year-old male with dia- newly diagnosed pituitary lesion . the patient is seen in consultation at the request of dr. henry howard for possible surgical intervention . mr . ward presented to his primary care provider , dr. howard , on 3/1/21 complaining of worsening headaches over the past few months . he denied any trouble with headaches in the past . his past clinical history is unremarkable ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "worked out for worsening headaches was initiated with brain mri and serology where pituitary lesion was incidentally discovered . i personally reviewed the labs dated 3/3/21 including cbc , unes , uh , coagulation , and crp . all were normal . pituitary hormone profile demonstrates a low tsh , all other results were normal . um , i personally reviewed pertinent radiology studies including mri for the brain with contrast from 3/4/21 . the mri reveals a pituitary lesion with elevation and compression of the optic chiasm . the ventricles are normal in size and no other abnormalities are lo- are noted ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "hello , mr . ward . nice to meet you . i'm dr. flores ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "hi , doc . nice to meet you ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "i was just reviewing your records from dr. howard and he's referred you because the workup for headaches revealed a mass on your pituitary gland . i did review your mri images and you have a significant mass there . can you tell me about the issues you've been experiencing ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah sure . so i'm really getting fed up with these headaches . i've been trying my best to deal with them but they've been going on for months now and i'm really struggling ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "where are the headaches located and how would you describe that pain ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "located behind my eyes . it's like a dull nagging ache ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . was the onset gradual or sudden ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "well it started about three months ago . and they've been getting worse over time . at first it was like three out of 10 severity , and it just gradually worsened . and now it's about six out of 10 severity . the headaches do tend to be worse in the morning and it feels like a dull ache behind the eyes . they last a few hours at a time , nothing makes them better or worse ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . can you tell me if the pain radiates , or if you have any other symptoms ? specifically feeling sick , fever , rashes , neck stiffness , numbness , weakness , passing out ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no . i have n't been sick or felt sick . ca n't recall a fever or any kind of rash . no- no neck issues , no numbness , no tingling . and i've never passed out in my life . but , um , for some reason recently i seem to be bumping into door frames ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . have you noticed any change in your vision or with your balance ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no i do n't think so . my eyes were checked in the fall ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . let's see , do you have any other medical problems that you take medicine for ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no i do n't have any medical problems and i do n't take any medicines . i tried tylenol a few times for the headaches but it did n't work , so i stopped ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "i see . anyone in your family have any history of diseases ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i was adopted so i really have no idea ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . um , what kind of work do you do ? and are you married ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i work as a computer programmer and i've been married for 25 years . we just bought a small house ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "that's nice . um , do you drink any alcohol , smoke , or use recreational drugs ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "nope . i do n't do any of those and never have ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . um , well let me take a good look at you . um , now you'll hear me calling out some details as i perform the examination . these will be noted for me in your record and i'll be happy to answer any questions you have once we're done ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "sounds good , doc ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "all right . the patient is alert , oriented to time , place , and person . affect is appropriate and speech is fluent . cranial nerve examination is grossly intact . no focal , motor , or sensory deficit in the upper or lower extremities . visual acuity and eye movements are normal . pupils are equal and reactive . visual field testing reveals bitemporal hemianopia . and color vision is normal ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "all right , mr. ward . i'm going to review these pictures from the mri with you . um , now this appears to be a benign pituitary adenoma , but there's no way to be sure without sending the removed adenoma to pathology to make the diagnosis , which we will do . um , here you can see it's a well defined mass . and it's pressing right here on what we call the optic chiasm . and today when i was having you look at my fingers , you could n't see them off to the sides , that's what we call bitemporal hemianopia . and explains why you have been bumping into door frames ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "yeah i never noticed that i could n't see out of the side until you did that test , and you closed one eye with both eyes . i really could n't tell ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "no because you're having this vision loss from the mass compressing the optic chiasm , the only option we have is to do surgery ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "okay , i understand . do you think i'll regain my vision ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "well there's no guarantees , but it is a possibility . i'm gon na refer you to the eye doctor for a full exam and they'll do what's called visual field test . this will map our your peripheral vision or side vision prior to surgery . and we can monitor after surgery to see if your vision is improving ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "and let's discuss the surgery a little more . um , we would do what's called a transsphenoidal approach to do the surgery . this is minimally invasive and we go through the sphenoid sinus . there are some risks i have to inform you of . uh , risk of anesthesia including but not limited to the risk of heart attack , stroke , and death . risk of surgery include infection , need for further surgery , wound issues such as spinal fluid leak or infection , uh , which may require long , prolonged hospitalization or additional procedure . uh , seizure , stroke , permanent numbness , weakness , difficulty speaking , or even death ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "well i guess we have to do it regardless ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "okay . so i will have you see our surgery scheduler , deborah , on the way out to get you set up . we will get this scheduled fairly quickly so i do n't want you to be alarmed . um , she'll also get you set up today or tomorrow to have the visual field test and you may not be able to see the eye doctor until after surgery . but we have the pre-surgery visual field test for comparison after surgery ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "okay . i look forward to these headaches going away . i never thought it could be something like this going on ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "yeah . come this way , we'll get your things lined up . please call if you think of any questions ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "thanks , doctor ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "diagnosis will be pituitary adenoma . mr . ward is a very pleasant 52-year-old male who has benign appearing pituitary adenoma , incidentally discovered during workup for worsening headaches . he is symptomatic with clinical and radiographical evidence of optic chiasmal compression , therefor surgical intervention to excise and decompress the pituitary fossa is indicated . end of note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The patient is a 52-year-old male presenting for consultation regarding a newly diagnosed pituitary lesion."
+        },
+        {
+          "type": "detail",
+          "summary": "The patient presented to his primary care provider on 03/01/2021 with worsening headaches."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Laboratory results from 03/03/2021 showed normal CBC, U&Es, coagulation, and CRP, with a low TSH."
+        },
+        {
+          "type": "detail",
+          "summary": "An MRI from 03/04/2021 revealed a pituitary lesion with elevation and compression of the optic chiasm."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The doctor introduces the visit purpose as a consultation for a pituitary mass discovered during headache workup."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe his current symptoms."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports experiencing worsening headaches for several months."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the location and description of the headaches."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the headaches as a dull, nagging ache located behind the eyes."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the onset of the headaches."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The headaches began three months ago, progressed from 3/10 to 6/10 in severity, are worse in the morning, and last a few hours."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about headache radiation and associated symptoms including fever, rash, neck stiffness, numbness, weakness, or syncope."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies fever, rash, neck stiffness, numbness, tingling, or syncope, but reports bumping into door frames."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed changes in vision or balance."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies vision or balance changes and notes his eyes were checked in the fall."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about other medical conditions and current medications."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies other medical conditions and reports Tylenol was ineffective for his headaches."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of disease."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is adopted and has no known family history."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's occupation and marital status."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a computer programmer, married for 25 years, and lives with his wife."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about alcohol, tobacco, and recreational drug use."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient denies alcohol, tobacco, and recreational drug use."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: alert and oriented, fluent speech, intact cranial nerves, no focal deficits, normal eye movements and pupils, and bitemporal hemianopia."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains the MRI shows a pituitary adenoma compressing the optic chiasm, which causes the patient's bitemporal hemianopia."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor states that surgery is the only option for the vision loss caused by the mass."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if he will regain his vision."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor states there are no guarantees for vision recovery and plans a referral to ophthalmology for baseline visual field testing."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will refer the patient to ophthalmology for visual field testing."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains the trans-sphenoidal surgical approach and associated risks including anesthesia complications, infection, spinal fluid leak, seizure, stroke, and death."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will be scheduled for surgery and visual field testing."
+        }
+      ]
+    }
+  ],
+  "case_description": "Pituitary lesion; headaches",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

@@ -1,0 +1,419 @@
+{
+  "id": "D2N083",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey lawrence how're you doing"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing alright aside from this elbow pain"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so it looks like here that you came in to see us today for an evaluation of that right elbow pain can you tell me can you can you tell me well first of all what do you think has been causing that pain"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "so i really during this pandemic i really got into ceramics and doing pottery so i've been doing a lot of pottery and over the past week i then started to develop this elbow pain"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and then so tell me a little bit more about that elbow pain where does it hurt exactly"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "you know it hurts a lot in the inside of my elbow"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay so the inside of your right elbow okay"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "and then does the pain radiate down your arm or up into your shoulder or anything like that"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "it does n't go into my shoulder it's it stays mostly at my elbow but it can go down a bit into my forearm"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and then do you remember any trauma did you hit your arm or elbow or any on anything"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no nothing i i really was trying to think if there is anything else and i ca n't think of anything"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay and you've never injured that right elbow before"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "alright so now let's talk a little bit about your pain and how bad it how bad is that pain on a scale from zero to ten ten being the worst pain you've ever felt in your life"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i would say probably a six"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay and does that pain keep you up at night"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "it does"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay and when you have that kind of pain does it keep you from doing other type of activities"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah i mean i still try to like work through with using my arm but yeah it's it's it's difficult for me sometimes to lift and do things because of that pain"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay and then and how long has this pain been going on"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "about four days now"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "alright and anything you've done to help relieve or alleviate that pain any anything that that's giving you relief"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "i've tried ibuprofen that helps a little but not much"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay so if it's okay with you i would like to do a a quick physical exam your vitals look good and i'm gon na do a focused exam on that right elbow i'm gon na go ahead and and and press here do you do you have any pain when i press here"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yes i do"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay so you are positive for pain to palpation you do note that moderate tenderness of the medial epicondyle now i'm gon na have you turn your wrist as if you're turning a door knob do you have any pain when you do that"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "not really"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay now turn your wrist in so do you have any pain when you do that"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yeah that hurts"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay so you do have pain you were positive for pain when you pronate that that that forearm okay i'm gon na go ahead and have you rest your arm on the table here palm side up now i want you to raise your hand by bending at the wrist and i'm gon na put some resistance against it do you have any pain when i press against your flexed wrist"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yes i do"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "alright so you are positive for pain with resistance against flexion of that left wrist so i let let's go ahead and review the x-ray that we did of your elbow the good news is i do n't see any fracture or bony abnormality of that right elbow which is good so let's talk a little bit about my assessment and plan for you so for the problem with elbow pain i do believe that this is consistent with medial epicondylitis which is caused by the overuse and potential damage of those tendons that bend"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "that that bend the wrist towards the palm now i want you to rest it i'm gon na order a sling and i want you to wear the sling while you're awake now we're also gon na have you apply ice to the elbow for twenty minutes three times a day and i want you to take ibuprofen that's gon na be six hundred milligrams q.6 h. with food and i want you to take that for a full week now you're not gon na like this part but i want you to hold off for the next couple of weeks on doing any type of pottery work okay alright now what i wan na do is i wan na see you again in a week and i wan na see how you're doing okay"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "alrighty"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "alrighty so i'll have the nurse come in and get you set up with that sling and i will see you again in about a week"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "alright thank you"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The patient presents for evaluation of right elbow pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient began making pottery during the COVID-19 pandemic."
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports developing elbow pain over the past week."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain on the inside of the right elbow."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain radiates to the shoulder or forearm."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain does not radiate to the shoulder but occasionally radiates to the forearm."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is a history of trauma to the elbow."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any history of trauma or injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate their pain on a scale of zero to ten."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a pain level of 6/10."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain interferes with sleep."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain affects the patient's ability to perform daily activities."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports difficulty lifting objects and performing activities of daily living."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient has done to relieve the pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports minimal relief from taking ibuprofen."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes normal vitals and performs a physical exam of the right elbow."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes moderate tenderness at the medial epicondyle."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain with pronation of the forearm."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain with resistance against flexion of the wrist."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-ray imaging of the right elbow shows no evidence of fracture or bony abnormality."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Medial epicondylitis."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is instructed to wear a sling while awake, ice the elbow 20 minutes 3 times daily, and avoid pottery for two weeks."
+        },
+        {
+          "type": "medication",
+          "summary": "The patient is instructed to take ibuprofen 600 mg every 6 hours with food for one week."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient is scheduled for a follow-up visit in one week."
+        }
+      ]
+    }
+  ],
+  "case_description": "right elbow pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}
