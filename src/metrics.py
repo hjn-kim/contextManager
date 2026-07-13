@@ -214,48 +214,77 @@ def _detail_entries(annotation: dict) -> List[dict]:
     return []
 
 
-def _append_detection_pairs(pred_entries: List[dict], gold_entries: List[dict],
-                            pred_types: List[str], gold_types: List[str]):
-    """Align detail entries order-independently.
+def align_detail_entries(pred_entries: List[dict], gold_entries: List[dict]):
+    """Align detail entries order-independently, for BOTH detection and ROUGE.
 
-    A single utterance may carry several details, and the model can emit them
-    in any order. Index-based pairing would then mislabel correct predictions,
-    so we match entries by type instead:
-      1. Greedily match pred/gold entries that share the same type (these count
-         as correct regardless of position).
+    A single utterance may carry several details, and the model can emit them in
+    any order. Index-based pairing would then mislabel correct predictions and
+    misalign the summaries fed to ROUGE/BERTScore, so we match entries by type:
+      1. Greedily match pred/gold entries that share the same type (correct
+         regardless of position); record their (pred_summary, gold_summary) as a
+         semantically aligned pair.
       2. Pair the leftover mismatches with each other.
       3. Pad whatever remains against 'irrelevant'.
-    The (pred, gold) pairing order among leftovers does not affect the
-    aggregated precision/recall in compute_detection_metrics.
+
+    Returns (pred_types, gold_types, summary_pairs):
+      - pred_types / gold_types: two same-length 1:1 label lists for
+        compute_detection_metrics. Their pairing order among leftovers does not
+        affect the aggregated precision/recall.
+      - summary_pairs: [(pred_summary, gold_summary), ...] for the same-type
+        matched entries only — the pairs that are actually comparable for
+        ROUGE/BERTScore. Type-mismatched leftovers are intentionally excluded.
     """
-    from collections import Counter
+    from collections import defaultdict
+
+    pred_types: List[str] = []
+    gold_types: List[str] = []
+    summary_pairs: List[tuple] = []
 
     if not pred_entries and not gold_entries:
         pred_types.append("irrelevant")
         gold_types.append("irrelevant")
-        return
+        return pred_types, gold_types, summary_pairs
 
-    pred_labels = [e.get("type", "irrelevant") for e in pred_entries]
-    gold_labels = [e.get("type", "irrelevant") for e in gold_entries]
+    # Bucket gold entries by type so we can greedily match AND recover the
+    # matched gold summary for ROUGE alignment.
+    gold_by_type = defaultdict(list)
+    for g in gold_entries:
+        gold_by_type[g.get("type", "irrelevant")].append(g)
 
     # 1. Match same-type entries first (order-independent).
-    gold_pool = Counter(gold_labels)
-    leftover_pred: List[str] = []
-    for label in pred_labels:
-        if gold_pool.get(label, 0) > 0:
-            gold_pool[label] -= 1
-            pred_types.append(label)
-            gold_types.append(label)      # same type on both sides -> correct
+    leftover_pred: List[dict] = []
+    for p in pred_entries:
+        ptype = p.get("type", "irrelevant")
+        bucket = gold_by_type.get(ptype)
+        if bucket:
+            g = bucket.pop(0)
+            pred_types.append(ptype)
+            gold_types.append(ptype)      # same type on both sides -> correct
+            if p.get("summary") and g.get("summary"):
+                summary_pairs.append((p["summary"], g["summary"]))
         else:
-            leftover_pred.append(label)
+            leftover_pred.append(p)
 
-    # 2. Remaining unmatched gold entries.
-    leftover_gold = list(gold_pool.elements())
+    # 2. Remaining unmatched gold entries (order among leftovers is irrelevant).
+    leftover_gold = [g for bucket in gold_by_type.values() for g in bucket]
 
     # 3. Pair leftover mismatches, padding the shorter side with 'irrelevant'.
     for i in range(max(len(leftover_pred), len(leftover_gold))):
-        pred_types.append(leftover_pred[i] if i < len(leftover_pred) else "irrelevant")
-        gold_types.append(leftover_gold[i] if i < len(leftover_gold) else "irrelevant")
+        p = leftover_pred[i] if i < len(leftover_pred) else None
+        g = leftover_gold[i] if i < len(leftover_gold) else None
+        pred_types.append(p.get("type", "irrelevant") if p else "irrelevant")
+        gold_types.append(g.get("type", "irrelevant") if g else "irrelevant")
+
+    return pred_types, gold_types, summary_pairs
+
+
+def _append_detection_pairs(pred_entries: List[dict], gold_entries: List[dict],
+                            pred_types: List[str], gold_types: List[str]):
+    """Backward-compatible thin wrapper: append order-independent (pred, gold)
+    type labels using align_detail_entries (its summary pairs are discarded)."""
+    p_types, g_types, _ = align_detail_entries(pred_entries, gold_entries)
+    pred_types.extend(p_types)
+    gold_types.extend(g_types)
 
 
 def generate_report(harness_result, gold_annotations: List[dict] = None,
@@ -288,12 +317,13 @@ def generate_report(harness_result, gold_annotations: List[dict] = None,
 
             pred_entries = _detail_entries(pred)
             gold_entries = _detail_entries(gold)
-            _append_detection_pairs(pred_entries, gold_entries, pred_types, gold_types)
+            p_types, g_types, summary_pairs = align_detail_entries(pred_entries, gold_entries)
+            pred_types.extend(p_types)
+            gold_types.extend(g_types)
 
-            for pred_entry, gold_entry in zip(pred_entries, gold_entries):
-                if pred_entry.get("summary") and gold_entry.get("summary"):
-                    aligned_preds.append(pred_entry["summary"])
-                    aligned_golds.append(gold_entry["summary"])
+            for pred_summary, gold_summary in summary_pairs:
+                aligned_preds.append(pred_summary)
+                aligned_golds.append(gold_summary)
 
         if aligned_preds and aligned_golds:
             report["rouge"] = compute_rouge(aligned_preds, aligned_golds)
