@@ -52,6 +52,7 @@ from eval_policy_extrinsic import (
     build_eviction_strategy,
     run_model_across_budgets,
     flatten_metrics,
+    model_label,
     load_cache,
     append_rows,
 )
@@ -81,7 +82,7 @@ def main():
                               "bertscore AND agenda_completeness (which is bert-score based)")
 
     parser.add_argument("--csv", default=str(DEFAULT_CSV),
-                         help="cache/result CSV (strategy, budget, metric, value) — "
+                         help="cache/result CSV (strategy, model, budget, metric, value) — "
                               "shared with eval_policy_extrinsic.py")
     parser.add_argument("--force-rerun", action="store_true",
                          help="ignore the cache and recompute every (strategy, budget) combo")
@@ -105,9 +106,11 @@ def main():
     report_cache = {}
     new_rows = []
     for strategy_name in BASELINE_STRATEGIES:
-        missing_budgets = [b for b in args.budgets if (strategy_name, b) not in done]
+        model = model_label(strategy_name, args)
+        missing_budgets = [b for b in args.budgets if (strategy_name, model, b) not in done]
         if not missing_budgets:
-            print(f"[{strategy_name}] all budgets cached in {csv_path}, skipping")
+            print(f"[{strategy_name}] all budgets cached in {csv_path} "
+                  f"(model={model}), skipping")
             continue
 
         if llm is None:
@@ -138,10 +141,10 @@ def main():
         for budget, report in per_budget.items():
             for metric, value in flatten_metrics(report).items():
                 new_rows.append({
-                    "strategy": strategy_name, "budget": budget,
+                    "strategy": strategy_name, "model": model, "budget": budget,
                     "metric": metric, "value": value,
                 })
-            done.add((strategy_name, budget))
+            done.add((strategy_name, model, budget))
 
     if llm is not None:
         log_cache_stats(llm)

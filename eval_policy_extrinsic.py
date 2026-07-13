@@ -63,6 +63,8 @@ from metrics import (
     compute_linking_accuracy,
     compute_first_mention_accuracy,
     compute_resolution_accuracy,
+    align_detail_entries,
+    _detail_entries,
 )
 from prompts import REALTIME_SYSTEM, REALTIME_USER
 
@@ -72,21 +74,32 @@ from prompts import REALTIME_SYSTEM, REALTIME_USER
 
 DEFAULT_BASE_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
 DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v2-llama-3.2-3b"
+# data/aci holds the held-out (valid) conversations. The policy was trained on
+# the train split only, so this is disjoint from the policy's training data — no
+# leakage into the learned-vs-baseline comparison.
 DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "aci"
-DEFAULT_BUDGETS = [100, 256, 512]
+DEFAULT_BUDGETS = [128, 256, 512]
 DEFAULT_CSV = PROJECT_ROOT / "output" / "strategy_comparison.csv"
 DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots_strategy_comparison"
 
 # The Agenda LLM (Component 1) is held FIXED to the LoRA model for the whole
 # comparison. What varies is the eviction strategy: the baseline strategies
 # (run by eval_policy_baseline.py) vs the trained "learned" policy (Component 3).
-BASELINE_STRATEGIES = ["fifo", "sliding", "random", "attention", "oracle"]
+# "attention" (lowest-attention baseline) is DISABLED for now. It needs real HF
+# attention weights, which requires loading the model with
+# attn_implementation="eager"; until that is wired up the strategy would just
+# raise and abort the whole run. We skip it entirely rather than crash. Re-add
+# "attention" here once eager attention is enabled in build_llm.
+BASELINE_STRATEGIES = ["fifo", "sliding", "random", "oracle"]
 STRATEGIES_TO_COMPARE = BASELINE_STRATEGIES + ["learned"]
 
 # Buffer budget large enough that eviction never triggers -> oracle keeps all.
 ORACLE_BUDGET = 999_999
 
-CSV_FIELDS = ["strategy", "budget", "metric", "value"]
+# The "model" column labels each row's source: "baseline" for every baseline
+# eviction strategy, or the policy-checkpoint name for the learned strategy (see
+# model_label). Cache key is (strategy, model, budget).
+CSV_FIELDS = ["strategy", "model", "budget", "metric", "value"]
 
 # meta fields tracked in every report but not real metrics.py values —
 # excluded from the per-metric comparison plots.
@@ -131,7 +144,6 @@ class HFAgendaLLM(AgendaLLM):
             {"role": "system", "content": REALTIME_SYSTEM},
             {"role": "user", "content": REALTIME_USER.format(context=context, speaker=speaker, text=text)},
         ]
-<<<<<<< Updated upstream
         # transformers 5.x makes apply_chat_template return a BatchEncoding
         # (return_dict defaults to True), not a bare tensor — passing that
         # straight into generate() blows up on inputs_tensor.shape. Ask for the
@@ -144,37 +156,12 @@ class HFAgendaLLM(AgendaLLM):
         with torch.no_grad():
             output_ids = self.model.generate(
                 **enc,
-=======
-        model_inputs = self.tokenizer.apply_chat_template(
-            messages,
-            add_generation_prompt=True,
-            tokenize=True,
-            return_tensors="pt",
-            return_dict=True,
-        )
-        model_inputs = {
-            key: value.to(self.device)
-            for key, value in model_inputs.items()
-        }
-
-        with torch.no_grad():
-            output_ids = self.model.generate(
-                **model_inputs,
->>>>>>> Stashed changes
                 max_new_tokens=self.config.llm.max_tokens,
                 do_sample=False,
                 pad_token_id=self.tokenizer.pad_token_id or self.tokenizer.eos_token_id,
             )
 
-<<<<<<< Updated upstream
         raw = self.tokenizer.decode(output_ids[0, prompt_len:], skip_special_tokens=True)
-=======
-        prompt_length = model_inputs["input_ids"].shape[1]
-        raw = self.tokenizer.decode(
-            output_ids[0, prompt_length:],
-            skip_special_tokens=True,
-        )
->>>>>>> Stashed changes
         output = self._parse(raw)
         self._predict_cache[key] = output
         return output
@@ -328,25 +315,25 @@ def build_report(result, conv: dict, skip_bertscore: bool) -> dict:
         pred = pred_outputs[i] if i < len(pred_outputs) else {"relevant": False}
         gold = gold_by_uid.get(utt["id"], {"relevant": False})
 
-        pred_details = pred.get("detail_list") or []
-        gold_details = gold.get("detail_list") or []
+        pred_entries = _detail_entries(pred)
+        gold_entries = _detail_entries(gold)
 
-        all_pred_summaries.extend(d["summary"] for d in pred_details if d.get("summary"))
+        all_pred_summaries.extend(e["summary"] for e in pred_entries if e.get("summary"))
         all_gold_agenda_summaries.extend(
-            d["summary"] for d in gold_details if d.get("type") == "agenda_item" and d.get("summary")
+            e["summary"] for e in gold_entries
+            if e.get("type") == "agenda_item" and e.get("summary")
         )
 
-        # Index-paired within the utterance so compute_detection_metrics
-        # (which expects two same-length 1:1 label lists) gets sensible input.
-        n = max(len(pred_details), len(gold_details), 1)
-        for j in range(n):
-            p = pred_details[j] if j < len(pred_details) else None
-            g = gold_details[j] if j < len(gold_details) else None
-            pred_types.append(p["type"] if p else "irrelevant")
-            gold_types.append(g["type"] if g else "irrelevant")
-            if p and g and p.get("summary") and g.get("summary"):
-                aligned_pred_summaries.append(p["summary"])
-                aligned_gold_summaries.append(g["summary"])
+        # Order-independent type matching (metrics.align_detail_entries): a model
+        # that emits the same details in a different order is no longer penalized,
+        # and the summaries fed to ROUGE/BERTScore are aligned by matched type
+        # rather than by list position.
+        p_types, g_types, summary_pairs = align_detail_entries(pred_entries, gold_entries)
+        pred_types.extend(p_types)
+        gold_types.extend(g_types)
+        for pred_summary, gold_summary in summary_pairs:
+            aligned_pred_summaries.append(pred_summary)
+            aligned_gold_summaries.append(gold_summary)
 
     report = {}
 
@@ -370,21 +357,33 @@ def build_report(result, conv: dict, skip_bertscore: bool) -> dict:
     tracker_state = result.tracker_states[-1] if result.tracker_states else {}
     tracker_preds = tracker_state.get("predictions", [])
 
-    eval_by_id = {}
+    # Match gold eval_only to tracker predictions by (utterance_id, detail_index),
+    # NOT by utterance_id alone. A single utterance can carry several details, each
+    # with its own eval_only; keying by uid (and taking the FIRST) collapses them
+    # and compares every prediction for that utterance to one gold entry. The
+    # tracker's detail_index is the position within that utterance's detail_list
+    # (state_tracker.update), so the gold detail_list is enumerated the same way.
+    eval_by_key = {}
     for utt in utterances:
         gold = gold_by_uid.get(utt["id"], {})
-        for d in (gold.get("detail_list") or []):
-            if d.get("eval_only"):
-                eval_by_id[utt["id"]] = d["eval_only"]
-                break
+        details = gold.get("detail_list")
+        if details:
+            for idx, d in enumerate(details):
+                if d.get("eval_only"):
+                    eval_by_key[(utt["id"], idx)] = d["eval_only"]
+        elif gold.get("eval_only"):
+            eval_by_key[(utt["id"], 0)] = gold["eval_only"]
 
     sys_links, gold_links = [], []
     sys_first, gold_first = [], []
     sys_res, gold_res = [], []
     for pred in tracker_preds:
-        uid = pred["utterance_id"]
-        if uid in eval_by_id and pred.get("relevant"):
-            ge = eval_by_id[uid]
+        detail_index = pred.get("detail_index")
+        if detail_index is None:
+            continue
+        key = (pred["utterance_id"], detail_index)
+        if key in eval_by_key and pred.get("relevant"):
+            ge = eval_by_key[key]
             if pred["linked_agenda_item_id"] is not None:
                 sys_links.append(pred["linked_agenda_item_id"])
                 gold_links.append(ge.get("linked_agenda_item_id"))
@@ -457,8 +456,14 @@ def build_eviction_strategy(strategy_name: str, window_size: int, policy_model: 
         if not policy_model:
             raise ValueError("strategy 'learned' requires --policy-model <path to a trained .pt checkpoint>")
         from policy import LearnedEvictionStrategy
+        # Reuse the already-loaded tracker sentence encoder (the same
+        # all-MiniLM-L6-v2 the policy was trained on) instead of loading a second
+        # copy. If it could not be loaded, LearnedEvictionStrategy tries once more
+        # and then fails loudly rather than silently scoring on zero embeddings.
+        encoder = _shared_tracker_encoder()
         print(f"Loading learned eviction policy from {policy_model} (use_scispacy={use_scispacy})")
-        return LearnedEvictionStrategy(model_path=policy_model, use_scispacy=use_scispacy)
+        return LearnedEvictionStrategy(model_path=policy_model, use_scispacy=use_scispacy,
+                                       encoder=encoder)
 
     if strategy_name == "sliding":
         return get_strategy("sliding", window_size=window_size)
@@ -593,7 +598,39 @@ def _safe_filename(s: str) -> str:
 
 
 # =============================================================================
-# CSV CACHE — (strategy, budget) already computed -> skip re-running.
+# MODEL LABEL — the "model" column value for a row
+# =============================================================================
+
+def policy_model_name(policy_model_path) -> str:
+    """Human-readable name for a learned policy checkpoint, taken from its
+    filename: the part after 'eviction_mlp_' and before '.pt'.
+      models/policy/eviction_mlp_bertscore_0p75.pt -> 'bertscore_0p75'
+    """
+    if not policy_model_path:
+        return "learned"
+    stem = Path(policy_model_path).stem  # drops the .pt suffix
+    prefix = "eviction_mlp_"
+    if stem.startswith(prefix):
+        stem = stem[len(prefix):]
+    return stem or "learned"
+
+
+def model_label(strategy_name: str, args) -> str:
+    """CSV 'model' column: 'baseline' for every baseline strategy, or the policy
+    checkpoint name (policy_model_name) for the learned strategy.
+
+    NOTE: this label does NOT encode the Agenda model_path, dataset, dtype, or
+    scispaCy flag. The cache key is therefore (strategy, model, budget) — enough
+    to keep different policy checkpoints apart, but NOT different Agenda
+    models/datasets. Keep --model-path/--data-dir fixed across runs (or clear the
+    CSV) so stale rows are not reused."""
+    if strategy_name == "learned":
+        return policy_model_name(getattr(args, "policy_model", None))
+    return "baseline"
+
+
+# =============================================================================
+# CSV CACHE — (strategy, model, budget) already computed -> skip re-running.
 # Lets eval_policy_baseline.py pre-fill the baseline-strategy rows separately,
 # and this script only fills in whatever is still missing (normally "learned").
 # =============================================================================
@@ -606,28 +643,36 @@ def _csv_header(csv_path: Path):
         return next(csv.reader(f), None)
 
 
+def _backup_incompatible(csv_path: Path, reason: str):
+    """Back up a CSV whose header does not match the current schema and let the
+    caller start fresh, rather than risk mixing incompatible rows."""
+    backup = csv_path.with_suffix(csv_path.suffix + ".bak")
+    csv_path.replace(backup)
+    print(f"WARNING: {csv_path.name} {reason}; backed up to {backup.name} and "
+          f"starting a fresh CSV.")
+
+
 def load_cache(csv_path: Path):
     rows = []
     done = set()
     header = _csv_header(csv_path)
     if header is None:
         return rows, done
+
     if header != CSV_FIELDS:
-        # An old/foreign schema (e.g. the previous strategy,model,budget,...
-        # layout). Reading 4-field rows against a 5-field header shifts columns
-        # and blows up int(budget). Ignore it as cache; append_rows() will back
-        # it up and start a fresh CSV with the current schema.
-        print(f"WARNING: {csv_path} has an incompatible schema {header} "
-              f"(expected {CSV_FIELDS}); ignoring it as cache and rewriting fresh.")
+        # Different schema (e.g. an older layout without the 'model' column).
+        # Back up and start clean rather than risk mixing incompatible rows.
+        _backup_incompatible(csv_path, "has an incompatible schema")
         return rows, done
+
     with open(csv_path, encoding="utf-8", newline="") as f:
         for r in csv.DictReader(f):
             try:
                 budget = int(r["budget"])
-            except (TypeError, ValueError):
-                continue  # skip any stray malformed row rather than crash
+            except (TypeError, ValueError, KeyError):
+                continue
             rows.append(r)
-            done.add((r["strategy"], budget))
+            done.add((r["strategy"], r["model"], budget))
     return rows, done
 
 
@@ -636,12 +681,8 @@ def append_rows(csv_path: Path, rows: list):
     header = _csv_header(csv_path)
     if header is not None and header != CSV_FIELDS:
         # Don't append current-schema rows into a file with an incompatible
-        # header — that is exactly what produces mixed/misaligned CSVs. Back the
-        # old file up and start clean.
-        backup = csv_path.with_suffix(csv_path.suffix + ".bak")
-        print(f"WARNING: {csv_path} has an incompatible header; backing it up to "
-              f"{backup} and starting a fresh CSV.")
-        csv_path.replace(backup)
+        # header — that is exactly what produces mixed/misaligned CSVs.
+        _backup_incompatible(csv_path, "has an incompatible header")
     write_header = not csv_path.exists()
     with open(csv_path, "a", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=CSV_FIELDS)
@@ -763,7 +804,7 @@ def main():
                               "bertscore AND agenda_completeness (which is bert-score based)")
 
     parser.add_argument("--csv", default=str(DEFAULT_CSV),
-                         help="cache/result CSV (strategy, budget, metric, value) — "
+                         help="cache/result CSV (strategy, model, budget, metric, value) — "
                               "shared with eval_policy_baseline.py")
     parser.add_argument("--plot-dir", default=str(DEFAULT_PLOT_DIR))
     parser.add_argument("--no-plots", action="store_true")
@@ -790,9 +831,11 @@ def main():
     report_cache = {}
     new_rows = []
     for strategy_name in STRATEGIES_TO_COMPARE:
-        missing_budgets = [b for b in args.budgets if (strategy_name, b) not in done]
+        model = model_label(strategy_name, args)
+        missing_budgets = [b for b in args.budgets if (strategy_name, model, b) not in done]
         if not missing_budgets:
-            print(f"[{strategy_name}] all budgets cached in {csv_path}, skipping")
+            print(f"[{strategy_name}] all budgets cached in {csv_path} "
+                  f"(model={model}), skipping")
             continue
 
         if llm is None:
@@ -826,10 +869,10 @@ def main():
         for budget, report in per_budget.items():
             for metric, value in flatten_metrics(report).items():
                 new_rows.append({
-                    "strategy": strategy_name, "budget": budget,
+                    "strategy": strategy_name, "model": model, "budget": budget,
                     "metric": metric, "value": value,
                 })
-            done.add((strategy_name, budget))
+            done.add((strategy_name, model, budget))
 
     if llm is not None:
         log_cache_stats(llm)
@@ -842,7 +885,15 @@ def main():
         print(f"\nNothing new to run — everything already cached in {csv_path}.")
 
     if not args.no_plots:
-        write_plots(cached_rows + new_rows, Path(args.plot_dir))
+        # Plot the baselines plus the CURRENT learned checkpoint only, so a CSV
+        # that accumulated several learned checkpoints does not mix them on the
+        # same chart.
+        learned_label = policy_model_name(args.policy_model)
+        plot_rows = [
+            r for r in (cached_rows + new_rows)
+            if r.get("model") in ("baseline", learned_label)
+        ]
+        write_plots(plot_rows, Path(args.plot_dir))
 
 
 if __name__ == "__main__":
