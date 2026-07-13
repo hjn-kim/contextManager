@@ -14,7 +14,6 @@ Input features per summary (396-d):
   [389:396] type one-hot (agenda_item, detail, medication, social_history, follow_up, question_unanswered, question)
 """
 
-import sys
 import torch
 import torch.nn as nn
 import random
@@ -71,14 +70,18 @@ def _get_scispacy_nlp():
     """
     scispaCy(en_core_sci_sm) 모델을 최초 한 번만 로드한다.
 
-    학습 feature 생성(context_manager_labels._get_scispacy_nlp)과 '완전히 동일한'
-    동작을 위해 로드 실패 시 예외를 던지지 않고 None을 반환한다. 학습 시에도 모델이
-    없으면 entity_count=0.0으로 fallback 했으므로, 추론에서만 예외를 던지면 오히려
-    학습과 다른 코드 경로가 된다. 대신 경고를 한 번 출력해 조용한 불일치를 막는다.
+    로드에 실패하면 조용히 fallback 하지 않고 예외를 던진다. entity_count(feature[388])
+    를 0.0으로 대체하면 학습 시 분포와 어긋나 learned 정책 점수가 조용히 망가지므로,
+    _get_encoder와 동일하게 크게 실패시킨다. scispaCy 없이 돌리려면 use_scispacy=False로
+    명시적으로 opt-out 해야 한다(그 경우 아예 이 함수를 타지 않는다).
     """
     global _SCISPACY_NLP, _SCISPACY_LOAD_ATTEMPTED
 
     if _SCISPACY_LOAD_ATTEMPTED:
+        if _SCISPACY_NLP is None:
+            raise RuntimeError(
+                "scispaCy en_core_sci_sm was required but previously failed to load."
+            )
         return _SCISPACY_NLP
 
     _SCISPACY_LOAD_ATTEMPTED = True
@@ -90,14 +93,14 @@ def _get_scispacy_nlp():
         print("Loaded scispaCy model: en_core_sci_sm")
     except Exception as exc:
         _SCISPACY_NLP = None
-        print(
-            "WARNING: scispaCy en_core_sci_sm could not be loaded; entity_count "
-            "will fall back to 0.0. If this C3 checkpoint was trained WITH "
-            "scispaCy entity_count, that silently shifts the input distribution "
-            f"— install the same training model. Reason: {exc}",
-            file=sys.stderr,
-            flush=True,
-        )
+        raise RuntimeError(
+            "scispaCy en_core_sci_sm could not be loaded, but entity_count "
+            "(feature[388]) requires it. Falling back to 0.0 would silently shift "
+            "the input distribution the C3 checkpoint was trained on and wreck the "
+            "learned policy's scores. Install the scispaCy model (en_core_sci_sm), "
+            "or pass use_scispacy=False to opt out explicitly. "
+            f"Reason: {exc}"
+        ) from exc
 
     return _SCISPACY_NLP
 
@@ -106,9 +109,10 @@ def get_entity_count_cached(text: str, use_scispacy: bool = True) -> float:
     """
     summary에서 scispaCy가 검출한 의료 엔터티 개수를 반환한다.
 
-    학습(context_manager_labels.get_entity_count_cached)과 동일한 규약:
-      - use_scispacy=False 또는 모델 미로드 → 0.0
-      - 그 외 → 앞뒤 공백 제거 후 en_core_sci_sm의 len(doc.ents)를 float로 반환
+    규약:
+      - use_scispacy=False → 0.0 (명시적 opt-out)
+      - 그 외 → 앞뒤 공백 제거 후 en_core_sci_sm의 len(doc.ents)를 float로 반환.
+        모델 로드에 실패하면 _get_scispacy_nlp가 예외를 던진다(0.0 fallback 없음).
       - 동일 summary는 캐시 사용
     """
     if not use_scispacy:
@@ -120,11 +124,6 @@ def get_entity_count_cached(text: str, use_scispacy: bool = True) -> float:
         return _ENTITY_COUNT_CACHE[key]
 
     nlp = _get_scispacy_nlp()
-
-    if nlp is None:
-        _ENTITY_COUNT_CACHE[key] = 0.0
-        return 0.0
-
     doc = nlp(key)
     count = float(len(doc.ents))
     _ENTITY_COUNT_CACHE[key] = count
