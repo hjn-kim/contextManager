@@ -1,30 +1,42 @@
 """
 ATLAS System Tracker (Component 2)
 ====================================
-Deterministic, rule-based. No LLM calls. Runs on CPU.
+Deterministic, rule-based tracker for agenda state.
 
-Responsibilities:
-  - Linking: associate summary with parent agenda item
-  - First-mention detection: new info vs repeated
-  - Resolution tracking: mentioned → discussed → resolved → unresolved
-  - Nesting: details under agenda items
-  - Visit phase: greeting → history → exam → planning → wrap_up
+The tracker consumes model-facing outputs only:
+  - relevant
+  - type
+  - summary / detail_list
+
+It produces system-level fields used by eval_only metrics:
+  - linked_agenda_item_id
+  - first_mention
+  - resolution_status
+
+Design rule: agenda creation, child linking, and nesting are separate
+decisions. A child detail that cannot be linked does not automatically create
+a new agenda item.
 """
 
 from dataclasses import dataclass, field
-from typing import List, Dict, Optional
-from config import TrackerConfig, DEFAULT_CONFIG
+from typing import Dict, List, Optional, Tuple
+import copy
+
+from config import DEFAULT_CONFIG, TrackerConfig
 
 
 @dataclass
 class AgendaItem:
-    """One agenda item with nested details."""
+    """One agenda item with nested clinical summaries."""
+
     id: str
-    topic: str                          # summary text of the agenda item
-    status: str = "mentioned"           # mentioned / discussed / resolved / unresolved
-    first_mentioned: str = ""           # utterance_id
-    speakers: List[str] = field(default_factory=list)  # who contributed
+    topic: str
+    status: str = "mentioned"
+    first_mentioned: str = ""
+    speakers: List[str] = field(default_factory=list)
     details: List[str] = field(default_factory=list)
+    questions: List[str] = field(default_factory=list)
+    social_history: List[str] = field(default_factory=list)
     medications: List[str] = field(default_factory=list)
     follow_ups: List[str] = field(default_factory=list)
     unanswered: List[str] = field(default_factory=list)
@@ -33,111 +45,125 @@ class AgendaItem:
 
 class SystemTracker:
     """
-    Maintains hierarchical agenda graph.
-    Updated after each Agenda LLM output.
+    Maintains a lightweight agenda graph.
+
+    Agenda creation is separate from child attachment:
+    - agenda_item details open agenda items directly
+    - child details link to an existing agenda or remain unlinked
+    - child details never create agenda items on their own
     """
+
+    CHILD_TYPES = {
+        "detail",
+        "medication",
+        "follow_up",
+        "plan",
+        "question",
+        "question_unanswered",
+    }
+    GLOBAL_TYPES = {"social_history"}
 
     def __init__(self, config: TrackerConfig = None):
         self.config = config or DEFAULT_CONFIG.tracker
         self.agenda_items: List[AgendaItem] = []
-        self.all_summaries: List[str] = []       # for first-mention detection
+        self.all_summaries: List[str] = []
         self.visit_phase: str = "greeting"
-        self._encoder = None                      # lazy-loaded sentence encoder
-        self._item_counter = 0
-
-        # Per-utterance prediction log (for evaluation against _eval_only)
+        self._encoder = None
+        self._active_agenda_item: Optional[AgendaItem] = None
+        self.global_items: Dict[str, List[str]] = {
+            "social_history": [],
+            "unlinked": [],
+        }
         self.predictions: List[Dict] = []
 
-    # -----------------------------------------------------------------
+    # ------------------------------------------------------------------
     # Public API
-    # -----------------------------------------------------------------
+    # ------------------------------------------------------------------
 
     def update(self, llm_output, utterance: dict):
-        """
-        Process one LLM output.
-        llm_output: LLMOutput with detail_list or single type/summary
-        utterance: {"id", "speaker", "text"}
-        """
+        """Process one LLM output for one utterance."""
+        speaker = utterance["speaker"]
+        utt_id = utterance["id"]
+        utterance_text = utterance.get("text", "")
+
+        self._update_visit_phase(utterance_text)
+
         if not llm_output.relevant:
             self.predictions.append({
-                "utterance_id": utterance["id"],
+                "utterance_id": utt_id,
+                "detail_index": None,
                 "relevant": False,
+                "type": "irrelevant",
+                "summary": None,
                 "linked_agenda_item_id": None,
                 "first_mention": None,
                 "resolution_status": None,
             })
             return
 
-        speaker = utterance["speaker"]
-        utt_id = utterance["id"]
+        details = self._iter_details(llm_output)
+        current_utterance_parent: Optional[AgendaItem] = None
 
-        # Update visit phase
-        self._update_visit_phase(utterance["text"])
-
-        # Build list of (type, summary) pairs
-        details = []
-        if llm_output.detail_list:
-            details = [(d["type"], d["summary"]) for d in llm_output.detail_list]
-        elif llm_output.summary:
-            details = [(llm_output.type or "detail", llm_output.summary)]
-
-        # Process each detail
-        for utt_type, summary in details:
+        for detail_index, (utt_type, summary) in enumerate(details):
             is_first = self._is_first_mention(summary)
             self.all_summaries.append(summary)
 
-            linked_item_id = None
+            state_item_id = None
+            predicted_link_id = None
+            predicted_status = self._resolution_majority_baseline()
+
             if utt_type == "agenda_item":
-                new_item = self._create_agenda_item(summary, utt_id, speaker)
-                linked_item_id = new_item.id
+                parent = self._create_agenda_item(summary, utt_id, speaker)
+                current_utterance_parent = parent
+                state_item_id = parent.id
+
+            elif utt_type in self.GLOBAL_TYPES:
+                self.global_items.setdefault(utt_type, []).append(summary)
+
             else:
-                parent = self._find_parent(summary)
-                if parent is None:
-                    new_item = self._create_agenda_item(summary, utt_id, speaker)
-                    linked_item_id = new_item.id
-                else:
-                    linked_item_id = parent.id
+                parent = self._resolve_child_parent(
+                    summary=summary,
+                    utt_type=utt_type,
+                    utterance=utterance,
+                    current_utterance_parent=current_utterance_parent,
+                )
+
+                if parent is not None:
+                    self._active_agenda_item = parent
                     self._nest_under(parent, summary, utt_type, speaker)
                     self._update_resolution(parent, utt_type, speaker)
+                    state_item_id = parent.id
+                    predicted_link_id = parent.id
+                else:
+                    self.global_items.setdefault("unlinked", []).append(summary)
 
             self.predictions.append({
                 "utterance_id": utt_id,
+                "detail_index": detail_index,
                 "relevant": True,
-                "linked_agenda_item_id": linked_item_id,
+                "type": utt_type,
+                "summary": summary,
+                "linked_agenda_item_id": predicted_link_id,
                 "first_mention": is_first,
-                "resolution_status": self._get_item_status(linked_item_id),
+                "resolution_status": predicted_status,
             })
 
     def finalize(self):
         """
-        Call after conversation ends.
-        1. Marks agenda items that were only 'mentioned' as 'unresolved'.
-        2. Marks items with unanswered questions appropriately.
-        3. Updates predictions list with final resolution statuses.
+        Finalize agenda item state only.
+
+        Per-detail predictions remain event-time predictions for eval_only
+        comparison and are not overwritten with final agenda state.
         """
-        # Update agenda item statuses
         for item in self.agenda_items:
             if item.status == "mentioned":
                 item.status = "unresolved"
-            if item.unanswered:
-                if item.status == "resolved":
-                    item.status = "discussed"
-
-        # Update predictions with final statuses
-        for pred in self.predictions:
-            if pred["linked_agenda_item_id"]:
-                pred["resolution_status"] = self._get_item_status(
-                    pred["linked_agenda_item_id"]
-                )
+            if item.unanswered and item.status == "resolved":
+                item.status = "discussed"
 
     def get_state(self) -> dict:
-        """
-        Current tracker state as dict.
-        Returns a deep copy to prevent snapshot aliasing —
-        modifying this dict won't affect internal state.
-        """
-        import copy
-        state = {
+        """Return a copy of the current tracker state."""
+        return {
             "agenda_items": [
                 {
                     "id": item.id,
@@ -145,117 +171,131 @@ class SystemTracker:
                     "status": item.status,
                     "first_mentioned": item.first_mentioned,
                     "details": list(item.details),
+                    "questions": list(item.questions),
+                    "social_history": list(item.social_history),
                     "medications": list(item.medications),
                     "follow_ups": list(item.follow_ups),
                     "unanswered": list(item.unanswered),
                 }
                 for item in self.agenda_items
             ],
+            "global_items": copy.deepcopy(self.global_items),
             "visit_phase": self.visit_phase,
             "predictions": copy.deepcopy(self.predictions),
         }
-        return state
 
     def get_predictions(self) -> List[Dict]:
-        """
-        Per-utterance predictions for evaluation.
-        Each entry: {utterance_id, relevant, linked_agenda_item_id,
-                     first_mention, resolution_status}
-        Compare against _eval_only fields in eval JSON.
-        """
+        """Return per-detail tracker predictions."""
         return self.predictions
 
-    def _get_item_status(self, item_id: str) -> Optional[str]:
-        """Get current status of an agenda item by ID."""
-        for item in self.agenda_items:
-            if item.id == item_id:
-                return item.status
+    # ------------------------------------------------------------------
+    # Detail routing
+    # ------------------------------------------------------------------
+
+    @staticmethod
+    def _iter_details(llm_output) -> List[Tuple[str, str]]:
+        if llm_output.detail_list:
+            return [
+                (d["type"], d["summary"])
+                for d in llm_output.detail_list
+                if d.get("type") and d.get("summary")
+            ]
+        if llm_output.summary:
+            return [(llm_output.type or "detail", llm_output.summary)]
+        return []
+
+    def _resolve_child_parent(
+        self,
+        summary: str,
+        utt_type: str,
+        utterance: dict,
+        current_utterance_parent: Optional[AgendaItem],
+    ) -> Optional[AgendaItem]:
+        if current_utterance_parent is not None:
+            return current_utterance_parent
+
+        semantic_parent = self._find_semantic_parent(summary)
+        if semantic_parent is not None:
+            return semantic_parent
+
         return None
 
-    # -----------------------------------------------------------------
-    # Linking
-    # -----------------------------------------------------------------
-
-    def _find_parent(self, summary: str) -> Optional[AgendaItem]:
-        """
-        Find the agenda item most similar to this summary.
-        Returns None if no match above threshold.
-        """
+    def _find_semantic_parent(self, summary: str) -> Optional[AgendaItem]:
         if not self.agenda_items:
             return None
 
         encoder = self._get_encoder()
         if encoder is None:
-            # Fallback: no encoder available, can't link
             return None
 
         summary_emb = encoder.encode(summary)
         best_item = None
-        best_sim = -1
+        best_score = -1.0
 
         for item in self.agenda_items:
-            if item.embedding is None:
-                item.embedding = encoder.encode(item.topic).tolist()
-            sim = self._cosine_sim(summary_emb, item.embedding)
-            if sim > best_sim:
-                best_sim = sim
+            topic_emb = self._item_topic_embedding(item, encoder)
+            topic_score = self._cosine_sim(summary_emb, topic_emb)
+
+            agenda_text = self._agenda_text(item)
+            context_score = topic_score
+            if agenda_text and agenda_text != item.topic:
+                context_score = self._cosine_sim(summary_emb, encoder.encode(agenda_text))
+
+            score = max(topic_score, context_score)
+            if score > best_score:
+                best_score = score
                 best_item = item
 
-        if best_sim >= self.config.linking_threshold:
+        if best_item is None:
+            return None
+
+        if best_score >= self.config.linking_threshold:
             return best_item
+
         return None
 
-    # -----------------------------------------------------------------
-    # First-mention detection
-    # -----------------------------------------------------------------
+    # ------------------------------------------------------------------
+    # First mention
+    # ------------------------------------------------------------------
 
     def _is_first_mention(self, summary: str) -> bool:
-        """
-        Is this summary new information or a repeat?
-        Returns True if first mention.
-        """
         if not self.all_summaries:
             return True
 
         encoder = self._get_encoder()
         if encoder is None:
-            return True  # Can't check, assume new
+            return True
 
         summary_emb = encoder.encode(summary)
         for prior in self.all_summaries:
             prior_emb = encoder.encode(prior)
-            sim = self._cosine_sim(summary_emb, prior_emb)
-            if sim > self.config.repeat_threshold:
-                return False  # Too similar → repeated
-
+            if self._cosine_sim(summary_emb, prior_emb) > self.config.repeat_threshold:
+                return False
         return True
 
-    # -----------------------------------------------------------------
-    # Resolution tracking
-    # -----------------------------------------------------------------
+    # ------------------------------------------------------------------
+    # Resolution and nesting
+    # ------------------------------------------------------------------
 
     def _update_resolution(self, item: AgendaItem, utt_type: str, speaker: str):
-        """
-        State machine:
-          mentioned → discussed (both speakers contribute)
-          discussed → resolved (follow_up references it)
-        """
         if speaker not in item.speakers:
             item.speakers.append(speaker)
-
         if utt_type == "follow_up":
             item.status = "resolved"
-        elif len(item.speakers) >= 2 and item.status == "mentioned":
-            item.status = "discussed"
 
-    # -----------------------------------------------------------------
-    # Nesting
-    # -----------------------------------------------------------------
+    @staticmethod
+    def _resolution_majority_baseline() -> str:
+        """
+        Majority-class placeholder for per-detail event-time resolution.
 
-    def _nest_under(self, parent: AgendaItem, summary: str,
-                    utt_type: str, speaker: str):
-        """Place summary under the parent agenda item by type."""
-        if utt_type == "detail":
+        This is not a real resolution tracker. It prevents final agenda state
+        from overwriting historical predictions, but it should be reported as a
+        majority baseline until a measured resolution signal is added.
+        """
+        return "mentioned"
+
+    def _nest_under(self, parent: AgendaItem, summary: str, utt_type: str, speaker: str):
+        if utt_type == "detail" or utt_type == "plan":
             parent.details.append(summary)
         elif utt_type == "medication":
             parent.medications.append(summary)
@@ -263,62 +303,101 @@ class SystemTracker:
             parent.follow_ups.append(summary)
         elif utt_type == "question_unanswered":
             parent.unanswered.append(summary)
+        elif utt_type == "question":
+            parent.questions.append(summary)
         elif utt_type == "social_history":
-            parent.details.append(summary)  # social_history nests as detail
+            parent.social_history.append(summary)
         else:
             parent.details.append(summary)
 
     def _create_agenda_item(self, summary: str, utt_id: str, speaker: str) -> AgendaItem:
-        """
-        Create a new agenda item.
-        ID = utterance_id where it was first mentioned (e.g., "line_0004").
-        This matches gold _eval_only.linked_agenda_item_id format,
-        enabling direct comparison in compute_linking_accuracy().
-        """
         item = AgendaItem(
-            id=utt_id,  # Use utterance_id, NOT synthetic A001
+            id=utt_id,
             topic=summary,
             first_mentioned=utt_id,
             speakers=[speaker],
         )
         self.agenda_items.append(item)
+        self._active_agenda_item = item
         return item
 
-    # -----------------------------------------------------------------
+    # ------------------------------------------------------------------
+    # State helpers
+    # ------------------------------------------------------------------
+
+    def _get_item_status(self, item_id: str) -> Optional[str]:
+        for item in self.agenda_items:
+            if item.id == item_id:
+                return item.status
+        return None
+
+    def _agenda_text(self, item: AgendaItem) -> str:
+        parts = [
+            item.topic,
+            *item.details,
+            *item.questions,
+            *item.social_history,
+            *item.medications,
+            *item.follow_ups,
+            *item.unanswered,
+        ]
+        return " ".join(part for part in parts if part)
+
+    @staticmethod
+    def _item_topic_embedding(item: AgendaItem, encoder):
+        if item.embedding is None:
+            item.embedding = encoder.encode(item.topic).tolist()
+        return item.embedding
+
+    # ------------------------------------------------------------------
     # Visit phase detection
-    # -----------------------------------------------------------------
+    # ------------------------------------------------------------------
 
     PHASE_KEYWORDS = {
         "greeting": ["how are you", "hello", "hi ", "good morning", "nice to see"],
-        "history_taking": ["how long", "when did", "any symptoms", "tell me about",
-                          "how are you doing with", "have you been"],
-        "examination": ["physical exam", "let me check", "blood pressure",
-                       "heart sounds", "lungs", "examination"],
-        "planning": ["i want to", "i'd like to", "we'll", "plan is",
-                    "i'm going to order", "let's go ahead"],
-        "wrap_up": ["any questions", "good to see you", "take care",
-                   "finalize the note"],
+        "history_taking": [
+            "how long",
+            "when did",
+            "any symptoms",
+            "tell me about",
+            "how are you doing with",
+            "have you been",
+        ],
+        "examination": [
+            "physical exam",
+            "let me check",
+            "blood pressure",
+            "heart sounds",
+            "lungs",
+            "examination",
+        ],
+        "planning": [
+            "i want to",
+            "i'd like to",
+            "we'll",
+            "plan is",
+            "i'm going to order",
+            "let's go ahead",
+        ],
+        "wrap_up": ["any questions", "good to see you", "take care", "finalize the note"],
     }
 
     def _update_visit_phase(self, text: str):
-        """Rule-based keyword detection for visit phase."""
         text_lower = text.lower()
+        phases = list(self.PHASE_KEYWORDS.keys())
+        current_idx = phases.index(self.visit_phase)
         for phase, keywords in self.PHASE_KEYWORDS.items():
-            if any(kw in text_lower for kw in keywords):
-                # Phases only move forward
-                phases = list(self.PHASE_KEYWORDS.keys())
-                current_idx = phases.index(self.visit_phase)
+            if any(keyword in text_lower for keyword in keywords):
                 new_idx = phases.index(phase)
                 if new_idx >= current_idx:
                     self.visit_phase = phase
                 break
 
-    # -----------------------------------------------------------------
-    # Helpers
-    # -----------------------------------------------------------------
+    # ------------------------------------------------------------------
+    # Embedding helpers
+    # ------------------------------------------------------------------
 
     def _get_encoder(self):
-        """Lazy-load sentence encoder."""
         if self._encoder is None:
             try:
                 from sentence_transformers import SentenceTransformer
@@ -330,8 +409,8 @@ class SystemTracker:
 
     @staticmethod
     def _cosine_sim(a, b) -> float:
-        """Cosine similarity between two vectors."""
         import numpy as np
+
         a = np.array(a).flatten()
         b = np.array(b).flatten()
         dot = np.dot(a, b)
