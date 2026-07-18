@@ -1,0 +1,501 @@
+{
+  "id": "D2N013",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , john , how are you doing ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hi , good to see you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "good to see you too . so i know the nurse told you about dax , i'd like to tell dax a little about you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so john is a 55-year-old male with a past medical history significant for anxiety and epilepsy who presents with an abnormal lab finding . so , john , um , i , uh , was notified by the emergency room that you , um , had a really high blood sugar and you were in there with , uh ... they had to treat you for that , what was going on ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah , we've been going from place to place for different events and we've had a lot of visitors over the last couple of weeks and i just was n't monitoring my sugar intake and , uh , a little too much stress and strain i think over the last couple of weeks ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay , yeah , i had gone through your hemoglobin a1c's and you know , they were borderline in the past but-"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "-i guess , you know , i guess they're high now so how are you feeling since then ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "so far so good ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay , did they put you on medication ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "uh , they actually did ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay , all right . i think they have here metformin ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah , that's- that sounds right ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "all right , um , and , um , in terms of your anxiety , i'm sure that this did n't help much-"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "did n't help , no , not at all ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "how are you doing with that ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "um , i had my moments but , um , it ... now that it's almost the weekend , it's- it's been a little bit better . i think things are under control by now ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay ? um , how about your epilepsy , any seizures recently ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "not in a while , it's been actually quite a few months and it was something minor but noth- nothing major ever since ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "okay . all right , well you know i wanted to just go ahead and do , um , a quick review of the systems , i know you did a cheat with the nurse-"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "any chest pain , shortness of breath , nausea , vomiting , dizzy- dizziness ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "no , no ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay , any recent fever , chills ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay . and all right , let's go ahead do a quick physical exam . hey , dragon , show me the vitals . so looking here at your vital signs today , um , they look really good . so i'm just gon na go ahead and take a listen to your heart and lungs ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay , so on physical examination , you know , everything seems to look really good , um lungs are nice and clear , your heart's at a regular rate and rhythm . you do have some trace pitting edema to your lower extremities so what that means is that it looks like you might be retaining a little bit of fluid-"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "um , did they give you a lot of fluid in the emergency room ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "they actually did ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "okay , all right , so it might just be from that . okay , well let's look at some of your results . hey , dragon , show me the glucose . okay , so yeah , you know i know that they just checked your blood sugar now and it was 162 and you know , what ... you know , did you eat before this ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "uh , probably about two hours ago ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "okay , all right . hey , dragon , show me the diabetes labs . yeah , so your hemoglobin a1c here is is 8 , you know last time we had seen it , it was about 6 and we had n't put you on medications so , um , i think it's something we'll have to talk about , okay ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "you got it ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "um , so let's just talk a little bit about my assessment and my plan for you so for your first problem , this newly diagnosed diabetes . um , you know , i want to continue on the metformin 500 mg twice a day . we'll probably increase that over time ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "i'm gon na go ahead and order hemoglobin a1c for the future okay ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "um for your second problem , your anxiety . it sounds like you know you might have , you know , some issues leading into the winter . how do you feel about that ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "well , i'll try something new just to help . if it helps that'd be great ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "okay , all right , and so for your last ish issue , your- your epilepsy , you know , i think you saw your neurologist about three months ago , you must be due to see her again some time soon ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "i am ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "and we'll just continue you on the keppra , okay ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "any questions ?"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "not at this point , no ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "okay , um , hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "John Brooks is a 55-year-old male with a past medical history of anxiety and epilepsy presenting with an abnormal lab finding."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports poor monitoring of sugar intake due to recent travel and visitors."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is feeling regarding his elevated blood sugar."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient was prescribed medication for his blood sugar."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the patient was prescribed metformin."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Anxiety"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is managing his anxiety."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports his anxiety symptoms have improved as the weekend approaches."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Epilepsy"
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced any recent seizures."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports no seizures in the past few months."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about symptoms including chest pain, shortness of breath, nausea, vomiting, and dizziness."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain, shortness of breath, nausea, vomiting, and dizziness."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about recent fevers or chills."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies fevers and chills."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows clear lungs, regular heart rate and rhythm, and trace pitting edema in the lower extremities."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient received intravenous fluids in the emergency room."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient ate before his blood glucose check."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin A1c is 8."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Continue metformin 500 mg twice daily."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a repeat hemoglobin A1c test."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is due for a follow-up with his neurologist."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Continue Keppra at the current dosage."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any further questions."
+        }
+      ]
+    }
+  ],
+  "case_description": "abnormal lab finding; anxiety;epilepsy",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

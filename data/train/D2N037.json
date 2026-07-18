@@ -1,0 +1,871 @@
+{
+  "id": "D2N037",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey dylan what's going on so i lift quite a bit of weights i try to stay in shape as much as i can i'm not like normal people i lift heavy weights and my elbow is extremely sore which elbow is it"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "actually it's both my elbows but my right elbow is hurting me the most"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay and you said you lift a lot of weights"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "did you play any sports when you were younger"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "no anything you can think of primarily it was basketball baseball and football"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay and did your elbows hurt at that time or is this a a new injury"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "it's new"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "when did it start"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "probably year and a half ago"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay on both elbows about a year and a half ago"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay have you taken anything for the pain"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "ibuprofen eight hundred milligrams three times a day"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and does anything make it better or worse"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "the more i use my hands or my arms the more it hurts"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay have you tried icing"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "does that give you any relief"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "alright is it the inside or outside of your elbows"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "inside"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "inside okay let's just do a quick physical exam here i'll take a look at your right elbow first"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "if i bend it this way up does it hurt it's your left does that hurt"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "how about this"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay so pain with both flexion and extension"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "looks like you have little bit of limited range of motion on extension not on flexion though you said it hurts right here on the inside of your elbow"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay so pain on the medial side with palpation"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "alright how about the outside"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "no pain with palpation outside of the elbow you have do you have normal sensation in your fingers"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "i think so"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay great"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "good to go"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "sensation is normal to the touch"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "pulses equal in all extremities how about the left elbow same thing if i bend it this way does that hurt"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "not as much"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "how about this way"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "not as much"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "alright so little bit of pain on flexion and extension little bit of limited range of motion on extension of the arm how about if you twist like you're opening a door"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay so some pain with torsion and twisting supination what about pronation"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "no pain with pronation on the right side"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "same thing on the left"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "pain with supination no pain with pronation"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "correct"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "alright so dylan it took some x-rays coming in looks like you do n't have any any fractures or any bony misalignment which i expect with this kind of injury i do think that what you have is medial epicondylitis which is"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "is that golfer's elbow"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "yes same thing have you been golfing a lot"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "well not in the past year and a half i've had this for a long time"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "okay also known as pictures elbow"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "well i have n't been pitching either"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "hmmm well in any case what i'm gon na have to do is i'm gon na send you up for mri to take another look at this"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "that will be our next step so we'll get you scheduled for the mri probably get you in pretty quick here since we're a private practice"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "thank god"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "yeah and once you get the mri i'll know a little bit more what i'd like to do is something called a whole blood transfusion have you heard of that before"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "no please tell me remind me"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "yeah it should help with the healing of your elbow it's just a procedure we'll stick a needle in your elbow"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "you do a stick needle in my elbow"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "mm-hmm and help with some of the healing of your elbow"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "so it's kinda like dry needling then"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "no"
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "not at all"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "what is it"
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "is it is that that thing where like you take the blood out of like say my my thigh"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "and then you literally inject it into my tendon"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "yes"
+    },
+    {
+      "id": "line_0081",
+      "speaker": "patient",
+      "text": "that it activates the healing"
+    },
+    {
+      "id": "line_0082",
+      "speaker": "doctor",
+      "text": "yeah that's exactly what it is"
+    },
+    {
+      "id": "line_0083",
+      "speaker": "patient",
+      "text": "interesting cool"
+    },
+    {
+      "id": "line_0084",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0085",
+      "speaker": "patient",
+      "text": "maybe i have heard about that"
+    },
+    {
+      "id": "line_0086",
+      "speaker": "doctor",
+      "text": "we've we've had some really good responses from other patients on it so hopefully i mean that should be a good solution for you since you've been having issues with this"
+    },
+    {
+      "id": "line_0087",
+      "speaker": "patient",
+      "text": "i'm excited"
+    },
+    {
+      "id": "line_0088",
+      "speaker": "doctor",
+      "text": "yeah and we can hopefully get you scheduled for that in the next couple of weeks it's not not a major procedure and you should heal in the next two weeks so that wo n't be a problem especially considering that you're expecting a newborn soon we want to make sure you're all healed for that"
+    },
+    {
+      "id": "line_0089",
+      "speaker": "patient",
+      "text": "wow i did n't even say that"
+    },
+    {
+      "id": "line_0090",
+      "speaker": "doctor",
+      "text": "i read it in your chart"
+    },
+    {
+      "id": "line_0091",
+      "speaker": "patient",
+      "text": "man you doctors are good"
+    },
+    {
+      "id": "line_0092",
+      "speaker": "doctor",
+      "text": "yeah anything else going on today"
+    },
+    {
+      "id": "line_0093",
+      "speaker": "patient",
+      "text": "just trying to figure out how you're doing"
+    },
+    {
+      "id": "line_0094",
+      "speaker": "doctor",
+      "text": "very good thank you"
+    },
+    {
+      "id": "line_0095",
+      "speaker": "patient",
+      "text": "you're welcome"
+    },
+    {
+      "id": "line_0096",
+      "speaker": "doctor",
+      "text": "nice to see you"
+    },
+    {
+      "id": "line_0097",
+      "speaker": "patient",
+      "text": "you have a good day"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 53-year-old male who lifts heavy weights.",
+          "eval_only": null
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Elbow pain",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports bilateral elbow pain, with the right side worse than the left.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's history of sports participation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient played basketball, baseball, and football when he was younger.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient had elbow pain during his youth or if this is a new injury.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the elbow pain is a new injury.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the symptoms.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has had the pain for approximately 1.5 years.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has taken any medication for the pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient takes ibuprofen 800 mg 3 times daily.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about aggravating or alleviating factors.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain worsens with increased use of his hands or arms.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has tried icing the area.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if icing provides relief.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports icing has not been helpful.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the specific location of the pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain is on the medial aspect of the elbows.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor initiates a physical examination of the right elbow.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain with both flexion and extension.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes limited range of motion on extension and confirms medial pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms pain on the medial side with palpation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about pain on the lateral aspect of the elbow.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes no pain with palpation on the lateral aspect and asks about sensation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes sensation is normal to light touch.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pulses are equal in all extremities and begins examination of the left elbow.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain on flexion and extension and limited range of motion on extension of the left arm.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain with supination and asks about pronation.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes no pain with pronation on the right side.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain with supination and no pain with pronation on the left side.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-rays show no fracture or bony misalignment; the doctor assesses the condition as medial epicondylitis.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0064",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an MRI of the bilateral elbows.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0068",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor discusses performing a whole blood transfusion to encourage healing.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0088",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is expecting a newborn baby.",
+          "eval_only": null
+        }
+      ]
+    }
+  ],
+  "case_description": "Bilateral elbow pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

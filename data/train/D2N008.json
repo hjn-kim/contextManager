@@ -1,0 +1,645 @@
+{
+  "id": "D2N008",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , stephanie . how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay . how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm doing okay . um , so i know the nurse talked to you about dax . i'd like to tell dax a little bit about you , okay ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so , stephanie is a 49-year-old female with a past medical history significant for congestive heart failure , kidney stones and prior colonoscopy who presents today for an abnormal lab finding . so , stephanie , i called you in today because your hemoglobin is low . um , how have you been feeling ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "over the past couple of months , i've been really tired and dizzy . lately , i've been really just worn out , even just , you know , walking a mile or going to work , doing things that i've done in the past every day that have been relatively okay , and i have n't gotten tired . and now , i've been getting tired ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay , yeah . i , you know , the nurse told me that you had called with these complaints . and i know that we have ordered some labs on you before the visit . and it did , it c- you know , your , your , your hemoglobin is your red blood cell count . and now , and that came back as a little low on the results , okay ? so , have you noticed any blood in your stools ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "uh , no , i have n't . i did about three years ago , um , and i did a colonoscopy for that , but nothing since then ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay , yeah . i remember that , okay . and how about , you know , do your stools look dark or tarry or black or anything like that ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "no , nothing like that ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . and have you been , um , having any heavy menstrual bleeding or anything like that ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no , not that i've noticed ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay , all right . and any , have you passed out at all , or anything like that ? any weight loss ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no , no weight loss or passing out . i have felt a bit dizzy , but it has n't l- led to me passing out at all ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . so , you endorse some dizziness . you endorse some fatigue . have you , but you have n't had any weight loss , loss of appetite , anything like that ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no , nothing like that ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay , all right . so , you know , let's talk a little bit about that colonoscopy . i know you had a colonoscopy about three years ago and that showed that you had some mild diverticuli- diverticulosis . um , no issues since then ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "nope , no issues since then ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay , all right . and then i know that , uh , you know , you have this slightly reduced heart function , you know , your congestive heart failure . how have you been doing watching your salt intake ? i know that that's kind of been a struggle for you ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "um , it's been more of a struggle recently . i've been traveling a lot . i went up to vermont , um , to go , um , explore the mountains . and along the way i stopped at , you know , mcdonald's and got two cheeseburgers . and so , i , i could be doing better . i've noticed some swelling in my , my legs . um , but nothing too extreme that where i thought i should call ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay , all right . and any shortness of breath or problems lying flat at night , anything like that ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "no , nothing like that ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay , all right . and then in terms of the kidney stones , i know that you had those a couple years ago , as well . any recent flare ups ? have you had any , any back pain , flank pain , anything like that ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no , nothing like that ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay . any blood in your urine that you've seen ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay , all right . um , okay . well , i know that the nurse did a review of system sheet when you came in . and we've just talked a lot about your , your s- your symptoms , you know , your dizziness , your fatigue and that type of thing . anything else that i might have missed , fever chills , any nasal congestion , sore throat , cough ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "uh , i've had a little bit of nasal congestion just because with the seasons changing , i , i get seasonal allergies . but everything else has been okay ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay , all right . well , i'm gon na go ahead and do a quick physical exam , okay ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the vital signs . so , here in the office today , your vital signs look great . your blood pressure is fine . your heart rates r- right where it should be , which is good , okay ? i'm just gon na do a quick exam . and i'll let you know what , what i find , okay ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "all right . so , your physical , physical examination looks fine . so , on your heart exam , i do hear a three out of six systolic ejection murmur , which we've heard in the past , okay ? and on your lower extremities , i do notice some trace to one plus pitting edema in your ankles , which is probably from the salt intake , okay ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "so , we'll talk about that . i wan na just look at some of your results , okay ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the echocardiogram . so , i just wanted to go over the results of your last echocardiogram , that was about six months ago . that shows that you do have the low pumping function of , of your heart at about 45 % , which is not terrible . and it does show that you have some moderate mitral regurgitation . so , that's that slight heart murmur i heard in your exam , okay ? hey , dragon , show me the hemoglobin . and here , this is the hemoglobin that i was referring to . it's low at 8.2 , okay ? so , we'll have to talk a little bit about that , all right ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "so , let me go over a little bit about my assessment and my plan for you , okay ? so , for you first problem this new anemia , uh , i wan na go ahead and send off some more labs and anemia profile , just to see exactly what type of anemia we're dealing with . i also wan na go and refer you back to the gastroenterologist for another evaluation , okay ? hey , dragon , order referral to gastroenterology . so , they're gon na do , uh , probably do an endoscopy and another colonoscopy on you . um , but again , i wan na send off those labs just to make sure that it's not something else , okay ?"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "for your next problem your congestive heart failure , um , i do think you're retaining a little bit of fluid . so , i'm gon na go ahead and start you on some lasix 40 milligrams once a day . i want you to continue you on your toprol 50 milligrams daily . and as well your , as well , as your lisinopril 10 milligrams a day . i really want you to watch your salt intake , okay ? get a scale , weigh yourself every day . and call me if your weight starts to go up , okay ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "'cause i might need to give you more diuretic ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "and for your last problem your kidney stones , uh , i think everything seems to be fine right at this time . again , continue to watch your diet and stay hydrated . um , and i know that might be a little difficult with the diuretic , but do your best . uh , and give me a call if you have any question , okay ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "all right . any questions right now ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "not that i can think of ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "okay , great . hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 49-year-old female with a history of congestive heart failure, kidney stones, and prior colonoscopy.",
+          "eval_only": null
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Abnormal labs.",
+          "eval_only": null
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient has been feeling.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports fatigue and dizziness over the past two months, exacerbated by daily activities.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin level is low.",
+          "eval_only": null
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed blood in her stools.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies current blood in stools but reports an episode three years ago that led to a colonoscopy.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has observed dark, tarry, or black stools.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies dark or tarry stools.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced heavy menstrual bleeding.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies heavy menstrual bleeding.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced syncope or unintentional weight loss.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies syncope and weight loss, though confirms dizziness.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced loss of appetite.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies loss of appetite.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had a colonoscopy three years ago showing mild diverticulosis.",
+          "eval_only": null
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if there have been any gastrointestinal issues since the colonoscopy.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies gastrointestinal issues since the colonoscopy.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Congestive heart failure",
+          "eval_only": null
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is managing her salt intake.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports difficulty with salt intake due to travel and notes mild leg swelling.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced shortness of breath or orthopnea.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies shortness of breath and orthopnea.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Kidney stones",
+          "eval_only": null
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about recent kidney stone flare-ups, back pain, or flank pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies recent kidney stone symptoms or pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed blood in her urine.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies hematuria.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about fever, chills, nasal congestion, sore throat, or cough.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports seasonal nasal congestion but denies fever, chills, sore throat, or cough.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares the intent to perform a physical examination.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's vital signs are normal.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam reveals a grade 3/6 systolic ejection murmur and trace to 1+ pitting edema in the ankles.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Echocardiogram shows an ejection fraction of 45% and moderate mitral regurgitation; hemoglobin is 8.2.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor will order an anemia profile and refer the patient to gastroenterology for endoscopy and colonoscopy.",
+          "eval_only": null
+        },
+        {
+          "type": "follow_up",
+          "summary": "Order anemia profile and referral to gastroenterology.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Initiate Lasix 40mg daily, continue Toprol 50mg daily, and continue lisinopril 10mg daily.",
+          "eval_only": null
+        },
+        {
+          "type": "follow_up",
+          "summary": "Patient to limit sodium intake, monitor daily weights, and report weight gain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "Patient to continue dietary modifications and hydration for kidney stones.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any further questions.",
+          "eval_only": null
+        }
+      ]
+    }
+  ],
+  "case_description": "abnormal labs; congestive heart failure;kidney stones;colonscopy",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

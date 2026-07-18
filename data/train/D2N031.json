@@ -1,0 +1,853 @@
+{
+  "id": "D2N031",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "sophia brown . date of birth , 3/17/1946 . this is a new patient visit . she's here to establish care for a history of dcis . we'll go over the history with the patient ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hello , ms. brown ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "hi . yes , that's me ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "wonderful . i'm doctor stewart . it's lovely to meet you ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "you as well ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "so , you've come to see me today because you had a right breast lumpectomy last year . is that right ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "yes . on january 20th , 2020 ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay . and how have you been since then ? any problems or concerns ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "no , i'm feeling good . i do my self breast exams religiously now and have n't felt anything since ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "perfect . i want to back up and go over your history so i can make sure everything in your chart is correct and i do n't miss anything . so , i'll tell you what we have in your chart from your other providers and you tell me if anything is wrong or missing . sound good ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "sounds good ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "great . so , i have that you were found to have a calcification in your right breast during a mammogram in october 2019 . was that just a normal screening mammogram , or was it done because you felt a lump ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "it was just a normal one you're supposed to get every so often ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "i see . and then it looks like you had an ultrasound of your right breast on november 3rd , 2019 , which revealed a mass at the two o'clock position , 11 centimeters from the nipple in the retroareolar region . the report states the mass was point four by two by three centimeters ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "yes , that sounds right . hard to remember now , though ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "yep , definitely ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "based on those results , they decided to do an ultrasound-guided core needle biopsy on december 5th , 2019 . pathology results during that biopsy came back as grade two , er positive , pr positive , dcis , or ductal carcinoma in situ ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yes . unfortunately ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "i know . scary stuff . but you had a lumpectomy on january 20th , 2020 , which removed the eight millimeter tumor and margins were negative . the pathology confirmed dcis . looks like they also removed 5 lymph nodes , which , thankfully , were negative for malignancy . that's great !"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah , i was definitely very relieved ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "and your last mammogram was in january 2021 ? and that was normal ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . so , i feel like i have a good grasp of what's been going on with you now . and you're here today to establish care with me so i can continue to follow you and make sure you're doing well , right ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yes . fingers crossed ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "definitely . we'll keep a close eye on you and take good care of you ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "okay , sounds good ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "i have a few more questions for you . when was your last colonoscopy ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i had one in 2018 and , if i remember correctly , i had one polyp and that was removed and it was n't cancerous ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay , yes , i see that report now . one polyp in the sigmoid colon which had a benign tubular adenoma . okay . and when was your last menstrual period ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "gosh . it was probably around 30 years ago ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay . do you have children ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "i do . i have five ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "ah , big family then . that's nice ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yes . and they're all having kids of their own now , so it's getting even bigger ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "i bet . sounds like fun ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "it is ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "did you have any other pregnancies that were miscarriages or terminations ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "really , i did not ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay . so for the record , that's g5 p5 . and now that you're post-menopausal , are you currently or have you ever been on hormone replacement therapy ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "my primary care doctor gave me the option years ago but i decided against it ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay . and on your review systems form , you indicated that you've not had any recent weight loss or gain , headaches , bone pain , urinary symptoms , or blood in the stools . but you did indicate that you have some back pain , joint pain , and high cholesterol . tell me some more about those ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay . so i've seen doctors for all of those . they've said , excuse me , the back and knee pain are age-related . and the cholesterol is a fairly new diagnosis , but i am working on exercise and cutting back on fatty foods to see if i can get it lower without any medication ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay . and your primary care doctor is following you for that , right ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "that's correct ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay . for medications , i have that you take coq10 , vitamin d , vitamin c , fish oil , and elderberry fruit . is that all right ?"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "yes , and that's all ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay . so for your medical history , it's high cholesterol and stage 0 er/pr positive invasive ductal carcinoma of the right breast . any surgeries other than the lumpectomy ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "i did have my tubes tied after my last baby , but that's all ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay . and how about family history ?"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "my mom had non-hodgkin's lymphoma and my dad had prostate cancer and heart disease , but i think that's it ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "all right . any family history of breast cancer ?"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "none ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "did any of your children have medical issues or siblings with medical problems ?"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "i do not have any siblings and , thankfully , my children are all healthy ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "wonderful . do you have any history of smoking , illicit drug use , heavy alcohol consumption ?"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "no drugs . i do drink socially , but never more than that . and i used to smoke , but really , everybody did back then and i probably quit about 30 years ago ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "excellent . i have that you're allergic to penicillin . any other allergies ?"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "nope , just penicillin ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "okay . i think that covers it . hop up here and let me take a look at you ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "okay , so let's use the normal new patient exam template . only change to make is the breast exam . there are no palpable masses , however , there is skin thickening at the medial inferior aspect of the right breast which may be radiation skin changes ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "in the result section , note that her ecog performance status today is zero ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "do you have ... did you have radiation after the lumpectomy ?"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "i did . we also talked about endocrine therapy , but i decided against that ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "okay . so your exam looks good , no masses , just some skin changes from that radiation . now , let's go over the plan for you ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "patient",
+      "text": "okay , sounds good ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "as you know , you've had dcis which we'll list in my note as stage zero , er/pr positive , invasive ductal carcinoma of the right breast . your status post-lumpectomy with removal of five lymph nodes that were benign . you also had , um , radiation therapy but declined endocrine therapy . today's clinical examination shows no evidence of recurrence with the dcis or other malignancy and your mammogram in january , 2021 was also negative for recurrence and malignancy ."
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "so , based on all of that , we can just continue to observe you ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "okay . that sounds great . and when do i come back in to see you ?"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "in a year , but you should have another mammogram in april of 2022 before you come back to see me ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "okay , i can do that ."
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "wonderful . i'm glad to see you doing so well . do you have any questions or concerns i can address for you today ?"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "i do n't think so ."
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "okay , great . my nurse will be in shortly to discharge you . take care !"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "you as well ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Sophia Brown is a 75-year-old female presenting for a new patient evaluation for a history of right DCIS."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right breast lumpectomy history."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any problems or concerns since her surgery."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports feeling well and performs regular self-breast exams."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the October 2019 mammogram was a routine screening or prompted by a lump."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the mammogram was a routine screening."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had a right breast ultrasound on 11/03/2019 showing a 0.4 x 2.0 x 3.0 cm mass at the 2 o'clock position."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient underwent an ultrasound-guided core needle biopsy on 12/05/2019, which revealed grade 2 ER-positive, PR-positive DCIS."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had a lumpectomy on 01/20/2020 for an 8 mm tumor with negative margins and 5 benign lymph nodes."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's last mammogram was in January 2021 and if it was normal."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms her January 2021 mammogram was normal."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Establish care for continued monitoring."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the patient's last colonoscopy was."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had a colonoscopy in 2018 with a benign sigmoid polyp removed."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the patient's last menstrual period was."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's last menstrual period was approximately 30 years ago."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has children."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about history of miscarriages or terminations."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies history of miscarriages or terminations."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is currently or has ever been on hormone replacement therapy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient declined hormone replacement therapy in the past."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for more information regarding the patient's back pain, joint pain, and high cholesterol."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports back and knee pain are age-related and she is managing high cholesterol with exercise and diet."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's primary care provider is following her for high cholesterol."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms her primary care provider is following her for high cholesterol."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks to confirm the patient's current supplements."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she takes Co-Q 10, Vitamin D, Vitamin C, fish oil, and elderberry fruit."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any surgeries other than the lumpectomy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had a bilateral tubal ligation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports mother had non-Hodgkin's lymphoma and father had prostate cancer and heart disease."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of breast cancer."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies family history of breast cancer."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about medical issues in children or siblings."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has no siblings and her children are healthy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about history of smoking, illicit drug use, or heavy alcohol consumption."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a former smoker who quit 30 years ago, denies illicit drug use, and drinks alcohol socially."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about allergies."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0057",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a penicillin allergy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0059",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows no palpable breast masses, but skin thickening at the medial inferior aspect of the right breast is noted."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's ECOG performance status is grade 0."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient had radiation after the lumpectomy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0062",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she had radiation therapy but declined endocrine therapy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0066",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The plan is to continue observation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0067",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks when she should return for follow-up."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0068",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is to have a mammogram in April 2022 and follow up with the doctor in one year."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any further questions or concerns."
+        }
+      ]
+    }
+  ],
+  "case_description": "right ductal carcinoma in situ; none",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

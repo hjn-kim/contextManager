@@ -1,0 +1,473 @@
+{
+  "id": "D2N024",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "patient is pamela cook . medical record number is 123546 . she's a 36-year-old female post bilateral reduction mammoplasty on 10-10 20-20 ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hey , how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "good . how are you ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "i'm doing well . it's good to see you . how have you been ?"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "i've been doing good ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "great . how about your breasts , are they doing all right ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "great ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "are you having any chills , fever , nausea , or vomiting ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "good . all right . let's take a peek real quick ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "how's life otherwise ? pretty good ? nothing new ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "no , just enjoying summertime ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay . how's your family ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "they're good ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "good . all right . i'm going to take a look at your breast now . if you would just open up your gown for me ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "everything looks good ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "how's your back pain ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i'm not really having any more ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "any hard spots , lumps , or bumps that you've noticed ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i did when i came in last time when i saw your pa , ruth sanchez in march . she said i , she said she found a lump right here under my left breast , but i have n't felt it since then . but i did the massages ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay , well . that that's good . uh , it's probably just the scar tissue , but everything looks good and you're healing wonderful , so ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "i told her that the scars here was kind of bothering me and i got scar gel . i was using it everyday , but i do n't think i need it now ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "yeah , that scar did widen a little bit . let me take a closer look , hang on . this one widened a little too , ? the incisions are well healed though with no signs of infection or any redness on either breast , so i'm not concerned ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah , but this one just bothered me a little bit more ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "i understand . um , you can close your gown now ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "the only thing that is really going to help out that is to uh , to cut it out and re-close it ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "and you do n't want that , ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "i mean , not right now ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "um , you want to come back and revisit um , maybe six months ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yeah , i will do that . i still have n't , i still have some more of the gel and i can try using that again ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay . keep doing that twice a day . the gel is going to lighten the color a little bit , which is already pretty light . um , but , just in that area , and it's high tension , so it's going to rub a little bit ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yeah , but it kind of bothers me a little bit ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "uh , i do see that . like i said , the only way to really fix that is to cut it out ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "uh- ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "um , let's take a look in six months and then we'll go from there . sound like a plan ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "but we have n't hit a full year yet ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "i know . um , i would n't do any revisions anyway for scar tissue until we're at least a year out anyway ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "so let's wait those six months . you can keep using uh , the mederma scar gel twice a day . massage and scar gel will help for the scars . um , you can put it on other scars too , if you need ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "um , so that's what i would do . let's just get some pictures today so we can keep up um , with them . and keep an eye on these scars and then we'll go from there ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "sounds good ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "all right , well it's good to see you . i'm glad you're doing well ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "yeah , same here ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "all right . well , i'm going to tell the front desk six months and we'll revisit those scars ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "thank you . they're gon na come get your photos now , okay ?"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "okay ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 36-year-old female who is status post bilateral reduction mammoplasty on 10/10/2020."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Breast"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any fever, chills, nausea, or vomiting."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies fever, chills, nausea, or vomiting."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical examination of the breasts."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes that the breasts look good."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's back pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that her back pain has resolved."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed any hard spots, lumps, or bumps."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient notes a previously identified lump under the left breast has resolved with massage."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the lump was likely scar tissue and notes the patient is healing well."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor observes bilateral widening of the scar tissue but notes incisions are well healed with no signs of infection or erythema."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains that surgical revision is the only way to address the widened scar tissue."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient wants to pursue surgical revision."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient declines surgical revision at this time."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient wants to return for a follow-up in six months."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient agrees to a six-month follow-up and plans to resume using scar gel."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to continue using scar gel twice daily."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans a follow-up visit in six months."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to continue using Mederma scar gel and perform scar massage twice daily."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders bilateral breast photos to monitor scarring."
+        }
+      ]
+    }
+  ],
+  "case_description": "follow up on bilateral reduction mammoplasty; scar tissue",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}
