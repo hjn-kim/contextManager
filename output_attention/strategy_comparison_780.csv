@@ -762,7 +762,6 @@ oracle,baseline,256,hardware.final_buffer_tokens,501.05
 
 learned,attention_780,64,n_conversations,20.0
 learned,attention_780,64,elapsed_sec,382.3
-learned,attention_780,64,bertscore,0.0
 learned,attention_780,64,detection.agenda_item.precision,0.3491666666666667
 learned,attention_780,64,detection.agenda_item.recall,0.3416666666666667
 learned,attention_780,64,detection.agenda_item.f1,0.3302380952380952
@@ -772,12 +771,6 @@ learned,attention_780,64,detection.detail.f1,0.7192739638164158
 learned,attention_780,64,detection.medication.precision,0.175
 learned,attention_780,64,detection.medication.recall,0.11666666666666667
 learned,attention_780,64,detection.medication.f1,0.125
-learned,attention_780,64,detection.social_history.precision,0.0
-learned,attention_780,64,detection.social_history.recall,0.0
-learned,attention_780,64,detection.social_history.f1,0.0
-learned,attention_780,64,detection.follow_up.precision,0.0
-learned,attention_780,64,detection.follow_up.recall,0.0
-learned,attention_780,64,detection.follow_up.f1,0.0
 learned,attention_780,64,detection.question.precision,0.6519014465067097
 learned,attention_780,64,detection.question.recall,0.9374478299478299
 learned,attention_780,64,detection.question.f1,0.7427493202647377
@@ -797,7 +790,6 @@ learned,attention_780,64,hardware.final_buffer_size,3.4
 learned,attention_780,64,hardware.final_buffer_tokens,52.45
 learned,attention_780,100,n_conversations,20.0
 learned,attention_780,100,elapsed_sec,322.5
-learned,attention_780,100,bertscore,0.0
 learned,attention_780,100,detection.agenda_item.precision,0.2866666666666667
 learned,attention_780,100,detection.agenda_item.recall,0.30833333333333335
 learned,attention_780,100,detection.agenda_item.f1,0.2781746031746032
@@ -807,12 +799,6 @@ learned,attention_780,100,detection.detail.f1,0.7239539297319457
 learned,attention_780,100,detection.medication.precision,0.3
 learned,attention_780,100,detection.medication.recall,0.21666666666666665
 learned,attention_780,100,detection.medication.f1,0.24166666666666664
-learned,attention_780,100,detection.social_history.precision,0.0
-learned,attention_780,100,detection.social_history.recall,0.0
-learned,attention_780,100,detection.social_history.f1,0.0
-learned,attention_780,100,detection.follow_up.precision,0.0
-learned,attention_780,100,detection.follow_up.recall,0.0
-learned,attention_780,100,detection.follow_up.f1,0.0
 learned,attention_780,100,detection.question.precision,0.6526605339105339
 learned,attention_780,100,detection.question.recall,0.9221731046731048
 learned,attention_780,100,detection.question.f1,0.739431178420783
@@ -832,7 +818,6 @@ learned,attention_780,100,hardware.final_buffer_size,5.45
 learned,attention_780,100,hardware.final_buffer_tokens,90.55
 learned,attention_780,128,n_conversations,20.0
 learned,attention_780,128,elapsed_sec,290.4
-learned,attention_780,128,bertscore,0.0
 learned,attention_780,128,detection.agenda_item.precision,0.38333333333333336
 learned,attention_780,128,detection.agenda_item.recall,0.29166666666666663
 learned,attention_780,128,detection.agenda_item.f1,0.3169047619047619
@@ -842,12 +827,6 @@ learned,attention_780,128,detection.detail.f1,0.7117895720381642
 learned,attention_780,128,detection.medication.precision,0.325
 learned,attention_780,128,detection.medication.recall,0.20833333333333334
 learned,attention_780,128,detection.medication.f1,0.2333333333333333
-learned,attention_780,128,detection.social_history.precision,0.0
-learned,attention_780,128,detection.social_history.recall,0.0
-learned,attention_780,128,detection.social_history.f1,0.0
-learned,attention_780,128,detection.follow_up.precision,0.0
-learned,attention_780,128,detection.follow_up.recall,0.0
-learned,attention_780,128,detection.follow_up.f1,0.0
 learned,attention_780,128,detection.question.precision,0.6771748390498391
 learned,attention_780,128,detection.question.recall,0.8913428238428238
 learned,attention_780,128,detection.question.f1,0.7408819814759208
@@ -867,7 +846,6 @@ learned,attention_780,128,hardware.final_buffer_size,7.2
 learned,attention_780,128,hardware.final_buffer_tokens,120.5
 learned,attention_780,256,n_conversations,20.0
 learned,attention_780,256,elapsed_sec,278.0
-learned,attention_780,256,bertscore,0.0
 learned,attention_780,256,detection.agenda_item.precision,0.38666666666666666
 learned,attention_780,256,detection.agenda_item.recall,0.29166666666666663
 learned,attention_780,256,detection.agenda_item.f1,0.3107936507936508
@@ -877,9 +855,6 @@ learned,attention_780,256,detection.detail.f1,0.7177920292705957
 learned,attention_780,256,detection.medication.precision,0.475
 learned,attention_780,256,detection.medication.recall,0.35833333333333334
 learned,attention_780,256,detection.medication.f1,0.3833333333333333
-learned,attention_780,256,detection.social_history.precision,0.0
-learned,attention_780,256,detection.social_history.recall,0.0
-learned,attention_780,256,detection.social_history.f1,0.0
 learned,attention_780,256,detection.follow_up.precision,0.025
 learned,attention_780,256,detection.follow_up.recall,0.05
 learned,attention_780,256,detection.follow_up.f1,0.03333333333333333
