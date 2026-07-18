@@ -31,22 +31,21 @@ loop so the same numbers can be reused across budgets and analyses.
 
 Data
 ----
-data/train.jsonl rows look like
+Reads the annotated conversation JSONs in data/train/ (D2N001.json ... 67 files,
+3743 utterances), each holding `utterances` (id, speaker, text) and
+`annotations` (utterance_id, relevant, detail_list). Every emitted row therefore
+carries real ids -- conversation_id "D2N001", source/target utterance_id
+"line_0004" -- so a suspicious score can be traced straight back to the
+transcript, and the rows join to other artifacts keyed the same way (e.g.
+context_manager_labels.py's hindsight labels).
 
-    {"input": "[Context]: s1 | s2\n[Utterance]: [Doctor] ...",
-     "output": "{\"relevant\": true, \"detail_list\": [...]}"}
-
-The file is a flat stream of utterances; a new conversation starts wherever
-"[Context]: Start of visit" appears after a non-"Start of visit" row. That
-split was verified against the data: 67 conversations / 3743 utterances.
-
-IMPORTANT -- the [Context] field stored in train.jsonl is NOT the oracle
-buffer. It is the last 5 summaries only (the old BufferConfig.max_context_items
-sliding window); this was verified to hold for 3743/3743 rows. So the oracle
-context is rebuilt here from each row's annotated detail_list rather than read
-off the [Context] field. Consequence worth knowing: the C1 checkpoint was
-trained on <=5-summary contexts, so a long oracle buffer is out of distribution
-for it -- the attention numbers are still real, but they are measured off-policy.
+The oracle buffer is rebuilt here from the annotations rather than read off any
+stored context string. Note that data/train.jsonl -- the flattened training file
+built from these same conversations -- stores only the last 5 summaries in its
+[Context] field (the old BufferConfig.max_context_items window; verified for
+3743/3743 rows). So the C1 checkpoint was fine-tuned on <=5-summary contexts,
+which makes a long oracle buffer out of distribution for it: the attention
+numbers are real, but they are measured off-policy.
 
 Model
 -----
@@ -75,7 +74,7 @@ Usage (RunPod)
 --------------
     export HF_TOKEN=hf_...
     python extract_oracle_attention.py \
-        --data data/train.jsonl \
+        --data data/train \
         --out output/oracle_attention.jsonl
 
 Memory note
@@ -88,6 +87,7 @@ drops the tensor. Peak extra memory is one layer, ~heads x seq^2.
 import argparse
 import gc
 import json
+import math
 import os
 import re
 import sys
@@ -111,90 +111,67 @@ from prompts import REALTIME_SYSTEM, REALTIME_USER  # noqa: E402
 
 DEFAULT_MODEL = "tria-hongik/atlas-c1-v2-llama-3.2-3b"
 DEFAULT_BASE_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
-DEFAULT_DATA = PROJECT_ROOT / "data" / "train.jsonl"
+DEFAULT_DATA = PROJECT_ROOT / "data" / "train"
 DEFAULT_OUT = PROJECT_ROOT / "output" / "oracle_attention.jsonl"
+DEFAULT_PAIRS_OUT = PROJECT_ROOT / "output" / "oracle_attention_pairs.jsonl"
 
 CONTEXT_EMPTY = "Start of visit"
 JOINER = " | "
 
 
 # =============================================================================
-# DATA: flat jsonl -> conversations
+# DATA: annotated conversation JSON -> per-utterance stream
 # =============================================================================
 
-_INPUT_RE = re.compile(
-    r"^\[Context\]:\s*(?P<context>.*?)\n\[Utterance\]:\s*\[(?P<speaker>[^\]]+)\]\s*(?P<text>.*)$",
-    re.DOTALL,
-)
-
-
-def parse_row(raw_input: str) -> Optional[Dict]:
-    m = _INPUT_RE.match(raw_input.strip())
-    if not m:
-        return None
-    return {
-        "context": m.group("context").strip(),
-        "speaker": m.group("speaker").strip().lower(),
-        "text": m.group("text").strip(),
-    }
-
-
-def parse_gold(raw_output: str) -> List[Dict]:
-    """Return the annotated detail_list ([] when the turn is irrelevant)."""
-    try:
-        obj = json.loads(raw_output)
-    except (json.JSONDecodeError, TypeError):
-        return []
-    if not obj.get("relevant"):
+def detail_list_of(annotation: Optional[Dict]) -> List[Dict]:
+    """The annotated (type, summary) pairs ([] when the turn is irrelevant)."""
+    if not annotation or not annotation.get("relevant"):
         return []
     return [
         {"type": d["type"], "summary": d["summary"]}
-        for d in (obj.get("detail_list") or [])
+        for d in (annotation.get("detail_list") or [])
         if isinstance(d, dict) and d.get("type") and d.get("summary")
     ]
 
 
-def load_conversations(path: Path, limit: Optional[int] = None) -> List[List[Dict]]:
+def load_conversation(path: Path) -> Dict:
     """
-    Split the flat utterance stream into conversations.
+    Read one annotated conversation JSON (data/train/D2N001.json and friends).
 
-    A conversation boundary is a "Start of visit" context that follows a
-    non-"Start of visit" context (the opening turns of every conversation all
-    carry "Start of visit" until the first relevant utterance appears).
+    Returns {"id": "D2N001", "utterances": [{utterance_id, speaker, text,
+    gold_details}, ...]} -- one entry per utterance, in transcript order, with
+    the annotation for that utterance already attached. Utterances with no
+    annotation simply carry an empty gold_details.
     """
-    conversations: List[List[Dict]] = []
-    current: List[Dict] = []
-    prev_was_start = False
-
     with path.open(encoding="utf-8") as f:
-        for lineno, line in enumerate(f, start=1):
-            line = line.strip()
-            if not line:
-                continue
-            try:
-                row = json.loads(line)
-            except json.JSONDecodeError:
-                print(f"  [warn] line {lineno}: malformed JSON, skipped", file=sys.stderr)
-                continue
+        conv = json.load(f)
 
-            parsed = parse_row(row.get("input", ""))
-            if parsed is None:
-                print(f"  [warn] line {lineno}: unrecognised input format, skipped", file=sys.stderr)
-                continue
+    by_uid = {a["utterance_id"]: a for a in conv.get("annotations", [])
+              if a.get("utterance_id")}
 
-            is_start = parsed["context"] == CONTEXT_EMPTY
-            if is_start and not prev_was_start and current:
-                conversations.append(current)
-                current = []
-            prev_was_start = is_start
+    utterances = []
+    for utt in conv.get("utterances", []):
+        uid = utt.get("id")
+        utterances.append({
+            "utterance_id": uid,
+            "speaker": (utt.get("speaker") or "").lower(),
+            "text": utt.get("text") or "",
+            "gold_details": detail_list_of(by_uid.get(uid)),
+        })
 
-            parsed["gold_details"] = parse_gold(row.get("output", ""))
-            parsed["line_no"] = lineno
-            current.append(parsed)
+    return {"id": conv.get("id") or path.stem, "utterances": utterances}
 
-    if current:
-        conversations.append(current)
 
+def load_conversations(path: Path, limit: Optional[int] = None) -> List[Dict]:
+    """
+    Load every conversation JSON under `path` (or a single file), sorted by
+    filename so conversation order is reproducible across runs.
+    """
+    files = sorted(path.glob("*.json")) if path.is_dir() else [path]
+    if not files:
+        raise FileNotFoundError(f"No conversation JSON files found under {path}")
+
+    conversations = [load_conversation(f) for f in files]
     if limit:
         conversations = conversations[:limit]
     return conversations
@@ -552,9 +529,13 @@ def process_conversation(conv_id: str, utterances: List[Dict], tokenizer, model,
                     "source_type": m["type"],
                     "source_summary": m["summary"],
                     "source_step": m["step"],
+                    "source_utterance_id": m["utterance_id"],
+                    "source_speaker": m["speaker"],
                     # target = what the model was producing while it attended back
                     "target_summary_ids": target_ids,
                     "target_step": t,
+                    "target_utterance_id": utt["utterance_id"],
+                    "target_summaries": [d["summary"] for d in new_details],
                     "target_label": ("last" if is_last
                                      else (target_ids[0] if target_ids else None)),
                     "is_last_utterance": is_last,
@@ -581,9 +562,123 @@ def process_conversation(conv_id: str, utterances: List[Dict], tokenizer, model,
                 "summary": d["summary"],
                 "type": d["type"],
                 "step": t,
+                # Carried so the downstream feature builder can fill the
+                # speaker / position / recency dims without re-reading the
+                # source conversation.
+                "utterance_id": utt["utterance_id"],
+                "speaker": utt["speaker"],
             })
 
     return rows
+
+
+# =============================================================================
+# TRAINING-SET SHAPING
+# =============================================================================
+
+def add_within_step_labels(rows: List[Dict]) -> None:
+    """
+    Add step-normalised versions of the attention score, in place.
+
+    Raw attention_share is not directly usable as a regression target: it sums
+    to 1 across the buffer, so every value shrinks as the buffer grows. A score
+    of 0.30 with 3 items and 0.03 with 30 items can mean the same thing, but
+    buffer size is not one of the policy's input features -- the target would
+    swing on information the model cannot see.
+
+    What eviction actually needs is the ordering *within* one step ("of the
+    summaries I am holding right now, which is least used?"), so the normalised
+    columns below are the ones to train on:
+
+      attention_rank_pct  percentile rank within the step, 0=lowest .. 1=highest.
+                          Scale-free and buffer-size independent. Recommended.
+      attention_z         z-score within the step. Keeps relative magnitude,
+                          so it distinguishes "clearly ignored" from "just below
+                          average" -- which the rank version flattens.
+      attention_log_share log of the raw share; compresses the heavy tail if
+                          you would rather regress on the raw quantity.
+
+    Steps holding a single summary are degenerate (share is always 1.0 and
+    there is nothing to rank); they get rank_pct=1.0, z=0.0 and are flagged
+    with rankable=False so they can be dropped.
+    """
+    groups: Dict[Tuple, List[Dict]] = defaultdict(list)
+    for row in rows:
+        groups[(row["conversation_id"], row["target_step"])].append(row)
+
+    for group in groups.values():
+        k = len(group)
+        shares = [g["attention_share"] for g in group]
+
+        mean = sum(shares) / k
+        var = sum((s - mean) ** 2 for s in shares) / k
+        std = var ** 0.5
+
+        # Ascending rank; ties share the average rank so equal scores get equal
+        # targets rather than an order-dependent split.
+        order = sorted(range(k), key=lambda i: shares[i])
+        ranks = [0.0] * k
+        i = 0
+        while i < k:
+            j = i
+            while j + 1 < k and shares[order[j + 1]] == shares[order[i]]:
+                j += 1
+            avg_rank = (i + j) / 2.0
+            for pos in range(i, j + 1):
+                ranks[order[pos]] = avg_rank
+            i = j + 1
+
+        for idx, row in enumerate(group):
+            row["attention_rank_pct"] = (ranks[idx] / (k - 1)) if k > 1 else 1.0
+            row["attention_z"] = ((shares[idx] - mean) / std) if std > 0 else 0.0
+            row["attention_log_share"] = math.log(max(shares[idx], 1e-12))
+            row["rankable"] = k > 1
+
+
+def to_pair_rows(rows: List[Dict]) -> List[Dict]:
+    """
+    Project the full step log down to (source summary -> target summary) pairs,
+    which is the shape the 780-d eviction dataset needs.
+
+    Two things happen here:
+      * Steps that produced no summary are dropped. 57% of rows sit on
+        irrelevant turns, and they have no target summary to embed.
+      * A step that produced several summaries stays ONE row, with the
+        summaries joined. Attention was measured over that step's whole output,
+        so there is no per-summary attribution to split it by; emitting one row
+        each would duplicate a single label and double-weight the step.
+    """
+    pairs = []
+    for row in rows:
+        if not row["target_relevant"] or not row["target_summaries"]:
+            continue
+        pairs.append({
+            "conversation_id": row["conversation_id"],
+            # --- source: the buffered summary being scored -------------------
+            "source_summary_id": row["source_summary_id"],
+            "source_utterance_id": row["source_utterance_id"],
+            "source_summary": row["source_summary"],
+            "source_type": row["source_type"],
+            "source_speaker": row["source_speaker"],
+            "source_step": row["source_step"],
+            # --- target: what the model was writing at this step -------------
+            "target_summary_ids": row["target_summary_ids"],
+            "target_utterance_id": row["target_utterance_id"],
+            "target_summary": JOINER.join(row["target_summaries"]),
+            "target_step": row["target_step"],
+            # --- context needed to build position/recency --------------------
+            "current_step": row["target_step"],
+            "age_in_steps": row["age_in_steps"],
+            "buffer_size": row["buffer_size"],
+            "rankable": row["rankable"],
+            # --- candidate labels --------------------------------------------
+            "attention_share": row["attention_share"],
+            "attention_rank_pct": row["attention_rank_pct"],
+            "attention_z": row["attention_z"],
+            "attention_log_share": row["attention_log_share"],
+            "attention_mean": row["attention_mean"],
+        })
+    return pairs
 
 
 # =============================================================================
@@ -594,8 +689,18 @@ def main():
     p = argparse.ArgumentParser(
         description="Extract summary->summary attention over time under an oracle "
                     "(never-evicting) Context Manager.")
-    p.add_argument("--data", type=Path, default=DEFAULT_DATA)
-    p.add_argument("--out", type=Path, default=DEFAULT_OUT)
+    p.add_argument("--data", type=Path, default=DEFAULT_DATA,
+                   help="Directory of annotated conversation JSONs, or a single "
+                        "one (default: %(default)s)")
+    p.add_argument("--out", type=Path, default=DEFAULT_OUT,
+                   help="Full step log: every (buffered summary, step) row, "
+                        "including steps that produced no summary. Keep this "
+                        "for attention-decay analysis.")
+    p.add_argument("--pairs-out", type=Path, default=DEFAULT_PAIRS_OUT,
+                   help="Training-ready (source summary -> target summary) "
+                        "pairs, written by default alongside --out.")
+    p.add_argument("--no-pairs", action="store_true",
+                   help="Skip the pair projection and write only --out.")
     p.add_argument("--model", default=DEFAULT_MODEL,
                    help="LoRA adapter repo/dir or full model (default: %(default)s)")
     p.add_argument("--base-model", default=DEFAULT_BASE_MODEL,
@@ -631,7 +736,7 @@ def main():
 
     print(f"Loading {args.data} ...")
     conversations = load_conversations(args.data, limit=args.limit)
-    n_utt = sum(len(c) for c in conversations)
+    n_utt = sum(len(c["utterances"]) for c in conversations)
     print(f"  {len(conversations)} conversations, {n_utt} utterances")
 
     dtype = {"bfloat16": torch.bfloat16, "float16": torch.float16,
@@ -643,8 +748,8 @@ def main():
     print(f"  {len(reducer.modules)} attention layers hooked")
 
     all_rows: List[Dict] = []
-    for ci, utterances in enumerate(conversations):
-        conv_id = f"conv_{ci:04d}"
+    for ci, conv in enumerate(conversations):
+        conv_id, utterances = conv["id"], conv["utterances"]
         print(f"[{ci + 1}/{len(conversations)}] {conv_id} "
               f"({len(utterances)} utterances) ...", flush=True)
         all_rows.extend(process_conversation(
@@ -654,6 +759,10 @@ def main():
         gc.collect()
         if torch.cuda.is_available():
             torch.cuda.empty_cache()
+
+    # Step-normalised label columns must be computed over each step's whole
+    # buffer, so this runs before any filtering or reordering.
+    add_within_step_labels(all_rows)
 
     # Requested ordering: all rows for summary 1 (1->2, 1->3, ..., 1->last),
     # then summary 2 (2->3, 2->4, ...), and so on, per conversation.
@@ -665,11 +774,23 @@ def main():
     with args.out.open("w", encoding="utf-8") as f:
         for row in all_rows:
             f.write(json.dumps(row, ensure_ascii=False) + "\n")
-    print(f"\nWrote {len(all_rows)} rows -> {args.out}")
+    print(f"\nWrote {len(all_rows)} rows (full step log) -> {args.out}")
+
+    # Training-ready projection: summary -> summary pairs only.
+    if not args.no_pairs:
+        pairs = to_pair_rows(all_rows)
+        args.pairs_out.parent.mkdir(parents=True, exist_ok=True)
+        with args.pairs_out.open("w", encoding="utf-8") as f:
+            for row in pairs:
+                f.write(json.dumps(row, ensure_ascii=False) + "\n")
+        n_rankable = sum(1 for r in pairs if r["rankable"])
+        print(f"Wrote {len(pairs)} pair rows ({n_rankable} rankable) "
+              f"-> {args.pairs_out}")
 
     if args.csv:
         import csv
-        fields = ["conversation_id", "source_summary_id", "target_step", "target_label",
+        fields = ["conversation_id", "source_summary_id", "source_utterance_id",
+                  "target_step", "target_utterance_id", "target_label",
                   "is_last_utterance", "target_relevant", "model_relevant",
                   "age_in_steps", "age_in_summaries",
                   "attention_mean", "attention_mass", "attention_share",
