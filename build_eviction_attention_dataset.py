@@ -61,6 +61,8 @@ DEFAULT_OUT_DIR = PROJECT_ROOT / "data"
 DEFAULT_PREFIX = "eviction_policy_attention"
 
 EMBED_DIM = 384
+# Same separator extract_oracle_attention.py joins a step's summaries with.
+JOINER = " | "
 LABEL_CHOICES = ["attention_rank_pct", "attention_z", "attention_share",
                  "attention_log_share", "attention_mean"]
 
@@ -91,7 +93,13 @@ def target_embedding(row, table):
 
     Returns None if any member is missing from the dictionary.
     """
-    members = row.get("target_summaries") or [row["target_summary"]]
+    # Pair files written before target_summaries was added carry only the
+    # joined string. Splitting it back is exact here: no annotated sentence
+    # contains " | " (verified against the dictionary), so this recovers those
+    # rows instead of forcing a re-run of the GPU extraction.
+    members = row.get("target_summaries")
+    if not members:
+        members = [s for s in row["target_summary"].split(JOINER) if s]
     vectors = []
     for text in members:
         feats = table.get(text)
