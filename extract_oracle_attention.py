@@ -665,6 +665,10 @@ def to_pair_rows(rows: List[Dict]) -> List[Dict]:
             "target_summary_ids": row["target_summary_ids"],
             "target_utterance_id": row["target_utterance_id"],
             "target_summary": JOINER.join(row["target_summaries"]),
+            # Kept separately because the joined string above is not itself an
+            # annotated sentence: it will not be in a sentence-keyed embedding
+            # dictionary. Downstream, embed these individually and average.
+            "target_summaries": row["target_summaries"],
             "target_step": row["target_step"],
             # --- context needed to build position/recency --------------------
             "current_step": row["target_step"],
