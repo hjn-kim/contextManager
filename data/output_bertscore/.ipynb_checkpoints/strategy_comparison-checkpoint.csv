@@ -759,5 +759,3 @@ oracle,baseline,256,hardware.avg_latency_ms,155.3453625691093
 oracle,baseline,256,hardware.total_relevant,27.8
 oracle,baseline,256,hardware.final_buffer_size,35.4
 oracle,baseline,256,hardware.final_buffer_tokens,501.05
-
-
