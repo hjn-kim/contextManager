@@ -312,14 +312,36 @@ class LearnedPairEvictionStrategy:
         self.model.eval()
         self._encoder = encoder
 
+    @staticmethod
+    def _current_step(items, kwargs) -> int:
+        """
+        Index of the utterance being processed right now.
+
+        max(timestamp) is only the current step when this turn actually added a
+        summary; on a turn that added nothing it points at some earlier step,
+        which would mislabel old summaries as the target. So prefer the id of
+        the utterance the harness passes in (line_0011 -> 11) and fall back to
+        max(timestamp) only when it cannot be parsed.
+        """
+        utt = kwargs.get("current_utterance") or {}
+        uid = utt.get("id") if isinstance(utt, dict) else None
+        if isinstance(uid, str):
+            digits = "".join(ch for ch in uid if ch.isdigit())
+            if digits:
+                return int(digits)
+        return max(item.timestamp for item in items)
+
     def __call__(self, items: List, **kwargs) -> List:
         if not items:
             return items
 
-        current_step = max(item.timestamp for item in items)
+        current_step = self._current_step(items, kwargs)
         targets = [i for i in items if i.timestamp == current_step]
         sources = [i for i in items if i.timestamp != current_step]
 
+        # No summary was produced this turn -> no target to embed, a state the
+        # training data never contains. Leave the existing scores alone rather
+        # than score against an invented target.
         if not targets or not sources:
             return items
 
