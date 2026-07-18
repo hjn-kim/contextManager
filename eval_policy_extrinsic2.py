@@ -1,6 +1,30 @@
 """
-ATLAS Extrinsic Evaluation (Component 1 Agenda LLM, fixed LoRA)
-================================================================
+ATLAS Extrinsic Evaluation -- 780-d pair policy variant
+========================================================
+Same harness and metrics as eval_policy_extrinsic.py, but the "learned"
+strategy is the 780-d PairEvictionMLP from src/policy2.py instead of the 396-d
+EvictionMLP from src/policy.py.
+
+What differs from eval_policy_extrinsic.py
+------------------------------------------
+  learned strategy : policy2.LearnedPairEvictionStrategy (780-d), which scores
+                     (buffered summary, summary being written now) pairs from
+                     attention, rather than scoring each summary alone against
+                     a hindsight relevance label.
+  data dir         : data/valid (D2N068+). The 780-d policy's attention labels
+                     were extracted from data/train (D2N001-067), so evaluating
+                     there would be training-set evaluation. Verified disjoint.
+  outputs          : strategy_comparison_780.csv / plots_strategy_comparison_780
+                     -- the CSV is a cache keyed by (strategy, model, budget),
+                     so sharing it with the 396-d run would silently mix two
+                     architectures into one comparison.
+
+Caveat specific to the pair policy: it needs a target summary -- the one being
+written this turn -- to build the second half of its feature vector. On a turn
+that produced no summary there is no target, a state absent from its training
+data, so it leaves the existing scores untouched instead of inventing one.
+
+
 Runs REAL LLM inference (HF transformers + PEFT LoRA, meant for a GPU
 box such as a RunPod pod pulled from GitHub) through the streaming
 harness and scores the output against gold annotations using every
@@ -11,7 +35,7 @@ The Agenda LLM is held FIXED to the LoRA model (--model-path, default
 tria-hongik/atlas-c1-v2-llama-3.2-3b). What is compared is the EVICTION
 STRATEGY on top of that one model:
   - baseline strategies : fifo, sliding, random, attention, oracle
-  - learned             : the trained EvictionMLP policy (Component 3)
+  - learned             : the trained 780-d PairEvictionMLP (src/policy2.py)
 
 Results are cached in a CSV keyed by (strategy, budget) — combos already
 present are skipped, so reruns only fill in what's missing. Run
@@ -20,15 +44,15 @@ script then only needs to run "learned" (plus any baseline strategy that
 wasn't cached) and appends those rows, then plots baselines vs learned.
 
 Usage:
-  python eval_policy_extrinsic.py --policy-model models/policy/eviction_mlp_bertscore_0p75_5e-3.pt
-  python eval_policy_extrinsic.py --policy-model ... --model-path someuser/some-hub-adapter
-  python eval_policy_extrinsic.py --policy-model ... --force-rerun   # ignore cache, recompute everything
+  python eval_policy_extrinsic2.py                       # all defaults
+  python eval_policy_extrinsic2.py --strategies learned  # learned rows only
+  python eval_policy_extrinsic2.py --force-rerun         # ignore cache
 
 Outputs (output/ by default):
-  - strategy_comparison.csv                      long-format cache/result
-                                                   (strategy, budget, metric, value)
-  - plots_strategy_comparison/<metric>/budgetN_bar.png          metric value per strategy (fixed LoRA model)
-  - plots_strategy_comparison/<metric>/budgetN_improvement.png  learned's % improvement over each baseline
+  - strategy_comparison_780.csv                      long-format cache/result
+                                                       (strategy, budget, metric, value)
+  - plots_strategy_comparison_780/<metric>/budgetN_bar.png          metric value per strategy
+  - plots_strategy_comparison_780/<metric>/budgetN_improvement.png  learned's % improvement over each baseline
 
 Requirements (RunPod GPU box):
   pip install torch transformers peft accelerate bitsandbytes \
@@ -74,17 +98,22 @@ from prompts import REALTIME_SYSTEM, REALTIME_USER
 
 DEFAULT_BASE_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
 DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v2-llama-3.2-3b"
-# data/valid holds the held-out conversations (D2N068+). The policy was trained
-# on the train split (D2N001-067) only, so this is disjoint from the policy's
-# training data — no leakage into the learned-vs-baseline comparison.
-# (Formerly data/aci, which is the same set under an older path name.)
+# data/valid holds the held-out conversations (D2N068+). The 780-d policy's
+# attention labels came from data/train (D2N001-067), so this is disjoint from
+# its training data — no leakage into the learned-vs-baseline comparison.
+# Verified: 0 overlapping conversation ids.
 DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "valid"
-# Matches the budgets the cached baseline rows in output/strategy_comparison*.csv
-# were computed at. Changing these means every baseline has to be re-run through
-# real LLM inference before a learned-vs-baseline table is comparable.
+# Matches the budgets the cached baseline rows in
+# output/strategy_comparison_780.csv were computed at, so a default run only
+# has to fill in the "learned" rows instead of re-running every baseline
+# through real LLM inference.
 DEFAULT_BUDGETS = [64, 100, 128, 256]
-DEFAULT_CSV = PROJECT_ROOT / "output" / "strategy_comparison.csv"
-DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots_strategy_comparison"
+# Separate from eval_policy_extrinsic.py's outputs: the CSV is a cache keyed by
+# (strategy, model, budget), so writing 780-d rows into the same file would mix
+# two different policy architectures in one comparison.
+DEFAULT_CSV = PROJECT_ROOT / "output" / "strategy_comparison_780.csv"
+DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots_strategy_comparison_780"
+DEFAULT_POLICY_MODEL = PROJECT_ROOT / "eviction_mlp" / "eviction_mlp_attention_780.pt"
 
 # The Agenda LLM (Component 1) is held FIXED to the LoRA model for the whole
 # comparison. What varies is the eviction strategy: the baseline strategies
@@ -466,15 +495,18 @@ def build_eviction_strategy(strategy_name: str, window_size: int, policy_model: 
     if strategy_name == "learned":
         if not policy_model:
             raise ValueError("strategy 'learned' requires --policy-model <path to a trained .pt checkpoint>")
-        from policy import LearnedEvictionStrategy
+        from policy2 import LearnedPairEvictionStrategy
         # Reuse the already-loaded tracker sentence encoder (the same
-        # all-MiniLM-L6-v2 the policy was trained on) instead of loading a second
-        # copy. If it could not be loaded, LearnedEvictionStrategy tries once more
-        # and then fails loudly rather than silently scoring on zero embeddings.
+        # all-MiniLM-L6-v2 the dataset embeddings were built with) instead of
+        # loading a second copy. If it could not be loaded, the strategy tries
+        # once more and then fails loudly rather than silently scoring on zero
+        # embeddings.
         encoder = _shared_tracker_encoder()
-        print(f"Loading learned eviction policy from {policy_model} (use_scispacy={use_scispacy})")
-        return LearnedEvictionStrategy(model_path=policy_model, use_scispacy=use_scispacy,
-                                       encoder=encoder)
+        print(f"Loading 780-d pair eviction policy from {policy_model} "
+              f"(use_scispacy={use_scispacy})")
+        return LearnedPairEvictionStrategy(model_path=policy_model,
+                                           use_scispacy=use_scispacy,
+                                           encoder=encoder)
 
     if strategy_name == "sliding":
         return get_strategy("sliding", window_size=window_size)
@@ -795,8 +827,10 @@ def main():
                          help="LoRA adapter dir/hub-id or full model dir for the fixed Agenda LLM "
                               "(default: C1 hub adapter)")
     parser.add_argument("--base-model", default=DEFAULT_BASE_MODEL)
-    parser.add_argument("--policy-model", required=True,
-                         help="path to a trained EvictionMLP .pt checkpoint, used for the 'learned' strategy")
+    parser.add_argument("--policy-model", default=str(DEFAULT_POLICY_MODEL),
+                         help="path to a trained 780-d PairEvictionMLP .pt checkpoint "
+                              "(src/policy2.py), used for the 'learned' strategy "
+                              "(default: %(default)s)")
     parser.add_argument("--policy-no-scispacy", action="store_true",
                          help="disable scispaCy entity_count in the learned policy's features "
                               "(only safe if the checkpoint was also trained without it)")
