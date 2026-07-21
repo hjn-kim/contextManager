@@ -1,23 +1,27 @@
 """
-ATLAS Baseline Eviction-Strategy Evaluation
-==============================================
-Runs the "baseline" LLM (meta-llama/Llama-3.2-3B-Instruct, zero-shot, no
-LoRA adapter) through the streaming harness under every eviction strategy
-in STRATEGIES_TO_COMPARE (sliding, random, oldest, attention, learned),
-scoring against gold annotations with every metric in src/metrics.py.
+ATLAS Baseline Eviction-Strategy Evaluation (fixed LoRA model)
+===============================================================
+Runs the FIXED LoRA Agenda LLM (--model-path, default the C1 adapter
+tria-hongik/atlas-c1-v2-llama-3.2-3b) through the streaming harness under
+every baseline eviction strategy — fifo, sliding, random, attention — plus
+an oracle (unlimited budget, keeps every sentence; an upper bound rather
+than a real strategy), scoring against gold annotations with every metric
+in src/metrics.py.
 
-This is the reference/baseline half of eval_policy_extrinsic.py's
-baseline-vs-model comparison. Run this first to cheaply pre-fill the
-"baseline" rows in the shared CSV; eval_policy_extrinsic.py then only
-needs to run "model" (skipping anything already cached here) and appends
-its rows below.
+This is the baseline half of eval_policy_extrinsic.py's baseline-vs-learned
+comparison. Both scripts hold the Agenda LLM fixed to the same LoRA model
+and vary only the eviction strategy. Run this first to pre-fill the
+baseline-strategy rows in the shared CSV; eval_policy_extrinsic.py then only
+needs to run the trained "learned" policy (skipping anything already cached
+here) and plots baselines vs learned.
 
-Results are cached in the same CSV, keyed by (strategy, model, budget) —
-combos already present are skipped, so reruns only fill in what's missing.
+Results are cached in the same CSV, keyed by (strategy, budget) — combos
+already present are skipped, so reruns only fill in what's missing.
 
 Usage:
-  python eval_policy_baseline.py --policy-model models/policy/eviction_mlp_bertscore_0p75_5e-3.pt
-  python eval_policy_baseline.py --policy-model ... --force-rerun   # ignore cache, recompute everything
+  python eval_policy_baseline.py
+  python eval_policy_baseline.py --model-path someuser/some-hub-adapter
+  python eval_policy_baseline.py --force-rerun   # ignore cache, recompute everything
 
 Requirements (RunPod GPU box): same as eval_policy_extrinsic.py.
 """
@@ -34,16 +38,21 @@ sys.path.insert(0, str(PROJECT_ROOT / "data"))
 
 from eval_policy_extrinsic import (
     DEFAULT_BASE_MODEL,
+    DEFAULT_C1_ADAPTER,
     DEFAULT_DATA_DIR,
     DEFAULT_BUDGETS,
     DEFAULT_CSV,
-    STRATEGIES_TO_COMPARE,
+    BASELINE_STRATEGIES,
+    ORACLE_BUDGET,
     load_conversations,
+    resolve_model_spec,
     build_llm,
     free_llm,
+    log_cache_stats,
     build_eviction_strategy,
     run_model_across_budgets,
     flatten_metrics,
+    model_label,
     load_cache,
     append_rows,
 )
@@ -51,15 +60,13 @@ from eval_policy_extrinsic import (
 
 def main():
     parser = argparse.ArgumentParser(
-        description="ATLAS baseline evaluation across sliding/random/oldest/attention/learned "
-                     "eviction strategies (no LoRA adapter)"
+        description="ATLAS baseline evaluation on a FIXED LoRA model across "
+                     "fifo/sliding/random/attention eviction baselines plus the oracle"
     )
+    parser.add_argument("--model-path", default=DEFAULT_C1_ADAPTER,
+                         help="LoRA adapter dir/hub-id or full model dir for the fixed Agenda LLM "
+                              "(default: C1 hub adapter) — must match eval_policy_extrinsic.py")
     parser.add_argument("--base-model", default=DEFAULT_BASE_MODEL)
-    parser.add_argument("--policy-model", required=True,
-                         help="path to a trained EvictionMLP .pt checkpoint, used for the 'learned' strategy")
-    parser.add_argument("--policy-no-scispacy", action="store_true",
-                         help="disable scispaCy entity_count in the learned policy's features "
-                              "(only safe if the checkpoint was also trained without it)")
     parser.add_argument("--window-size", type=int, default=10, help="sliding-window K")
 
     parser.add_argument("--data-dir", default=str(DEFAULT_DATA_DIR))
@@ -70,7 +77,9 @@ def main():
     parser.add_argument("--load-in-4bit", action="store_true")
     parser.add_argument("--max-new-tokens", type=int, default=256)
     parser.add_argument("--hf-token", default=None)
-    parser.add_argument("--skip-bertscore", action="store_true")
+    parser.add_argument("--skip-bertscore", action="store_true",
+                         help="skip all deberta-xlarge bert-score metrics — both summary "
+                              "bertscore AND agenda_completeness (which is bert-score based)")
 
     parser.add_argument("--csv", default=str(DEFAULT_CSV),
                          help="cache/result CSV (strategy, model, budget, metric, value) — "
@@ -90,33 +99,56 @@ def main():
         sys.exit(1)
     print(f"Loaded {len(convs)} conversations from {args.data_dir}")
 
+    # Fixed LoRA Agenda LLM, built lazily (and once) only if some strategy is
+    # actually missing from the cache.
+    llm = None
+    # Shared across every strategy/budget so identical trajectories score once.
+    report_cache = {}
     new_rows = []
-    for strategy_name in STRATEGIES_TO_COMPARE:
-        eviction_strategy = build_eviction_strategy(
-            strategy_name, args.window_size, args.policy_model, not args.policy_no_scispacy
-        )
-
-        missing_budgets = [b for b in args.budgets if (strategy_name, "baseline", b) not in done]
+    for strategy_name in BASELINE_STRATEGIES:
+        model = model_label(strategy_name, args)
+        missing_budgets = [b for b in args.budgets if (strategy_name, model, b) not in done]
         if not missing_budgets:
-            print(f"[{strategy_name}/baseline] all budgets cached in {csv_path}, skipping")
+            print(f"[{strategy_name}] all budgets cached in {csv_path} "
+                  f"(model={model}), skipping")
             continue
 
-        print(f"\n=== strategy={strategy_name} model=baseline budgets={missing_budgets} ===")
-        llm = build_llm("baseline", args.base_model, None, args.base_model,
-                         dtype, args.load_in_4bit, args.hf_token, args.max_new_tokens)
+        if llm is None:
+            base_for_load, adapter_path, tok_source = resolve_model_spec(
+                args.model_path, args.base_model, args.hf_token
+            )
+            llm = build_llm("model", base_for_load, adapter_path, tok_source,
+                             dtype, args.load_in_4bit, args.hf_token, args.max_new_tokens)
 
-        per_budget = run_model_across_budgets(
-            "baseline", llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore
-        )
-        free_llm(llm)
+        # policy_model is unused for baselines (no "learned" here).
+        eviction_strategy = build_eviction_strategy(strategy_name, args.window_size, None, True)
+
+        print(f"\n=== strategy={strategy_name} budgets={missing_budgets} ===")
+        if strategy_name == "oracle":
+            # Oracle keeps everything regardless of budget -> run once, replicate.
+            one = run_model_across_budgets(
+                "model", llm, convs, [ORACLE_BUDGET], eviction_strategy, args.skip_bertscore,
+                report_cache=report_cache,
+            )
+            report = next(iter(one.values()))
+            per_budget = {b: report for b in missing_budgets}
+        else:
+            per_budget = run_model_across_budgets(
+                "model", llm, convs, missing_budgets, eviction_strategy, args.skip_bertscore,
+                report_cache=report_cache,
+            )
 
         for budget, report in per_budget.items():
             for metric, value in flatten_metrics(report).items():
                 new_rows.append({
-                    "strategy": strategy_name, "model": "baseline", "budget": budget,
+                    "strategy": strategy_name, "model": model, "budget": budget,
                     "metric": metric, "value": value,
                 })
-            done.add((strategy_name, "baseline", budget))
+            done.add((strategy_name, model, budget))
+
+    if llm is not None:
+        log_cache_stats(llm)
+        free_llm(llm)
 
     if new_rows:
         append_rows(csv_path, new_rows)

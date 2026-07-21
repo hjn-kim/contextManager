@@ -1,0 +1,428 @@
+{
+  "id": "D2N042",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "good morning carolyn how are you"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing alright other than this ankle pain i've been having"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so i see here that you hurt your right ankle can you tell me what happened"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yeah so yesterday i was going to take out the trash and it was quite icy i thought i was doing okay job and i just slipped and and fell and i'm pretty sure i heard a pop"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and you said this happened yesterday correct"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay and have you been able to walk on it at all"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "no i was so initially when i first fell i was unable to walk at on it at all i had a friend that was visiting and so she heard me fall so she helped me inside now today i have been able to put a little bit more weight on it but i'm still limping"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and then what have you been doing for your foot or ankle pain since that happened"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "so i like iced it last night and kept it elevated and i also took some ibuprofen last night and this morning before coming in today"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and can you rate your pain for me"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i would say right now it's like a four out of ten"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay and does the ibuprofen help with that pain"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "it does it does help with the pain"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and when you take your ibuprofen what can you what's your pain level then"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "so this so what did i just say four"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "yes ma'am"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "four out of ten so four out of ten is with ibuprofen"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "it's with ibuprofen okay what's your pain level without then"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i would say probably a six"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i'm sorry it's a six out of ten without ibuprofen and it goes down to like a one with ibuprofen"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay alright that that sounds good have you ever injured that foot and ankle before"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "you know i've had a lot of injuries to my ankle but i've never hurt this ankle before i just realized an error"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay you know and i see here that you have a history of playing sports looks like you played soccer in college and then played a little bit of a inner marrow soccer now"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "i'm i'm guessing you probably have n't been able to do that since you hurt your ankle"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "no i have not been"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "so did you hear about the new major league soccer stadium and team that's coming to town they opened in the this year actually they built the stadium have you been down there yet"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "no i have to get there"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "yeah we are all excited it's going to be a good time well have you experienced any numbness or tingling in that right foot"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay so if it's okay with you i would like to do a quick physical exam your vitals look good and everything there looks okay now i'm gon na do a focused exam on your right ankle i do appreciate some ecchymosis or bruising over the lateral malleolus malleolus associated with some edema or swelling of that area you are positive for tenderness to palpation of the anterior lateral soft tissue and now i do n't appreciate any laxity on anterior drawer and inversion stress there is no bony tenderness on palpation to that foot or ankle area now on neurovascular exam of your right foot you have brisk capillary refill of less than three seconds strong dorsalis pedis pulse and your sensation is intact to light touch and all of that is consistent with what's present on your left side as well so i did review the results of your of your x-ray the x-ray of your right ankle showed no fracture which is a good thing so now let me talk to you a little bit about my assessment and plan so for the first problem of right ankle pain your symptoms are consistent with a right ankle sprain or i'm sorry right ankle sprain of your lateral ligament complex more specifically your anterior talofibular ligament now this ligament's on the outside of your ankle ankle which got stretched when you fell the best treatment at this time for your sprain is to keep your leg elevated when you're seated and let's continue to ice okay you're gon na be given an air cast which is gon na help stabilize that ankle and i'm also going to prescribe some crutches because i want you to stay off that leg and start walking on it stay off your leg for now and then in a couple of days start walking on it as tolerated do you have any questions or concerns for me"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "so how long do you think it'll take to heal"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "so your symptoms should significantly improve over a few weeks but i'd like to follow up with you and see how you're doing let's say i'll see you again in fourteen days now i do want you to go ahead and continue to take nsaids or ibuprofen as needed to help with any pain and that's also gon na help reduce that inflammation and swelling okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "alright i will see you again in two weeks carolyn"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "great thank you"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "you're welcome"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right ankle pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 38-year-old female presenting with right ankle pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient sustained a right ankle injury yesterday after slipping on ice and hearing a pop."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been able to walk on the ankle."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was initially unable to bear weight but is now ambulating with an antalgic gait."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient has done for the pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has used ice, elevation, and ibuprofen for pain management."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate her pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates her current pain as 4/10."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if ibuprofen helps with the pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the patient's pain level without medication."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain as 6/10 without ibuprofen and 1/10 with ibuprofen."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has injured this ankle before."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports previous ankle injuries but states this is her first right ankle injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient has a history of playing soccer in college and currently plays in an intramural league."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been able to play soccer since the injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has not been able to play soccer since the injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced numbness or tingling in the right foot."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows ecchymosis over the lateral malleolus, trace edema, tenderness to palpation of the anterolateral soft tissue, no laxity on stress testing, no bony tenderness, brisk capillary refill, strong dorsalis pedis pulse, and intact sensation; X-ray shows no fracture; assessment is a lateral ligament complex sprain of the right ankle; plan includes elevation, icing, ibuprofen as needed, Aircast, and crutches for non-weight-bearing for two days."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about the expected healing time."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up visit in 14 days and instructs the patient to continue ibuprofen as needed."
+        }
+      ]
+    }
+  ],
+  "case_description": "Right ankle pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

@@ -1,0 +1,734 @@
+{
+  "id": "D2N057",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi good afternoon joseph how are you doing today"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing well but my my big toe hurts and it's a little red too but it really hurts okay how long has this been going on i would say you know off and on for about two weeks but last week is is when it really became painful i was at a a trade show convention and i could n't walk the halls i could n't do anything i just had to stand there and it really hurt the whole time i was there"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay does it throb ache burn what kind of pain do you get with it"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "it's almost like a throbbing pain but occasionally it becomes almost like a a sharp stabbing pain especially if i move it or spend too much time walking i i find myself walking on my heel just to keep that toe from bending"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay sorry i got a text and"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "well that's okay you know what i i you know i what i really you know i love to ride bikes have you you ride bike at all"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "no i hate riding a bike i'm more of a runner"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "my gosh i love to ride i ride the lot of rails the trails i mean i go all the last year i put in over eight hundred miles on rails the trails"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "yeah those those are nice"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "does it does riding your bike bother your big toe"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no because i i kinda pedal with the the back of my feet you know on that side"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay do do you wear clips or are you just wearing a regular shoe and on a regular pedal"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i'm on a regular shoe some most of the time i'm in my flip flops"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay okay the how is there anything that you were doing out of the ordinary when this started"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no i do n't that's the thing i do n't remember an injury if it was something that i injured i think i would have just ignored it and would n't have showed up here but when it got red and warm to touch that's when i i was really concerned"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay do does even light pressure to it bother it like at night when you're laying in bed do the sheets bother"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "absolutely i was just gon na say when i'm in bed at night and those sheets come down on it or i roll over yeah that hurts a lot"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay have you done anything to try to get it to feel better any soaks or taking any medicine"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i take you know like a two ibuprofen a day and that does n't seem to help"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "alrighty"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "let me see your your foot here and let me take your big toe through a range of motion if i push your top to bottom"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yeah ouch"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "big toe joint that okay and let me move it up where as i bend it up does that hurt"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "it hurts but not as much as when you moved it down"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay so i'm moving it down here and it i've got about ten degrees of plantar flexion does that hurt"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah it a little when you take it a little further"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "if i go a little bit further to twenty degrees does that hurt"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "that hurts more yeah"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay if i push in on your big toe and move it back and forth does that hurt"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yes it does and it it's almost like those joints that when you push it back it's almost like it's grinding a little bit too"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay if i push in between your big toe and your second toe here does that hurt"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "a little bit but not terrible"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay what about if i push on the other side here"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yeah yeah right there on the outside of it absolutely"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "yep"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay and i'm feeling a little bit of bone spur here as well let me let me get an x-ray"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "and after we take a peek at that we'll develop a plan"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "so at this point what would i do if i'm going out of the room and then coming back"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "you could hit pause or hit the stop button and just restart it the next time you come in"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay alrighty so taking a look at your x-ray and you do have you you have a large spur there on the top of your big toe joint"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "oh"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "and you've lost a lot of the cartilage"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "oh"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "and so you you've got some arthritis in there we we call this hallux rigidus and treatment for this to start off with we we put an insert in your shoe called an orthotic and we give you a little bit of anti-inflammatory medication or like a drug called meloxicam you only have to take it once a day"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "it's usually pretty well tolerated have you ever had any trouble with your stomach"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "no never never had any problems with my stomach i love the i love the mexican's food the hotter the better so i hope i never get a problem with my stomach"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "i hope you do n't either one of the things that we get concerned about with an anti-inflammatory like that is that it can irritate the stomach so if you do start to notice that you're getting heartburn or pain right there"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "below your your sternum you would need to stop taking the medicine and give me a call"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "and i wan na see you back in two weeks to see how you're doing with that if you're not seeing significant improvement then we may have to talk about doing things that are a little more invasive like doing a shot"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "or even surgery to clean out the joint sometimes"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "is that surgery"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "i have to"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "would that be"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "i'm sorry"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "would that be surgery clean out the joint"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "yeah that would"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "that would be surgery if if we went in and cleaned out the joint sometimes in really severe cases we even just have to fuse the big toe joint we put it in a position of optimal function and we fuse it there and then your pain goes away you lose some motion but you've already lost quite a bit of motion and and the pain goes away so that that surgery really is very effective but let's try to run from my knife a little bit longer"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "okay well you know i do n't think i'm gon na be able to do my work job i'm on my feet every day and i it's and and quite frankly it's fishing season so do you think you can give me a couple weeks off so i can get out and get some fishing done"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "no i want you to be doing your regular activities i want to know how this because if i put you out of work can you come back in and say it feels better well is was it because of the treatment or because of the rest so no i want you to keep working i want you to do your regular activities and i really want you to put these orthotics to the test and this medicine to the test and we will see how you're doing in two weeks"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "okay where i really like catching blue going croppy so okay we'll we'll i'll i'll keep working then i'll find time to do that later"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "very good we will see you in two weeks"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "okay thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right great toe pain.",
+          "eval_only": null
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports right great toe pain starting two weeks ago, worsening last week.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the quality of the pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as throbbing and sharp/stabbing with movement or walking, noting he walks on his heel to avoid bending the toe.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient enjoys bicycle riding.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if bicycle riding affects the toe pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports no pain with cycling as he pedals with the back of his feet.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the type of footwear used while cycling.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports wearing regular shoes or flip-flops while cycling.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there was any specific injury or unusual activity at the onset of symptoms.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies a specific injury and notes redness and warmth to the toe.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if light pressure or bed sheets cause pain at night.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms pain with light pressure and contact with bed sheets at night.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about previous treatments or medications used.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports taking two ibuprofen daily without relief.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical examination of the right great toe range of motion.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes 10 degrees of plantar flexion with pain.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor palpates the toe joint, noting pain and grinding.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor palpates between the big toe and second toe.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor identifies a bone spur and orders an X-ray.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-ray reveals a large bone spur on the anterior aspect of the right great toe joint.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-ray shows loss of cartilage and arthritis.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor diagnoses hallux rigidus and recommends custom orthotics.",
+          "eval_only": null
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam once a day.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of stomach issues.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any history of stomach problems.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to stop meloxicam and call the office if gastrointestinal irritation occurs.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is to follow up in two weeks; if no improvement, cortisone injection or surgery will be considered.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0065",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if cleaning out the joint is considered surgery.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0066",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms that cleaning out the joint is a surgical procedure.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0069",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks for time off work.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to continue regular activities and work.",
+          "eval_only": null
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0072",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will return for a follow-up visit in two weeks.",
+          "eval_only": null
+        }
+      ]
+    }
+  ],
+  "case_description": "Right great toe pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

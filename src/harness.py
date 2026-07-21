@@ -94,6 +94,15 @@ class AgendaLLM:
         # This is a PLACEHOLDER — not suitable for final experiments
         return max(len(text) // 4, 1)
 
+    def score_buffer_attention(self, items, current_utterance: dict, context: str):
+        """
+        Optional hook for the spec's lowest-attention C3 baseline.
+
+        Real LLM backends can override this and return one score per
+        BufferItem. MockLLM deliberately does not implement it.
+        """
+        raise NotImplementedError
+
 
 class MockLLM(AgendaLLM):
     """
@@ -108,18 +117,28 @@ class MockLLM(AgendaLLM):
         super().__init__(config)
         self.annotations = annotations
 
+    @staticmethod
+    def _model_detail_list(detail_list: List[Dict]) -> List[Dict]:
+        """Return only fields the Agenda LLM is supposed to emit."""
+        return [
+            {"type": item["type"], "summary": item["summary"]}
+            for item in detail_list or []
+            if item.get("type") and item.get("summary")
+        ]
+
     def predict(self, context: str, speaker: str, text: str,
                 utterance_id: str = None) -> LLMOutput:
         if utterance_id and utterance_id in self.annotations:
             ann = self.annotations[utterance_id]
             if "detail_list" in ann:
                 # New format: detail_list with multiple (type, summary) pairs
+                detail_list = self._model_detail_list(ann["detail_list"])
                 return LLMOutput(
                     relevant=ann["relevant"],
-                    detail_list=ann["detail_list"],
+                    detail_list=detail_list,
                     # Also set first item as type/summary for backward compat
-                    type=ann["detail_list"][0]["type"] if ann["detail_list"] else None,
-                    summary=ann["detail_list"][0]["summary"] if ann["detail_list"] else None,
+                    type=detail_list[0]["type"] if detail_list else None,
+                    summary=detail_list[0]["summary"] if detail_list else None,
                 )
             else:
                 # Legacy format: single type/summary
@@ -171,7 +190,7 @@ class ContextBuffer:
         """Does the buffer exceed the budget?"""
         return self.get_total_tokens() > self.config.buffer.budget
 
-    def evict(self, strategy):
+    def evict(self, strategy, **strategy_kwargs):
         """
         Run eviction strategy, then enforce budget.
 
@@ -190,7 +209,7 @@ class ContextBuffer:
             return
 
         # Phase 1: strategy (may filter AND/OR score)
-        self.items = strategy(self.items)
+        self.items = strategy(self.items, **strategy_kwargs)
 
         # Phase 2: budget enforcement
         if self.needs_eviction():
@@ -283,7 +302,7 @@ class StreamingHarness:
             else:
                 output = llm.predict(context, utt["speaker"], utt["text"])
 
-            # 3. If relevant, add to buffer + update tracker
+            # 3. If relevant, add to buffer
             if output.relevant:
                 # Build list of (type, summary) pairs from detail_list or single
                 details = []
@@ -303,13 +322,20 @@ class StreamingHarness:
                     )
                     buffer.add(item)
 
-                # Update tracker if available
-                if tracker:
-                    tracker.update(output, utt)
+            # Update tracker for every utterance, including irrelevant turns.
+            if tracker:
+                tracker.update(output, utt)
 
-                # 4. Run eviction strategy EVERY turn
-                if eviction_strategy:
-                    buffer.evict(eviction_strategy)
+            # 4. Run eviction strategy every turn. Irrelevant turns do not add
+            # items, but keeping this outside the relevance branch preserves the
+            # loop contract.
+            if eviction_strategy:
+                buffer.evict(
+                    eviction_strategy,
+                    llm=llm,
+                    current_utterance=utt,
+                    context=context,
+                )
 
             t_end = time.perf_counter()
             latency_ms = (t_end - t_start) * 1000

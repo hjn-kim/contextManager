@@ -1,0 +1,542 @@
+{
+  "id": "D2N020",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , vincent . how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm good . how about you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm good . so le- are you ready to get started ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i am ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay . vincent is a 56-year-old male here with abnormal lab findings . so , i've heard you were in the er , vincent , and they found that you had a low hemoglobin ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yup ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "were you having some dizziness and some lightheadedness ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i was very lightheaded . i- i do n't know . very lightheaded ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . and have you noticed bleeding from anywhere ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i have not . i have n't hurt myself in quite a while . maybe a slight nick from a knife while chopping some onions , but nothing more than that ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "but no blood in your stools or-"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": ". anything like that ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . and any type of weight loss or decreased appetite or night sweats ? coughs ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "uh , s- slightly decreased appetite , but i wish i had some weight loss ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "um , okay . and how about any abdominal pain ? fever , chills ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "uh , none of that ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . all right . um , any nausea or vomiting ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "not really . yeah . maybe a bit of nausea ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i- sitting at the back of a car , that makes me nauseous at times ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . all right . um , well , how are you doing in terms of your knee replacement . i know you had that done last year . that's going okay ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "mm , it seems okay . yeah ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay . you're walking around without a problem ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yup , yup . just not good enough to run yet , but everything else works just fine ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "all right . um , and i know a few years ago , you had , had that scare with the possible lung cancer , but then they did the biopsy and , and you've been fine ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yup , yup . all good ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "turned out to be benign ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yup ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay . great . all right . well , let's go ahead and do a quick physical exam . so looking at you , you do n't appear in any distress . your heart is regular . your lungs sound nice and clear . you have some tenderness to the right lower quadrant to palpation of your abdomen . your lower extremities have no edema ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "um , all right . well , let's go ahead and look at your labs , okay ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "yup ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the hemoglobin . yeah , so your hemoglobin is 8.2 , which is quite low for somebody of your height and weight , so we'll have to look into that a , a little bit further . i know that they did the endoscopy in the emergency room . hey , dragon , show me the endoscope results ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "good . so it looks like you had some gastritis , which is just inflammation of your stomach and they also found a slight polyp , which i know that they biopsied and the results are pending at this time . um , so , you may have had some bleeding from the gastritis . it's not usual for people to have bleeding from that ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "um , okay , well , hey , dragon , show me the anemia panel . okay ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "anyway , okay . well , vincent , i think , you know , in terms of , my impression of you is that you've had this newfound anemia and for that , i think that we should go ahead and put you on protonix , 40 milligrams , once a day to help with the gastritis . does that sound okay to you ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "it does . you're the doctor . i do n't know what it is ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "so that's just , uh , what we call a proton pump inhibitor which , uh , helps decrease the amount of acid secreted within your stomach ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "got it . makes sense ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "hey , hey , dragon , order protonix , 40 milligrams , once a day ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "and i'd like you to try to cut down on your caffeine 'cause that can also irritate your stomach . try not to take any ibuprofen and try to cut down on any alcohol intake , okay ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "yup , yup . the coffee's the hard part ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "yeah . it always is . how about one , one , one eight-ounce cup a day ? okay ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "um , and we'll go ahead and we'll see you in a couple weeks , okay ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "sure thing ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "i'm going through , uh , i'll also order another , uh , cbc on you . hey , dragon , order a complete blood count ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "all right . the nurse will be in soon . it's , you know , settle all that . i'll see you soon ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "see you ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 56-year-old male presenting for evaluation of abnormal labs and low hemoglobin found in the emergency room."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been experiencing dizziness or lightheadedness."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he has been very lightheaded."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed any bleeding."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any bleeding other than a minor knife nick."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed blood in his stools."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies blood in his stools."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about weight loss, appetite changes, night sweats, and cough."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a slightly decreased appetite and denies weight loss."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about abdominal pain, fever, and chills."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal pain, fever, and chills."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about nausea and vomiting."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports mild nausea."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient notes nausea when sitting in the back of a car."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Knee arthroplasty status."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports his knee is doing okay."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is walking without problems."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he is walking well but cannot run yet."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient had a benign lung biopsy a few years ago."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include no distress, regular heart rhythm, clear lungs, right lower quadrant abdominal tenderness, and no lower extremity edema."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin is 8.2."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Endoscopy showed gastritis and a polyp with pending biopsy results."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Anemia."
+        },
+        {
+          "type": "medication",
+          "summary": "Protonix 40mg daily."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises reducing caffeine, avoiding NSAIDs, and reducing alcohol intake."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends limiting caffeine to one eight-ounce cup per day."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is scheduled for a follow-up visit in two weeks."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a repeat complete blood count."
+        }
+      ]
+    }
+  ],
+  "case_description": "abnormal labs for anemia; hx lobectomy and knee arthroplasty",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "id": "D2N044",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "good morning julie how are you doing this morning"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i've been better my primary care doctor wanted me to see you because of this this knee pain that i've been having for about six months now"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay and do you remember what caused the pain initially"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "honestly i do n't i ca n't think of anytime if i fell or like i i've really been trying to think and i ca n't really think of any specific event"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay now it it says here that it's in both knees is that correct"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yes both my knees"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay it kinda try let's let's try describing the pain for me please"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah it's kind of feels like it's like right behind my kneecaps"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "and it's like a deep achy pain"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "a deep achy pain okay what kind of activities makes the pain feel worse"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "let's see so anytime so if i'm sitting at my desk and i get up i have a lot of pain so anytime from like standing up from sitting for a while or even going up and down the stairs"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay so you work from home"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i do"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay okay so there is a lot of desk setting at home is your office upstairs or is it i mean do you have to go up or downstairs to get to it"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no well first thing in the morning but otherwise it's downstairs"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay okay how do you like working from home"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "you know it has it's plus and minuses"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i like it though my i like my commute"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i love it"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "and the parking i'm sure the parking is"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "and the parking is great"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "yeah i you know if i could do telehealth visits all day long i would be totally happy with that yeah and just set it home and do those so you mentioned is there anything that makes that pain feel better"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "usually after like if i feel that pain and then i just it does get better"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay now you mentioned earlier that you tried some things in the past what have what are they and did they work at all"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah i've done some ibuprofen or aleve sometimes some tylenol and that does help"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "it takes the edge off"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay but you're never really pain free is that what i hear you saying"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "not really unless i'm like really just resting which i hate to do but otherwise any type of movement especially from sitting it causes pain"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay so are you active other than going up and down the steps to your office"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "very i'm a big runner i love to run i run about five to six miles a day but with this knee with with these knee pain that i've been having it's i barely can even do half a mile"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "yeah you know what that's that's i am a biker and i know that once you get that into your you know you have loved doing that activity it's so frustrating when you ca n't it's almost like a it's almost like a dry it almost becomes a drug when you get up"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "exactly"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "it's"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay so have you noticed any redness or swelling in your knees"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay and have you ever injured your knees before"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "you know despite how active i am i you know i've never"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "injured or broken a bone"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay great so let's go ahead and do a i just wan na take a look here i reviewed your vitals and overall they look good your blood pressure is one twenty over seventy your your heart rate is sixty and your respiratory rate is fourteen those are all phenomenal numbers as i listened to your heart it is at a regular and a slower rate but i do n't hear any extra sounds so there is no murmurs as we go through that now on musculoskeletal exam you have a normal gait i watched you you know kinda walk in here this morning your strength i just wan na check it when i go ahead and i want you to move your leg okay your muscle strength is is good you do have a three out of five for abduction of your legs bilaterally and that's you know kinda bringing your legs in the remainder of your muscle strength for your lower extremities is a five out of five now let me focus specifically on your knee examination i do n't see any redness or ecchymosis or warmth of the skin and those are big words you know i do n't see any bruising or or that redness there is no effusion that's just like a fluid underneath the knee i do n't appreciate that any at all you do seem to have some tenderness when i palpate and you do have a positive patellar grind test when you stood up i could feel that as we went through there you did say you had that knee pain with squatting but your lachman your anterior and posterior drawer and mcmurray test are all negative bilaterally neurologically and your your your lower extremities your patella and your achilles reflex are symmetrical and that's good so i did review the x-rays of both your knees which shows no fractures or osteoarthritis so based on what you told me and reviewing the mri that you had done before you came in your symptoms are consistent with patellofemoral pain syndrome and this is a really common condition that we see that causes knee knee pain especially in really active young people that's probably why i do n't get it when i'm riding my bike forever and ever now this condition has to do with the way your kneecap moves across along the groove of your thigh bone your femur so for pain i want you to continue to take the ibuprofen or any other anti-inflammatories you know aleve or any of those as you need it to help with the pain now i am going to recommend physical therapy well they will show you a number of lower extremity exercises this is probably one of the best things that you can do and this will help increase your lower extremity strength your mobility and correct any incorrect running mechanics that you might have do you have any questions for me"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "so will i be able to run again"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "absolutely my goal is to get you out there and maybe we can cross pads on the the bike trail some day you are gon na have to take it a little bit easy for now but we are gon na get you back and once we do that i think you will be really pleased is there anything else"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "no i think that's it"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay have a great day"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "okay you too"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is presenting with bilateral knee pain for six months."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Knee pain"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there was a specific injury that caused the knee pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any specific injury or fall."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor confirms the pain is bilateral."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the knee pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as being located behind the kneecaps."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as deep and achy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what activities exacerbate the pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain when standing from a seated position and when using stairs."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient works from home."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if anything alleviates the pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that the pain improves with rest."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about previous treatments for the pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has used ibuprofen, aleve, and tylenol for pain relief."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is an avid runner."
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports being unable to run more than half a mile due to knee pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about redness or swelling in the knees."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies redness or swelling."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about previous knee injuries."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any history of knee injuries or broken bones."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reviews vitals: BP 120/70, HR 60, RR 14."
+        },
+        {
+          "type": "detail",
+          "summary": "Cardiac exam shows regular, slower rate with no murmurs."
+        },
+        {
+          "type": "detail",
+          "summary": "Musculoskeletal exam shows normal gait, 3/5 abduction strength bilaterally, and 5/5 strength elsewhere in lower extremities."
+        },
+        {
+          "type": "detail",
+          "summary": "Knee exam shows no redness, ecchymosis, warmth, or effusion; tenderness to palpation and positive patellar grind test; negative Lachman, drawer, and McMurray tests."
+        },
+        {
+          "type": "detail",
+          "summary": "Neurological exam shows symmetrical patellar and Achilles reflexes."
+        },
+        {
+          "type": "detail",
+          "summary": "X-rays show no fractures or osteoarthritis."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Patellofemoral pain syndrome"
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends continuing NSAIDs as needed and refers the patient to physical therapy."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if she will be able to run again."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises the patient to be conservative with physical activity for now."
+        }
+      ]
+    }
+  ],
+  "case_description": "knee pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

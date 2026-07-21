@@ -1,0 +1,361 @@
+{
+  "id": "D2N005",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey , ms. hill . nice to see you ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hi , dr. james , good to see you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "hey , dragon , i'm seeing ms. hill . she's a 41-year-old female , and what brings you in today ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "um , i am having a lot of pain at the end of my right middle finger ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "what did you do ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "a little embarrassing . um , i got rear-ended , slow motor , uh , vehicle accident , and i got really angry with the person who hit me , so i went to flip him the bird , but i was a little too enthusiastic ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "and i hit the ceiling of the car ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay . when did this happen ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "uh , it was saturday , so about four , five days ago ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "five days ago . what were you doing ? were you , like , stopped at a stoplight ? a stop sign ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "yes . so i was stopped at a four-way stop , and it was not my turn to go . there were other cars going , and the person behind me just was n't watching . i think they were texting and rear-ended me ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "how much damage to your car ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "uh , not too much . the , the trunk crumpled up a little bit ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay . and no other injuries ? just the finger ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "just the middle finger ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "so you would've escaped this accident without any injuries ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "yes . uh , i'm not proud ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay . um , so four days of right middle finger pain-"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": ". after a motor vehicle accident ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "all right . um , let's look at your x-ray . hey , dragon , show me the last x-ray . so what i'm seeing here is on the tip of this middle finger , you actually have a fracture . so you have a distal phalanx fracture in the middle finger . very ..."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "great ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "very interesting . let me check it out . um , so does it hurt when i push right here ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "and does that hurt ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "very much so ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "what about down here ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay . so generally , your exam is normal other than you've got tenderness over your distal phalanx of your right middle finger . um , so your diagnosis is distal phalanx fracture of the middle finger or the third finger . and i'm gon na put you on a little bit of pain medicine just to help , just , like , two days' worth . okay , so tramadol , 50 milligrams , every six hours as needed for pain . i'm gon na dispense eight of those ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "and then , um , i'm gon na put you in a finger splint and have you come back in two weeks to get a follow-up x-ray . any questions for me ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "yes . so i'm taking digoxin for afib . will the tramadol be okay with that ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "it will be okay . so you have atrial fibrillation ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "you take digoxin . all right . any other questions for me ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "no , that's it . thank you ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "you're welcome . hey , dragon , go ahead and finalize the recording , and , uh , come with me . we'll get you checked out ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 41-year-old female."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Right middle finger pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain at the distal end of the right middle finger."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the cause of the finger injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient sustained the injury after being rear-ended in a motor vehicle accident and striking the car ceiling."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the duration of the injury."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury occurred five days ago."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there are any other injuries."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any other injuries."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-ray imaging shows a comminuted distal phalanx fracture of the right middle finger."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experiences pain upon palpation of the distal phalanx."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms tenderness over the distal phalanx."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Fracture diagnosis."
+        },
+        {
+          "type": "medication",
+          "summary": "Tramadol 50 mg every 6 hours as needed for pain, dispense 8."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will be provided a finger splint and return in 2 weeks for a follow-up x-ray."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about potential interactions between Tramadol and Digoxin for atrial fibrillation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the safety of the medication and acknowledges the patient's history of atrial fibrillation."
+        }
+      ]
+    }
+  ],
+  "case_description": "right middle finger pain; atrial fibrillation",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

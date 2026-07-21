@@ -1,0 +1,312 @@
+{
+  "id": "D2N050",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey mason good to see you today so let's see you here in my notes for evaluation of kidney stones your your pcp said you had some kidney stones so you got a referral over so can you tell me a little bit about that you know what happened when did you first notice them"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah it was about you know about a week ago and i was working down in the the barn with the horses and you know i was moving some hay but i developed this real sudden onset of pain in my right back and i thought it initially it was from throwing hay but it i broke out into a sweat i got real nauseated and that's when i went and saw my doctor and he ordered a cat scan and said that i had a kidney stone but you know that's i i've never had that before my father's had them in the past but yeah so that's that's how that all happened"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay so you said you had the pain on the right hand side does it move anywhere or radiate"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "well when i had it it would it radiated almost down to my groin"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "not the whole way down but almost to the groin and since then i have n't had any more pain and it's just been right about there"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay and is the pain constant or does it come and go"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "well when i you know after i found out i had a disk a kidney stone it came a couple times but it did n't last as long no i've been i've been straining my urine they told me to pee in this little cup"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "and i've been straining my urine and you know i do n't see anything in there"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay have you noticed any blood in your urine i know you've been draining probably take a good look at it has it been darker than usual"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no not really not really darker"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay so have you had kidney stones before and then you said your father had them but"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i've never had a kidney stone my dad had them a lot but i've never had one"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay alright so let me do a quick exam of you your vital signs look good i do n't see any fever or your blood pressure and heart rate are fine so let me do a quick physical exam let me press here on your belly so on your examination of your abdomen there is no tenderness to to pain to palpation of the abdomen there is no rebound or guarding there is cva there is tenderness on the right side so that means"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i have a stroke"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "can you repeat that"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i did i have a stroke"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "no no no no no so that means like everything is normal right but i feel like you you you have some tenderness and inflammation over your kidney so that has to be expected because you do have a kidney stone so i did review the results of your ct and it does show a stone that's measuring point five centimeters located in the proximal right ureter and that's that duct that classes from your your kidney to down to your bladder there is no evidence of hydronephrosis that would mean that the stone is obstruct obstructing the ureter causing swelling in the kidney so there is there is no evidence of that so let's talk a little bit about my assessment and plan so you do have that kidney stone so right now i'm gon na recommend that we we have you push fluids just to help facilitate you urinating and passing the stone i'm gon na prescribe you some oxycodone five milligrams every six to eight hours for pain and you can continue to take tylenol between that for any breakthrough pain and you already have a strainer so that's good continue to use that and we can see continue that until the stone hasses and i'm also gon na order a bmp and your urinalysis and urine culture just to make sure that everything else is okay with you and based on urinalysis we can see if we need to prescribe you antibiotics see if you have any type of infection i do want to see you back in about one to two weeks and hopefully by that time you you passed the stone but if not we can discuss further treatment lithotripsy it's like a shock wave kinda breaks up that stone it's not it's not that invasive procedure but we can just we can discuss that if it has n't passed in that one to two weeks that sound good"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "that sounds perfect dear too"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "thank you document"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "so i will see you in a week or so and hopefully you've passed that stone and i'll send my nurse in with that prescription"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "okay thank you"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "thanks"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is an 80-year-old male presenting for evaluation of kidney stones."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Kidney stones"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports sudden right back pain starting one week ago while moving hay, accompanied by nausea and sweating."
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports a family history of kidney stones in his father but denies any personal history of kidney stones."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain radiates to other areas."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain radiated toward his groin."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that his pain has currently resolved."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is constant or intermittent."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain has been intermittent and he has been straining his urine."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports he has not seen any stone in his urine strainer."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed blood in his urine or if the urine is darker than usual."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies hematuria or dark urine."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's history of kidney stones."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he has no prior history of kidney stones."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes normal vital signs, including blood pressure, heart rate, and temperature."
+        },
+        {
+          "type": "detail",
+          "summary": "Physical exam shows no abdominal tenderness, rebound, or guarding, but reveals right-sided CVA tenderness."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "CT scan shows a 0.5 cm stone in the proximal right ureter with no evidence of hydronephrosis."
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes oxycodone 5 mg every 6 to 8 hours for pain."
+        },
+        {
+          "type": "detail",
+          "summary": "The patient may take Tylenol for breakthrough pain and should continue using a urine strainer."
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a BMP, urinalysis, and urine culture, and requests a follow-up visit in 1 to 2 weeks to discuss potential lithotripsy if the stone has not passed."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will follow up in one week."
+        }
+      ]
+    }
+  ],
+  "case_description": "kidney stones",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

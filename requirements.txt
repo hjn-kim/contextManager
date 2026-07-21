@@ -1,0 +1,37 @@
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+tqdm
+
+# torch: imported directly (src/policy.py, extract_oracle_attention.py, eval_policy_*.py).
+# For GPU installs use the CUDA wheel index, e.g.
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch
+
+transformers
+accelerate
+peft
+datasets
+huggingface_hub
+safetensors
+sentencepiece
+sentence-transformers
+
+bert-score
+rouge-score
+nltk          # rouge-score tokenizer dependency
+
+spacy
+scispacy
+# scispaCy model used by entity_count features (spacy.load("en_core_sci_sm")).
+# Not on PyPI — installed from the scispaCy release URL:
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+# scispaCy dependency; upstream nmslib does not build on Python 3.11+.
+nmslib-metabrainz
+
+bitsandbytes
+
+# Gemini annotation script only (data/annotation_gemini.py).
+google-genai

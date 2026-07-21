@@ -7,7 +7,7 @@ Spec baseline 5:
   2. Sliding window          — count-based, always keep last K items only
   3. Random eviction         — random selection
   4. Oldest-first            — by original timestamp (differs from FIFO after reordering)
-  5. Lowest-attention        — by LLM attention weights (deferred/placeholder)
+  5. Lowest-attention        — by real LLM attention weights
 
 KEY DESIGN DECISION — why FIFO and sliding are different:
 
@@ -28,21 +28,23 @@ Oracle (unlimited budget) is NOT a baseline — handled at harness level
 by setting budget=999999.
 
 Strategy interface:
-  strategy(items: List[BufferItem]) → List[BufferItem]
+  strategy(items: List[BufferItem], **kwargs) -> List[BufferItem]
   Returns the items to KEEP (may be shorter than input).
   Remaining items must have .score set for tiebreaking if further
   eviction is needed.
 """
 
+import math
 import random
-from typing import List, Callable
+from collections.abc import Sequence
+from typing import Callable, List, Optional
 
 
 # =============================================================================
 # STRATEGY 1: FIFO / Growing Window
 # =============================================================================
 
-def fifo_strategy(items: List) -> List:
+def fifo_strategy(items: List, **kwargs) -> List:
     """
     Growing window / FIFO. Token-budget driven.
 
@@ -81,7 +83,7 @@ class SlidingWindowStrategy:
     def __init__(self, window_size: int = 10):
         self.window_size = window_size
 
-    def __call__(self, items: List) -> List:
+    def __call__(self, items: List, **kwargs) -> List:
         if not items:
             return items
 
@@ -104,7 +106,7 @@ class SlidingWindowStrategy:
 # STRATEGY 3: Random Eviction
 # =============================================================================
 
-def random_strategy(items: List) -> List:
+def random_strategy(items: List, **kwargs) -> List:
     """
     Random eviction. Each item gets a random score.
     Eviction order is non-deterministic.
@@ -118,7 +120,7 @@ def random_strategy(items: List) -> List:
 # STRATEGY 4: Oldest-First
 # =============================================================================
 
-def oldest_first_strategy(items: List) -> List:
+def oldest_first_strategy(items: List, **kwargs) -> List:
     """
     Oldest-first. Score by original conversation timestamp.
 
@@ -146,25 +148,212 @@ def oldest_first_strategy(items: List) -> List:
 
 
 # =============================================================================
-# STRATEGY 5: Lowest-Attention (PLACEHOLDER)
+# STRATEGY 5: Lowest-Attention
 # =============================================================================
 
-def lowest_attention_strategy(items: List) -> List:
+def _as_score_list(scores, items: List) -> Optional[List[float]]:
     """
-    Lowest-attention baseline. PLACEHOLDER — NOT YET IMPLEMENTED.
+    Normalize several reasonable LLM-return formats into a score list.
 
-    Intended behavior: use LLM attention weights from the most recent
-    inference call to score summaries. Items that received the least
-    attention are evicted first.
-
-    Requires llama.cpp attention weight extraction, which is not yet
-    available. Currently falls back to oldest-first as a temporary
-    stand-in. This MUST be replaced before this baseline can be
-    included in final experiment results.
-
-    TODO: integrate with LlamaCppLLM.get_attention_weights()
+    Accepted formats:
+      - list/tuple aligned with current buffer items
+      - dict keyed by item.summary
+      - dict keyed by item.utterance_id
     """
-    return oldest_first_strategy(items)
+    if scores is None:
+        return None
+
+    if isinstance(scores, dict):
+        values = []
+        for item in items:
+            if item.summary in scores:
+                values.append(scores[item.summary])
+            elif item.utterance_id in scores:
+                values.append(scores[item.utterance_id])
+            else:
+                return None
+        return [float(v) for v in values]
+
+    if isinstance(scores, Sequence) and not isinstance(scores, (str, bytes)):
+        if len(scores) != len(items):
+            return None
+        return [float(v) for v in scores]
+
+    return None
+
+
+def _sanitize_scores(scores: List[float]) -> List[float]:
+    clean = []
+    for score in scores:
+        if math.isfinite(score):
+            clean.append(float(score))
+        else:
+            clean.append(0.0)
+    return clean
+
+
+def _build_attention_prompt(llm, context: str, current_utterance: dict) -> str:
+    speaker = (current_utterance or {}).get("speaker", "")
+    text = (current_utterance or {}).get("text", "")
+    speaker_label = speaker.capitalize() if speaker else "Speaker"
+    user_text = f"[Context]: {context or 'Start of visit'}\n[Utterance]: [{speaker_label}] {text}"
+
+    tokenizer = getattr(llm, "tok", None) or getattr(llm, "tokenizer", None)
+    system_prompt = getattr(llm, "system_prompt", None)
+
+    if tokenizer is not None and hasattr(tokenizer, "apply_chat_template"):
+        messages = []
+        if system_prompt:
+            messages.append({"role": "system", "content": system_prompt})
+        messages.append({"role": "user", "content": user_text})
+        try:
+            prompt = tokenizer.apply_chat_template(
+                messages,
+                tokenize=False,
+                add_generation_prompt=True,
+            )
+            return prompt
+        except Exception:
+            # Fall back to raw text below; the caller will still use true
+            # attention, just with a simpler prompt wrapper.
+            pass
+
+    if system_prompt:
+        return f"{system_prompt}\n\n{user_text}"
+    return user_text
+
+
+def _score_with_hf_attention(
+    items: List,
+    llm,
+    current_utterance: dict,
+    context: str,
+) -> Optional[List[float]]:
+    """
+    Compute lowest-attention scores directly from a Hugging Face causal LM.
+
+    This is intentionally conservative: if the backend cannot return
+    attentions, we return None and the public strategy raises. That prevents
+    reporting FIFO/oldest/similarity as an "attention" baseline.
+    """
+    model = getattr(llm, "model", None)
+    tokenizer = getattr(llm, "tok", None) or getattr(llm, "tokenizer", None)
+    if model is None or tokenizer is None:
+        return None
+    if not getattr(tokenizer, "is_fast", False):
+        return None
+
+    try:
+        import torch
+    except ImportError:
+        return None
+
+    raw_context = context or "Start of visit"
+    prompt = _build_attention_prompt(llm, raw_context, current_utterance or {})
+
+    context_start = prompt.find(raw_context)
+    if context_start < 0:
+        # If a chat template rewrites the text in an unexpected way, use a
+        # plain prompt so character spans remain trustworthy.
+        prompt = f"[Context]: {raw_context}\n[Utterance]: [{(current_utterance or {}).get('speaker', '').capitalize()}] {(current_utterance or {}).get('text', '')}"
+        context_start = prompt.find(raw_context)
+
+    enc = tokenizer(prompt, return_tensors="pt", return_offsets_mapping=True)
+    offsets = enc.pop("offset_mapping")[0].tolist()
+
+    device = getattr(model, "device", None)
+    if device is None:
+        device = next(model.parameters()).device
+    inputs = {k: v.to(device) for k, v in enc.items()}
+
+    with torch.no_grad():
+        outputs = model(**inputs, output_attentions=True, use_cache=False)
+
+    attentions = getattr(outputs, "attentions", None)
+    if not attentions:
+        return None
+
+    # Last prompt token predicts the first generated token. Its attention over
+    # prior context is the baseline signal.
+    attn = attentions[-1][0, :, -1, :].float().mean(dim=0).detach().cpu()
+
+    scores: List[Optional[float]] = []
+    search_from = 0
+    for item in items:
+        idx = raw_context.find(item.summary, search_from)
+        if idx < 0:
+            scores.append(None)
+            continue
+
+        start = context_start + idx
+        end = start + len(item.summary)
+        token_ids = [
+            token_idx for token_idx, (tok_start, tok_end) in enumerate(offsets)
+            if tok_end > start and tok_start < end
+        ]
+        if token_ids:
+            scores.append(float(attn[token_ids].mean().item()))
+        else:
+            scores.append(0.0)
+        search_from = idx + len(item.summary)
+
+    known = [score for score in scores if score is not None]
+    current_item_score = (max(known) + 1e-6) if known else 1.0
+    return [
+        current_item_score if score is None else score
+        for score in scores
+    ]
+
+
+def lowest_attention_strategy(items: List, **kwargs) -> List:
+    """
+    Lowest-attention baseline from the spec.
+
+    Uses LLM attention weights from the current inference context. Items with
+    lower attention scores are evicted first by ContextBuffer.evict().
+
+    Required input, passed by the harness:
+      - llm: backend exposing either score_buffer_attention(...) or a HF
+        causal-LM pair as .model plus .tok/.tokenizer
+      - current_utterance/context: used to reconstruct the scored prompt
+
+    If real attention weights are unavailable, this raises instead of silently
+    falling back to oldest/FIFO. That keeps baseline numbers honest.
+    """
+    if not items:
+        return items
+
+    llm = kwargs.get("llm")
+    current_utterance = kwargs.get("current_utterance") or {}
+    context = kwargs.get("context") or "Start of visit"
+
+    scores = None
+    if llm is not None and hasattr(llm, "score_buffer_attention"):
+        try:
+            scores = llm.score_buffer_attention(
+                items=items,
+                current_utterance=current_utterance,
+                context=context,
+            )
+        except NotImplementedError:
+            scores = None
+
+    score_list = _as_score_list(scores, items)
+    if score_list is None and llm is not None:
+        score_list = _score_with_hf_attention(items, llm, current_utterance, context)
+
+    if score_list is None:
+        raise RuntimeError(
+            "attention baseline requires real LLM attention weights. "
+            "Provide llm.score_buffer_attention(...) or a Hugging Face LLM "
+            "with .model and fast .tok/.tokenizer loaded with attention output "
+            "support, e.g. attn_implementation='eager'."
+        )
+
+    for item, score in zip(items, _sanitize_scores(score_list)):
+        item.score = score
+
+    return items
 
 
 # =============================================================================

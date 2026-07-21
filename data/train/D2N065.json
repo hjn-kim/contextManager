@@ -1,0 +1,528 @@
+{
+  "id": "D2N065",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey anna good to see you today so i'm looking here in my notes says you have you're coming in today for some right ankle pain after a fall so can you tell me what happened how did you fall"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah so i was taking out the trash last night and i ended up slipping on a patch of ice like and then when i fell i heard this pop and it just hurts"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay so have you been able to walk on it at all or is it you know"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "at first no like my friend who was visiting thankfully had to help me get into the house and i you know and now i'm able to put like a little bit of weight on it but i'm i i'm still limping"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay well you know that's not good we'll we'll hopefully we can get you fixed up here so how much how much pain have you been in on a scale of one to ten with ten being the worst pain you ever felt"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it's it's more like so when i first fell it was pretty bad but now it's it's at like a six you know like it's uncomfortable"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay and how would you describe that pain is it a constant pain or is it only when you move the ankle"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "it's it's constant it's like a throbbing pain you know and like when i touch it it feels kinda warm"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay alright yeah but yeah i can feel it here so it does feel a little bit warm so i said you've been in a little bit of pain so have you taken anything for it"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "well like last night i iced it and i kept it elevated you know i also took some ibuprofen last night and this morning"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "alright has the ibuprofen helped at all"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "not really"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay alright so i just want to know i know some of my patients they have like bad ankles where they hurt the ankles all the time but have you ever injured this ankle before"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "so you know in high school i used to play a lot of soccer but and and like i had other injuries but i've never injured like this particular ankle before but because i used to play like all the time i knew what i was supposed to do but this is i also knew that it was it was time to come in"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay yeah yeah definitely if you if you ca n't walk on it we definitely good thing that you came in today and we were able to see you so have you experienced any numbness in your foot at all"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no no numbness and i do n't think i've had like any tingling or anything like that"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay that that's good yeah it sounds like you have sensation there so yeah that that's really good so let me do a quick physical exam on you so i reviewed your vitals your blood pressure was one twenty over eighty which is good your heart rate your spo2 was ninety eight percent which is good that means you're you're getting all of your oxygen and so let me go ahead and look at your ankle real quick so when i press here does that hurt"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "alright what about here"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay so looking at your ankle and your right ankle exam on the skin there is ecchymosis so you have that bruising which you can see of the lateral"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "malleolus"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "malleolus associated with swelling there is tenderness to palpation of the anterior laterally in the soft tissue there is no laxity on the anterior drawer and inversion stress there is no bony tenderness on palpation of the foot on your neurovascular exam of your right foot there your capillary refill is less than three seconds strong dorsalis pedis pulse and your sensation is intact to light touch alright so we did get an x-ray of your ankle before you came in and luckily it's there is no fractures no bony abnormalities which is really good so let me talk a little bit about my assessment and plan for you so for your right ankle pain your symptoms your symptoms are consistent with a right ankle sprain have you sprained your ankle before most times people do the athletics play soccer it happens every so often but have you done that before"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no i do n't think so"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay well you're one of the lucky ones some of my my patients that play sports they sprain their ankle seems like every other week so good for you so for that that that ankle sprain i just want to keep i want you to keep your leg elevated when you're seated and i want you to continue to ice it you can ice it let's say five times a day for twenty minutes at a time just to help that swelling go down i'm gon na give you an air cast to help you stabilize the ankle so keep it from moving and then i'll give you crutches and so i want you to stay off that leg for about one to two days and then you can start walking on it as tolerated tolerated so how does that sound"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "it's alright"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "alright so do you have any questions for me"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah like how long do you think it's gon na take for me to heal"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "i mean it should take a a couple of days i mean i think in a day or two you will be able to walk on it but still think it will be sore for the next couple of weeks you know your ankle sprain seems to be not the worst but it's kinda you know medium grade ankle sprain so as i would say about two to three weeks you should be back to normal you will see some of that bruising go away"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yeah okay can i get a doctor's note"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "no because you need to go back to work because you work on the computer not running so"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "fine"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "yeah you ca n't get a doctor's note so if you if i write a note i'm gon na tell your boss that you have to go to work"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "okay thanks"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "so i i would n't do that but yeah but otherwise if if if you continue to have pain after this week if you feel like it's not getting better please feel free to contact the office and we can get you back in and possibly do an mri if we you know need to"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "alright"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "anything else"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "no that's it"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "alright thanks"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Anna Diaz is a 31-year-old female presenting with right ankle pain."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Right ankle pain"
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the circumstances of her fall."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient slipped on ice while taking out the trash and heard a pop in her ankle."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is able to walk on the injured ankle."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was initially unable to ambulate but can now bear some weight with a limp."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate her pain on a scale of one to ten."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates her current pain level as a 6 out of 10."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is constant or movement-related."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as constant and throbbing, and notes the ankle feels warm."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the ankle feels warm to the touch."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has taken any medication for the pain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been icing and elevating the ankle and took ibuprofen."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the ibuprofen provided relief."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the ibuprofen did not provide relief."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of injury to this ankle."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient played soccer in high school and had other foot injuries, but denies prior injury to this specific ankle."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced any numbness in the foot."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any numbness or tingling in the foot."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reviews vitals: BP 120/80 and SPO2 98%."
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient feels pain when he palpates the ankle."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain upon palpation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient feels pain when he palpates another area of the ankle."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain upon palpation."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows ecchymosis over the lateral malleolus and swelling."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows tenderness to palpation anterolaterally, no laxity on anterior drawer or inversion stress, and no bony tenderness; neurovascular exam shows capillary refill <3 seconds, strong dorsalis pedis pulse, and intact sensation; X-ray shows no fracture or bony abnormalities."
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Ankle sprain"
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies prior ankle sprains."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises elevating the leg, icing 5 times daily for 20 minutes, using an Aircast, and remaining non-weight-bearing for 1-2 days followed by weight-bearing as tolerated."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about the expected healing time."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor estimates a 2-3 week recovery period for the ankle sprain."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks for a doctor's note for work."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor denies the request for a doctor's note."
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to contact the office if pain persists after one week for potential MRI."
+        }
+      ]
+    }
+  ],
+  "case_description": "Right ankle pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": false
+  }
+}

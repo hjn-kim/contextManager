@@ -1,11 +1,11 @@
 """
 ATLAS Eviction Policy (Component 3)
 =====================================
-Lightweight MLP: 396-d → 128 → 64 → 1 → Sigmoid
+Lightweight MLP: 396-d -> 128 -> 64 -> 1 -> Sigmoid
 Scores each summary in buffer. Low score = evict.
 
 Input features per summary (396-d):
-  [0:384]  sentence embedding (all-MiniLM-L6-v2, frozen, L2-normalized)
+  [0:384]  sentence embedding (all-MiniLM-L6-v2, frozen)
   [384]    position: i / t
   [385]    recency: (t - i) / t
   [386]    speaker: 0=provider, 1=patient
@@ -14,7 +14,6 @@ Input features per summary (396-d):
   [389:396] type one-hot (agenda_item, detail, medication, social_history, follow_up, question_unanswered, question)
 """
 
-import sys
 import torch
 import torch.nn as nn
 import random
@@ -58,68 +57,97 @@ TYPE_TO_INDEX = {
     "question": 6,
 }
 
-
 # =============================================================================
-# scispaCy entity_count (mirrors context_manager_labels.py's loader so
-# inference-time features match the distribution the model was trained on —
-# leaving this at 0.0 makes checkmodel.py flag dim 388 as a dead input.)
+# SCISPACY ENTITY COUNT
 # =============================================================================
 
+_ENTITY_COUNT_CACHE = {}
 _SCISPACY_NLP = None
 _SCISPACY_LOAD_ATTEMPTED = False
-_ENTITY_COUNT_CACHE = {}
 
 
 def _get_scispacy_nlp():
-    """Lazy-load scispaCy model. Returns None (and warns once) if unavailable."""
+    """
+    scispaCy(en_core_sci_sm) 모델을 최초 한 번만 로드한다.
+
+    로드에 실패하면 조용히 fallback 하지 않고 예외를 던진다. entity_count(feature[388])
+    를 0.0으로 대체하면 학습 시 분포와 어긋나 learned 정책 점수가 조용히 망가지므로,
+    _get_encoder와 동일하게 크게 실패시킨다. scispaCy 없이 돌리려면 use_scispacy=False로
+    명시적으로 opt-out 해야 한다(그 경우 아예 이 함수를 타지 않는다).
+    """
     global _SCISPACY_NLP, _SCISPACY_LOAD_ATTEMPTED
 
     if _SCISPACY_LOAD_ATTEMPTED:
+        if _SCISPACY_NLP is None:
+            raise RuntimeError(
+                "scispaCy en_core_sci_sm was required but previously failed to load."
+            )
         return _SCISPACY_NLP
 
     _SCISPACY_LOAD_ATTEMPTED = True
+
     try:
         import spacy
+
         _SCISPACY_NLP = spacy.load("en_core_sci_sm")
-        print("Loaded scispaCy model: en_core_sci_sm", flush=True)
+        print("Loaded scispaCy model: en_core_sci_sm")
     except Exception as exc:
         _SCISPACY_NLP = None
-        print(
-            "WARNING: scispaCy model en_core_sci_sm is unavailable. "
-            f"entity_count will be 0.0. Reason: {exc}",
-            file=sys.stderr,
-            flush=True,
-        )
+        raise RuntimeError(
+            "scispaCy en_core_sci_sm could not be loaded, but entity_count "
+            "(feature[388]) requires it. Falling back to 0.0 would silently shift "
+            "the input distribution the C3 checkpoint was trained on and wreck the "
+            "learned policy's scores. Install the scispaCy model (en_core_sci_sm), "
+            "or pass use_scispacy=False to opt out explicitly. "
+            f"Reason: {exc}"
+        ) from exc
 
     return _SCISPACY_NLP
 
 
-def get_entity_count(text: str, use_scispacy: bool = True) -> float:
-    """Cached medical entity count. 0.0 if disabled or scispaCy unavailable."""
+def get_entity_count_cached(text: str, use_scispacy: bool = True) -> float:
+    """
+    summary에서 scispaCy가 검출한 의료 엔터티 개수를 반환한다.
+
+    규약:
+      - use_scispacy=False → 0.0 (명시적 opt-out)
+      - 그 외 → 앞뒤 공백 제거 후 en_core_sci_sm의 len(doc.ents)를 float로 반환.
+        모델 로드에 실패하면 _get_scispacy_nlp가 예외를 던진다(0.0 fallback 없음).
+      - 동일 summary는 캐시 사용
+    """
     if not use_scispacy:
         return 0.0
 
     key = (text or "").strip()
+
     if key in _ENTITY_COUNT_CACHE:
         return _ENTITY_COUNT_CACHE[key]
 
     nlp = _get_scispacy_nlp()
-    if nlp is None:
-        _ENTITY_COUNT_CACHE[key] = 0.0
-        return 0.0
-
-    count = float(len(nlp(key).ents))
+    doc = nlp(key)
+    count = float(len(doc.ents))
     _ENTITY_COUNT_CACHE[key] = count
     return count
 
+def _token_count_rough(text: str) -> float:
+    """학습 feature와 동일한 토큰 수 근사(char // 4).
+
+    주의: 이는 정책의 '입력 feature' 전용이다. 버퍼 예산(budget) 회계는 harness가
+    실제 토크나이저로 계산한 BufferItem.token_count를 그대로 쓴다. 두 정의를 섞으면
+    학습(char // 4, context_manager_labels.token_count_rough)과 추론(실토큰 수)의
+    feature[387]이 어긋나므로, feature는 학습과 똑같이 char // 4로 계산한다.
+    """
+    return float(max(len(text or "") // 4, 1))
+
 
 def extract_features(buffer_item, current_step: int, encoder=None,
-                      use_scispacy: bool = True) -> List[float]:
+                     use_scispacy: bool = True) -> List[float]:
     if encoder:
+        # 학습(context_manager_labels.get_summary_embedding)과 동일하게 단위 정규화.
+        # normalize_embeddings를 빠뜨리면 384-d 임베딩 스케일이 달라져 MLP eviction
+        # ranking이 왜곡된다(all-MiniLM-L6-v2의 기본값은 normalize=False).
         embedding = encoder.encode(
-            buffer_item.summary,
-            convert_to_numpy=True,
-            normalize_embeddings=True,
+            buffer_item.summary, normalize_embeddings=True
         ).tolist()
     else:
         embedding = [0.0] * 384
@@ -128,8 +156,9 @@ def extract_features(buffer_item, current_step: int, encoder=None,
     position = buffer_item.timestamp / t
     recency = (t - buffer_item.timestamp) / t
     speaker = 1.0 if buffer_item.speaker == "patient" else 0.0
-    token_count = float(buffer_item.token_count)
-    entity_count = get_entity_count(buffer_item.summary, use_scispacy=use_scispacy)
+    # 학습과 동일한 char // 4 근사(위 _token_count_rough 주석 참고).
+    token_count = _token_count_rough(buffer_item.summary)
+    entity_count = get_entity_count_cached(buffer_item.summary, use_scispacy=use_scispacy)
 
     type_onehot = [0.0] * 7  # 7 types (added question)
     type_idx = TYPE_TO_INDEX.get(buffer_item.type, 1)
@@ -141,24 +170,36 @@ def extract_features(buffer_item, current_step: int, encoder=None,
 
 
 class LearnedEvictionStrategy:
+    """학습된 EvictionMLP(Component 3) 기반 eviction 정책.
+
+    호출 규약은 baselines.py의 전략들과 동일하다:
+        strategy(items: List[BufferItem], **kwargs) -> List[BufferItem]
+    harness.ContextBuffer.evict()가 llm/current_utterance/context를 kwargs로
+    넘기므로 __call__은 **kwargs를 반드시 받아야 한다(학습 정책은 사용하지 않음).
+    use_scispacy는 학습 시 entity_count 생성 방식과 반드시 일치해야 한다.
+    """
+
     def __init__(self, model_path: str = None, config: PolicyConfig = None,
-                 use_scispacy: bool = True):
+                 use_scispacy: bool = True, encoder=None):
         self.config = config or DEFAULT_CONFIG.policy
         self.use_scispacy = use_scispacy
         self.model = EvictionMLP(self.config)
         if model_path:
             self.model.load_state_dict(torch.load(model_path, map_location="cpu"))
         self.model.eval()
-        self._encoder = None
+        # May be injected (e.g. the eval harness's shared tracker encoder) to
+        # avoid loading a second copy. If None, _get_encoder loads it on demand.
+        self._encoder = encoder
 
-    def __call__(self, items: List) -> List:
+    def __call__(self, items: List, **kwargs) -> List:
         if not items:
             return items
         current_step = max(item.timestamp for item in items)
         encoder = self._get_encoder()
         features = []
         for item in items:
-            feat = extract_features(item, current_step, encoder, use_scispacy=self.use_scispacy)
+            feat = extract_features(item, current_step, encoder,
+                                    use_scispacy=self.use_scispacy)
             features.append(feat)
         with torch.no_grad():
             x = torch.tensor(features, dtype=torch.float32)
@@ -173,8 +214,17 @@ class LearnedEvictionStrategy:
             try:
                 from sentence_transformers import SentenceTransformer
                 self._encoder = SentenceTransformer("all-MiniLM-L6-v2")
-            except ImportError:
-                pass
+            except Exception as exc:
+                # Do NOT fall back to zero embeddings: the policy was trained on
+                # real all-MiniLM-L6-v2 embeddings, so zeros would silently and
+                # unfairly wreck the learned policy's scores. Fail loudly instead.
+                raise RuntimeError(
+                    "LearnedEvictionStrategy requires the all-MiniLM-L6-v2 "
+                    "sentence encoder used during training, but it could not be "
+                    "loaded. Install sentence-transformers and the model so the "
+                    "learned policy is not scored on zero embeddings. "
+                    f"Reason: {exc}"
+                ) from exc
         return self._encoder
 
 
