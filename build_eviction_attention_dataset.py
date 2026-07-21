@@ -12,7 +12,7 @@ Feature layout (780-d)
 ----------------------
   [0:384]     source summary embedding
   [384:768]   target summary embedding
-  [768]       position      source_step / current_step
+  [768]       position      source_step / POSITION_SCALE (fixed 256, absolute position)
   [769]       recency       (current_step - source_step) / current_step
   [770]       speaker       1 patient, 0 provider -- of the SOURCE utterance
   [771]       token_count   of the source summary
@@ -61,6 +61,10 @@ DEFAULT_OUT_DIR = PROJECT_ROOT / "data"
 DEFAULT_PREFIX = "eviction_policy_attention"
 
 EMBED_DIM = 384
+# position is normalised by a FIXED constant (not current_step) so it carries
+# absolute conversation position instead of being 1 - recency. MUST match
+# policy2.POSITION_SCALE, or training and inference build different vectors.
+POSITION_SCALE = 256
 # Same separator extract_oracle_attention.py joins a step's summaries with.
 JOINER = " | "
 LABEL_CHOICES = ["attention_rank_pct", "attention_z", "attention_share",
@@ -118,7 +122,7 @@ def target_embedding(row, table):
 def build_features(src_feats, tgt_feats, row) -> list:
     """780-d: source embedding + target embedding + 12 occurrence/source dims."""
     t = max(row["current_step"], 1)
-    position = row["source_step"] / t
+    position = row["source_step"] / POSITION_SCALE
     recency = (row["current_step"] - row["source_step"]) / t
     speaker = 1.0 if row["source_speaker"] == "patient" else 0.0
 

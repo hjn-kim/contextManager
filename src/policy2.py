@@ -11,7 +11,7 @@ regresses the attention the model's output at that step paid to that summary.
 
   [0:384]     source summary embedding   -- the buffered summary being scored
   [384:768]   target summary embedding   -- what the model is writing right now
-  [768]       position     source_step / current_step
+  [768]       position     source_step / POSITION_SCALE (fixed 256, absolute position)
   [769]       recency      (current_step - source_step) / current_step
   [770]       speaker      1 patient, 0 provider (source utterance)
   [771]       token_count  source summary
@@ -57,6 +57,12 @@ EMBED_DIM = 384
 POSITION_IDX = 768
 RECENCY_IDX = 769
 SPEAKER_IDX = 770
+
+# position is normalised by a FIXED constant (not current_step) so it encodes
+# absolute conversation position rather than 1 - recency. MUST match
+# build_eviction_attention_dataset.POSITION_SCALE, or inference feeds the model
+# a different vector than it was trained on (silently wrong scores, no error).
+POSITION_SCALE = 256
 
 
 @dataclass
@@ -380,7 +386,7 @@ class LearnedPairEvictionStrategy:
         src = encoder.encode(item.summary, normalize_embeddings=True).tolist()
 
         t = max(current_step, 1)
-        position = item.timestamp / t
+        position = item.timestamp / POSITION_SCALE
         recency = (t - item.timestamp) / t
         speaker = 1.0 if item.speaker == "patient" else 0.0
         token_count = _token_count_rough(item.summary)
