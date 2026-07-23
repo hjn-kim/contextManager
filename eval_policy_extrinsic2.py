@@ -37,19 +37,17 @@ STRATEGY on top of that one model:
   - baseline strategies : fifo, sliding, random, attention, oracle
   - learned             : the trained 780-d PairEvictionMLP (src/policy2.py)
 
-Results are cached in a CSV keyed by (strategy, budget) — combos already
-present are skipped, so reruns only fill in what's missing. Run
-eval_policy_baseline.py first to pre-fill the baseline-strategy rows; this
-script then only needs to run "learned" (plus any baseline strategy that
-wasn't cached) and appends those rows, then plots baselines vs learned.
+Every run recomputes every (strategy, budget) from scratch and OVERWRITES the
+CSV with only that run's rows — there is no cross-run cache. This avoids the
+trap where a retrained eviction .pt (same filename) silently reused an earlier
+run's numbers. The CSV is a plain result file, then plots baselines vs learned.
 
 Usage:
   python eval_policy_extrinsic2.py                       # all defaults
   python eval_policy_extrinsic2.py --strategies learned  # learned rows only
-  python eval_policy_extrinsic2.py --force-rerun         # ignore cache
 
 Outputs (output/ by default):
-  - strategy_comparison_780.csv                      long-format cache/result
+  - strategy_comparison_780.csv                      long-format result
                                                        (strategy, budget, metric, value)
   - plots_strategy_comparison_780/<metric>/budgetN_bar.png          metric value per strategy
   - plots_strategy_comparison_780/<metric>/budgetN_improvement.png  learned's % improvement over each baseline
@@ -673,64 +671,21 @@ def model_label(strategy_name: str, args) -> str:
 
 
 # =============================================================================
-# CSV CACHE — (strategy, model, budget) already computed -> skip re-running.
-# Lets eval_policy_baseline.py pre-fill the baseline-strategy rows separately,
-# and this script only fills in whatever is still missing (normally "learned").
+# CSV OUTPUT — every run recomputes every (strategy, model, budget) and writes
+# a FRESH CSV. No cross-run caching: results never depend on stale rows from an
+# earlier run (e.g. an eviction .pt that was retrained under the same filename).
 # =============================================================================
 
-def _csv_header(csv_path: Path):
-    """Return the header row of an existing CSV, or None if absent/empty."""
-    if not csv_path.exists():
-        return None
-    with open(csv_path, encoding="utf-8", newline="") as f:
-        return next(csv.reader(f), None)
+def write_rows(csv_path: Path, rows: list):
+    """Overwrite the CSV with exactly this run's rows.
 
-
-def _backup_incompatible(csv_path: Path, reason: str):
-    """Back up a CSV whose header does not match the current schema and let the
-    caller start fresh, rather than risk mixing incompatible rows."""
-    backup = csv_path.with_suffix(csv_path.suffix + ".bak")
-    csv_path.replace(backup)
-    print(f"WARNING: {csv_path.name} {reason}; backed up to {backup.name} and "
-          f"starting a fresh CSV.")
-
-
-def load_cache(csv_path: Path):
-    rows = []
-    done = set()
-    header = _csv_header(csv_path)
-    if header is None:
-        return rows, done
-
-    if header != CSV_FIELDS:
-        # Different schema (e.g. an older layout without the 'model' column).
-        # Back up and start clean rather than risk mixing incompatible rows.
-        _backup_incompatible(csv_path, "has an incompatible schema")
-        return rows, done
-
-    with open(csv_path, encoding="utf-8", newline="") as f:
-        for r in csv.DictReader(f):
-            try:
-                budget = int(r["budget"])
-            except (TypeError, ValueError, KeyError):
-                continue
-            rows.append(r)
-            done.add((r["strategy"], r["model"], budget))
-    return rows, done
-
-
-def append_rows(csv_path: Path, rows: list):
+    Caching was removed, so the CSV is a plain result file, never a cache.
+    Writing (not appending) keeps it from accumulating stale rows across runs.
+    """
     csv_path.parent.mkdir(parents=True, exist_ok=True)
-    header = _csv_header(csv_path)
-    if header is not None and header != CSV_FIELDS:
-        # Don't append current-schema rows into a file with an incompatible
-        # header — that is exactly what produces mixed/misaligned CSVs.
-        _backup_incompatible(csv_path, "has an incompatible header")
-    write_header = not csv_path.exists()
-    with open(csv_path, "a", newline="", encoding="utf-8") as f:
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=CSV_FIELDS)
-        if write_header:
-            writer.writeheader()
+        writer.writeheader()
         writer.writerows(rows)
 
 
@@ -853,14 +808,11 @@ def main():
                               "shared with eval_policy_baseline.py")
     parser.add_argument("--plot-dir", default=str(DEFAULT_PLOT_DIR))
     parser.add_argument("--no-plots", action="store_true")
-    parser.add_argument("--force-rerun", action="store_true",
-                         help="ignore the cache and recompute every (strategy, budget) combo")
     args = parser.parse_args()
 
     dtype = {"bfloat16": torch.bfloat16, "float16": torch.float16, "float32": torch.float32}[args.dtype]
 
     csv_path = Path(args.csv)
-    cached_rows, done = ([], set()) if args.force_rerun else load_cache(csv_path)
 
     convs = load_conversations(Path(args.data_dir), limit=args.limit)
     if not convs:
@@ -877,11 +829,8 @@ def main():
     new_rows = []
     for strategy_name in STRATEGIES_TO_COMPARE:
         model = model_label(strategy_name, args)
-        missing_budgets = [b for b in args.budgets if (strategy_name, model, b) not in done]
-        if not missing_budgets:
-            print(f"[{strategy_name}] all budgets cached in {csv_path} "
-                  f"(model={model}), skipping")
-            continue
+        # No cache: always compute every budget for every strategy.
+        missing_budgets = list(args.budgets)
 
         if llm is None:
             base_for_load, adapter_path, tok_source = resolve_model_spec(
@@ -917,17 +866,16 @@ def main():
                     "strategy": strategy_name, "model": model, "budget": budget,
                     "metric": metric, "value": value,
                 })
-            done.add((strategy_name, model, budget))
 
     if llm is not None:
         log_cache_stats(llm)
         free_llm(llm)
 
     if new_rows:
-        append_rows(csv_path, new_rows)
-        print(f"\nAppended {len(new_rows)} rows to {csv_path}")
+        write_rows(csv_path, new_rows)
+        print(f"\nWrote {len(new_rows)} rows to {csv_path}")
     else:
-        print(f"\nNothing new to run — everything already cached in {csv_path}.")
+        print(f"\nNo rows produced.")
 
     if not args.no_plots:
         # Plot the baselines plus the CURRENT learned checkpoint only, so a CSV
@@ -935,7 +883,7 @@ def main():
         # same chart.
         learned_label = policy_model_name(args.policy_model)
         plot_rows = [
-            r for r in (cached_rows + new_rows)
+            r for r in new_rows
             if r.get("model") in ("baseline", learned_label)
         ]
         write_plots(plot_rows, Path(args.plot_dir))
