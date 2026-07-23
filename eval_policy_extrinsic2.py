@@ -11,7 +11,7 @@ What differs from eval_policy_extrinsic.py
                      (buffered summary, summary being written now) pairs from
                      attention, rather than scoring each summary alone against
                      a hindsight relevance label.
-  data dir         : data/test (D2N068+). The 780-d policy's attention labels
+  data dir         : data/test (D2N088-207). The 780-d policy's attention labels
                      were extracted from data/train (D2N001-067), so evaluating
                      there would be training-set evaluation. Verified disjoint.
   outputs          : strategy_comparison_780.csv / plots_strategy_comparison_780
