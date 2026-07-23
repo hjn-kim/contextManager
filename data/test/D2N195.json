@@ -1,0 +1,778 @@
+{
+  "id": "D2N195",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey matthew how is it going good to see you today i see here in your notes you are here for some right knee pain and we are also going to check up on your hypertension and diabetes so can you tell me what happened to your knee"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yes so i was playing basketball yesterday and when i went up for a rebound and i came down and i felt like my knee just popped it started swelling and i could hardly walk when it happened"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay playing basketball how often do you play basketball"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "first time in two years"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "first time in two years did you watch the game last night"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah unfortunately both teams did n't lose so i was unhappy"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "you're going home who you going for"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "neither"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "neither well i was going for unc i'm kinda i'm kinda upset right now but anyway so you say you're playing basketball you you heard felt some knee your knee pop what part of your knee would you say hurts"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "it feels like it's on the inside of the knee"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "inside of your knee alright and are you able to bear weight on that leg matthew"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i can now but i i'm favoring it for sure"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay so what type of pain would you describe as it is it stabbing is it"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "it's real achy"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "real achy"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "since i slept overnight the swelling has went down some"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay have you taken anything for the pain yet"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i tried some tylenol yesterday"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "alright did that work for you"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "a little"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "little do you have any"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "being off of it help more than anything"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "yeah i be i bet i bet i i hurt my knee before too and it's it's pretty painful on a scale of one to ten what would you say your your pain level is"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "it's about a four right now"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "about a four okay so it's it's not too bad alright so we'll take a look at that knee in a second so we're also here to check up on your hypertension and diabetes so i'm looking here for your hypertension you're taking five milligrams of norvasc so are you taking that daily"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "yes great i i i'm so happy when my patients are compliant most of the times they do n't take it as as often but i'm i'm really excited for that what have your blood pressures been running i think today"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "you're about one forty over eighty it's a little bit high but i know we we talked about you getting a blood pressure cuff at home and taking those so i do n't check it very often"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "but it's usually in the one forties to one fifties range on that top number and then that bottom number is usually around eighty and i read on the google that that's okay is that okay"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "i mean it's it's not the best right it's it's we should be around one twenty over eighty right"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "you're a little bit elevated and we could talk about changing your medications to try to get that that down how about your diet how's that going"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i eat anything i want"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "alright well we we definitely got ta got ta get your your diet a little bit better i know after the pandemic a lot of people you know went crazy with the diet myself included but i know we got ta get you get back in because for your diabetes i'm looking at your a1c and we we checked it and it was a a seven point two which is not so good right now so have you been taking i think you're on metformin five hundred milligrams daily"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "i do but i got ta take it sometimes it upsets my stomach and so i just kinda skip it"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay so yeah we definitely got ta get you to to take it we could try something else just if you're having interaction with that medication what about your blood sugars are they taking those daily"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no every once in a while"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "every once in a while what have they been doing every once in a while when when you do take them"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "probably about a hundred and fifty or so"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay so we got to get those down too so we will talk about getting you consult nutrition just try to get you a better diet i think you know we wan na get you off the medications totally but you know we got ta get you on the right track here alright so let me do a quick physical exam on you i'm gon na check your your your lungs lungs sound good check your heart so listen to your heart you still do have that grade two out of systolic ejection murmur alright but we we knew about that already you've had that for a couple of years so i'm not really worried about that at this at this time so let me take a look at your knee here so when i press right here on the inside the right knee is that painful"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "ow"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "ow alright and let me have you bend it straighten it it's painful"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "a little yes"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "a little bit alright i'm gon na do a couple of maneuvers here so your your right knee exam shows that you do have pain to palpation of the medial aspect of that right knee also have some edema some little bit of swelling some ecchymosis as well you do have a negative varus and valgus test of my maneuvers and you know i i do see a little bit of of swelling swelling little redness as well in that knee so we did get an x-ray of your knee your right knee luckily it was normal so there's no fractures no bony abnormalities which is good so you did n't break anything so based on my your based on your x-ray and your exam you have a mcl tear well mcl strain i apologize mcl is straight i do n't know if you have a tear yet we got ta do yeah we had to have to do a mri for that but basically means you twisted your knee when you're playing basketball right and so that ligament is strained or torn just to have to get an mri to determine if it is or not in the time being i want you to continue to take that tylenol just to help with that pain i'm also gon na prescribe you some meloxicam fifteen milligrams just to help with the pain and swelling i'm gon na put you in a knee immobilizer and i want you to stay off of that for the next couple of weeks and we're gon na get a mri as well for that knee how does that sound"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "that's okay"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "alright for your diabetes i'm going to need you we got to get you to start taking your your blood sugars daily we got to keep track of those alright so i want you to take those daily we'll get a log book so you can keep track of those and bring those back and we can determine how we adjust your medications for now also i'm going to give you a consult to nutrition to try to get your diet a little bit better and then for your hypertension i'm gon na up your medication up up up up your norvasta five milligrams because your blood pressure is a little bit high and hopefully we can a medication adjustment will lower it down to that one twenty over eighty like we like we made alright so i'm going to see you back in two weeks do you have any other questions"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "yes so i heard strawberries can lower your blood pressures are you truth to that"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "you know i i have n't i have n't heard that before you know"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "you know i know it's normally they say like the the pumice granite seeds or antioxidants and and such but the strawberries i i have n't heard you can try it if you want actually no i i do n't want you to eat too many strawberries because a lot of sugar in your in your"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "your diabetes is n't going so low right now so stay away from the strawberries because that's a lot of sugar you'll need that"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "sure"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "alright so any other questions"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "i i think i'm okay right now"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "alright so my nurse will be in with that appointment and we will see you in two weeks"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 40-year-old male presenting for right knee pain, hypertension, and diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Right knee pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient felt a pop in his right knee while playing basketball yesterday, followed by swelling and difficulty walking.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has not played basketball in two years.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain on the medial aspect of the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is able to bear weight but is favoring the leg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as aching.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that swelling has improved since sleeping.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient tried Tylenol for pain relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports Tylenol provided a little relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that resting the leg helps the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates the pain as 4 out of 10.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is taking Norvasc 5 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's blood pressure is 140/80 today.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient does not check blood pressure at home consistently.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports home blood pressure readings typically in the 140s to 150s over 80.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor states the blood pressure goal is 120/80.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports an unrestricted diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's most recent A1C was 7.2.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The patient is taking metformin 500 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient skips metformin doses due to gastrointestinal upset.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient does not check blood sugar at home consistently.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports blood sugar readings around 150 when checked.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam reveals a grade 2/6 systolic ejection murmur, normal respiratory effort, and pain with palpation of the medial right knee.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam of the right knee shows edema, swelling, ecchymosis, and negative varus/valgus stress tests.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Knee X-rays were normal with no fractures or bony abnormalities.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the patient with an MCL strain and orders an MRI.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient is to continue Tylenol, start meloxicam 15 mg, use a knee immobilizer, and remain non-weight-bearing for two weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is advised to log blood sugars daily, consult a nutritionist, and increase Norvasc to 5 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient will follow up in two weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if strawberries can lower blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises the patient to avoid strawberries due to high sugar content and diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "right knee pain; hypertension;diabetes",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

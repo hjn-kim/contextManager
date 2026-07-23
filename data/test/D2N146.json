@@ -1,0 +1,737 @@
+{
+  "id": "D2N146",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey good morning bobby how are you"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay i as you're aware doctor miller sent me over for this pain in my belly that i've had for several weeks they did he did an ultrasound and and said i had gallstones and they recommended i stay several way from some high fat food but i'm just still having a lot of pain and he referred me to you"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "alright well i'm i'm sorry to hear that you're having pain but i i'm glad that he sent you over to see me i wan na talk a little bit more about that pain can you describe the kind of pain that you feel"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "well it's it's on the right hand side of my belly it's it's right underneath my ribs and it feels like a a squeezing severe pain it comes and goes but when it comes it's really severe and i get kind of nauseated and sick in my stomach"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and then when you get that pain can you rate that pain for me on a scale like zero being none ten being the worst pain you've ever been in your life"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "when it's severe it's it's probably an eight"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay alright and then time wise are we looking at can it just come and go anytime or is it specifically around mealtimes how how does that pain kinda wax and wane for you"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "most of the time it comes right after i eat"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "but it also can come on a couple of hours after i eat also so it's either immediately after i eat or a couple hours later but it's related to eating"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "you know i like to eat right"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "do n't weigh all so speaking of eating let's talk a little bit about your diet i see here on your chart that you're a type two diabetic and it looked like that you were gon na handle that with diet and exercise let's talk about that a little bit"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "well you know i my my diet was worse when i before i was diagnosed with the the type two diabetes"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "and since then i've cut back on sugar and i started a little bit of a keto diet and i've lost about twenty five pounds over the last three months"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay so other than the weight loss how how is your diet is that has that been working out for you i mean do you does does that does that fit your lifestyle pretty well"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah it does it does it it i was surprised it was n't as hard as i thought to go back and cut back and go more of a keto diet"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "but you know trying to cut out all those carbs my symptoms got better"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "with the diabetes and my my blood sugars are improving but i still get that pain underneath the ribs"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "yeah and that can happen and one of those things that causes that is that those intake of that fatty foods which is you know kind of the the keystone or the hallmark of the keto diet and have you noticed any improvement when you do cut out that fatty food and has that been difficult since you are watching your carb intake"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "the fatty food it is a little bit difficult you know i like those pork grinds and you know i i've had to kind of cut those out they were a nice staple for me when i was on the keto diet but i have cut out the those pork rinses because those were just so delicious and you know i would say it's a little bit better but i still get that pain"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay and then do you have any family history of gallbladder disease"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah but you know you know i knew that was coming both my dad and my mother both had gallbladder disease and had to have their gallbladders off"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay so both both your parents your mom and your dad had your had their gallbladders taken out"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay and then i wan na talk a little bit about your activity level and your and and if you're exercising has this affected your ability to to get out and exercise"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "not really i mean i usually i got ta watch it around meals you know but i've never been a big exerciser right after eating anyhow but you know i'm i'm so glad springs here because it gives me that opportunity to get back out and you know i love photography i i love nature of photography and with the with the the woods going from you know that dark barron look to coming alive with that green and and butting i i love to get out and take foot photographs there"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "that's awesome to hear yeah i my wife and i like to go over and take nature hikes through the new park behind the rex center that just opened up have you ever been over there to do any any picture taken we've got a bunch of beautiful nature pictures that we took about a week ago"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no i have n't been there i might have to try that out yeah"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "yeah it's awesome"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i like to get down near the river that's where i i like to catch especially around spring time"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "that's great yeah next time you come in maybe you can bring in some of your pictures that'd be awesome to see"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay cool"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "so i'm just curious talking about your symptoms here have you had any fevers you mentioned something about nausea but have you actually vomited from those symptoms"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "there's times when the pain is really bad for a couple of days i've had some what i i would describe as low grade fevers and yes you're right i have feel nauseated but i have n't thrown up"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay so if it's okay with you i'm gon na go ahead and do a quick physical exam your vital signs look good today blood pressure was one twenty eight over eighty eight respiratory rate was sixteen your pulse rate was sixty eight you were afebrile today which is a good thing and your oxygen saturation on room air was ninety nine percent taking a listen to your heart here your heart is regular of rate and rhythm no i do n't hear any ectopic beats no clicks rubs or murmurs noted listening to your lungs here they are clear and equal bilaterally to auscultation now i'm gon na go ahead and do an an abdominal exam i do note positive bowel sounds soft nondistended abdomen however you are positive for some slight guarding there to the right upper quadrant but i do n't note any rebound tenderness now i'm gon na press slightly here beneath your ribs on the right hand side now take a breath in does that hurt when i press"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "so i i see that you're guarded there so i'm gon na say that that it did hurt when i it did hurt when i"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "absolutely that hurts so much when you push right there"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "sorry i was just trying to capture capture my breath"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "okay that's that's no problem so you are positive for murphy's signs but i do n't appreciate any peritoneal signs so let's talk a little bit about your results that i reviewed before you came in today so your abdominal ultrasound shows multiple gallstones present in the gallbladder and i do appreciate some mild thickening now the common bile duct size is within normal limits at four . one millimeters now let's talk a little bit about my assessment and plan for you okay i do believe you have some mild cholecystitis with gallstones i do n't appreciate any frank obstruction but it looks like your gallbladder is inflamed and it looks like that's happened maybe over the last few weeks since you've been having those symptoms now since you have n't had any improvement with dietary modifications i am going to make the recommendation that we do remove your gallbladder and i would like to perform a laparoscopic cholecystectomy now what that means is i'll make a few small incisions and insert a scope with some of those instruments that's gon na remove that gallbladder through one of those little bitty incisions now the surgery is gon na take about an hour to an hour and a half and you'll probably spend the night in the hospital because we just wan na monitor you post procedure to make sure everything is okay you're still gon na wan na avoid those high fat foods after surgery and eat foods that are gon na be high in fiber now do you have any questions about what our assessment and plan is for for this"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "no no questions today"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "okay now the other thing"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "how soon can i how soon will i be able to get up and get moving back outside after the surgery"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "so the good news is since it's a laparoscopic procedure you're gon na be back on your feet pretty quick now for the first twenty four hours i'm gon na want you to take it pretty easy but after a couple of days if you feel like moving around on some solid ground you know we do n't want you hiking or anything like that but if you feel like moving around on some solid ground you can get up and walk around within a day or two and then in about a week or so i'll see you again and then we'll release you to go get back out there in nature"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "okay thank you very much"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "you're very welcome the other thing i wan na talk briefly about is now your not your type two diabetes i want you to follow up with your physician just to make sure that you're handling your diabetes especially the fact that you're gon na have surgery and those type of things and we will just continue to monitor your diabetes as has been outlined by your your additional either your endocrinologist or your primary care provider i'm gon na have the nurse come in and get some paperwork signed and if you do n't have any questions for me i will see you next week and we will get this gallbladder out"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "well thank you very much i'm looking forward to i i do n't want anymore of that pain so"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "alright that sounds good we'll see you next week then"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "okay take care"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "yeah"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient presents with abdominal pain and a history of type 2 diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports abdominal pain for several weeks and ultrasound findings of gallstones.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Abdominal pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes severe, squeezing right upper quadrant pain associated with nausea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate the pain on a scale of 0 to 10.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates the pain as an 8 out of 10.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the timing of the pain in relation to meals.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain occurs after eating.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient clarifies the pain occurs immediately or a few hours after eating.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Type 2 diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports losing 25 pounds over three months using a keto diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports improved blood sugars but persistent abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes that high fat intake, common in keto diets, can trigger gallbladder symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed improvement when cutting out fatty foods.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports slight improvement after cutting out fatty foods like pork rinds.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of gallbladder disease.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports both parents had gallbladder disease and cholecystectomies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient enjoys nature photography.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about fevers and vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports low-grade fevers and nausea, but denies vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reviews vital signs: BP 128/88, RR 16, HR 68, afebrile, O2 sat 99%.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Physical exam shows regular heart rhythm, clear lungs, soft abdomen with right upper quadrant guarding, and normal bowel sounds.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms pain during the abdominal exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes positive Murphy signs and absence of peritoneal signs.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Ultrasound shows multiple gallstones, mild thickening, and normal common bile duct (4.1 mm).",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor assesses mild cholecystitis and recommends laparoscopic cholecystectomy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor explains the surgery duration, hospital stay, and post-operative dietary requirements.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about the timeline for returning to physical activity after surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises light activity after 24 hours, walking on solid ground after a few days, and a follow-up visit in one week.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to follow up with their primary care provider or endocrinologist regarding diabetes management.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "abdominal pain; type 2 diabetes",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

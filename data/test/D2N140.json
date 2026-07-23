@@ -1,0 +1,711 @@
+{
+  "id": "D2N140",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "brittany edwards , 07 , 1898 . she is a return visit for ibs with functional abdominal pain , nausea , vomiting . ms. edwards is a pleasant , 32-year-old female who was last seen in august of 2019 with flares of abdominal pain , who was diagnosed with irritable bowl that was treated with bentyl ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "she had a previous prescription for reglan that she received from the emergency room that she used as needed for nausea . she was instructed to start a low dose fiber supplement , such as citrucel , daily , probiotics to help with gas and bloating , bentyl up to four times daily for intestinal cramping , and stop reglan and use zofran as needed . neuromodulators such as elavil and buspar were discussed but not started ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "hello , how are you ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i'm okay ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "good . how have you been feeling ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "not so good ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "yeah , so my nurse told me you have been going out to eat some on friday nights and saturday nights and that you have had some spicy foods or spicy shrimp ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah , i have ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . well , your gut probably does not always appreciate that ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "no , it does n't like it at all ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "yeah , so ibs is one of those things where you are very sensitive to certain things such as spicy foods or fatty foods and alcohol . and this can cause lower belly stuff like cramps , or you can get upper belly stuff such as nausea ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i've been getting both ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . um , so how frequently have you been getting or having a bowel movement on normal days ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i'm starting to notice it's between two and three times a day ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . and are they soft stools or formed stools ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "um , they're formed ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay . and after you have gone out either drinking with your friends , do you tend to have more diarrhea ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah , i do ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . do you feel it's the food or the alcohol or both ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "uh , well usually we go to friday's restaurant . i always eat pasta , the chicken alfredo ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay . i can s- i can bet it's the alfredo sauce ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "but it normally does n't bother me ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . well , pasta can make you bloated , uh , but it does n't usually cause diarrhea . grilled chi- uh , grilled chicken is usually all right . alfredo , though , is higher in fat , and it does contain dairy . but you're saying it usually does n't bother you ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay . what type of alcohol drink do you drink when you are there ? is it a sweet drink ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "most of the time it's either tequila or dark liquor . i prefer patron , but if i get brown liquor , i only get two . um , every now and again , i'll drink a martini ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "sometimes it's the mixer they tend to put in the drinks , but it can be a variety of things . um , so when you're not eating out or drinking , what we do on a daily basis does help keep us regular , so when it does flare up , it c- it might not be as bad . um , have you had any luck using the fiber like citrucel regularly ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "um , no . i guess i need to find a new drink ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay . and how is it during the week ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "like what i eat ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "yeah , and with the diarrhea and abdomal- um , abdominal pain ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "right now , i'm still having the cramping and sharp pains , so i've been avoiding heavy foods . i did have some fried chicken today , though ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "and was everything all right after that ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yeah , for the most part ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay . remember , it's also the portion sizes . so i mean , if you eat a little and you feel fine , then that's okay . you have to just really watch the portions ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay , good . i ca n't go out- go without some fried chicken at least once in a while ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "sounds good . all right , well let's take a look at you today , and we'll do a brief physical exam . you will hear me call out some findings . i will answer any questions , and we will discuss once we have finished the exam ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "sounds good ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "all right . so the patient is alert and cooperative , appears stated age . all right . i'm going to listen to your heart and lungs . and lungs are clear to auscultation bilaterally . heart regular rate and rhythm . all right , so if you could just lay back for me , and i'll examine your abdomen ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "all right . do you have any tenderness ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "no , not really ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay . so the abdomen is soft , non-tender . no masses or organomegaly . and let me take a listen . normal active bowel sounds . all right . you can go ahead and sit up now . thank you ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "all right , so first i want you to try citrucel . it does come in a tablet . you should use it twice daily for regularity . then i would say , if you know you're going out and will possibly have diarrhea as a result , you can go ahead and use your bentyl 20 milligrams . you can do one tablet before you eat , and then repeat up to four times daily . and then on days when you feel good , you do n't have to use anything . um , and then on friday before you leave the house , you can take a bentyl and put one in your pocket for later , and then you can repeat the same thing on saturday if you want , and that will be totally fine ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "okay , that sounds good ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "okay . and so your bentyl , that's the anti-spasm medication , and i would take the higher dose ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "can i get a refill of that ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "yes , absolutely . uh , so take one tablet about 30 to 45 minutes before leaving the house and then the second tablet at the restaurant . then with the nausea , um , i think we should try and see if you can recognize a pattern with what you are eating and drinking , um , um , about , like , what makes it worse ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "yeah , i noticed i've been doing better with drinking water instead of sodas ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "okay , good . and then for your zofran , i would n't take that ahead of time . just plan on drinking plenty of water ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "okay , and you can take it , but before you do , we want to try to reduce the triggers . uh , so watch out for greasy or fatty foods and sugary drinks ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "okay , i can do that ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "okay . and so , however , if it is not just these isolated inci- incidents and the symptoms are happening all the time , we could put you on a long term medication that would take ... that you would take every night . and so then you do n't have to use so much bentyl or the zofran . how do you feel about that ?"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "i was actually going to ask you about something like that to help avoid flares altogether ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "yeah , there is . and it actually works on the chemicals in your brain that are causing your gut to be overly sensitive . one is called elavil , but the only drawback is that it can make you a little sleepy . how does that sound ?"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "that sounds like a much better plan ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "okay , great . we can definitely do that . uh , just take it every night before bedtime ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "okay , that sounds good . thank you so much ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "you're welcome . and so i have gone ahead and sent your prescriptions to your pharmacy . just give us a call if you have any questions or need us for anything else . and then let's plan on touching base through mychart email in about a month to just check in to see how you're doing with symptoms . okay ?"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "okay , that sounds good . thank you ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "you're welcome , and have a good rest of your day ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "so review of symptoms is positive for diarrhea , nausea , and abdominal pain . assessment and plan . brittany edwards is a pleasant female with ibs and functional abdominal pain , aggravated by high stress , poor eating habits , and poor sleeping habits . i've encouraged dietary and lifestyle modifications , as well as starting a neuromodulator such as elavil 25 milligrams at bedtime for ibs ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "she can use bentyl 20 milligrams as needed 30 to 45 minutes prior to eating out at a restaurant . she can also use zofran if needed . however , i have encouraged her to reduce greasy and fatty foods and alcohol consumption . i have asked her to follow up in one month by emailing over mychart regarding any side effects and issues , or issues with elavil or if adjustments are needed ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 32-year-old female returning for follow-up of IBS with functional abdominal pain, nausea, and vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient was last seen in August 2019 for abdominal pain flares and was diagnosed with IBS.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Previous treatments included Reglan for nausea, fiber supplements, probiotics, and Bentyl for cramping.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports eating out on weekends and consuming spicy foods like shrimp.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "IBS management",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the frequency of bowel movements.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports having two to three bowel movements per day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the consistency of the stools.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that her stools are formed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experiences diarrhea after drinking alcohol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she experiences diarrhea after drinking alcohol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the symptoms are caused by food, alcohol, or both.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports eating chicken alfredo at a restaurant.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient consumes tequila or brown liquor, usually two drinks, and occasionally martinis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports current cramping and sharp pains, and notes she ate fried chicken today.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: lungs clear to auscultation bilaterally, heart regular rate and rhythm.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: abdomen soft, non-tender, no masses or organomegaly, normoactive bowel sounds.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor instructs the patient to take Citrucel twice daily and Bentyl 20mg as needed before eating out.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks for a refill of Bentyl.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the refill and instructs the patient to take one Bentyl 30-45 minutes before leaving and one at the restaurant.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is interested in a long-term medication to prevent flares.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor suggests Elavil as a neuromodulator for IBS, noting potential sleepiness as a side effect.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0057",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes Elavil to be taken every night at bedtime.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0059",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to follow up via MyChart in one month.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "IBS; nausea, vomiting",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

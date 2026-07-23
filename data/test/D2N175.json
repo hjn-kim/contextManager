@@ -1,0 +1,806 @@
+{
+  "id": "D2N175",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , natalie . how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "good . how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "it's good to see you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "good to see you , too ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "i know my nurse has already told you about dax . is it okay if i tell dax a little bit about you ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "go for it ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "all right . so , natalie is a 39-year-old female , here today for a check-up for an abnormal lab . she's got a history of high blood pressure , diabetes , and acl repair ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "so , tell me what's going on ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "so , uh , i got some re- routine blood work done last week and , uh , they said that my blood sugars were , were high , so that i should come in , um , and talk to you and get some more work done and , and , uh , see why that is ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay . well , were you having any symptoms at all or just , we had some blood work done routinely ? uh , any chest pain , shortness of breath ? any nausea , vomiting , or diarrhea ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "no , no symptoms . uh , so i was a little shocked when i came back high and , and elevated , so hopefully we can figure out what's going on ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "we've been , kind of , checking on this for a while and you've been on metformin . we actually increased your dose last time-"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "yup ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "so right now you're on 100 , 1,000 milligrams a day , correct ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "correct . yup ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay . all right . no , uh , no difficulty urinating or burning when you urinate at all ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay . all right . um , hey , dragon , show me the hemoglobin a1c . so in reviewing your , that's the lab that we checked after when i saw before i walked in . it says 8.1 , which is elevated , so i think we need to do a maybe a better job with adjusting your medication ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "how are you doing with your diet for your diabetes ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "my diet's been really great lately . i've been avoiding sugars , um , been really watching , uh , my weight and power walking every day , so i was a little surprised when the , the blood work came back that i- i had , um , an elevated , uh , test ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay . and , uh , have you had any , uh , any other , are you checking your blood sugars in the morning or your fasting blood sugars ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yes , i am ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . all right . how are you doing with your high blood pressure ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "that's been good and stable . um , i've been stable on the medication , been taking that every day . um , and i have a b- a cuff at home to , to measure it myself and that , everything's been normal ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay , great . and how's your knee doing that's the other issue we've been , kind of , following ? you had some surgery done for that ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah . about five years ago , i had , um , an acl repair on my right knee and everything's been going well so far . i have n't had any , uh , issues with mobility . um , it's been great ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "and you're pretty physically active and doing exercises ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah . i've been power walking about , at least 30 minutes every day ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay . great . well , let's review , uh , some of your vital signs . hey , dragon , show me the vitals . all right . blood pressure looks good right now . your oxygen level's great . uh , your temperature's good ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "so i know you checked in with the review of systems with my assistant before coming in . uh , anything else bothering you today except for the abnormal blood work ? no chest pain ? no shortness of breath ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "no , nothing like that ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "no headaches ? no belly pain ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "good . great . well , let me examine you , okay ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "alright . just gon na listen to your heart here ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "no belly pain ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "so on exam , uh , your hent or your neck exam is fine . your , uh , your eyes look fine . your lungs are clear . i do hear a systolic ejection murmur , about three over six . your belly's nice and soft . no swelling in your legs or extremities right now ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "so let's talk about some of the issues today . all right . for the first issue , for the diabetes , since your hemoglobin a1c is is elevated , uh , and you're already on 1,000 milligrams of metformin , i think we should add , uh , jardiance , uh , 10 milligrams a day . uh , so that's a new medication . we'll start that . i do want you to , uh follow your diet pretty , uh , aggressively . i wan na see if we can get that hemoglobin a1c down the next time ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "i'm also gon na add some labs today to see what that , to see a lipid panel and some other blood work . hey , dragon , order a cbc , cmp , and a lipid panel . and i'll go ahead and prescribe the jardiance , 10 milligrams a day . hey , dragon , prescribe , uh , order jardiance , 10 milligrams a day ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "all right . for the high blood pressure , i think you're doing great . you're on lisinopril for that , so i think that we should continue that . uh , we'll re-check it again next time and you are monitoring that at home , correct ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yes , i am ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay , great . and for the knee , i think you're doing great with that . you know , continue with your physical exercise , with your physical therapy , uh , uh , with your normal exercise regimen . uh , if you have any issues with that , certainly give us a call ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "all right . any other questions ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "no , that's it ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay . hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 39-year-old female with a history of hypertension, diabetes, and right ACL repair.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Abnormal labs",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had routine blood work showing high blood sugar levels.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has symptoms including chest pain, shortness of breath, nausea, vomiting, or diarrhea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies having any symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is taking metformin 1000 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has difficulty urinating or burning during urination.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies urinary difficulty or burning.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin A1c is 8.1, which is elevated.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with her diabetes diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports avoiding sugars, watching her weight, and power walking daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is checking her fasting blood sugars in the morning.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is checking her blood sugars every morning.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports stable blood pressure on lisinopril and monitors it at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Knee",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had an ACL repair on her right knee five years ago and has no mobility issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is physically active.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient power walks for 30 minutes every day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Vital signs including blood pressure, oxygen level, and temperature are normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any other concerns, chest pain, or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies other concerns, chest pain, or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has headaches or abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies headaches and abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares the intent to perform a physical examination.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": false,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": false,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: normal head/neck/eyes, clear lungs, 3/6 systolic ejection murmur, soft abdomen, no lower extremity edema.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes Jardiance 10 mg daily for diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor encourages the patient to follow dietary modifications closely.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a CBC, CMP, and lipid panel.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises continuing lisinopril for hypertension.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor confirms the patient is monitoring blood pressure at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises continuing the current exercise regimen for the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any other questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "abnormal labs; hypertension;type 2 diabetes;hx right acl repair",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

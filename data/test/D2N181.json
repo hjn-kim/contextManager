@@ -1,0 +1,992 @@
+{
+  "id": "D2N181",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "michelle king , date of birth 01/05/1986 , mrnq27631 . new patient visit for acid reflux . past medical history of anxiety and seasonal allergies ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hello , are you mrs. king ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "i am ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "i'm dr. phillips . very nice to meet you ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "you as well ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "how can i help you today ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "well , my primary doctor , dr. scott , he referred me here ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "i've just got really bad acid reflux ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay . can you tell me more about it ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "yeah . though i mean i ... right now , i take 40 milligrams of omeprazole twice a day . some days , it is fine , but others are just really bad ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "what do you feel ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "it feels like burning ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "in your chest ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "yes , in my chest and also in my throat ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "in your throat and chest . all right . any difficulty with swallowing ? feels like food or liquids kinda get stuck ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay . that's good . any abdominal pain ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "no , not really ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "nausea or vomiting , changes in bowel movements ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "constipation , diarrhea , rectal bleeding ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "okay . very good . and how long have you had this problem ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "i've had acid reflux since i was around 12 , but it has gotten worse over the past few years ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay . and how long have you been on the omeprazole ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "on the way , it is now i think about a year ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay . do you find that it's done anything for you in the past ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "i mean , i can tell it's helped because some days , i'll be fine , and then some days , i eat something and it feels terrible ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "are there any things that make your symptoms worse that you can pinpoint , like food choices or stress ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "sure . probably stress and food choices sometimes ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay . what things bother you ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "spicy foods , um , so i try not to eat them too often , but sometimes even drinking a soda can cause it ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "we do know that caffeine and caffeinated beverages will do that , even sodas . um , even just the carbonation can cause that . how about tomato-based products or citrus products ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "yeah , sometimes , but i still eat them ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "okay . it's reassuring that you are n't having any difficulty swallowing , though . how's your weight been ? pretty stable ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "i'd say pretty stable , although i have n't had much of an appetite for the past two months . i have been under a lot of work stress ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "what do you do for work ?"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "i'm a paralegal ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "okay . and any family history of gi issues ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "um , my grandmother had esophageal cancer ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "on your mom or dad's side ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "mom's side . and my mom had some issues like acid reflux , and she was taking some medication that coats the lining of your stomach ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "okay . have you ever had an upper endoscopy ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "i think maybe when i was younger ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "but not in the last 10 years ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "have you ever tried any medication other than omeprazole ?"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "um , at one point i was on omeprazole and ranititine -dine . it did help . but other than that , those are the only medications i have taken ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "okay . have a seat here , and let me listen to your heart and lungs , and then we can talk about a plan for you ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "so normal physical exam per my new patient template , except for well-healed abdominal surgical scars noted . what's the surgical scar here on your abdomen from ?"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "i always forget about that surgery . i had it when i was a baby . my mom said my intestines were twisted , so i had to have surgery when i was around one month old ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "hm , gotcha . okay . so let's talk about what you have going on . from what you've told me , it sounds like you've had a several-year history of gerd , which is the medical term for acid reflux . and recently your symptoms have been poorly controlled with the omeprazole , 40 milligrams twice daily . you've been having heartburn despite taking this medication , correct ?"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "and you've identified trigger foods like spicy foods , carbonated bev- beverages , citrus , and tomato-based foods , but you have n't cut these foods out of your diet completely yet . so the first thing i'd try is changing your diet because these foods can exacerbate your gerd , even though you're taking the ppi ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "okay , yeah , i could definitely do a better job of avoiding those foods ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "great . so stress is another trigger that we need to address . high stress can cause worsening of your symptoms ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "yeah , stress and anxiety are definitely big problems for me ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "so working on that may help with your gerd . additionally , we can consider trying a different ppi since the only one you've tried up to this point is omeprazole . if you're okay with this , we can switch your omeprazole to nexium ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "that's fine with me . i'm definitely open to trying whatever ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "perfect . i will send a prescription for nexium 40 milligrams twice daily to your pharmacy on file . i'll also recommend that you have a procedure called a egd , or upper endoscopy , to look for potential causes of the gerd . we'd sedate you and then pass a small camera through your mouth , down your throat , through your stomach , and end in the small intestines . we'd look for any ulcers or signs of precancerous or cancerous conditions that we can take biopsies at the same time if we see anything ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "okay . can i schedule that today ?"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "yeah . you can get scheduled at checkout desk . i'll have you follow up with me in the office for the egd so we can discuss the results and talk about how you're doing with the dietary , stress , and medication changes . how does all of that sound ?"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "patient",
+      "text": "that sounds good ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "perfect . i will walk you to the checkout desk . be sure to call my office and let me know if anything changes or if you have problems before your egd and follow-up appointment ."
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "please insert the procedure paragraph in the plan . i suspect that she likely has gerd with underlying functional etiology as well . reassuringly , she has no unintentional weight loss and denies any dysphagia . if her egd is normal and her symptoms pers- persist despite a trial of nexium , we can consider a trial of protonix and obtain a ph-impedance study . this will allow us to rule out abnormal acid reflux exposure and to decipher between a functional etiology and hypersensitivity ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 35-year-old female presenting for a new patient evaluation of acid reflux with a history of anxiety and seasonal allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Acid reflux",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient takes omeprazole 40 mg twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes her symptoms as a burning sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the burning sensation is in the chest.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the burning sensation is in her chest and throat.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has difficulty swallowing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies difficulty swallowing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about nausea, vomiting, and changes in bowel movements.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies nausea, vomiting, and changes in bowel movements.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about constipation, diarrhea, and rectal bleeding.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies constipation, diarrhea, and rectal bleeding.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has had acid reflux since age 12, with worsening symptoms over the past few years.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of omeprazole use.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been taking omeprazole for approximately one year.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about triggers for symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient identifies stress and food choices as triggers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient identifies spicy foods and soda as triggers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about tomato-based or citrus products as triggers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms tomato and citrus products are triggers but admits to still consuming them.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about weight stability.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports stable weight but notes a poor appetite for the past two months due to work stress.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of GI issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a maternal grandmother with esophageal cancer.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has ever had an upper endoscopy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient believes she had an endoscopy when she was younger.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has tried any other medications besides omeprazole.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports previously taking omeprazole and ranitidine concurrently.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes a well-healed abdominal surgical scar during the physical exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the origin of the abdominal surgical scar.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient explains the scar is from surgery for twisted intestines when she was one month old.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends dietary modifications to avoid trigger foods.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0057",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends stress reduction to help with GERD symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0059",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor proposes switching from omeprazole to Nexium.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes Nexium 40 mg twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends an EGD to investigate GERD causes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0063",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to schedule the EGD and follow up in the office to discuss results.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0065",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to call the office if any changes or problems occur before the procedure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "acid reflux; stress",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

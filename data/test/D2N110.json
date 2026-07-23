@@ -1,0 +1,574 @@
+{
+  "id": "D2N110",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "okay hi wayne well i understand you're here for you've got a sore on your foot that's not healing is that right"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so can you tell me about that how are you doing"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "well i've been doing okay but i've had this wound on my right foot for a couple of weeks and it's not getting better i saw my pcp and they referred me to you i i used to see a podiatrist and a couple of years ago but they moved and i was n't able to get another one"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and how long have you had the wound"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "about two to three weeks"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay have you had any kind of trauma to that foot"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "no i bought a new pair of shoes to travel with and the neuropathy i guess i did n't feel that they were too tight at first it was just a blister but it looked a lot worse now i've been putting a band-aid on it and"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and so did your doctor put you on any antibiotics when they they saw your foot"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yes i finished the course yesterday the wound looked about the same though"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay now does it hurt"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no i ca n't feel it"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay now have you had any other symptoms like fever chills drainage from the wound or anything along those lines"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no but when i take my sock off sometimes it sticks to the wound even when i put a band-aid on"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay well are you still wearing those same shoes that cause the problem"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no i'm upset"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "i'm so upset too i love those shoes"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "no i'm so upset i i love those shoes"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay so what kind of shoes are they"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "they're hoka's"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "ah so where did you get them"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i got them at rei couple of years ago"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "they're pretty good about helping you to fit your fit you in a shoe are n't they"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "so what do you like about them"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "they are comfortable they are easy to take on and off and they provide good stability"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "that's good so you've had some issues with stability sometimes or"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay okay well another question i want to ask you is how is your diabetes doing"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "i do n't think it's too bad my last hgb a1c was a little over eight"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay alright well let me just do a quick physical exam okay for vital signs your temperature is ninety eight . one your vital signs look good your heart rate is seventy two respirations sixteen blood pressure is one ten over sixty five okay so on your foot exam let's see there is a one by two inch circular wound on the dorsal aspect of the lateral right foot it is just proximal to the right fifth to the fifth mtp joint and there is some yellow slough present with minimal granulation tissue there's no surrounding erythema or cellulitis and there's no evidence of fluid collection there's no necrosis there is no odor i do not appreciate any bony exposure on on vascular exam there are palpable bilateral femoral and popliteal pulses there are no palpable dp or pt pulses but doppler signs are present okay so does this hurt when i touch it here"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no it's okay"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay alright so i've reviewed the results your right foot x-ray that we did before you i came in the room and this shows no evidence of osteomyelitis which means there is no evidence of bone infection so that's really good so let me tell you a little about my assessment and plan for you so for your first problem your diabetic foot ulcer so i want to order an ankle brachial index abi to determine the blood supply to your foot to see if you can heal this wound i'm also gon na perform a debridement here in the office to take off some of the dead tissue and then next i'm going to prescribe a collagenase ointment to be applied to the wound once daily and then cover with a dry sterile dressing now we will continue this until we see the wound shrinking and a nice pink tissue is present and i want you to wear a surgical shoe to take pressure off of the area okay so i do n't think any more antibiotics are needed at this time and i want to see you again in two weeks so we may need to refer you to a vascular specialist if the abi indicates your blood supply is not optimal for wound healing okay"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay so for your diabetes it's gon na be very important to get your diabetes under control in order to get the wound to heal so we might even go ahead and get a diabetic consult so that we can go over some some maybe some ways you can modify your diet without a being too much but maybe that can bring down your hemoglobin a1c into a little bit better level okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "alright do you have any other questions"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 43-year-old male presenting for evaluation of a right foot wound.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Right foot wound",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has had a right foot wound for two weeks and was referred by his PCP after being unable to find a new podiatrist.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the wound.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The wound has been present for two to three weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there was any trauma to the foot.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies specific injury but notes a blister formed from new shoes due to neuropathy preventing him from feeling the tightness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient was prescribed antibiotics.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient completed a course of antibiotics yesterday, but the wound appearance has not changed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the wound is painful.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain in the wound.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about systemic symptoms like fever, chills, or drainage.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies fever and chills but notes the sock sticks to the wound.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still wearing the shoes that caused the wound.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has discontinued use of the shoes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has stability issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms having occasional stability issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the status of the patient's diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's last hemoglobin A1C was 8.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: vitals are stable; 1x2 inch wound on dorsal lateral right foot proximal to 5th MTP with yellow slough and minimal granulation; no erythema, cellulitis, fluid, necrosis, or odor; palpable femoral/popliteal pulses, Doppler signals present for DP/PT.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-rays show no osteomyelitis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Plan includes ABI test, office debridement, collagenase ointment daily with dry sterile dressing, surgical shoe, and follow-up in 2 weeks; potential vascular referral.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "Recommendation for diabetic consultation for diet modification to improve A1C.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "evaluation of right foot wound; Diabetes",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

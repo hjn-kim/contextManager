@@ -1,0 +1,1227 @@
+{
+  "id": "D2N099",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "next patient is randy gutierrez . date of birth , 8/10/2020 . please use review of symptoms . all text to write . physical exam , auto text uri ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hello , how are you doing today ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "we're okay , thank you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "that's good to hear . so , how many days has randy been feeling sick ?"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "well , i would say it started around supper time last night ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "last night , okay , and what's been going on ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "well , he started to get a runny nose ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay , and is he stuffy too ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "yeah . yeah ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay , and have you noticed , is his mucous clear right now ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "it is , it is right now , yes ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay . and , does he also have a cough ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "yes , but it's not barky ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "and does he act like he has a sore throat or is he pulling on his ears ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "well , i know he's been pulling on his ears , yeah ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "you know , he also , he's also been going crazy rubbing at his nose too ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay . and , any fever you've noticed ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "i checked his rectal temperature and it was 100.3 ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay . so , a little bit of a low-grade fever there , definitely . and , how was his appetite ? did he eat last night ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "yes , he did . yeah ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "and how about this morning ? did he eat his breakfast ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "uh , this morning he ate about seven ounces from the bottle ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "and then he got another bottle , and he barely ate that . um , i offered him cereal and he would n't eat that either ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "so , he varies i guess ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "how is his energy ? does he seem like he wants to take more naps , or does he have pretty good energy ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "mmm , it seems like he's irritable ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "irritable because he is n't feeling good ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "yeah . he is energetic , but it seems like he ca n't go to sleep , like , he's fighting it really hard ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay , and just for the chart , is there anyone , anybody else exposed to him who has been sick ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "yes , his older sister's been sick ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "thank you ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "we also had a play date with my nephew , who i learned later had a sinus infection ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "and what medication have you tried for him ? anything at all ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "um , i've been doing the saline mist in his nose ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "good , good . that's a good choice ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "i did give him tylenol really early this morning because he was warm when i took the sleeper off of him , and we had the ac on in the house , but his whole body was sweating ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "i see . and , any other medications ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "we did put some baby vick's on his feet last night to try and help him breathe . and , i also used the humidifier ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "okay . that's good ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "okay . okay ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "so , there was another thing i wanted to bring up since we're here . it appears that his cradle cap has gotten a little worse . what are you using on it ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "i've been using the cradle cap brush , and then i use regular aveno shampoo ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "is it a dandruff shampoo ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "no , i do n't think so ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "okay , thank you . well , let's complete his exam and then we'll talk about the next steps ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "okay , sounds good ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "can you take a big breath randy ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "where's mama ?"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "do n't forget to breathe little one . okay . let's try the front too ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "yeah , it's okay buddy ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "excellent . he's doing excellent . next let's- let's check out those ears ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "let's try to make sure you do n't tip all the way over ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "dino , you're doing so good ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "all right . ears look okay . we're going to slide you forward so you do n't bump your head when i lay you down ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "hey , you're- hey you're okay . you're okay ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "okay , you can go ahead and sit him back up if you like ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "all right . thank you ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "all right . so , he's just kind of getting started with this , and i think we're seeing something viral right now . often sinus infections will start out as a virus and then will become bacterial infections if left alone and does n't go away . but , i do n't think he needs any antibiotics , at least not at this point in time . um , keep up with the fluids , rest , and i would watch him very carefully for a barking cough . if he does get a barky cough , then that tends to be a little bit more significant and a little more severe . so , if he develops a barky cough , i want you to give him a half a teaspoon of his sister's medicine ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "you know , i'm almost tempted to give you some of the medicine because they're probably sharing the same virus ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "actually , i will . i'll go ahead and just give you some as well ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "okay . okay ."
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "but , if he does n't become barky , you do n't have to use it . it only works for the barky cough ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "mm-hmm , got it ."
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "okay . we'll do the same thing with him , as long as nothing gets worse , and we'll see him back in one week . so , it wo n't get rid of a regular cough . he can use zarbee's , but use the dose for kids under a year of age . so , if you wan na get some of that , you can definitely try that for him , it can help out a little bit with the regular cough ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "i do have a question . do you or do you not give honey to babies ?"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "yes , that's a great question . you do n't give honey to kids under a year , instead , you can give them agave , which is a different type of nectar . um , now you can give honey to his older sister , that is okay , but for him , it would not be very good because his stomach acid's not good enough to break down the botulism spores . so , it'd cause him harm . um , you should look at the package of say , honey nut cheerios . it says right on there to not give it to a baby ."
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "now , whether that would really hurt a baby , i am unsure , but it has real honey in it . so , no honey for him , but agave is definitely fine ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "okay . so , zarbee's for the stuffy nose ."
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "yes , zarbee's ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "and then you said , uh , which medicine to give him just in case ?"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "i'm gon na give him the same medicine as his sister , and just hang onto it , um , just to watch and see . if this was a monday and we had a whole week to watch , i would say to just call us if things got worse , um , but since , um , if it's gon na be the weekend , and things might worsen tonight or tomorrow night , i'd rather you have just what you need on hand ."
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "right , does that make sense ?"
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "yeah , yeah . that makes sense ."
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "okay , great . and that way you do n't have to share , um , with his sister ."
+    },
+    {
+      "id": "line_0081",
+      "speaker": "patient",
+      "text": "right , okay ."
+    },
+    {
+      "id": "line_0082",
+      "speaker": "doctor",
+      "text": "and since he's about half her size , we'll do half the dose , which is a half a teaspoon ."
+    },
+    {
+      "id": "line_0083",
+      "speaker": "patient",
+      "text": "okay . will this information all be in the papers ?"
+    },
+    {
+      "id": "line_0084",
+      "speaker": "doctor",
+      "text": "yes . and so , if he ends up starting the medicine , just give him a half a teaspoon for five days ."
+    },
+    {
+      "id": "line_0085",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0086",
+      "speaker": "doctor",
+      "text": "yeah , that's the only thing it wo n't say is , \" as needed , \" or anything like that ."
+    },
+    {
+      "id": "line_0087",
+      "speaker": "patient",
+      "text": "mm-hmm , understood , thank you ."
+    },
+    {
+      "id": "line_0088",
+      "speaker": "doctor",
+      "text": "you're welcome ."
+    },
+    {
+      "id": "line_0089",
+      "speaker": "patient",
+      "text": "and the cradle cap ?"
+    },
+    {
+      "id": "line_0090",
+      "speaker": "doctor",
+      "text": "what i would do is use something like either head & shoulder's , or selsun blue , or nizoral ad . now , do n't get the extra strength stuff , just use the regular strength . um , cradle cap , it's just basically a fancy way of saying dandruff . so , those shampoos will help get rid of it . it's not an immediate thing 'cause they , um , they are all dead scales , and you still have to brush them off . so , continue to use the soft brush and some baby oil , or something that will help get the scales out , and those shampoos will actually help to prevent it as well . use it two times per week , not every day , but maybe twice a week ."
+    },
+    {
+      "id": "line_0091",
+      "speaker": "doctor",
+      "text": "so , two days between shampooing , use what you normally use any other time . and then , often , within six weeks or so , you'll notice that the-the cradle cap is just , um , not coming back anymore . but , he has to be careful because it's not ph balanced for eyes . so , just make sure when you're rinsing his hair you avoid his eyes ."
+    },
+    {
+      "id": "line_0092",
+      "speaker": "patient",
+      "text": "okay . okay ."
+    },
+    {
+      "id": "line_0093",
+      "speaker": "doctor",
+      "text": "all right . and , if it keeps getting worse , definitely let us know ."
+    },
+    {
+      "id": "line_0094",
+      "speaker": "patient",
+      "text": "okay . sounds good ."
+    },
+    {
+      "id": "line_0095",
+      "speaker": "doctor",
+      "text": "good . and , since they do n't have covid-19 , you can go right ahead and check out ."
+    },
+    {
+      "id": "line_0096",
+      "speaker": "patient",
+      "text": "okay . and both appointments in the week ?"
+    },
+    {
+      "id": "line_0097",
+      "speaker": "doctor",
+      "text": "correct . we'll see you all then . bye randy , feel better ."
+    },
+    {
+      "id": "line_0098",
+      "speaker": "patient",
+      "text": "all right , great . thank you so much ."
+    },
+    {
+      "id": "line_0099",
+      "speaker": "doctor",
+      "text": "you are welcome , and have a good rest of your day ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Randy Gutierrez is a 9-month-old male presenting for evaluation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the patient's illness.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Symptoms began yesterday around dinnertime.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a runny nose.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has nasal congestion.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has nasal congestion.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the nasal discharge is clear.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The nasal discharge is clear.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a cough.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a cough that is not barky.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about sore throat or ear pulling.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is pulling on his ears.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is rubbing his nose.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is a fever.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's rectal temperature was 100.3 degrees.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's appetite.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient consumed 7 ounces of formula this morning.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient refused a second bottle and cereal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's energy level.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is irritable.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is having trouble falling asleep.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about sick contacts.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's older sister is sick.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was exposed to a cousin with a sinus infection.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what medications have been tried.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The mother has been using saline nasal spray.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The mother administered Tylenol this morning due to fever and sweating.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The mother used baby Vick's and a humidifier.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Dandruff",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The mother uses a cradle cap brush and Aveeno shampoo.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0043",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the shampoo is a dandruff shampoo.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0043",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The mother confirms the shampoo is not for dandruff.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0043",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a respiratory exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs an ear exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0057",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the ears look okay.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor assesses a viral infection and advises against antibiotics.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises fluids, rest, and provides medication for a potential barky cough.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0068",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends a follow-up in one week and suggests Zarbee's for the cough.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0069",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The mother asks if honey is safe for infants.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises against honey for infants under one year due to botulism risk and suggests agave as an alternative.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0069",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0082",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The dosage for the cough medicine is 0.5 teaspoon.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0089",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The mother asks about treatment for cradle cap.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0043",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0090",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor recommends regular strength Head & Shoulders, Selsun Blue, or Nizoral A-D twice weekly, plus baby oil and a soft brush.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0043",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0091",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor warns to avoid getting shampoo in the patient's eyes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0043",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0096",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The mother confirms the follow-up appointment is in one week.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Cough; nasal congestion; rhinorrhea; dandruff",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

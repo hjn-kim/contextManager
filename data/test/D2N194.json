@@ -1,0 +1,646 @@
+{
+  "id": "D2N194",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey betty how're you"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay aside from this left shoulder pain that i've been having for a few weeks now"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "wow well i'm sorry to hear that do you remember what you were doing when the pain started"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i you know i ca n't think about anything specifically but i am very active and i also have been renovating my basement so i have been doing a lot with that"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "wow okay and do you know if there was any direct or associated trauma that you can think of over the past three weeks like did you fall or hit your shoulder or anything"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "no no trauma that i can think of at all"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i do n't remember hitting it either"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay now have you ever had pain in that shoulder before"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "you know i'm active and will have aches and pains here and there but nothing that some tylenol ca n't take care of"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and and it's isolated to your left shoulder"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "it is"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay are you able to move that left arm for me"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "you know anytime i try reaching for something or lifting anything i have a lot of pain and i do n't even try to raise my arm over my head because that's it it really hurts"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay so now i wan na talk a little bit more about that pain are you having pain all of the time or does it wax and wane does it come and go"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "it's all the time and if there is any pressure like when i try to sleep at night i ca n't even lay i'm a side sleeper and it i really gives me a hard time because i'm so uncomfortable so the pain is always there"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay so you ca n't lay on your left side at all"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i ca n't"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "alright now do you have that pain when you lay on your back as well or just on your left side"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i mean it's always there but when i sleep directly on it the pain goes up"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay now let's talk just briefly about your pain so if you have n't taken anything at all or have you been taking anything at all let's start with that have you been taking anything for the pain"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah i've been taking tylenol and i'll take two extra strengths tylenol every six to eight hours"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "and it does help take the edge off"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay that's good now without any tylenol what's your pain level"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "without any tylenol i would say my pain is like a three"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay and then with tylenol with that"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i'm sorry i keep doing that without any tylenol my pain is like a seven and with tylenol it goes down to a two or three"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay that's good so the tylenol really does help you that that's a good thing"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "so you talked about renovating your basement did you guys just move in or is it just time for a little house facelift"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yeah it just time we've been living in this house for some time now and you know with the pandemic we've been home and so decided to do some work"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "nice have you been into the new home depot that they just opened down the street here"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "yeah it's nice my wife and i were there this weekend and they just opened two weeks ago so everything's fully stocked and if you guys are doing some renovations you might run down there and you know save big money at home depot"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "i definitely will check that out"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "so are you experiencing any numbness or tingling in your arm or hand"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay so if you do n't mind i'd like to go ahead and do a quick physical exam i've reviewed your vitals everything looks good there and i'm gon na do a focused exam of your left shoulder now you have limited active and passive range of motion there is some tenderness of the greater tuberosity of the humerus and there is no tenderness at the sternoclavicular or clavicular joints and you have good hand grip bilaterally neurovascular exam of your left arm your cap refill is brisk in less than three seconds and motor and sensation is intact to light touch now for review of your x-ray of that left shoulder the good news is i do n't see any fracture or bony abnormality so let me talk to you briefly about my assessment and plan okay so for your first problem of left shoulder pain your symptoms are most likely due to rotator cuff tendinopathy this means that the tendons of the muscles of that left shoulder have been injured and the injury happened to the tendons that make up or attach to the shoulder muscles i'm gon na go ahead and order an mri of your shoulder just to make sure nothing else is going on with that left shoulder i'm also going to go ahead and refer you for physical therapy for approximately six to eight weeks okay now during that time i want you to continue to take tylenol p.r.n . if your symptoms do n't improve we can then consider maybe like a steroid injection of that left shoulder which could hopefully get you some relief now do you have any questions comments or concerns about our treatment plan"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yeah so i'm really active so do you think that this pain will ever go away"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "i do i do believe that that pain is gon na go away many of my patients are successful with pt so we are gon na start with that take a conservative approach and see how you do"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay alright"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "alright so i'm gon na have the nurse come in and get you some paperwork and i'll see you in about two about two weeks"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "alright thank you"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Betty Rogers is a 50-year-old female presenting with left shoulder pain for a few weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Left shoulder pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient recalls the onset of the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports an active lifestyle and recent basement renovations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there was any trauma or injury to the shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any trauma or injury to the shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had previous shoulder pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports occasional minor aches and pains managed with Tylenol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is isolated to the left shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the pain is isolated to the left shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to demonstrate movement of the left arm.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain with reaching, lifting, and overhead movement.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is constant or intermittent.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports constant pain that is exacerbated by pressure when sleeping on the left side.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking any medication for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient takes Tylenol Extra Strength, 2 tablets every 6 to 8 hours.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the patient's pain level without medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates pain as 7/10 without medication and 2-3/10 with medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has numbness or tingling in the arm or hand.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows limited range of motion, tenderness over the greater tuberosity, no tenderness at SC/AC joints, good hand grip, brisk capillary refill, and intact motor/sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "X-ray shows no fracture or bony abnormality.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Assessment is rotator cuff tendinopathy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Plan includes MRI, physical therapy for 6-8 weeks, continue Tylenol PRN, and potential steroid injection if no improvement.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if the pain will resolve given her active lifestyle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reassures the patient that the pain is expected to resolve with physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "Follow-up visit scheduled in 2 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Left shoulder pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

@@ -1,0 +1,782 @@
+{
+  "id": "D2N173",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi logan , how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hi . good to see you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "it's good to see you as well . so i know the nurse told you about dax . i'd like to tell dax a little bit about you . okay ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so logan is a 57-year-old male , with a past medical history significant for coronary artery bypass grafting , hyperlipidemia , and ocd , who presents with an upper respiratory infection . so , logan , what's going on ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "so , uh , about a week ago i started to get a cold . and , in the last two or three days , it seemed to move into my chest ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . um , and , and are you having any pain in your sinuses ? or , any post nasal drip ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "um , i had some post nasal drip for , again , for the beginning of the week . and then , uh , it , it left my , uh , my head . it went right down to my upper , uh , chest ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . and have you gotten vaccinated against covid ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i actually have . i've , uh , gotten both vaccines ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . all right ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "on both , both stages ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . and anyone else sick as far as you know ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no , not in my house . no ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . and have you had any fevers ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "uh , i thought i had a slight fever , but no ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay . and , um , any shortness of breath ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . all right . um , so let's just talk a little bit about your high cholesterol . how are you doing with the diet ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i've been pretty good for the most part . uh , we did a little bit of travel over the last week or so , so the diet was n't great . but , for the most part it's been good ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay , i , i know we have you on the , on the crestor 20 milligrams a day . you're doing okay with that , so tolerating it ? no muscle aches , anything like that ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "no muscle aches ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . and i know you had the , uh , bypass grafting last year . you're doing okay ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "it's been great ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "no chest pain ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "other than the congestion , no chest pain ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay . all right . and you're able to exercise ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay . before you got sick ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "that's correct ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "that's correct ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay . all right . well , let's go ahead , i want to do a quick physical exam . okay ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "you got it ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "hey dragon , show me the vital signs . so , here it ... your vital signs look great . your oxygenation is 96 % . so that's very good . okay ? uh , i'm just going to check out your heart and lungs , and i'll let you know what i find . okay ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "okay . so on exam , you do have some cervical lymphadenopathy . and your lungs have bilateral ronchi in them , um , and some wheezing . so , what that means is , you know , you have a little infection . you probably have a little bit of a cold , and you have some lymph nodes that are swollen , and some congestion in your lungs , like you said . let's go ahead and take a look at some of your results . okay ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "hey dragon , show me the lipid panel . so your cholesterol , for the most part , is really good . i think you're doing a good job . uh , i do n't think you have to make any changes right now . um , hey dragon , show me the covid test . turns out you're positive for ... for covid ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "so the results of your po- your covid test are positive ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "so , i know you were vaccinated . you probably have a , a , a very , um , low-level positivity . so let's talk about that . so for your first problem , uh , is your covid infection . and i think the vaccine has helped you . it seems to be very mild at this time . your oxygenation is really good . i want you to quarantine for t- for 10 days , so , uh , try to avoid your other household family members . okay ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "and you're going to have to take off work . um , if your symptoms worsen , i want you to call me ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "it's just supportive management . uh , for your next problem , your high cholesterol , let's continue you on the crestor 20 milligrams a day , and continue to watch your ja- your , your diet and i- then i'll go ahead and order another lipid panel for six months . and , from a coronary artery bypass grafting standpoint , your coronary artery disease seems under control . you're exercising . you do n't have any chest pain . we'll do a stress test in six months as well ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay ? any questions ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "no questions ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay . it was good to see you ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "same here ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "hey dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 57-year-old male with a history of coronary artery bypass grafting, hyperlipidemia, and OCD.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Upper respiratory infection",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports cold symptoms starting one week ago, worsening over the last two to three days with chest congestion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has sinus pain or postnasal drip.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports postnasal drip earlier in the week, which has since resolved in the head and moved to the chest.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been vaccinated against COVID-19.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he has received both COVID-19 vaccine doses.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if anyone else in the household is sick.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any household members are sick.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any fevers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies having a fever.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hyperlipidemia",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with his diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports his diet is generally good, though it was poor during recent travel.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is taking Crestor 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is tolerating Crestor and experiencing muscle aches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies muscle aches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Coronary artery bypass grafting",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain, noting only chest congestion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is able to exercise.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he is able to exercise.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares the intent to perform a physical exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's oxygen saturation is 96%.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam reveals cervical lymphadenopathy, bilateral rhonchi, and wheezing.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The lipid panel is within normal limits.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The COVID-19 test result is positive.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to quarantine for 10 days and avoid household family members.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to call if symptoms worsen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is to continue Crestor 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a lipid panel in 6 months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a stress test in 6 months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "upper respiratory infection; coronary artery bypass grafting;hyperlipidemia;ocd",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

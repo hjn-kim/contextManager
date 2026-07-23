@@ -1,0 +1,659 @@
+{
+  "id": "D2N144",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "tyler nelson , date of birth : 3 , 6 , 1949 , mrn , 385729 . he is here today for ongoing management of rheumatoid arthritis . last time he was here , he received a steroid injection in his right knee . hello mr. nelson , how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "um , about the same as last time . my knee is still swollen ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "that was your right knee , correct ? i take it the injection did n't help ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "it did , maybe for a couple of weeks ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "that's it ? and is it still painful ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah , it's pretty painful , and now the whole leg is getting swollen ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay , what would you say your pain level is ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i mean , right now it's about a 3 or so , but , typically on a normal day it's around 6 ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay , and its been swollen like that for how long now ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "since i was last here a couple weeks after that . so about , maybe two months now ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay , but before it was just the knee ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "yeah , the whole thing was n't swollen like this , but i tried to wear compression socks a lot of the time , but it has n't been helping ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay , okay , so that has n't been working for you ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i mean , it helps to some degree , but it's still swollen , especially around the knee ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "hmm . has it been keeping you from doing things during the day ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "well , i slowed down a little bit , and i found a few things too fast . but when it really hurts , is when i've been sitting for a while , and then i have to try and get up . i'm so stiff getting up i have to use a cane to get my bearings . i mean , after a little bit , it loosens up , but that first getting up is real difficult ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "yeah , i can see , that makes sense . have you been taking your medication regularly ? your on xeljanz right ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah , the xr , i think its , uhm , 11 milligrams a day ? yeah , but i'm taking it everyday , and i'm also taking celebrex which i started maybe 2 months ago ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "yes , the 200mgs daily . how's that working for you ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "pretty good , up until it started swelling again ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay , well come sit over here , and if you could take of your socks and shoes , and we'll take a look at your knee . and just to let you know , i have a service now that writes my note about the visit , so you'll hear me call things out and describe what i see fully ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "okay , gotcha ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "right , so let's check your leg . can you straighten it , and does it hurt ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yeah , when i try to straighten it all the way it does ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay , range of motion slightly diminished . i'm going to press here , okay ? and how about here , hmm , i see some pitting around the knee and ankle . normal capillary refill in the toes . does any of this area hurt ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "um , just kinda sore , like an old bruise ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "so , i can feel that the knee is hot , and that means there's something going on , like some inflammation . so we can give you another steroid injection for that . i also want to get an x-ray of that knee , so we can see where all the swelling is coming from ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah . let's do it . sounds go to me ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay , and did we set up physical therapy for you last time you were here ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yeah , that was some years ago , but that was the other knee ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay . so i think we'll set that up for you now . we'll also do an x-ray on that knee . i can send you for a physical therapy , and if nothing is helping , then we really might need to get a surgery consult to see what we can do with that knee ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "okay , sounds like a plan ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "all right , so for today we'll go ahead and we'll give you the steroid shot . i'll try to see if i can get a little bit of fluid out before i do give you the injection . there might be no fluid , but i'll see if i can get anything out regardless ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "okay . and that's a procedure you're going to do right now ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "yep . once we're done talking here , and as far as the edema in your legs , uh , we'll take an x-ray to look for the cause , but there is a lot you can do as well . the compression socks are a good start . um , and also , do you eat a lot of salt ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "i mean , um , i mean i love my salty snacks ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay . well , salt does have a tendency to make your body hold on to water , reducing your salt intake could help with some of the swelling . you can also prop your feet up any time you get a chance , especially at night . and have you talked to your private care doctor about this at all ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no , i figured i would just come here first ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay . so i think , try some of those things out first , and if it does n't help , definitely make an appointment with them , also , as you know , xeljanz is a high-risk medication , so we need to check your cmp levels every couple of months . so this time your levels are good , but do make sure to make an appointment for the blood work for next time ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "all right . i can do that . thank you so much doc ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "yes , of course . well let me go ahead and get supplies and we'll get to work on your knee ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "fluid aspiration and steroid injection procedure . the risks , benefits , and alternatives were explained . the risks of steroid injection were explained , including , but not limited to : hypopigmentation , soft tissue atrophy , tendon ruptures , and transient hypoglycemia among others . verbal consent was attained . the right knee was , uh , um , accessed through the lateral approach with 3 milliliters of initially clear fluid , then bloo- blood tinged fluid . then the right knee was prepped in a standard-fashion . the right knee was injected with 80 milligrams of triamcinolone , and one milliliter of lidocaine . the procedure was tolerated well , with no complications . post-procedure instructions were given . patient will follow up with his pcp . thank you ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 72-year-old male presenting for rheumatoid arthritis management.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Rheumatoid arthritis management.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "agenda_item"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports persistent right knee swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the previous steroid injection was ineffective.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the previous steroid injection provided relief for only a few weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still experiencing pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports persistent pain and new swelling in the entire right leg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate their pain level.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a typical pain level of 6/10.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the leg swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the leg swelling has been present for approximately two months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports using compression socks, which provide limited relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports stiffness when standing after sitting, requiring a cane for support.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking their medication regularly.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is taking Xeljanz XR 11 mg daily and Celebrex 200 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor instructs the patient to prepare for a physical examination of the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to straighten their leg to assess for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain when fully straightening the right leg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include reduced range of motion, pitting edema around the knee and ankle, and normal capillary refill.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the knee is warm, indicating inflammation, and plans a steroid injection and knee x-ray.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if physical therapy was previously arranged.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans to order a knee x-ray, refer the patient to physical therapy, and mentions a potential surgery consult if symptoms persist.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor plans to perform fluid aspiration and a steroid injection.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient consumes a high-salt diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises reducing salt intake, elevating feet, and consulting the PCP regarding edema.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has discussed the edema with their PCP.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to schedule blood work for CMP monitoring due to high-risk medication use.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The procedure included fluid aspiration and injection of 80 mg triamcinolone and 1 mL lidocaine into the right knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "rheumatoid arthritis; edema",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

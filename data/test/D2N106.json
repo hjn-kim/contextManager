@@ -1,0 +1,795 @@
+{
+  "id": "D2N106",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey charles i'm using this cool new recording device to help me with my documentation is that okay with you"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "sure"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "awesome how are you doing today"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "well i could be better you know i moved out in the city"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "about two years ago bought this big plot of land"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "oh"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "i love it lots of deer round awesome"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "you be hunter"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "huge hunter i love hunter yeah"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i have a refrigerator full of venison at home"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "do you"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "you want to carry share sure yeah we can switch"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "nice but so the thing is i have noticed that for some reason my breathing"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "is n't what it used to be"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "sure"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "yeah it's you know i i seem to catch my breath a lot more than i used to and i consider myself to be pretty healthy"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "you look pretty healthy"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "thanks so do you thank you you you're feeling short of breath"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay is there you know is there any other symptoms that you have with that i get like you know mid shortness of breath suddenly for some reason i'm not quite sure why"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "eyes they're water does n't make very much sense to me"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "i always think it's allergies"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "mostly could be"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i have a dog that eyes water like that she always gets eyebugers"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "yeah i get eyebugers too"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "uh"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "crazy uh the last time it happened i went to the urgent care and they gave me a nebulizer that helped"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "they prescribed me an inhaler that i use now when i feel the symptoms coming on"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay great do you ever notice a rash with any of this"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "do you have any nausea vomiting"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "besides when you go out heavy drinking right"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "i mean i diarrhea quite a bit once i go out"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "i understand that"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "heavy drinking"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "yeah do you ever get lip or throat swelling"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "have you ever had any issues with allergies in the past"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "hmmm what situations do you notice the symptoms come on when is it when you're near your cat or outside the house"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "i have noticed them in all three situations"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "in the house when the cat is n't around and outside as well"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "hmmm yeah i'm not a big cat person"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "no neither"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "do you do you have any symptoms now well which is"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "no no travels and no symptoms right now"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "okay alright so i'm gon na do a physical exam for you right now your vital signs look good your pulse is okay and yeah your pulse ox is normal so that's good you do n't appear in any distress you may be might be a little bit nervous to come in and see me but looks pretty good i do not appreciate any rash on your body there is no angioedema which is just swelling of your lips like you mentioned no audible stridor which is a bad noise in your airway when it gets swollen so that's good news if you just want to take a deep breath listening to your lungs on your lungs exam i do appreciate some faint expiratory wheezing bilaterally in all lung fields so i know you had a chest x-ray when you came in i'm looking at that chest x-ray right now and your pulmonary function test and they were both normal so let's talk a little bit about what i think is going on for your first problem you have newly diagnosed allergic asthma so i want you to continue the albuterol inhaler i do n't want you to wait until your symptoms flare up or are bad take it as soon as you start to feel any symptoms at all i'm gon na prescribe something else called singulair ten milligrams you might have seen some commercials for it"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "you take that once daily and that's gon na help decrease the occurrences of your asthma"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "i also am gon na proceed with allergy testing have you ever had an allergy test before"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "okay we'll start with skin testing and we'll see if we can target what the triggers in hopes in hopes that we can avoid any any other management and this can be successful if we ca n't figure out what it is from that we'll have to discuss more testing in your blood and do immunotherapy so i wan na see you next week to schedule the skin testing do you have any questions for me"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "should i come my cats"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "yes"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Charles Sullivan is a 45-year-old male presenting with shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient enjoys hunting.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports shortness of breath that began two years ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports sudden episodes of shortness of breath without a clear cause.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports epiphora with rheum.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient received a nebulizer treatment at urgent care for his symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses an inhaler when symptoms occur.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a rash.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies having a rash.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has nausea or vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies nausea and vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports diarrhea after heavy alcohol consumption.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has lip or throat swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies lip or throat swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies previous issues with allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about triggers for the patient's symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports symptoms occur in the house, near the cat, and outside.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is currently experiencing symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies current symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include normal oxygen saturation, no distress, no rash, no angioedema, no stridor, and faint expiratory wheezing bilaterally.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Chest x-ray and pulmonary function tests are normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient is diagnosed with allergic asthma.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "plan",
+          "summary": "The patient is instructed to use the albuterol inhaler at the onset of symptoms and is prescribed Singulair 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0059",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had an allergy test before.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies having had an allergy test.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans for allergy skin testing in one week.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0062",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if he should avoid his cats.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0063",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the patient should avoid his cats.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0062",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Allergic asthma",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

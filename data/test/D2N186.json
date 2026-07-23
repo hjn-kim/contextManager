@@ -1,0 +1,932 @@
+{
+  "id": "D2N186",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey sean nice to see you i heard you that you have some back pain"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah it's nice to see you too it's been a while"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yeah yeah you know i had some back surgery and for some reason i always had lower"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "left back pain when was your back surgery"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it was in november of two thousand twenty"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "was that long ago"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "wow what happened what did they do microdiscectomy my disk broke off and just wrapped around and connected to my spinal thecal sac sounds horrible it's not the poop sac though"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "that's good to know what kind of symptoms did you have with that horrible pain down my leg in my back just horrible awful things that you can think of"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "horrible nerve pain it sounds like"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i think so"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay did they give you any meds for that they did i was highly highly dosed up on gabapentin"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "was that hard to withdraw from"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "yeah it was terrible sounds like yeah there is certainly take too much of that and then stop suddenly you can definitely have some some issues okay so you have left side low back pain"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "does anything make it better or worse so my beautiful significant other always tells me to stretch and it always works"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "she sounds smart"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "yeah she is so stretching helps okay what about any physical activities do they make it worse"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "a lot of bending over"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "and"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "honestly it it just happens"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "you know randomly"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "randomly okay so it hurt on the right side as well or just the left"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "depends on the day"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "is it right around where you had surgery"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "generally"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay did you try icing"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "hmmm did you try any pain meds"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yep"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "what kind of pain meds did you"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "ibuprofen eight hundred milligrams a day"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "it's quite a high dose okay let me do a quick physical exam on your back here if you bend forward does that hurt"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "not right now but normally it would"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay so no pain with flexion how about if you stand back up"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay no pain with extension either does it hurt while you're just standing here"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay so pain when you're weightbearing does it hurt when i push right here on the left side"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "pain with palpation to the left side around the l5 how about on the right side"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "no pain with palpation to the right side okay i'm just gon na push down on your feet can you push back up on my hands"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "alright dorsiflexion is normal looks like that you have normal range of motion so that's good any pain down your legs"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "great no nerve pain alright so we took an x-ray when you came in it looks like you do n't have any fractures or anything on the spinal bone that's good you can see where you had surgery it looks like everything has healed properly there so that's good news so what i think you did is you have a a muscle pull there from having a misalignment in your spine so what i'm gon na do is i'll prescribe some physical therapy for you you have great physical therapy here at the va so you can just come right to our physical therapist and that should help have you have you been there before"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "how do you feel about it"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "i really go to the dentist"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "got it okay so i'm also gon na prescribe you some meloxicam instead of the ibuprofen that might help a little bit more with some of the pain management"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "is there any chance i can get some vicodin"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "lem me check your record quick for for pain management it's kind of a strong drug for vicodin and we do n't really like to prescribe that unless it's totally necessary so why do n't we start with the meloxicam and i also write a referral to pain management and they can talk to you a little bit about some of your pain and maybe not using narcotics to manage it"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "how about some demerol"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "hmmm sure i'll prescribe demerol"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "yeah you're welcome any other problems going on today you want to talk about"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "alright well it was nice to see you today"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "it's always nice to see you as well"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "alright"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Sean Phillips is a 35-year-old male presenting with left-sided low back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Low back pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a history of back surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the patient had his back surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had back surgery in November 2020.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient underwent a microdiscectomy in 2020 for a broken disc.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient took any medications for his previous nerve pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports taking high-dose gabapentin for nerve pain prior to his surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what makes the pain better or worse.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports that stretching helps his pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if physical activities worsen the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that bending over worsens his pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain occurs on the right side as well as the left.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that the pain location varies by day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is localized to the surgical site.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has tried icing the area.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies having tried icing the area.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has tried any pain medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is taking ibuprofen 800 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam of the lumbar spine.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if bending forward causes pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain with flexion during the exam.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes no pain with flexion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if extension causes pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes no pain with extension and asks if standing causes pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain while standing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if palpation on the left side causes pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms pain with palpation on the left side.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain with palpation around L5 on the left and asks about the right side.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain with palpation on the right side.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor tests the patient's dorsiflexion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes normal dorsiflexion and range of motion, and asks about nerve pain in the legs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies nerve pain in his legs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reviews the X-ray, which shows no fractures and a healed surgical site, and diagnoses a muscle pull due to spinal misalignment.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks for a prescription for Vicodin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor refers the patient to pain management.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks for a prescription for Demerol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor agrees to prescribe Demerol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Left sided low back pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

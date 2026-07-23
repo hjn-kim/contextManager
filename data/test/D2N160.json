@@ -1,0 +1,791 @@
+{
+  "id": "D2N160",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey good to see you philip so i see here you're coming in you had some right elbow pain also you have a past medical history of hypertension diabetes we are gon na check up on those as well so can you tell me what happened to your elbow"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "sure i hurt it about a week ago playing lacrosse with my kids just suddenly started hurting me when i was throwing the ball"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay okay so how old are your kids"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "my oldest is thirteen and the other one is ten i was playing with a thirteen -year-old"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay yeah i know i i play with my kids sometimes and i think i'm getting too old to do all that so i just i've hurt myself before as well alright so with your your elbow what part of your elbow would you say hurts"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it's really like right at the point of the elbow right at right at like the tip of it"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "and it just it hurt hurts anytime i move it"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "anytime i move it do you remember falling"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "no i do n't think so but my kid got pretty rough with me and was checking me several times with a sick"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "so i could have got hit there"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay alright yeah that that that definitely makes sense so how would you describe the pain is it like a dull pain is it stabbing what what would you say"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "it it's a pretty sharp pain"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "anytime i move"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay and does it radiate down your arm or does it stay in that one spot"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "it radiates down the forearm"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "radiates down the forearm alright so have you taken any medications for it to make it better"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i tried taking advil couple of days but i usually just forget about it"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay when you took it did it did it help at all did it change your your pain score"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah i i think it helped some"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay that's good alright so we'll we'll do a physical exam on that elbow we'll take a look at it in a second but i do wan na talk to you about your your hypertension you came in today i know you have past medical history of hypertension came in today your blood pressure's a little bit high it was a one fifty over seven over ninety which is pretty high today i see you're on twenty of lisinopril have you been taking that daily"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay so maybe you just have a little little white coat syndrome i know i have that myself and even though i'm a physician i i still do n't like to go to the doctor so i definitely understand how about your diet i know we talked a little bit about that before and you said kinda during the pandemic you fell off a little bit how you been doing that have you been lowering your salt intake"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah but i only eat low salt items avoid adding salt to food kind of the whole whole family follows like a you know like a mediterranean diet"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "we try to be pretty good about it"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay yeah that's good that that's that's definitely good yeah i know a lot of people during the pandemic it was you know sitting at home and and eating more than we should but that's i'm very happy that you've been compliant and you have that low salt diet so let's talk about your diabetes i think you see here on on five hundred of metformin are you taking that as well daily"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay and your blood sugars how have they been"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "since i do n't take insulin i do n't check it everyday when i have checked it it's usually running somewhere between eighty to a hundred"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay yeah that's that's really good yeah so i that's that's pretty good so what we're gon na do we're gon na get a a1c just to see you know that range and it's possibility we can we can you know lower that metformin dosage but we will do that after your visit then we will take a look at that so lem me go ahead and will do that quick exam of your elbow but first i want to make sure you're not having any chest pain or anything like that"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "no belly pain"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "alright so listen to your lungs so your lungs are clear bilaterally listen to your heart so your heart exam you do still have that grade two out of six systolic ejection murmur but we know it about that before so let me take a look at your elbow so when i press right here on the back of your elbow is that painful"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "alright so when i have you you you flex and extend it it's painful does that does that hurt"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yes it does"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "alright so your right elbow exam shows you have pain to palpation of the olecranon area of the posterior elbow you do have mild pain with flexion and extension but you do have also normal range of motion at that elbow so we we did do an x-ray before you came in and luckily nothing's broken no fracture no bony abnormality so it's a normal x-ray which is really good so let me just talk to you a little bit about my assessment and plan for you so you have a elbow contusion i believe your son did hit you with the lacrosse stick and it caused that that pain i see some swelling little inflammation there as well you have a little bit of a bruise i think that's that's what happened so for that i know you're having some pain i'm gon na prescribe you eight hundred milligrams of ibuprofen you can take that twice a day and that should help with some of that swelling and pain i also want you to ice it three times a day for twenty minutes at a time that should also help with the swelling and pain and just for the time being for the next couple of weeks just you know maybe you know not play lacrosse with your son just to help that heal then you can get back on on the field so for your your high blood pressure we're just gon na keep you on the hypertension we'll just keep you on that twenty milligrams of lisinopril looks like you're doing great with that and your diet and then for your diabetes we will keep you on the five hundred milligrams of metformin and we will also get a a1c just to check your levels and see if we do need to adjust the medication in the future alright so do you have any questions for me"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "no sounds good"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "alright so we will see you next time and my nurse will be in with those prescriptions"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "alright thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is presenting with right elbow pain and has a history of hypertension and diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the circumstances of the elbow injury.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the elbow injury occurred one week ago while playing lacrosse.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain at the tip of the elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain with movement of the elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient remembers falling.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies falling but reports being struck by his son with a lacrosse stick.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the quality of the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as sharp.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain radiates.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain radiates down the forearm.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has taken any medications for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports taking Advil occasionally.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient's blood pressure is 150/90 mmHg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "ros"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking lisinopril 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms daily adherence to lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's dietary habits and salt intake.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports following a low-salt Mediterranean diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking metformin 500 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms daily adherence to metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's blood sugar levels.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports blood sugar levels between 80 and 100 when checked.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans to order a hemoglobin A1c test.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has chest pain or abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows clear lungs and a grade 2/6 systolic ejection murmur.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the back of the elbow is painful to palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms pain to palpation of the posterior elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if flexion and extension of the elbow are painful.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms pain with flexion and extension.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor summarizes exam findings: pain to palpation of the olecranon, mild pain with flexion/extension, normal range of motion, and normal X-ray.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor diagnoses an elbow contusion.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes ibuprofen 800 mg twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to ice the elbow 3 times daily for 20 minutes and avoid lacrosse for a few weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor continues lisinopril 20 mg daily and metformin 500 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a hemoglobin A1c test.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "right elbow pain; hypertension;diabetes",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

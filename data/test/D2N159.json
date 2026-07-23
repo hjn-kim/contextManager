@@ -1,0 +1,590 @@
+{
+  "id": "D2N159",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "good afternoon alexis i understand you're having some issues with your hand"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yes i sit at the keyboard all day long and recently i've been having some numbness and tingling in my right hand"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay how long has that been going on"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i do n't know probably on and off for six months but over the last month or so it's been a little more persistent"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay okay and when does that numbness and tingling do you get a lot of pain with it first let me ask that question"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "some pain"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "some pain"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "mostly when i'm actually typing on the keyboard is when i experience the pain"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "but the numbness and tingling is all the time now"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and when you get this pain what makes it better is it stopping and just resting for a while or do you take medications or try other"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i've been taking ibuprofen so ibuprofen and seem like not typing on the keyboard helps the most"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "the other thing that makes it hurt is my mouse"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "your mouth okay"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "wow"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "yeah when you're moving that around okay"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "does this pain ever wake you up in the middle of the night or the pain or the tingling"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "no okay"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "not affecting my sleep hmmm"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay so and you're using motrin for for ibuprofen for for the pain well let me go ahead and take a take a look here at your is it both hands or just your right hand"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "mostly my right hand"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "mostly your right hand okay so let's go ahead and take a look at that right hand when i bend your wrist does that cause any pain"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "it does okay and so you do have some pain on extension and if you pull your your hand wrist up towards you does that cause the pain also"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "yeah okay so you do have pain on flexion and extension and when i touch the fingertips here now you said you had some numbness in your thumb and your index finger and a little bit in your your middle finger the other two fingers they feel okay or do you think that there is different than the other hand"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yeah for some reason it really is just that the thumb the pointer in the middle finger that i experience the most symptoms with"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "not why that is"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay so i i want you to grip my hands here and just squeeze tight okay so you do have a a little bit of a less grip strength on the right and that's typical that we would see with this type of pain and and numbness that you have going on now i want you to turn your arm over for me and i'm gon na touch on or tap on the inside of your wrist or or forearm and when i do that i can see your face you're grimacing so that that that must cause that shooting pain yeah okay so you do have a positive tinel's sign so in alexis what i think is going on is that you have a a carpal tunnel syndrome and we see that frequent"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i was afraid of"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "yeah you see this frequently but people who are doing data entry spend a lot of time on keyboards or you know some a lotta manufacturing people who do a repetitive procedure again and again will get that type of pain so here is my plan i'd like to put you in a splint and it's it's it's kind of a wrist splint i would like you to wear that at night that will help with that i want you to continue with the ibuprofens but i would like you to go up to six hundred milligrams four times a day and"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "we're gon na do that now i am going to order some a a outpatient test called an emg where we look at that nerve conduction study in that wrist and that's really what's happening here is you've got some thickening in the the in the wrist and the the the membranes of the wrist that are just pressing down and just compressing some of those nerves any other questions for me for now if that test comes back positive and we'll talk about that later on your next visit if it comes back positive we may have to do we're gon na stick with conservative treatment first but we may consider some surgery where i can go in and release that impingement on your nerves through your wrist it's a simple outpatient procedure and then i think you would feel better how does that sound"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "that sounds like a good plan i was hoping maybe i could get some relief with some therapy rather than having to go to surgery so i like that plan very much"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "yeah we'll start with the the wrist splint and once i get the nerve conduction studies that will give me another idea whether or not i need to send you some physical therapy in addition or if we need to go directly to surgery but that will all hinge on that nerve conduction test do you so do you have any further questions"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "no that's great thank you so much"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "thank you very much"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The doctor introduces the patient, Alexis, a 33-year-old female presenting with right hand pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Right hand pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports working on a keyboard all day and experiencing numbness and tingling in her right hand.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports symptoms have been intermittent for six months and persistent for the last month.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experiences pain with the numbness and tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms experiencing some pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain occurs primarily while typing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports numbness and tingling are constant.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what alleviates the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports ibuprofen and resting from typing help alleviate symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports using a mouse also causes pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the symptoms disturb the patient's sleep.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies sleep disturbance.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the symptoms affect both hands or just the right.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports symptoms are mostly in the right hand.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam of the right wrist, noting pain with flexion and extension.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks which fingers are affected by numbness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms numbness in the thumb, index, and middle fingers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes decreased grip strength and a positive Tinel's sign on the right hand, and assesses the patient with carpal tunnel syndrome.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends a wrist splint at night and increasing ibuprofen to 600 mg four times daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an EMG/nerve conduction study.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor mentions potential future treatment with physical therapy or carpal tunnel release surgery depending on test results.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor confirms the plan to start with a wrist splint and nerve conduction studies before deciding on physical therapy or surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "right hand pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

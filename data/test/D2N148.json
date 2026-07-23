@@ -1,0 +1,997 @@
+{
+  "id": "D2N148",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi jeremy how are you the medical assistant told me that you injured your back"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah i was moving some boxes when my son was moving out of his college dorm and i really hurt my lower back"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay how long ago did that happen"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "this was about four months ago"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "about four months ago okay that's quite a long time and you're just seeing me now for it"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah the appointments were backed up and i tried some pt at my gym but it it really did n't seem to help and i was really concerned"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay and what exactly are your symptoms are you having pain when you're just sitting there or when you're moving around for a very short period of time it felt like i was gon na tapple over i like i could n't support my my upper body weight and then my right toe or the the toes on my right foot tingled a little bit but that went away after about an hour okay are you still getting that numbing and tingling periodically in your feet or is that completely gone"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "that's completely gone it it just happened when i first felt the the tweak in my lower back i felt that sensation but i have n't since"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and how about any difficulty or weakness in your legs"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "only if i'm carrying something heavy otherwise it seems relatively normal but i i feel the sensation so i'm a little nervous about carrying something heavy"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and are and do you still have pain down there in your lower back if i turn a certain way or if i roll over in my sleep i'll wake up from it from a like a sharp pain but then that that goes away if i if i position myself the right way okay and what have you been taking for the pain"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i took some tylenol i took some ibuprofen i've tried heat i've tried ice and nothing really seems to help"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay is the ibuprofen any better than the tylenol"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "a little bit but for sure a shorter period of time"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and did you get any stomach upset from the ibuprofen"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no i try not to take too much so i i do n't have an upset stomach from it"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay and did you go to like an urgent care centing or an emergency room have you had any imaging on this at all"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i went to an urgent care and they wanted me to do an mri but i was a little concerned because i think we maxed out our insurance so i i did n't do it because it started to feel better but because it's been going on so long i'm i'm a little bit concerned now i i do wan na actually move forward with that"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay alright and any other symptoms any problems with like your bladder or your bowels any incontinence or you know you feel like you ca n't go to the bathroom"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no i have n't had any of those issues"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay alright and any other any other past medical history do you that you have any"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i had knee surgery about two years ago on my right knee"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "that went fine i rehabbed it pt has been fine it it feels about ninety five percent ever since"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay and what did you have done to your right knee"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "it was a total knee replacement"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay a total knee replacement in twenty eighteen is that what you said"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "no it was actually about two years ago so it's the spring of twenty twenty"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay alright alright well i wan na go ahead and just move on to a physical exam i'm gon na be calling out some of my exam findings"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "now you have you had any fever or chills with this"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay alright alright so looking at your vital signs here in the office you know they look really good your you you do n't have any temperature your blood pressure is good it's about one seventeen over fifty six"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "your heart rate is nice and slow at sixty eight and your oxygenation is fine at ninety five percent on room air so that means everything looks good"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "good"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "on your neck exam i i do appreciate some bony protuberance of the c5 c6 do you have any pain when i touch here"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "no okay on your lumbar spine exam i do appreciate do you have pain when i touch here"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay so there is no pain to palpation of the lumbar spine there is decreased flexion and extension of the lower back the patient does have a positive straight leg raise and there is some spasm of the paraspinal muscles of the lumbar spine on musculoskeletal exam the lower extremities strength is equal bilaterally so what does that mean jeremy that means that you have some you know maybe a some arthritis in your neck here and or maybe just a a little bit of some injury from from that from that back that back thing that you told me about"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay but i think overall things look really good so you know i had them do an lumbar spine x-ray on you before i saw you and i looked at the results of your lumbar spine x-ray which showed no acute bony abnormality you know there was no fracture of your back or anything which is not surprising based on your history so let's just talk a little bit about my assessment and plan so i do believe it sounds like you have an acute disk herniation now this did happen a few months ago but it sounds like that's what you had based on the fact that you're still having symptoms"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "i do wan na go ahead and order a a lumbar spine mri to get a a a better look at what's going on you know x-rays really just look at the bones they do n't show us any of the soft tissue so let's go ahead and order the lumbar spine mri i wan na continue with physical therapy so i'm going to refer you to a a physical therapist through our health system"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "and then i also wan na go ahead and prescribe meloxicam fifteen milligrams once a day"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "to help with that do you have any questions about that"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "no questions"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "now if you do have a herniated disk we can go ahead and talk about some other treatment options maybe like an epidural steroid injection to help take down some of that inflammation"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "it might make you feel better but we'll we'll deal with that when we get get there okay"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "sure"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "any questions"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "not at this point"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "okay great thank you"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 57-year-old male presenting for evaluation of low back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Low back pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports back pain onset 4 months ago while moving boxes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the injury occurred 4 months ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient attempted physical therapy at a gym without relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the nature of the patient's symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports initial inability to support upper body weight and transient tingling in the right toes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient still experiences numbness or tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the tingling sensation has resolved.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about leg weakness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports leg weakness only when carrying heavy objects.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports sharp lower back pain when turning or rolling over in sleep, which resolves with repositioning.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient has been taking for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has tried Tylenol, ibuprofen, heat, and ice without relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if ibuprofen is more effective than Tylenol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports ibuprofen is slightly more beneficial but short-acting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced stomach upset from ibuprofen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies stomach upset with ibuprofen use.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about previous urgent care visits or imaging.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient visited urgent care and was referred for an MRI, but did not undergo it due to insurance issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about bladder or bowel issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies bladder or bowel issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about past medical history.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had right knee surgery two years ago.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the knee feels 95% improved.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The surgery was a total knee replacement.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The surgery occurred in the spring of 2020.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Physical exam",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about fevers or chills.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies fevers or chills.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Vital signs: blood pressure 117/56 mm Hg, no fever.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Vital signs: heart rate 68 BPM, oxygenation 95% on room air.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Neck exam shows bony protuberance of C5-C6.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is pain upon palpation of the neck.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain on palpation of the neck.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is pain upon palpation of the lumbar spine.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain on palpation of the lumbar spine.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Lumbar exam shows decreased flexion/extension, positive straight leg raise, and paraspinal muscle spasm; strength is equal bilaterally.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Lumbar x-ray shows no acute bony abnormality or fracture.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Assessment and plan",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the patient with a possible acute disc herniation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0042",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a lumbar spine MRI and refers the patient to physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0042",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg once daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0042",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has questions about the plan.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0042",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor mentions epidural steroid injections as a potential future treatment option.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0042",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any further questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "low back pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

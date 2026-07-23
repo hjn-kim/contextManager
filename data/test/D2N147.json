@@ -1,0 +1,1053 @@
+{
+  "id": "D2N147",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi matthew how are you the medical assistant told me that you injured your shoulder"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hey yeah i'm i'm hanging in there"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "what happened"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yeah so well when i was younger i used to be a little bit more active with my friends with the playing"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "pick up football and so you know me being a little bit older now i thought i'll take back up with no problem well i did i tried and all the other guys were a little bit bigger than me so i got i got tackled a couple of times and it just"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i kinda landed on my shoulder a little bit weird one time and so like i got back into the game i was okay but yeah ever since then the past couple of days it's just been it's been really bothering me"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay alright and so when exactly did this happen"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah i'd say maybe it was probably about last weekends so i'd say about like four days ago"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay well i'm happy at age 67 you're out there playing tackle football so good good for you and was it your right shoulder or your left shoulder that you injured"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "it was my right"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and are you right or left handed"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i'm right handed"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay and have you had any numbing or tingling in your fingers at all"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no fingers have been okay"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and any problems with the strength of the arm at all are you able to grab a cup of coffee"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "yeah i hand's doing okay i can grab yeah i'm just trying to avoid lifting anything yeah anything anything anything a little bit too heavy like i had a chipment command so i had a box in the driveway the other day and reaching down and picking up the box was a little tough"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay and where exactly on your shoulder does it hurt"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah it's kinda on the on the back side right right around here"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "mm-hmm okay alright and are you able to lift up your shoulder so that your shoulder touches your ear at all"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah no that's that's that's hurting a little bit"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay alright and what have you taken for the pain"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "just a little bit of tylenol trying to take it easy"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "did that help at all"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "it it kinda like kept it at the same spot that has been but it really did n't make it go down"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay so are your symptoms any better since it happened or they about the same"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "no they are about the same"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay and any neck problems did you injure your neck when this happened"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "no neck has been okay"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay and any other joint problems like does your elbow hurt on that side or your wrist or is it just your shoulder"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "nope the the rest of it's doing okay it's just the just the shoulder"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay and any other orthopedic injuries in the past have you ever injured that shoulder before as far as you know"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "nope nope that one that one's been fine"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay and any any other surgeries or any other medical problems"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i mean i had a appendicitis so i had an appendectomy"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "maybe like three four years ago but that's about it"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay alright well i'm just gon na go ahead and do a quick physical exam i'm gon na be calling out my exam findings i'll let you know what that means so and last thing have you had any fever or chills since this happened at all"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "a slight headache but no no no fever"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay did you hit your head when you when this happened"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "a little bit"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay alright did you pass out"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "nope nope stayed conscious throughout"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay alright well looking at your vital signs here in the office you do n't have any fever your blood pressure looks quite good it's about one twenty two over seventy six your heart rate is appropriate at eighty two beats per minute and your oxygenation is ninety five percent on room air on your cervical spine exam there is no tenderness to palpation of the cervical spine there is full range of motion on head exam there does not appear to be any trauma there is no ecchymosis or bruising on the right shoulder exam on your musculoskeletal exam there is pain to palpation of the posterior shoulder at the acromioclavicular joint there is decreased abduction and adduction to about ninety degrees only there is there is a he has pain with supination and pronation of the right arm and there is a palpable radial radial artery pulse okay so what does that mean that just means that you have some you know evidence of the injury there and we'll we're gon na talk about that so i had the nurse do a shoulder x-ray on you before i came in the room and the results of your right shoulder x-ray showed that you have an acute acromioclavicular joint fracture so you just have a a a small fracture of the acromion i do n't think that it it's gon na be anything that we need to do surgery for so let's just talk a little bit about my assessment and plan so for your right shoulder injury for your acute acromioclavicular joint fracture i wan na go ahead and just put you in a sling for now i wan na go ahead and prescribe meloxicam fifteen milligrams once a day i wan na go ahead and just order a cat scan of your right shoulder just to kinda get a better look of how the joint looks and we're gon na go ahead and refer you to physical therapy to strengthen your shoulder in hopes of avoiding surgery in the future how does that sound"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yeah that that sounds great just being able to take a little bit of something for the pain would would would be really appreciated"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay do you think you need something stronger than meloxicam"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "no i'll give that a shot"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "and see how that goes"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay any questions"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "when can i get back out on the field"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "well you ca n't play taggle football for a while you have to have this fracture healed"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "and i would avoid doing it you know as we get older you know our bones get a little bit weaker so i would avoid the tackle football maybe flag football in the future okay"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "yeah yeah that sounds good"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "okay anything else"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "no i think that's that's been great thank you so much"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "okay you're welcome have a good day bye"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "thanks"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 67-year-old male presenting for evaluation of a right shoulder injury.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the circumstances of the injury.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient sustained the injury while playing tackle football after being tackled.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient landed on his right shoulder and has experienced persistent pain for the past few days.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the injury occurred.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury occurred four days ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks which shoulder was injured.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient injured his right shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is right or left-handed.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is right-handed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has numbness or tingling in his fingers.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling in his fingers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about arm strength and ability to perform daily tasks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports adequate hand strength but avoids lifting heavy objects due to pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the specific location of the shoulder pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient localizes the pain to the posterior aspect of the shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0016",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient can touch his shoulder to his ear.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is unable to touch his shoulder to his ear due to pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient has taken for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been taking Tylenol for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the Tylenol provided relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that Tylenol did not provide relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the symptoms have improved or remained the same.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that the symptoms have remained the same.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient injured his neck.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies neck problems.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there are other joint problems.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies other joint problems.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about previous orthopedic injuries to the shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies previous orthopedic injuries to the right shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0030",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about other surgeries or medical problems.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a history of an appendectomy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0032",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The appendectomy occurred three to four years ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0032",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares he will perform a physical exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had fever or chills.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a headache but denies fever or chills.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0036",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient hit his head during the injury.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he hit his head.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0038",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient lost consciousness.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies loss of consciousness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0040",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's vitals are BP 122/76, HR 82, SpO2 95%. Physical exam shows no cervical tenderness, full cervical ROM, no head trauma, no ecchymosis, posterior shoulder pain at the AC joint, decreased abduction/adduction to 90 degrees, pain with supination/pronation, and palpable radial pulse. X-ray shows acute AC joint fracture. Plan: sling, meloxicam 15mg daily, CT scan, physical therapy, avoid tackle football.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg once a day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a CT scan and refers the patient to physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs something stronger than meloxicam.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0042",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient declines stronger medication and agrees to try meloxicam.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0044",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks when he can return to playing football.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises against tackle football until the fracture is healed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0049",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor recommends avoiding tackle football permanently due to age-related bone weakness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0049",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Right shoulder injury",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

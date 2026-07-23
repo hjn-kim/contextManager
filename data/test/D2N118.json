@@ -1,0 +1,1351 @@
+{
+  "id": "D2N118",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "alright so how're you doing today angela"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing pretty well"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "alright so looking here at your appointment notes it says you're you're here you think you have a kidney stone you had some in the past so we're gon na take a look at that and then you also have a past medical history of hypertension and diabetes we want to take a look at those as well so first thing what's going on with your kidneys you as what how long ago have you been feeling pain and and how's all that"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "pain's been up and down i went to the emergency room last week but now i think i'm doing a little bit better"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay so the case of kidney stones so have you had you said you've had them in the past and how often would you say"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i do n't know i this is probably like my seventh or eighth kidney stone"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "seven or eight kidney stones so do you think you passed it yet or is it still in the"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i think this one passed yeah"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "this one passed how long would you say it took to"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "well i went last week and then i think it passed about three days ago"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay so are you still noticing any blood in your urine"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no no more blood"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "alright are you still having pain"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "nope"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "the pain's gone"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay that that's that's that's really good did they do anything for you at the hospital giving you any medications"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "they gave me some pain medicine"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay do you remember what it was"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i think it was percocet"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay well that's good i'm very glad to see that you were able to pass that stone have you seen a urologist before about this"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i have n't seen one in a while but yes i saw someone maybe a year ago"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay so yeah i know you keep having these recurrent kidney stones so i definitely think we can get you a referral to urology just to check up on that and also wan na do some labs as well"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "so i also see you're here for you have a past medical history of of hypertension and when you came in today your blood pressure was a little bit high it was a one fifty over ninety i'm reading here in your chart you're on two point five of norvasc"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "now have you been taking that regularly"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i have but at home my blood pressure is always great"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay maybe you have a little white coat syndrome some of my patients do have it i have it myself and i'm a provider so i definitely understand yeah i know we we talked about last time you getting a blood pressure cuff and taking those about two to three times a week so what have those readings been i'm usually like one thirty to one forty over sixty to seventy"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "that's that's that's not too bad i think when you first came in you were around like one eighty so it seems to be that that norvasc is is working for you how about your diet i know you were having a little issue eating some fast food and and cakes and cookies and have you been able to get that under control"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yeah it's hard to give up the fast food altogether because it's a lot of on the go you know"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay so do you think you would be able to get that under control by yourself or would you do you think you would need help with that maybe a dietitian be able to help you out"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yeah i do n't know i do n't know if i can make another appointment i just add to the extra"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "less time to make food so"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "yeah yeah definitely understand"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "alright yeah so i mean that's one thing we just got ta work one is your diet we try to keep you at least just twenty three hundred milligrams or less of sodium per day i know that's hard for a lot of salads and stuff i know it's hard for lot of people especially with all like the the prepackage foods we have around today so that's definitely something we we should work on"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "so let's also look here you have a history of diabetes and so you're on that five hundred milligrams of metformin daily now have you been taking that as well"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yeah i take my metformin"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "so what have your blood sugars been running daily"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "well i do n't check it very often"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "but i think they've been pretty good"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay so i'm looking here i think last after your last visit you got a1c now was six . seven so it's a little bit high it's gone down a little bit since you were first diagnosed with the type two diabetes a year ago so i'm glad we're making progress with that as well alright so i'm just gon na do a quick physical exam on you before i do just wan na make sure are you having any chest pain today"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "alright any any belly pain"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "alright so i'm gon na listen to your lungs your lungs are clear bilaterally i do n't hear any crackles listen to your heart so on your heart exam i do hear that grade two out of six systolic ejection murmur and we already knew about that previously so it has n't gotten any worse so that's good so i'm gon na just press here in your abdomen because that you did have those kidney stones does that hurt"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "alright i'm gon na press here on your back"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "no pain"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "okay so on your abdomen exam of your abdomen i'm showing no tenderness to palpation of the abdomen or tenderness of the the cva either on the right side so that that's good i think that's pretty much cleared up so let's we'll talk a little bit about my assessment and plan for you and so my assessment you you did have the those kidney stones but i i think they are passed this time but i do want to get a couple of labs so we'll get a urinalysis"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "alright we'll get a urine culture just to make sure everything is is cleared up i also want to give you a referral to referral referral to urology"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "because you do keep having these all the time and so maybe there's something else going wrong and so they can help get that under control"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "can i see doctor harris"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "of course yeah we can we can get you that road to doctor harris and"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "he's not like"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "he's great he's he's he he he's great i've heard he does really good work so that'll be good so for the hypertension you seem to be doing well on the two . five of norvasc so we are not gon na make any changes to that do you need any refills right now"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "no usually the pharmacy just sends them through when i call"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "okay great so we we wo n't we gave you refills with that i do wan na give you a consult to nutrition"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "just to help you with that diet"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "because i think that's a major factor of us eventually getting you off of all medications"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "and then for your diabetes i'm just keep you on that on that five hundred of metformin okay i think you're doing well with that as well also but i do want you to start taking your blood sugars if you can take them before every meal"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "just to gauge where you are so you can tell how much food you should actually be be eating"
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "i can try that"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "so how does that that sound"
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "that sounds like a plan when should i come back and see you"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "so you can you can come back in three months and we'll check up again i forgot you did tell me last time that you were having some issues with insomnia"
+    },
+    {
+      "id": "line_0081",
+      "speaker": "patient",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0082",
+      "speaker": "doctor",
+      "text": "how is that going for you is it still happening"
+    },
+    {
+      "id": "line_0083",
+      "speaker": "patient",
+      "text": "i mean sometimes i stay awake just kinda worrying about things but but i've tried some meditation apps and that helps"
+    },
+    {
+      "id": "line_0084",
+      "speaker": "doctor",
+      "text": "okay alright and i know we talked a little bit before about practicing proper sleep hygiene you know just making sure that all of your electronics are off you know dark room"
+    },
+    {
+      "id": "line_0085",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0086",
+      "speaker": "doctor",
+      "text": "cool room have you been doing that"
+    },
+    {
+      "id": "line_0087",
+      "speaker": "patient",
+      "text": "well i do like to sleep with the tv on and my phone is right by my bed because i never know if someone's gon na call me you know"
+    },
+    {
+      "id": "line_0088",
+      "speaker": "doctor",
+      "text": "yeah i i know i'm like apple i do n't know if you have an iphone or not but i know apple has this the the sleep mode now do that disturbance so you put that on"
+    },
+    {
+      "id": "line_0089",
+      "speaker": "patient",
+      "text": "it's a good idea"
+    },
+    {
+      "id": "line_0090",
+      "speaker": "doctor",
+      "text": "interrupt you"
+    },
+    {
+      "id": "line_0091",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0092",
+      "speaker": "doctor",
+      "text": "okay have you tried taking melatonin to sleep"
+    },
+    {
+      "id": "line_0093",
+      "speaker": "patient",
+      "text": "i used it a couple times but but it did n't seem to help that much"
+    },
+    {
+      "id": "line_0094",
+      "speaker": "doctor",
+      "text": "okay how about i do n't think i've prescribed you anything yet do you think you would need anything"
+    },
+    {
+      "id": "line_0095",
+      "speaker": "patient",
+      "text": "hmmm i do n't really wan na take any sleeping pills"
+    },
+    {
+      "id": "line_0096",
+      "speaker": "doctor",
+      "text": "okay that's understandable alright so for the last issue for the insomnia i'm just gon na have you take ten milligrams of melatonin as needed"
+    },
+    {
+      "id": "line_0097",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0098",
+      "speaker": "doctor",
+      "text": "and just try i guess the best as possible to practice the proper sleep hygiene so you can get to sleep at night and and feel pretty rested"
+    },
+    {
+      "id": "line_0099",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0100",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0101",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0102",
+      "speaker": "doctor",
+      "text": "so do you have anything any other questions for me"
+    },
+    {
+      "id": "line_0103",
+      "speaker": "patient",
+      "text": "no that's all"
+    },
+    {
+      "id": "line_0104",
+      "speaker": "doctor",
+      "text": "alright so we will see you in three months"
+    },
+    {
+      "id": "line_0105",
+      "speaker": "patient",
+      "text": "okay sounds good"
+    },
+    {
+      "id": "line_0106",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0107",
+      "speaker": "patient",
+      "text": "like"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is here for a kidney stone, with a history of hypertension and diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Kidney stone",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration and nature of the patient's kidney stone pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports intermittent pain and an emergency room visit last week, but feels better now.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports this is her seventh or eighth kidney stone.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient believes the kidney stone has passed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient believes the stone passed three days ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has hematuria.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies hematuria.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still experiencing pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient received any medication at the hospital.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports receiving Percocet at the hospital.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has seen a urologist previously.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient saw a urologist about a year ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans to refer the patient to urology and order labs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient's blood pressure is 150/90 mm Hg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "Norvasc 2.5 mg",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking Norvasc regularly.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports taking Norvasc regularly and states her blood pressure is good at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports home blood pressure readings of 130-140/60-70 mm Hg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "detail"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's diet and control of fast food intake.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs help with diet management, such as a dietitian.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises limiting sodium intake to 2300 mg or less per day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "Metformin 500 mg daily",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0040",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking metformin regularly.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0040",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms taking metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0040",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's daily blood sugar readings.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0040",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "detail"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports not checking blood sugar very often.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0040",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "detail"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's A1c is 6.7.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0040",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam: lungs are clear, heart has a grade 2/6 systolic ejection murmur.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The abdominal exam shows no tenderness to palpation or CVA tenderness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a urinalysis and urine culture.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor provides a referral to urology.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks to see Dr. Harris.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0062",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor confirms the referral to Dr. Harris.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0064",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Continue Norvasc 2.5 mg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs medication refills.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0066",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor provides a nutrition consult.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0072",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Continue metformin 500 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0040",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to check blood sugar before every meal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0040",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0080",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will return for follow-up in 3 months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Insomnia",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0082",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the status of the patient's insomnia.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0080",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0083",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports insomnia due to worry and uses meditation apps.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0080",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0092",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has tried melatonin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0080",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0093",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports using melatonin previously without much success.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0080",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0096",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor recommends taking 10 mg of melatonin as needed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0080",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Kidney stone; hypertension;diabetes",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

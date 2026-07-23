@@ -1,0 +1,708 @@
+{
+  "id": "D2N119",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey betty how are you doing"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay i just been really frustrated because with my asthma and it just seems like i can never catch a break never get better i'm always it seems like i'm always coughing and wheezing"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm sorry to hear that what normally triggers your asthma type symptoms"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i find that it's really really when i get sick if i get sick with a cold i almost always know that my asthma is going to flare i did notice one time though that when i went to my aunt's house i i had a flare afterwards and i think it's because of her cat so i try to avoid going there and i have n't really had an issue since"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay so now you mentioned that that happens somewhat a lot how frequently does this occur that you have these breathing type problems"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it seems like it happens really every month or every other month for the past six months i usually end up going to the urgent care a lot and get or my primary care doctor and so sometimes they'll give me antibiotics sometimes i'll get steroids one time it was so bad i actually ended up going to the emergency department"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "wow that that can be a little bit scary so you mentioned that your primary care provider or the urgent care provider gave you medications what medications are you using for your asthma right now"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i have two inhalers one but i really just use one of them it's a blue one that seems like the only inhaler that helps me the other one when i when i try to use it it does n't work"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay so do you think that's the albuterol inhaler is it do you remember the name like ventolin or"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yes yes that's the name of it"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "is that it okay alright and then how often do you feel like you need to use that"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i would say like almost everyday i feel like i'm using my inhaler because i'm always coughing and wheezing and a couple of times a night i'll wake up as a couple times a week i'll end up waking up needing to use my inhaler as well"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay and then when you use it at that time does it help"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "it does"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and how many walk me through how you use that you just wake up and you take one puff or is it two puffs"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "yeah i take i usually take two puffs"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay but then you get enough relief that you can go back to sleep"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah for the most part"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay now have you ever needed to be hospitalized due to your asthma symptoms you mentioned you've had to go to the er"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah for only once i can think of when i was young i think like around eight years old i had to be hospitalized but nothing since then"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay i do wan na take a little bit of a a deeper dive here into your er and urgent care visits can you tell me a little bit more about those"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah i feel like i've had several i do n't remember the exact number but i've had several this past year they almost always have to start me on prednisone"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay like a prednisone taper pack that type of thing"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yeah yeah sometimes they'll just give me like like a like a large dose over five days"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "and then sometimes they make me take less and less and less so the over like nine or ten days"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay so both the dosepak and then also the high dose as well okay"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "and then when was your last exacerbation"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "probably about a month ago"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay so just out of curiosity you mentioned that you you have trouble when you go over to your aunt's house because of your cat now i see here that you really like to go outside and walk and do those type of things do you have any other type of issues whenever you you go outside any any seasonal allergies or anything like that"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no not really"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay so you do n't have any history of seasonal allergies which is good so it looks like here that you put down that you enjoyed hiking so you do n't have any trouble getting out and going hiking and and have you tried the new trails there behind behind the wreck center"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yeah i'm really excited to i mean i have to be careful because i you know with my coughing my wheezing but i'm really i'm looking forward to getting better so i can really start hiking again"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay now i really need you to be truthful when you answer these next questions this is important for taking a good history do you smoke any type of cigarette or tobacco product and have you ever smoked or do you smoke marijuana on a regular basis"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "no i've never smoked and i do n't vape either or yeah i do n't smoke cigarettes or marijuana"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay and then you said you do n't vape so no vaping or e-cigarette use at all"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "hmmm hmmm"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay and then are you routinely in an area where there is a lot of airborne particular like smoking in bars or around any type of of you know like race tracks or anything like that"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "sometimes i go to the bars with some friends and yeah the smoking does irritate me"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "so i do n't try to go there often"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay thank you for sharing that with me so if it's okay with you i'd like to go ahead and do a quick physical exam"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "now i reviewed your vitals for today and your your blood pressure is good it's one twenty eight over eighty two your respiratory rate is sixteen and your oxygen saturation is ninety nine percent on room air which is a good thing i'm gon na take a listen to your heart here your heart is regular rate and rhythm and i do n't appreciate any ectopic beats or and i do n't hear anything like rubs murmurs or gallops which is good so i'm gon na go take and listen to your lungs here on your lung exam i do appreciate some diminished lung sounds throughout with the occasional slight expiratory wheeze and that's bilaterally so i hear that on both sides i'm gon na go do a quick neck exam here neck is supple trachea is midline i do n't appreciate any lymphadenopathy taking a listen here i do n't appreciate any carotid bruit now i'm also gon na take a look at your hands here i note strong bilateral pulses i do n't appreciate any clubbing on any of your fingertips which is which is important and i also note brisk capillary refill i'm gon na go ahead and review the results of your pulmonary function test that i had you do when you came into the office today and reviewing those results i do see that they are consistent with somebody who would be diagnosed with asthma so lem me go ahead and tell you a little bit about my assessment and plan so now for your first problem of asthma your symptoms are consistent with moderate to intermediate or i'm sorry moderate moderate intermittent asthma and it's gon na be really important for us to be consistent with your inhaled inhaled steroid inhaler so i'm gon na need you to take that as prescribed and that's really gon na help cut down on those daily symptoms and needing to use that rescue inhaler that albuterol inhaler as frequently so the more you take and more consistently you take your inhaled steroid inhaler the less you will use your albuterol now it's not a fast acting inhaler like your albuterol but what is important is as going to be what helps you long term now if you do have an acute exacerbation so if you're having an acute issue with your breathing i do want you to continue to use your albuterol inhaler one to two puffs and then i want you to wait and see how your breathing is before you would take an additional one to two puffs we hope you have less of those acute exacerbations as you continue to use your inhaled steroid i'm also going to put together an asthma action plan for you and that's gon na help us look at your symptoms see where your your pain points can be you know like those being having issues with with cats or dust that type of thing and we'll work on how to handle those symptoms through that asthma action plan so do you have any questions comments or concerns otherwise i will see you in thirty days"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "alright thank you"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "you're welcome"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "so let me tell you a little bit about my assessment and plan for your first problem of asthma your symptoms are consistent with moderate intermittent asthma i'm gon na start you on flovent one hundred ten micrograms one puff twice per day that's gon na be important for you to be consistent with your inhaled steroid inhaler this is gon na help prevent those daily symptoms and from needing for you to use your albuterol inhaler or that rescue inhaler less frequently you can continue using your ventolin inhaler and that would be two puffs every four to six hours p.r.n . i'm also gon na put together an asthma action plan for you so we know what to do based on your symptoms i'd like to see you again in a month or sooner if you have any worsening symptoms does that sound okay"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "it does thank you"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "you're welcome i'll see you in a month"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "alright thanks"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports chronic coughing and wheezing associated with her asthma.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about triggers for the patient's asthma symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient identifies respiratory infections and cat exposure as asthma triggers.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the frequency of the patient's breathing problems.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports asthma flares every month or two for the past six months, requiring urgent care, primary care visits, and one emergency department visit.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what medications the patient is currently using for asthma.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's inhaler is Ventolin or albuterol.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she uses a Ventolin (albuterol) inhaler.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how often the patient uses her inhaler.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses her inhaler almost daily and wakes up needing it a couple of times a week.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how many puffs the patient takes when using her inhaler.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports taking two puffs of her inhaler.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has ever been hospitalized for asthma.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was hospitalized for asthma once at age eight.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports several urgent care visits in the past year, often requiring prednisone.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the patient's last asthma exacerbation occurred.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's last exacerbation was about a month ago.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about seasonal allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies seasonal allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "allergy"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about tobacco and marijuana use.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies smoking cigarettes, vaping, or using marijuana.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about exposure to secondhand smoke.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient occasionally visits bars where smoking is allowed and finds it irritating.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reviews vitals: BP 128/82, RR 16, O2 sat 99%.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: heart regular, lungs diminished with expiratory wheeze, neck supple, no lymphadenopathy, no carotid bruit, strong pulses, no clubbing, brisk capillary refill.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Pulmonary function test results are consistent with asthma.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Asthma",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "Prescribed Flovent 110 mcg, 1 puff twice daily; continue Ventolin 2 puffs every 4-6 hours as needed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0047",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Create an asthma action plan and follow up in one month or sooner if symptoms worsen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0047",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "asthma",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

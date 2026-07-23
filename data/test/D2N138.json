@@ -1,0 +1,1167 @@
+{
+  "id": "D2N138",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "next patient is emily hernandez . date of birth , march 26 2001 . this is a 20 year old female being seen today for our yearly follow-up for asthma , allergic rhinitis and food allergy . due to insurance changes since our last office appointment in april 2020 , she was switched from symbicort to wixela . she also uses zyrtec in the spring , summer and fall for her seasonal allergy symptoms , which tend to work well . she also has known peanut allergy , she does tolerate almonds and cashews . please put in the asthma section at the very bottom that the act score is 21 . please put under interval history , written consent is obtained today to use dax for documentation ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hi emily , how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "i'm pretty good , how are you ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "i'm good , thank you . so gosh , we last talked a little bit over a year ago and it was just a telemedicine visit , but it seems like you've been doing pretty good . i know there was an insurance change . i think you had switched over to wixela , is that right ?"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "yep , that's right , and it's what i'm currently using ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "okay , and that's the 250/50 dose , correct ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "yes , correct ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "perfect . so how does that compare ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "i mean , it's working well . i really have n't had any issues with it and i take it once in the morning and once at night ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "and that's one puff twice a day ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay . and have you been having to use your albuterol inhaler at all ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "rarely , and if i do it's really just before a workout or something out that , if i know i'm really going to be pushing it ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "so it sounds like it's around strenuous activity ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay . so you can do things like go on a walk or going to the grocery store no problem , and just use it for more exertional stuff ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "yes . like , if i'm gon na go for a run or something like that i'll really just take it before as a preventative ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "and i've been trying to use my daily if i can a little less because i'm trying to go into the military soon ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "no kidding , that's great ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "yeah , so i have to be able to operate basically at a certain fitness level without an inhaler ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "really ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "yeah , and if i can prove that i'm capable of these activities without an inhaler it makes it easier ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "and so by inhaler do they mean both your daily and rescue inhalers ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "mm-hmm . so it's like they'll have a fitness test and basically they'll tell me not to take my inhaler that day before the test , and then they'll see how the asthma affects me . and they're looking to see if it's serious enough to hold me back from joining or whatever . so i have been taking it less and less . and really some days i feel like i do n't need it ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "and that is the wixela that you're not taking . so on average per week , how many days of the week do you use one puff in the morning and one puff at night ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "probably about three or four ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay , three to four days per week and the other days it's once a day ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "yes , that's correct ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "and it's either in the morning or at night that i'm taking it ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay , and do you think that's working okay ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "i do ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "great . and any urgent care or er visits at all for breathing over the past year ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "okay , so i'm going to assume no one has put you on prednisone for breathing issues then ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "okay . and now , military wise , what's the time frame of when you'll be completing some of these exertional tests ? like , what are your next steps ?"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "so , hopefully i'm going to be enlisted early spring of 2022 . so that gives me about six to seven months to get to a point where i'm able to exert my body where i do n't really need the inhaler . or at least show them that i have it under control ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "now when you were in the other room you completed a breathing test , correct ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "correct ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "okay , great . so now let me ask you about the allergies , 'cause i know typically you'll use the zyrtec in the spring , summer and fall , correct ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "yeah , i do n't really ... um , or i'm sorry , i use it more during the spring and fall . i do n't really have to use it too much in the summer ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "do you use it more just as needed in the summer ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "yeah , that's right ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "okay . and have you been taking the zyrtec every day recently since you're right in the mix of spring ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "not every day , but i do take it on days i know i'm going to be outside a lot . um , i do tend to work outside about three days a week so i'll definitely take it on those days ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "and does it seem to work pretty well still ? are you happy with it ?"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "yeah , it does , it works great ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "wonderful , good to hear . and then i'm assuming you're staying away from the peanuts . uh , last year you had told me it worked with ... uh , you worked with enterprise rent-a-car and one of the cars had a lot of peanuts in it that you were cleaning out and that gave you hives , uh , when you had touched it , is that correct ?"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "yep , that's correct ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "okay . and has there been anything like that since that experience ?"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "no , i do n't think so . i definitely became more cautious after that , so i usually wear , uh , wear long sleeves and change my gloves every time now . so i have n't had a reaction , but i imagine that i probably came into contact with cars that had peanuts in them , but they just d- did n't touch my skin ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "super . and it sounds like you're really smart about it ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "yeah , and the airplanes , they have peanuts . they give everyone too , so ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "okay . and you have an epipen that k- that you keep with you , correct ?"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "okay . and i'm assuming you're going to need refills , um , i can call you in a new set for the year . typically of course , they expire within a year ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "yeah , okay ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "and i remember , um , sometime previously you've had some testing for tree nuts , but you do have almonds and cashews , correct ? and- and you do okay with them , or do you avoid all tree nuts ?"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "i do tend to avoid all of them but i recall eating some almonds at one point , uh , really soon after we discussed i might not be allergic to tree nuts anymore ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "and i remember having them and nothing happened , but i usually just tend to stay away from them , um , really if i can help it ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "okay . so sometimes when people have a peanut allergy , the nuts in general just are n't very important to them , so it is very common to avoid both . um , so let's do this . i'll have helen come in and i would love to complete a breathing test on you . if your breathing numbers are looking great we can work on getting you , uh , something lower than wixela . if you look at all of our asthma regimens it is a stepwise process , and wixela is a combination of two medications in one . and , well maybe you do n't need both of'em . uh , maybe you just need one of'em . so we can work our way backwards ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "and so the breathing test will help give us some- some more guidance , we will look at the results in just a moment ."
+    },
+    {
+      "id": "line_0066",
+      "speaker": "patient",
+      "text": "all right , and so this past year i did get into the bad habit of vaping and smoking , but i have been trying to cut that out . so i should be good , and , um , now i only do just a little bit and i am trying to quit . so i am sure that might have an effect ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "doctor",
+      "text": "it can . um , so what we can do today is compare your results with prior results , probably before you started smoking or using the vape ."
+    },
+    {
+      "id": "line_0068",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "doctor",
+      "text": "yeah . and we'll see where you stand at that point ."
+    },
+    {
+      "id": "line_0070",
+      "speaker": "patient",
+      "text": "all right , that sounds good ."
+    },
+    {
+      "id": "line_0071",
+      "speaker": "doctor",
+      "text": "well let me go ahead and listen , so hop on up here for me ."
+    },
+    {
+      "id": "line_0072",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "doctor",
+      "text": "all right so your ears look good , a little bit of wax on both sides . can i see inside your mouth ? big ahh ."
+    },
+    {
+      "id": "line_0074",
+      "speaker": "patient",
+      "text": "ahh ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "doctor",
+      "text": "good . okay let me take a peek in your nose . all right , good . you can put your mask back on ."
+    },
+    {
+      "id": "line_0076",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0077",
+      "speaker": "doctor",
+      "text": "and go ahead take a big breath in and out . good , your lungs sound terrific . i'll listen to your heart , breathe quietly . okay very good ."
+    },
+    {
+      "id": "line_0078",
+      "speaker": "patient",
+      "text": "awesome ."
+    },
+    {
+      "id": "line_0079",
+      "speaker": "doctor",
+      "text": "so your breathing test is about the same as it was a couple years ago , and actually looks a little bit better . you may not remember but when we last completed the test in 2019 , uh , do you recall if you were feeling lousy at the time ?"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "patient",
+      "text": "i think it was the smoke . there were so many fires at that point and i remember coming in and looking out the window and all you saw was the orange and the smoke ."
+    },
+    {
+      "id": "line_0081",
+      "speaker": "doctor",
+      "text": "yes , you're absolutely right , that was a bad year . that was my first fall here and i was really alarmed . well that explains why at that time your numbers were a little bit lower and today they look better . here's what i think , so you'll have kaiser currently , correct ?"
+    },
+    {
+      "id": "line_0082",
+      "speaker": "patient",
+      "text": "correct ."
+    },
+    {
+      "id": "line_0083",
+      "speaker": "doctor",
+      "text": "okay . most insurances do limit what we can use ."
+    },
+    {
+      "id": "line_0084",
+      "speaker": "patient",
+      "text": "yeah i do know that ."
+    },
+    {
+      "id": "line_0085",
+      "speaker": "doctor",
+      "text": "okay so option one would be to continue using wixela like you're using it now . we would classify it as off-label and you can use it once a day instead of twice a day , which is fine . some people do that because they just need it once a day , so that's an option . option two would be to actually back up to an inhaler that just has one med ."
+    },
+    {
+      "id": "line_0086",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0087",
+      "speaker": "doctor",
+      "text": "so the one that kaiser covers is alvesco . the thing about alvesco , though , is that it would be two puffs in the morning and two puffs at night . so it's a bit more work . um , it's not breath activated but we could step down the lowest dose to see how you do . some of the newer guidelines for asthma that were published this year is recommending trying to treat people with inhalers like wixela or alvesco only when you're ill , or say during smoke season . so minimizing their use to those periods of time versus all year . unless you found out that you're getting [ inaudible 00:09:25 ] sick having issues every month , then that would indicate would pull back too much ."
+    },
+    {
+      "id": "line_0088",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0089",
+      "speaker": "doctor",
+      "text": "that we had too much , yeah ."
+    },
+    {
+      "id": "line_0090",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0091",
+      "speaker": "doctor",
+      "text": "um , so we could step back and possibly get you to the point where you just use those inhalers , uh , when you're ill or it's smoke season , but at the first step to do any of that would be to try to drop down to just alvesco ."
+    },
+    {
+      "id": "line_0092",
+      "speaker": "patient",
+      "text": "okay , that actually sounds really good ."
+    },
+    {
+      "id": "line_0093",
+      "speaker": "doctor",
+      "text": "okay great . so i will call that in for you , it will be the lower dose , 80 mcg , and you'll have to do two puffs twice a day ."
+    },
+    {
+      "id": "line_0094",
+      "speaker": "patient",
+      "text": "all right"
+    },
+    {
+      "id": "line_0095",
+      "speaker": "doctor",
+      "text": "okay and that'll be on the box when i call it in . you can put the wixela off to the side , but do n't throw it away just in case the alvesco does n't work well for you ."
+    },
+    {
+      "id": "line_0096",
+      "speaker": "patient",
+      "text": "okay , got it ."
+    },
+    {
+      "id": "line_0097",
+      "speaker": "doctor",
+      "text": "and then ideally we would repeat your breathing test in four months to see how you're doing , and then be able to document that you're doing well . sometimes , not always , the military will require documentation on breathing tests ."
+    },
+    {
+      "id": "line_0098",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0099",
+      "speaker": "doctor",
+      "text": "is your pharmacy still the same or did you update it with helen ?"
+    },
+    {
+      "id": "line_0100",
+      "speaker": "patient",
+      "text": "yeah i believe she updated it . it should be kaiser permanente broadway ."
+    },
+    {
+      "id": "line_0101",
+      "speaker": "doctor",
+      "text": "okay perfect . i'll make sure it's the alvesco and then i'll renew your albuterol and epipen as well ."
+    },
+    {
+      "id": "line_0102",
+      "speaker": "patient",
+      "text": "awesome , thank you ."
+    },
+    {
+      "id": "line_0103",
+      "speaker": "doctor",
+      "text": "you're welcome . uh , then the zyrtec , do you pick it up over the counter or do get- do you get it as a prescription ?"
+    },
+    {
+      "id": "line_0104",
+      "speaker": "patient",
+      "text": "i just get it over the counter ."
+    },
+    {
+      "id": "line_0105",
+      "speaker": "doctor",
+      "text": "okay got it . and do you have a nebulizer that you would , uh , need refills on ?"
+    },
+    {
+      "id": "line_0106",
+      "speaker": "patient",
+      "text": "i do n't think i need any refills , i have n't used that in such a long time . i think the last time was when i had bronchitis , or there was few select times when i had to use it when i was kid ."
+    },
+    {
+      "id": "line_0107",
+      "speaker": "doctor",
+      "text": "okay good . well i think we have our game plan ."
+    },
+    {
+      "id": "line_0108",
+      "speaker": "patient",
+      "text": "okay awesome ."
+    },
+    {
+      "id": "line_0109",
+      "speaker": "doctor",
+      "text": "and do the alvesco two puffs twice a day and your albuterol if you need it . the zyrtec 10 milligrams as you need it and continue to stay away from peanuts and tree nuts and i'll refill your epipen ."
+    },
+    {
+      "id": "line_0110",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0111",
+      "speaker": "doctor",
+      "text": "all right so we've got it ."
+    },
+    {
+      "id": "line_0112",
+      "speaker": "patient",
+      "text": "great ."
+    },
+    {
+      "id": "line_0113",
+      "speaker": "doctor",
+      "text": "all right i'll have you take this to the front and i'm gon na say four months re-check for asthma and we'll repeat the spirometer- spirometry at that time ."
+    },
+    {
+      "id": "line_0114",
+      "speaker": "patient",
+      "text": "okay sounds good ."
+    },
+    {
+      "id": "line_0115",
+      "speaker": "doctor",
+      "text": "all right well thanks so much and you have a great day ."
+    },
+    {
+      "id": "line_0116",
+      "speaker": "patient",
+      "text": "you too ."
+    },
+    {
+      "id": "line_0117",
+      "speaker": "doctor",
+      "text": "and we'll do a follow-up in four months with act and spirometry , sooner if needed . follow-up 25 minutes ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Emily Hernandez is a 20-year-old female presenting for annual follow-up for asthma, allergic rhinitis, and food allergy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient switched from Symbicort to Wixela due to insurance changes in April 2020.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient uses Zyrtec for seasonal allergies and has known peanut allergies while tolerating almonds and cashews.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "allergy"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Asthma",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is using the 250/50 dose of Wixela.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient takes Wixela 250/50 one puff twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient uses a rescue albuterol inhaler.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses albuterol rarely, primarily before strenuous exercise.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is attempting to reduce inhaler use to meet military fitness requirements.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the weekly frequency of Wixela use.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses Wixela twice daily for 3-4 days per week, and once daily on other days.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about urgent care or ER visits for breathing in the past year.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies urgent care or ER visits for breathing in the past year.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has required prednisone for breathing issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies requiring prednisone for breathing issues in the past year.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the timeline for military exertional testing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient aims to enlist in the military in early spring 2022 and has 6-7 months to demonstrate fitness without inhalers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Allergies",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses Zyrtec primarily in the spring and fall, and as needed in the summer.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient takes Zyrtec 3 days per week when working outside.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had a previous contact hive reaction to peanuts while cleaning a rental car.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient avoids peanut exposure by wearing long sleeves and changing gloves when cleaning cars.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient carries an EpiPen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she carries an EpiPen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0059",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's tree nut allergy status.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "allergy"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient avoids all tree nuts but tolerated almonds previously.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "allergy"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0066",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient admits to vaping and smoking but is attempting to quit.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0073",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam of ears, mouth, and nose performed; findings were normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0077",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Lung and heart exams were normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0079",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Current spirometry results are better than 2019 results.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "detail"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0080",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient attributes poor 2019 spirometry results to wildfire smoke.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0093",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor prescribes Alvesco 80 mcg, two puffs twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0097",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will return in four months for repeat ACT and spirometry testing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0101",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will renew the patient's albuterol and EpiPen prescriptions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0105",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs a nebulizer refill.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0106",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient does not need a nebulizer refill.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "follow up for asthma; allergic rhinitis; food allergy; none",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

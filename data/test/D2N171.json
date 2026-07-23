@@ -1,0 +1,856 @@
+{
+  "id": "D2N171",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi evelyn , how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm good , how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm good . it's good to see you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "good to see you too ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so i know the nurse told you a little bit about dax . i'm gon na tell dax about you , okay ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "so evelyn is a 56-year-old female with a past medical history significant for coronary artery disease , prior carpal tunnel release , and a herniated disc who presents for her annual exam . so evelyn it's been a little while since i've seen you , how have you been doing over the last year ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i've been doing okay , um , everything , um , with my herniated disc in my back has been doing really well . i have n't had any , um , back pain , or any , um , limitations in movement , so that's been doing well ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay , yeah , i know that we have done a steroid injection for that , uh , a couple of month- , uh , several months ago , so that's- that's doing well ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah , it is ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay , i'm glad to hear that . and then , how about your carpal tunnel issues , you had that fixed a couple of years ago , so are you having any recurrent issues , or you good , you back to work ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i am back to work . i have n't had any issues , and i've had full range of motion , and it's- it feels really good ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "all right , so no numbing and tingling in your hands ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay , that's good . and then , you know , i know that you've had , uh , prior stenting in the past for your- for your heart , and your heart vessels ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "how are you doing from that standpoint ? have you had any chest pain , shortness of breath , nausea or vomiting ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "over the last month i've been having a bit of chest pain , but i have n't had any of the other symptoms you mentioned ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay , does the chest pain happen when you walk ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah , it does ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay , and does it- does it go away if you- if you rest ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah , it does actually ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay , all right . do you ever get it just sitting there at rest ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no i do n't ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay , all right . okay , and- and can you describe it ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "it's like a burn ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "it it just feels like it's burning , um , nothing terribly concerning , not enough to send me to the er , but i do notice it ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay , and where exactly is it located in your chest ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "just , um , right in the middle ..."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "right here ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay . and how often are you getting it ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "um , probably about three- three times a week ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay , all right . well i'm glad that you talked about that with me today , um , i know the nurse did a review of systems sheet with you , and , you know , you're obviously endorsing this- this chest pressure . um , have you had any other symptoms , i know the- the other ones that you have n't had , but any lower extremity edema , or muscle aches , or fever chills ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "no , nothing like that , but i have had a little bit of congestion , um , just from allergies , because of the pollen ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay , so you're endorsing some nasal congestion ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "all right , well let's go ahead and we'll do a physical exam , okay ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "hey dragon ? show me the vital signs . so here your vital signs look really good , i'm- i'm happy to see that your blood pressure is under- under good control , and your oxygenation is fine , so i'm just gon na take a listen to your heart and lungs , and i'll let you know if i find anything , okay ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay , so in physical exam your heart has a slight three out of six systolic ejection murmur , which we've heard before . your lungs are nice and clear , uh , i do n't appreciate any carotid bruits , and- and you have no lower extremity edema , you have healed , uh , surgical scars on your- on your , uh , right wrist . um , so let's go ahead , i wan na look at some of your results , okay ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "hey dragon , show me the echocardiogram ? so this is the echocardiogram from last year , you know , you did have a slightly low pumping function of your heart at 45 % , but , uh , i- , you know , i suspected that will improve over time , and you did have some slight , what we call , mitral regurgitation , that's just a leaky heart valve , and that's that murmur that i heard . hey dragon , show me the ecg ? and here , you know , in reviewing your results of your e- ecg , you know , it looks stable , it just kinda reflects your prior coronary artery disease . there's no new changes , which is good , so let's talk a little bit about my assessment and plan for you ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "so , from your first problem , you know , your carpal tunnel release , i do n't think that we need to anything further about that , 'cause you seem to be doing really well , you're back at work , if you have any recurring symptoms , just let me know , and we can take it from there . for your next problem , your herniated disc , that also sounds like your doing really well , i do n't think that we need to refer you for any further steroid injection , or physical therapy at this time . so , if you have recurrent symptoms , i want you to let me know . and finally , your last problem , the most concerning problem to me is your known coronary artery disease , and this recurrent chest pain you have ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "so , i wan na go ahead and continue you on your asprin , and your toprol , okay ? i wan na go ahead and order a stress test for you to see if you have more blockages that could be causing this chest discomfort , okay ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "and i'm gon na go ahead and get a lipid panel and , uh , start you on crestor 20 mg , once a day , okay ?"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "hey dragon , order a cardiac stress test . do you have any questions ?"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "no , that's it ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "okay , all right . hey dragon , finalize the note . so , it was good to see you , the nurse will come in , she'll help you get your scheduled for all of those things , and i'll be in touch , okay ?"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "take care ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 56-year-old female with a history of coronary artery disease, carpal tunnel release, and a herniated disc presenting for an annual exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Herniated disc",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports no back pain or movement limitations related to her herniated disc.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's recent steroid injection for her herniated disc is effective.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the steroid injection for her herniated disc has been effective.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Carpal tunnel",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing recurrent carpal tunnel symptoms and if she has returned to work.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has returned to work, has full range of motion, and reports no recurrent carpal tunnel symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any numbness or tingling in her hands.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling in her hands.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Coronary artery disease",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced chest pain, shortness of breath, nausea, or vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports chest pain over the last month but denies shortness of breath, nausea, or vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the chest pain occurs with ambulation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the chest pain occurs with ambulation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the chest pain resolves with rest.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the chest pain resolves with rest.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experiences chest pain at rest.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain at rest.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the chest pain as a burning sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the location of the chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient locates the chest pain in the middle of her chest.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the frequency of the chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the chest pain occurs approximately three times a week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has lower extremity edema, muscle aches, or fever/chills.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies lower extremity edema, muscle aches, or fever/chills, but reports nasal congestion due to allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's blood pressure and oxygenation are within normal limits.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include a 3/6 systolic ejection murmur, clear lungs, no carotid bruits, no lower extremity edema, and well-healed surgical scars on the right wrist.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Echocardiogram shows a reduced ejection fraction of 45% and slight mitral regurgitation; ECG is stable with no new changes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to contact him if she experiences recurrent symptoms related to her carpal tunnel or herniated disc.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor will continue the patient's aspirin and Toprol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a cardiac stress test.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a lipid panel.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor initiates Crestor 20 mg once daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has no further questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": false,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "annual exam; coronary artery disease;hx carpal tunnel release;hx herniated disc",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

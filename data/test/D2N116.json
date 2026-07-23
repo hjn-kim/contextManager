@@ -1,0 +1,537 @@
+{
+  "id": "D2N116",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey hi bobby how are you doing"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing good how are you"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm doing fine so i understand you're here having some left or some right shoulder pain that you've had for a few weeks now"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yeah it was i was doing some work in my backyard and a lot of different projects going on and you know i was obviously sore all over the next couple of days but my my right shoulder just keeps on bothering me and it keeps it's just really sore and it just has n't been going away"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay so have you had ever had any pain in that shoulder before"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "a little bit i you know i i hurt that same shoulder because it's my my dominant hand my right hand i hurt it playing baseball when i was younger"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "so i've always had a little bit issues but this is it's does n't feel like it's in the rotator cuff it's it's kinda more on the outside and it's kinda like it's more tender on the outside when i raise my arm up so"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay yeah are you able to move your arm very well or not"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah there is no restriction with my arm it just i definitely feel some pain on the outside of it"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and are you having pain all the time or just or does it come and go"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "just whenever i move it if i'm sitting still i really do n't notice anything but whenever i move it then i can definitely feel some pain"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay how about at night is it bothering you at night also"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "a little bit because i sleep on that side so"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "of course"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay and i may miss did you say what have you been taking for pain for that"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i just been taking some advil and then icing as much as i can so that's about it"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay and does that seem to help or"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "a little bit yeah a little bit i mean it's it's still like you know sore to touch but it definitely dulls it a little bit"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "well sounds like you have quite a few projects going on what all what all are you doing for for your yard and"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i well let's see i've been putting an outdoor shower in we're extending our patio putting making some flower boxes putting down some you know for stone and all the flower beds so my wife's really put me to work i got a laundry lift"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "wow it sounds like a variety of projects but if you're putting down stone you're probably lifting those as well and then"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "yeah i bet that is sore now tell me this have you experienced any numbness in your arm or your hands or"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "no not really no numbness that i can think of"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay alright so see i'm gon na i'd like to do just a quick physical exam and i've reviewed your vitals those look good your no fever so that's good you're ninety seven . eight and your heart rate looks good at sixty two respirations sixteen your blood pressures one sixteen over eighty four that looks fine your oxygen saturation is real good at ninety nine percent so that all looks good so let's take a look at your left at your right shoulder so you have limited active and passive range of motion and there is some tenderness at the great tuberosity of the humerus there is no tenderness at the sternoclavicular or acro acromioclavicular joints you do have a good hand grip okay and on neurovascular exam of your right arm your capillary refill is less than three seconds and your sensation to touch is intact so i've reviewed the results of your shoulder x-ray and there is no fracture so that's good so let me tell you a little bit about my assessment and plan so for your first problem the left shoulder pain your symptoms are most likely due to this rotator cuff rotator cuff tendinopathy that means you that you injured injured the tendons of the muscles that help make your shoulder muscles i think we had to go ahead and order just an mri since you have had some problems before as well to make sure there's nothing else going on with it and i also want to refer you to physical therapy for approximately six to eight weeks and so during that time continue the tylenol and if your symptoms do n't improve we can go ahead and consider a steroid injection of your shoulder which could provide some relief do you have any questions about your plan"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "no that sounds good"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay alright yeah a lot of patients it's very successful with the physical therapy so i really hope that will do it and so we'll just start there okay"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "sounds great"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay thanks"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "thanks"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "did you have any other any other problems any other injuries that that went along with this or"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "my both my my feet are actually really sore too i obviously have been doing a lot of other yard work so you know it's kinda it's really stiff and stuff and they you know my ankle joints as well my wife seems to think that i do n't drink enough water so it could be something along that lines but i do n't know they're kinda this they just they're really sore and stuff so i've been trying to put them up and kinda put ice on them keep them elevated and it seems to be helping out a little bit but"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "yeah so if you do n't feel that you did anything to injure it we might start just maybe do some epsom salts have you tried soaking your feet in epsom salts that will tend to kinda pull out what's going on in there and just help your those muscles to relax and the soreness to to go away you might try that"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay that sounds like a plan that sounds good"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Bobby Flores is a 56-year-old male presenting with right shoulder pain for a few weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports shoulder pain onset following backyard projects, noting soreness and persistent pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of shoulder pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a history of right shoulder pain from playing baseball when he was younger.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as being on the lateral aspect of the shoulder and tender when raising the arm.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any restriction in arm movement.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any restriction with his arm movement.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is constant or intermittent.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain is aggravated by movement and absent while sitting still.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experiences pain at night.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain at night when sleeping on his right side.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient has been taking for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been using Advil and icing the shoulder for pain relief.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced any numbness in his arm or hands.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any numbness in his arm or hands.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reviews normal vital signs and performs a physical exam showing limited ROM, tenderness at the greater tuberosity, and intact neurovascular status.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The shoulder x-ray shows no fracture or dislocation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Rotator cuff tendinopathy",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an MRI, refers the patient to physical therapy for 6-8 weeks, and suggests Tylenol as needed with potential future steroid injection.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any other problems or injuries.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Bilateral foot and ankle pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports bilateral foot and ankle pain attributed to yard work, managed with elevation and ice.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0033",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends soaking feet in Epsom salts and continuing elevation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0033",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Right shoulder pain; Foot pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

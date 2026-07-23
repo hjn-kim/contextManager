@@ -1,0 +1,1144 @@
+{
+  "id": "D2N166",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey kyle so i see here on your chart that you've been having some back pain could you tell me like how you've been doing what's going on"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah i have this real bad low back pain it started a couple of weeks ago i was lifting something and i just felt a pop and i i do n't know what's going on"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay and so you were like moving what what were you moving exactly when you say lifting"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i was lifting a box of books"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "alright did we use proper lifting technique do you wonder"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "you know probably not"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay alright i'm sorry about that alright can you describe the pain for me"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah i i feel like kind of it's like achy and sharp"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "oh"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "in in my low back"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "uh uh and does the pain like radiate anywhere"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "you know it did n't at first but now i'm feeling it's kinda starting to shoot down my left leg"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay alright and how is positioning for you does any sitting in any particular position hurt more or hurt less"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no sitting is usually okay for me"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "mm-hmm okay and then do you have any numbness or tingling associated with the pain"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay alright any loss of sensation"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay how yes sir okay how about any weakness"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "no i do n't feel any weakness"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay and i know this sounds like a weird question but i do need to know do you experience any loss of control of your bladder or bowels"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "alright this this is a no judgment zone i there i'm working through some things in my head to make sure that i give you the best care that we need right i'm making a plan as we move along you mentioned that the pain has been getting worse have you done anything or tried anything that's worked in the past"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "i tried to take some ibuprofen and tylenol"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "that that sometimes helps"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay alright and has anyone discussed the option of like just no has anyone discussed surgery with you"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "no this is the first time i'm talking about it"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay alright that's good so what is your like how what is your activity level right now that i know that you're you know an olympic weightlifter with books what else do you do to like exercise"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "you know i try to exercise a few times a week but i'm pretty inconsistent i have a sedentary job"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay alright and has this like pain started to like affect you like in your job or anything like that"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "not my job but i feel like i do n't want to be as active as i was previously"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "alright so do you have any family members that have spine conditions"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yeah my dad has back pain"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay alright and then do you smoke"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "i do n't smoke"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay awesome alright so sorry one question did you do you have a history of playing sports"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay what did you play"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "soccer"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay what position"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "i played midfield"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay the people who hide in the back that's fine i was centered forward fine no baby do you have a team that you wrote for"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "you know i am a tatnham hotsper fan"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "they have the best colors not going to lie but i i grew up manu so sorry"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "well i wo n't fault you for that"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "thanks okay so if you do n't mind i'm gon na go ahead and do my physical exam i'm gon na call out my findings just to have them recorded and if you have any questions please feel free to stop me and let me know okay"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "alright so looking at your vitals your blood pressure seems alright we are in like the one thirty over seventy range that's perfectly fine your respiratory rate i have you at an eighteen again pretty normal when i listen here to your heart you have a regular rate and rhythm i do n't appreciate any murmurs rubs or gallops that means your heart sounds great on your respiratory exam your lungs sound clear to auscultation bilaterally on your musculoskeletal back exam as i'm looking here i do n't notice any overlying redness or bruising on the skin when i push here on the midline of your back does it hurt"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "okay so there is midline tenderness at the l4 l5 disk space with right sided lumbar paravertebral tenderness alright so are you able to bend forward"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "alright and are you able to bend backward"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "alright do either of those actions cause you pain"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "bending forward"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "okay so pain with lumbar flexion and so i'm gon na have you lie down and we're gon na do i'm sorry okay and then i see that a supine straight leg test is positive alright so for your neurological exam you said that you are experiencing pain radiating down radiating down your left leg correct"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "alright when i touch are there any like decreased sensation"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "okay alright so patella and achilles reflexes are symmetrical alright so i received before you came in here we got an mri and so in reviewing your results it does show a disk desiccation a disk bulge with paracentral disk herniation resulting in moderate right neuroforaminal i do n't like this word neural foraminal stenosis what those complicated words is that i just said is that it seems that you have a a a herniated disk with nerve impingement so let's talk about my assessment and plan alright your symptoms are in line with a i'm sorry you have lumbar back pain at the l4 l5 disk space due to a herniated disk with radiculopathy this means that one of your disks that sits between your vertebrae like the bones in your spine is bulging out and the bulge is pinching on some nerves so that's why you are feeling that pain like radiating down your leg i'm gon na recommend something a spinal injection with a strong nsaid and called the i'm sorry and a corticosteroid i'm just gon na inject it into the lumbar spine under fluoroscopy which you can think of like an x-ray to localize the exact area of your pain this should help with the inflammation that's causing your pain i know that sounds a bit scary it this is a typical procedure that i do all the time it's in office and we can get you scheduled today if you would like so what questions do you have right now"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "is that something that we can do today"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "yeah i think i have time in my schedule to get it done today just you know i'm here for you right now"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "alright"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "are there are there any complications with this"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "there are sorry yeah you're right there are risks associated with this kind of injection just like any procedure but we aim to minimize them and my ma when she comes in we will give you some paperwork with explanations and any and hopefully answer most of the questions that you have if after reading that you have any more questions please feel free to stop us we want to make sure that you feel as comfortable as possible during this time"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "great"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "anything else"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "i think that's it"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "alright"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The doctor introduces the patient, Kyle Morales, a 58-year-old male presenting for evaluation of low back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Low back pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports low back pain starting two weeks ago after lifting an object and feeling a pop.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was lifting a box of books when the pain began.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient used proper lifting technique.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient admits he likely did not use proper lifting technique.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as aching and sharp.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain radiates anywhere.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain is now radiating down his left leg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if sitting affects the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain with sitting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has numbness or tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any loss of sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies loss of sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any weakness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies weakness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any loss of bladder or bowel control.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies loss of bladder or bowel control.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has tried anything for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been taking ibuprofen and Tylenol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that ibuprofen and Tylenol provide some relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if anyone has discussed surgery with the patient.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has not discussed surgery with anyone.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's activity level and exercise habits.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a sedentary job and exercises inconsistently a few times per week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain affects the patient's job.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient states the pain does not affect his job, but he is less active than before.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of spine conditions.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's father has back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient smokes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies smoking.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's history of playing sports.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient played soccer.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient played the midfield position in soccer.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Physical exam",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Vitals are BP 130/70 and RR 18; heart and lung exams are normal; no redness or bruising on the back.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0048",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows midline tenderness at L4-L5 and right-sided lumbar paravertebral tenderness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0048",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows pain with lumbar flexion and a positive supine straight leg test.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0048",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has decreased sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0048",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies decreased sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0048",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0062",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Patellar and Achilles reflexes are symmetrical; MRI shows disc desiccation, bulge, and paracentral herniation with moderate right neural foraminal stenosis; assessment is L4-L5 herniated disc with radiculopathy; plan is a corticosteroid injection.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Assessment and plan",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0063",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if the injection can be done today.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0062",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0064",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor confirms the injection can be scheduled for today.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0062",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0067",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about complications of the injection.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0062",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0068",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor explains there are risks and the patient will receive paperwork with explanations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0062",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "low back pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

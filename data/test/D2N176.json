@@ -1,0 +1,575 @@
+{
+  "id": "D2N176",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , alexander . how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing really well . thank you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so , i know the nurse told you a little bit about dax . i'd like to tell dax about you . okay ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so , alexander is a 62-year-old male , with a past medical history significant for reflux , who presents for follow-up of his chronic problems ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "so , alexander , what's being going on ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "well , i am so thankful you put me on that medicine for my , my reflux ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "the protonix ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "the protonix . that , i had , w- made an amazing change in my life ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "i'm really comfortable now . i eat whatever i want , and i feel so much better ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay , great . i'm glad to hear that . i know you were having a lot of discomfort there before , so that's good . okay . and how are you doing , kind of , managing your diet ? i know , you know , you have to do some lifestyle modifications , like cutting back on caffeine and spicy foods and alcohol . how are you doing with that ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "i'm doing really well . i moved over from caffeine , over to green tea ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "and it , it is so , m- it does n't cause as much problem as it did with , when i was drinking so many energy drinks a day ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "all right . good . i'm glad to hear that . great . all right ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "uh , i think getting that , rid of that reflux , really helped my attitude improve ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "uh , my job's going great . everything's phenomenal right now ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay . and you have a , a good support system at home ? i know you have a big-"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": ". family ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yes . yes . all my kids-"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": ". call and check on me every day ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay . great . i'm glad to hear that . now , i know you did a review of systems sheet when you checked in ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "i , are you having any symptoms ? any chest pain , shortness of breath , belly pain , of , nausea or vomiting ? anything like that ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "no . no symptoms at all ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay , great . um , well , let me go ahead . i wan na do a quick physical exam ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "hey , dragon . show me the vital signs ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "so , your vital signs here in the office look really good . so , you're doing a great job managing your , your blood pressure . your heart rate's nice and low . i'm gon na go ahead and take a listen to your heart and lungs ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "and i'll let you know what i find . okay ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay . good . all right . so , on physical examination , i , i do n't hear any carotid bruits in your neck , which is really good . you know , your heart exam , i do hear a slight 2/6 systolic ejection murmur , which i've heard in the past , so that's stable . uh , your lungs are nice and clear , and you do have , you know , 1+ pitting edema bilaterally in your lower extremities ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "so , what does that mean ? you know , i , i think , you know , you're doing a ... it sounds like a doing a good job watching your diet . you could ... you just are retaining a little bit of fluid , maybe just from standing all day ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay ? let's take a look at some of your results . okay ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "hey , dragon . show me the endoscope results ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "so , this was the endoscopy that you had last year when you were having all that pain . it just showed that you had had some mild gastritis . so , it's good to hear that that , you know , protonix is helping you a lot . okay ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "i'll do a little more exercise too ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "that sounds great . all right . so , let's talk just a little bit about , you know , my assessment and my plan for you ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "for your reflux , i want you to continue on the protonix 40 mg a day , and continue with those lifestyle modifications with the dietary stuff-"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": ". okay ? do you have any questions ?"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "no questions ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "okay . all right . well , the nurse is gon na come in soon , and she's gon na check you , get you checked out . okay ?"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "okay . thank you ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "hey , dragon . finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 62-year-old male with a history of reflux presenting for follow-up of chronic problems.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Reflux",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient about his current status.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is referring to Protonix.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms Protonix has significantly improved his condition.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is managing his diet and lifestyle modifications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports he has switched from energy drinks to green tea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient notes that improved reflux has helped his mood.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports his job is going well.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a good support system at home.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports his children call to check on him daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing chest pain, shortness of breath, abdominal pain, nausea, or vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies all symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's vital signs are good.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include no carotid bruits, a stable 2/6 systolic ejection murmur, clear lungs, and 1+ pitting edema in the lower extremities.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's endoscopy from last year showed mild gastritis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor instructs the patient to continue Protonix 40 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor instructs the patient to continue dietary and lifestyle modifications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "chronic problems; reflux",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

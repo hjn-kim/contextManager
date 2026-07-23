@@ -1,0 +1,890 @@
+{
+  "id": "D2N126",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi michelle what's been going on the medical assistant told me that you injured your knee"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah i'm gon na have to keep this my favorite story is that i had a sandra who injured her knee cold dancing so that would immediately came up to mine but let's try skiing so i was skiing in vermont last weekend and i caught my ski when i was coming off the lift and i fell and my knee popped and it's hurt ever since"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay and were you able to ski down the hill or did you have to be taken down by the ski patrol"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i had to be taken down by the ski patrol i was unable to bear weight"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay is n't that slightly terrifying they had to do the same thing for me and you're just kind of sitting there watching all of the trees go by so anyway so what part of your knee is bothering you the most is it the inside the outside"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it hurts on the outside but it also feels like it wo n't hold my weight"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay so it feels like it's gon na buckle"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "hmmm yes"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay alright and are you able to bend it"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i was immediately after the injury but not really now"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and how about straightening it are you able to straighten it at all"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "somewhat but it really hurts when i try to straighten all the way"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay alright now do you have any numbing or tingling in your toes"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and can you feel your toes okay"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i think so"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay alright now are you a pretty active person you said you were skiing do you do what kind of other activities do you do"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i chase my two four -year-old"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay do you have twins"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i do"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "nice that's great"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "so okay and what's your support like at home who is who is able to help out are you still doing that kind of hobbling around on crutches or"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yeah now my husband is home with me but he also works a job where he is gone quite a bit so it's just me and the kids"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay alright and did the ski patrol give you crutches i i see you have them here with you okay alright great and are you otherwise generally healthy"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay and no high blood pressure diabetes anything like that"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "no okay alright and well i i wan na go ahead let me just do a quick physical exam i'm gon na be calling out some of my exam findings and i'll let you know what that means when i'm done okay alright so on your heart exam your heart sounds in a nice regular rate and rhythm i do n't appreciate any murmur on your lung exam your lungs are nice and clear to auscultation and remind me what knee did you injure again"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "my right knee"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "your right knee okay so on your right knee examination i do appreciate some edema and an effusion over the right knee does it hurt when i press"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay there is pain to palpation of the right lateral knee there is decreased flexion and extension there is a positive lachman sign there is a palpable palpable dorsalis pedis and posterior tibial pulse there is no leg edema in the ankle okay well let's just talk a little bit about you know my assessment and you know my plan for you so you know i know that you had the x-ray done of your of your right knee that did n't show any bony abnormality but i i'm concerned that you have ruptured your your acl or your anterior cruciate ligament that's like a major ligament that helps connect and helps your knee move back and forth so i wan na go ahead and order a knee mri just so that we can get a a a good look and just you know confirm that physical exam okay now some people can have a normal physical exam and their acl can still be torn but you do have a lot of pain on the lateral aspect of your knee so i wan na make sure if there make sure that there is not any other structures that have been damaged by this accident okay i wan na go ahead and you know are you what are you taking for the pain"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "ibuprofen"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "is that helping"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "somewhat yes"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay alright do you want something stronger"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no i'm okay"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "alright so let's just continue with ibuprofen you can take you know six hundred to eight hundred milligrams every eight hours as needed i wan na go ahead and put you in a brace that's gon na help your knee feel a bit more supported okay and let's go ahead and i'm hoping that we can get this mri done in you know the next couple days and then we can have a conversation about what needs to be done now you said that you are are are you know obviously a very active active mom any other exercise or anything else that that i should be aware of that you do just wondering in terms of which kind of graft we would use to fix this with your with your acl being injured"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "hmmm no i not i i would like to get back to the running but currently not that active"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay alright alright do you have any questions about anything"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "i think you've explained it well"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay alright so i'll see you again soon okay"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "okay thank you"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "alright take care bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right knee injury.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient sustained a right knee injury while skiing in Vermont after catching a ski and falling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports a popping sensation in the knee at the time of injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient was able to ski down the hill or required assistance.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was unable to bear weight and was assisted down by ski patrol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to localize the knee pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain on the lateral aspect of the knee and a feeling of instability.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the knee feels like it is going to buckle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the knee feels like it is going to buckle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is able to bend the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she could bend the knee immediately after the injury but has difficulty now.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is able to straighten the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain when attempting to fully straighten the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has numbness or tingling in her toes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling in her toes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient can feel her toes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she can feel her toes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's activity level.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she is active caring for her four-year-old twins.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's husband is home but works frequently, leaving the patient to care for the children.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is using crutches provided by the ski patrol.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is otherwise healthy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she is otherwise healthy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about history of high blood pressure or diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies history of high blood pressure or diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam: heart has regular rate and rhythm without murmur; lungs are clear to auscultation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes edema and effusion on the right knee exam.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if palpation causes pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms pain with palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: pain to palpation of lateral knee, decreased flexion and extension, positive Lachman's, palpable pulses, no ankle edema.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor assesses for a possible ACL tear and plans to order an MRI.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient is taking for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is taking ibuprofen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the ibuprofen is helping.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the ibuprofen is helping somewhat.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient wants something stronger for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient declines stronger pain medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor advises taking ibuprofen 600 to 800 mg every 8 hours as needed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans to provide a knee brace and order an MRI.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient expresses a desire to return to running but is not currently active.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient states the explanation was clear.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will see the patient again soon.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "right knee injury",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

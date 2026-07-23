@@ -1,0 +1,609 @@
+{
+  "id": "D2N184",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "stephanie morales , medical record number 113322 . 44-year-old female that presents today six weeks status post right medial unicompartmental arthroplasty ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hello !"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "hi , how are you doing ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "good , how are you ?"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "i'm all right ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "how's the knee treating you ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "it's good ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "good . any problems ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "no , no problems , uh , just still the numbness on this side ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay . that area of numbness will get smaller as the nerves that innervate the skin across the knee heal ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "right . okay ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "so lem me take a look at your right knee ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "all right , and relax for me . good . all right , and bend . good . that looks good . um , the incision looks nice ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "let's look at your x-rays . uh , they look good . so here's what you got going on in there . uh , it looks good . everything's lined up nicely . um , that's looking at it from the front . and this is looking at it from the side . and then this was underneath your kneecap , but we did n't do anything there . but things looks great ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "okay . i'm so happy with how the surgery went . i have no pain ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "yeah , you know , you're still early in your recovery , so i expect you to get even better than what you are now . um , so keep doing your pt to work on your strength , range of motion , and endurance ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "okay , will do ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "you're probably still gon na have aches and pains occasionally . i usually tell people it's two or three months before you feel like you're back to yourself again , so you're doing really well ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "okay . that's really good to know . thank you ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "yeah , let's plan to talk again in six weeks . so if you stop at the desk on your way out today , they're going to get you set up for a telemedicine visit . and that visit'll just be to check in and see how you're doing and make sure things are progressing okay ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "sure , okay . and can i ask you about work before i go ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "well , as you know , i work for ups , and i'm not able to go back yet because of going up and down steps with the position i have . however , they're asking me to come back to work where i can sit for the shift with breaks ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay . i , i do n't want you lifting greater than five or 10 pounds , and no standing or sitting longer than a half an hour . uh , usually that means you ca n't do a ups job ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "all right . so would you write a note to excuse me for another six weeks ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "sure . i'll have my nurse anna give it to you ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "that's great . thank you ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay , so we'll talk again in six weeks , and we can discuss your job again at that time ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "sounds good ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "yeah , those , um , are the types of , of jobs that take a good three months until you're kind of ready to get back to doing that kind of labor-intensive work ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "okay , and driving now ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "uh , we have plenty of data that says normal reflex time is returned at six weeks , and then your return to driving is determined by when you're ready and feel safe to be driving ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "yeah . so hang tight . anna will bring that note back in to you , and we'll talk in six weeks ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "all right , that sounds good ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "uh , but keep working hard on , on pt in the meantime though ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "i definitely will . thank you ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "all right , have a good rest of your day ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "you as well ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "okay , this is a six-week post-op meeting exam for her . her gait was antalgic with a slight limp and decreased velocity . she's not using an assistive device . right knee focused exam has a healed surgical scar , mild swelling , tenderness- tenderness ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": ". on the area of the incision . range of motion is zero to 120 degrees . everything else normal . radiographs were three views of the right knee taken today and show implants in stable position ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "no evidence of loosening or early complications . thanks ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 44-year-old female presenting for a six-week follow-up after a right medial unicompartmental knee arthroplasty.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Knee recovery status.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient's knee is doing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing any problems.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports no pain but notes persistent numbness on the lateral aspect of the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains that the numbness is normal and will decrease as the nerves heal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Physical examination.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam of the right knee, noting a healed incision.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0011",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Radiograph review.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor reviews the X-rays, noting the implants are stable and properly aligned.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to continue physical therapy for strength, range of motion, and endurance.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes that occasional aches are normal and full recovery typically takes two to three months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up telemedicine visit in six weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Return to work.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The patient asks about returning to work.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient explains her job at UPS requires physical activity and she is currently unable to return.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor sets work restrictions of no lifting over 5-10 pounds and no standing or sitting longer than 30 minutes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks for a work excuse note for another six weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor agrees to provide a work excuse note.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor states that labor-intensive work typically requires three months for recovery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Driving.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The patient asks when she can resume driving.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0032",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises that driving can resume when the patient feels safe, noting normal reflex time returns by six weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0032",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor documents an antalgic gait with a slight limp, no assistive device, and a healed surgical scar with mild swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor documents range of motion as 0 to 120 degrees and stable implants on radiographs.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "postoperative right medial knee unicompartmental arthroplasty follow up; none",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

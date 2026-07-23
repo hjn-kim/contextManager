@@ -1,0 +1,886 @@
+{
+  "id": "D2N127",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey brandon you know glad to see you in here today i see on your chart that you're experiencing some neck pain could you tell me a bit about what happened"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah i was in a car crash"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "wow okay when was that"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "well which car crash"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay so multiple car crashes alright so let's see if we can how many let's start"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "my therapist said well my well actually my mother said i should go see the therapist and the therapist said i should see the lawyer but my neck's hurting"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay so i'm glad that you know you're getting some advice and so let's let's talk about this neck pain how many car crashes have we had recently"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "well the ones that are my fault or all of them"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "all of them"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i was fine after the second crash although i was in therapy for a few months and then after the third crash i had surgery but i was fine until this crash"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay the most recent crash when was that"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "that's when i was coming home from the pain clinic because my neck hurt and my back hurt but that was in february"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay alright so we had a car crash in february"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "what year it was which february it was"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay so let's let's try with this one see what happens hopefully you remember i need you to start writing down these car crashes that this is becoming a thing but you know it's okay so let's let's say maybe you had a"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "you're not judging me are you"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "no there's no judgment here whatsoever i want to make sure that i'm giving you the best advise possible and in order to do that i need the most information that you can provide me makes sense"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "alright so we're gon na say hope maybe that you had a car crash and we can verify this in february of this year and you've been experiencing some neck pain since then right"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay alright on a scale of one to ten what ten is your arm is being cut off by a chainsaw severe how bad is your pain"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "twelve"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay terrible pain now i know you mentioned you had previous car crashes and you've been to therapy has anyone prescribed you any medication it's you said you went to a pain clinic yes"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "well they had prescribed it recently i was i was on fentanyl"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "oh"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "i have n't gotten a prescription for several weeks"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay alright and so we will be able to check on that when you take your medication so before you take your medication rather like are you able to move like are you experiencing any stiffness"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes but it hurts"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay it hurts what kind of pain is it sharp is it dull is it throbbing"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "it's the sharp incapacitating pain i ca n't work"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "wow okay are you having any headaches"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "of course"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "any dizziness"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "just sometimes"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "any visual disturbances is it hard to like are you"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "not recently no"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay alright any numbness"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "where"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "my left arm and my right leg"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay any spasms"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "of course"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay where"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "my body hurts i told you my neck hurts"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay so i no i'm absolutely i wan na make sure that we are gon na give you the medication that works like the best for you so i'm sorry if these questions seem like frustrating i would just wan na make sure that i understand what the problem is so"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "i saw pamela and doctor collins's office she's much nicer than you know"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "i mean okay so you know what like maybe maybe pamela would be better like we could maybe talk talk about a referral if that would make you more comfortable"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "my lawyer told me to come here"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "then you're stuck with me okay i'm so sorry but here it's we're gon na try and make it as good as possible alright so last thing i do wan na do my physical exam alright and i need you to let me know as as much as you as much as you can verbalize right so when i push here in the middle of your neck on top of the bone does it hurt"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "yes yes"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay alright sorry what about on the side does that hurt"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "okay so pain on palpation both on the bony process and on the muscle can you move your neck from side to side can you move your neck can you swive it side to side no no alright so i'm i'm seeing i'm seeing some range of movement moderate range of movement that's fine okay i so when can you bend your neck forward that that's your whole body just just the neck are you capable of bending up"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "really hurts it really hurts"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "okay it really hurts to bend forward and backwards okay alright so i'm just gon na make a little note here i do n't i do n't see any bruising i'm not noticing any swelling there is i i do n't see any laceration what"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "just sometimes it bruises"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "okay sometimes alright that's fine i i just i'm not seeing one here today so that's okay alright so with that being said i do wan na ask have you been experiencing any fatigue are you tired"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "well since the accident yes"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "okay alright just making sure okay so this is what this is my assessment and plan this is what we are gon na do i want to be able to like we had you do an x-ray before you came in here and looking at it i'm not noticing any fracture that's a really good sign considering how many car accidents we've been in lately"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "it hurts it hurts"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "absolutely no i we're gon na address the pain so for my first so looking at your imaging results though i'm not seeing a fracture that's a great sign so for your first diagnosis i'm gon na say that you have what is called a neck sprain that"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "thinking are are you saying i'm thinking"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "no not by any means i am saying"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "pain i have a lot of pain"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "yes and your pain can be explained by multiple things but thankfully it's not a broken neck is that okay"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "alright so what we are gon na do when we are gon na like try and treat this as conservatively as possible"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "said it might be broken"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "what"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "pamela said it might be broken"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "if pamela said it's broken then you know what this is what we're gon na do we're gon na order something called a ct that's gon na give us even nope you know what let's upgrade to an mri it's gon na give us the most thorough image of everything that's going on the heart and the soft tissues is that gon na is that so that way we can really get a good image of what's happening inside right"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "okay because what the lawyer said i needed was an mri"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "not a problem we're we're gon na make your lawyer happy next step we are going to try working like from the outside in so i do need you to work on getting like you're you're saying you've seen some bruising and some swelling yourself so i want you to put ice on that whenever you're experiencing that in the moment when you wake up i want you to do your best to just like i'm gon na give you some exercises on the sheet and i want you to roll through these exercises every morning right to just get some like movement and like free frenosive movement back into your neck i also wan na put you on a couple medications now i know that you said you were on fentanyl before that's a bit extreme and i i want i i i wan na like monitor this a little more conservatively so what we're gon na start with is something called robaxin"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "hurts a lot if i do n't get more fentanyl"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "you know we can refer you to pain medicine if it really is getting that complicated but for this current period we're gon na put you on some robaxin it's gon na be fifteen hundred milligrams and you're gon na take that six to eight hours every six to eight hours and that really should help kinda relax the muscles in the area take off some of that tension and really help with that pain if you're noticing that the robaxin still is n't helping maybe then we can start we can like start using like a heat pad or maybe some icyhot the biofreeze is a really good one to kinda help with that and then we will refer you to physical therapy i think with the mri we can start evaluating maybe some additional steps so rather than you having to like take that fentanyl because i do n't want you to be in danger right like people i do n't want you to get rubbed so what we could explore are local injections right and we can refer you to pain medication and see about like locally injecting the area and that should be able to help you out hopefully with this"
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "i ca n't go to work like this"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "okay so if it's if it's that bad let's wait for the mri result we're gon na give you off for work because you know you ca n't move and we'll see what the mri says about what whether or not we can get you like true local injections in the moment is that alright for now"
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "okay okay any other questions"
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "not right now"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "alright"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Neck pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how many car crashes the patient has had recently.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports being fine after the second crash, having surgery after the third, and being fine until the most recent crash.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the most recent accident occurred in February while returning from a pain clinic for neck and back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate their pain on a scale of one to ten.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates their pain as 12 out of 10.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been prescribed any medication for their pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports they were recently prescribed fentanyl.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has not received a fentanyl prescription for several weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing stiffness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the quality of their pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as sharp and incapacitating, noting they are unable to work.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is having headaches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing dizziness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has visual disturbances.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any numbness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports numbness in their left arm and right leg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing spasms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor begins the physical exam of the cervical spine.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is pain on palpation of the bony process.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is pain on palpation of the muscle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain on palpation of the bony process and muscle, and observes moderate range of motion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes no bruising, swelling, or lacerations on the neck.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing fatigue.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reports that neck x-rays reveal no fractures.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the patient with a neck sprain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an MRI for further evaluation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0072",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to use ice, heat, IcyHot, or Biofreeze, and provides a home exercise program.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes Robaxin 1500 mg every 6 to 8 hours.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0076",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient they are off work until MRI results are reviewed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "neck pain; body spasms;arm and leg numbness",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

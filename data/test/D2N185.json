@@ -1,0 +1,972 @@
+{
+  "id": "D2N185",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "okay . next patient is ashley james , date of birth 12/27/2006 . ashley is a 14-year-old female , uh , who was previously healthy , now here for evaluation of abnormal renal ultrasound with an atrophic right kidney . hi . good afternoon , ashley . how are you doing ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay . how are you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm doing well . thanks so much for asking . i'm dr. rogers . i'm one of your kidney doctors . and you guys must be mom and dad ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yes , that's correct ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "great . well ... all right . it's so nice to meet all of you . i wish it was under better circumstances , but we're gon na figure it all out , uh , here today . um , speaking of that , let's go ahead and review some of your past medical history , and then i'll complete an exam of her heart and lungs and kind of move from there . would that be all right with you , ashley ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah , that sounds good ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . so as i understand it , ashley was found to have a small ... kind of a small kidney on one side . tell me about when that was . um , i do also have records of everything , but i'd just like to hear the story of how it was found out and what you're doing that got us here , uh , today ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "sure . so ashley came home one day sick out of nowhere , rubbing her stomach , and she said it was hurting on her right side . and it was so bad that she was bent over in pain ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "we automatically thought appendix ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "sure . that makes a lot of sense ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "we took her to her doctor . they treated her for a stomach virus . they get her fluids and sent her back home , and the next day she was twice as bad as the first day ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "goodness . okay . then what happened ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah . so i took her back again and they did more testing . i think they did an ultrasound or something , and that's where they found that one kidney was bigger ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "um , then at that time they told us to followup with our primary the next day , which we did . um , but he was heading out on vacation , so he only saw her for a brief 10 minutes and then we were out the door . so she was still throwing up , in a lot of pain , so i took work off to help her ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "wow . okay ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "uh , we took her down to jacksonville , where they did see her and basically told us the same thing , that they did n't think one of her kidneys was working at all . they called it atrophic and that it was a lot smaller than the other one ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "all right-y . then- then what happened ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah . then , um , they found cysts or something on her kidney and ovaries and maybe some other places . her lymph nodes were swollen and they found some infection . um , they told us to followup with her doctor , which we figured since she was still sick ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay . and then when you followed up with your doctor , what happened then ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah . it did n't seem to be getting any better within a day or two , so we followed back up with her doctor , who was , of course , still out of town with no one to see her in his place . so we ended up coming to atlanta . we stayed here for about four days . um , they did see her and treated her ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . i am so sorry for all of that back and forth , but glad to know that there was some light at the end of that tunnel ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "thank you . and then after they saw her , she did seem to get a little better . she has n't had any more throwing up or anything since , but she still complains about a lot of pain in her stomach ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "mhm . okay ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah . and she mentions burning too , especially when she eats and stuff like that ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "all right-y . okay . well , that was a really good review . so , ashley , before all of this , would you say that , all in all , you were a pretty healthy child ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "she is , yeah . before that , she was completely fine . uh , they said they think at some point she had a severe infection that might've affected her kidney ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "got you . okay ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "so one other thing , too , um , when she was four years old she was in the hospital three or four times , sometimes for three days at a time . i do n't think they did any tests to see what the infection was or even where it was coming from . um , they just gave her fluids and antibiotic and they would send us home ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "hmm . okay ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yeah . and so a week or two later , she would have a fever and symptoms and basically the same thing . we went through that for a couple of months , and then it just stopped . so she had no problem since , but the doctor suspects that she's had kidney problems since then . so we just wan na see if she's all right or if she ... if it needs to be taken out maybe . we wan na do whatever needs to be done ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "yes . absolutely . it sounds like this road has been very much so rough to navigate too , so we'll- we'll get you through for that . um , is ashley taking any medications daily right now ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "only pepcid ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yeah . so she takes 40 milligrams of pepcid a day and then also takes claritin for allergies ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "all right-y . and any difficulties with your pregnancy with her or during delivery ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no . um , renal disease does run in my family , though . my dad , aunt , and my cousins all have issues with their kidneys . i have their paperwork right here for you with their diagnoses ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "great . i will definitely review that over . any other , uh , family history to be aware of ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yes . my mom had breast cancer too ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay . great . all right-y . so just a ... over a quick review . it does look like your- your father had a kidney transplant . is that correct ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yes , that is correct . he did ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay . so obstructive neuropathy . uh , it sounds like he was born with it and something , uh ... something made it so he could n't urinate correctly . does that sound right ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yes , and they did n't catch it in time ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "i'm so sorry to hear that ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "yeah . he actually died at 47 of a massive heart attack ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "my goodness . wow . i am so sorry to hear that , um , but thank you so much for ... you know , all of these bits and pieces really help knit up a story together for ashley so we can get her the best care ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "you're welcome ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay . so you said her aunt also has had kidney disease ?"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "yes . well , it was my dad's sister , so her great aunt ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay . and ... okay . i'm looking here . it looks like ... do you know what the name of diagnosis ? it does n't seem to be mentioned ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "um , this is what she sent me , \" end-stage renal disease . chronic kidney disease stage five , diabetes , hypertension . \" that's all i have , uh , to work on for her ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "okay . uh , and that's ... okay . let me see . that is all when ... she was an adult when all of that happened ?"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "correct . yep ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "all right-y . okay . and it also looks like ashley has seen a gi and a geneticist , where they did n't find anything sig ... clinically significant mutations on the panel that they did ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "okay . so that's all good . so , ashley , um , a few questions for you if that's all right . how are you feeling right now ?"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "i'm not feeling too bad . my stomach just hurts just a little bit . it's burning a little bit ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "okay . and any pain when you go pee ?"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "sometimes it's just hard to start , sometimes ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "okay . and any blood in your pee ?"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "no , not that i've noticed ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "she does complain that it burns when she pees when she drinks certain drinks , um , like , soda . so she'll only drink gatorade or water ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "okay . yeah . so we do see that some people are very sensitive when the drink certain items , especially the carbonation . um , it can make it burn a little bit when they urinate . um ... okay . so a lot of different pictures of her kidneys here , and we'll review all of that here in a moment . um-"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "all right-y . but before we review that , i wan na look through a quick exam , uh , and just see how things are doing . you'll hear me speak aloud the exam just to make sure i'm getting everything documented ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "all right-y . please use my physical exam template . so , ashley , i'm gon na listen to your lungs and heart , if you'll just breathe normally for me . okay ?"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "good . lungs and heart sound great . all right-y . so your physical exam , you know , everything we see up here is ... you know , you're a well-appearing female , alert and oriented , sitting comfortably on my chair today , i hope , uh , with not acute distress . exam , um , otherwise with norm ... within normal limits . okay . so where does that all leave us ? the good news is that her kidney functions do look good as- as does her blood pressure . we'll wan na keep on eye on both of those things , as she is at a higher risk for developing high blood pressure and something that we call proteinuria , which is where your kidneys do n't work as well as they should and we end of seeing protein in your pee ."
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "or , excuse me , her pee . uh , her right kidney is a little bit smaller which is making her left kidney work harder , possibly causing the left to appear bigger , um , and it's something that we wan na keep an eye on but nothing for us to do with anything today ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "okay . thank you ."
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "i also recommend that , on an annual basis , we do kind of the following things . so i wan na have an ultrasound to monitor the size of her kidneys and their overall function , complete a urinalysis to continue to make sure that protein and blood are not in her ... in her pee , and do a blood pressure check . additionally , let's avoid non-steroidal anti-inflammatory medicines like ibuprofen and opt to use tylenol instead ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "okay . that sounds good ."
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "okay . and does ashley play any sports ?"
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "yes . she is active in softball and she wants to join the drill team over the summer ."
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "how fun . i used to play softball back in the day . um , so it'll be very important that during those activities she stays well-hydrated . i really wan na avoid dehydration , as it puts tremendous strain on her kidneys . so i'm gon na recommend at least two liters per day of water ."
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "okay . great . we will work on that ."
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "okay . i also recommended a healthy diet and continue her active lifestyle . this will help keep her and her kidneys healthier as an adult . so if we can start those behaviors early , we'll be in a good space as she progresses ."
+    },
+    {
+      "id": "line_0081",
+      "speaker": "patient",
+      "text": "we can do that . we already do try to eat , uh , very well ."
+    },
+    {
+      "id": "line_0082",
+      "speaker": "doctor",
+      "text": "good . good . so for her next appointment , she can either meet with her primary care physician or an adult nephrologist closer to you guys at home . you do n't have come all the way out here ."
+    },
+    {
+      "id": "line_0083",
+      "speaker": "patient",
+      "text": "okay . that sounds great ."
+    },
+    {
+      "id": "line_0084",
+      "speaker": "doctor",
+      "text": "okay . that was a lot . do we need any additional questions clarified or anything ? um , you can always give us or your primary a call if you think of anything or if ... certainly , if symptoms worse ."
+    },
+    {
+      "id": "line_0085",
+      "speaker": "patient",
+      "text": "no . i do n't have any additional questions , and i'll- i'll definitely give you a- a phone call if we do . and thank you so much . this was so helpful ."
+    },
+    {
+      "id": "line_0086",
+      "speaker": "doctor",
+      "text": "awesome . well , thank you guys for making the trip . and , ashley , it was really nice to meet you . mom dad , you as well . and i hope you guys take care ."
+    },
+    {
+      "id": "line_0087",
+      "speaker": "patient",
+      "text": "you too ."
+    },
+    {
+      "id": "line_0088",
+      "speaker": "doctor",
+      "text": "all right-y . past medical history , review of patient's grandfather's record , we see he had posterior urethral bowels valves and obstructive neur- neuropathy . uh , he developed chronic kidney disease and was on dial ... was dialysis-dependent . he had a renal transplant which subsequently failed , died of dialysis in his 40s . , wait . is that right ?"
+    },
+    {
+      "id": "line_0089",
+      "speaker": "patient",
+      "text": "now that you've started , it does ... i do n't understand the he unless they were giving ... , the grandfather's record . but did you wan na do this on your own this recording ?"
+    },
+    {
+      "id": "line_0090",
+      "speaker": "doctor",
+      "text": "yeah . that's ... yeah . that'll work 'cause i'm gon na have to drop for this . but i think we're good for everything else ."
+    },
+    {
+      "id": "line_0091",
+      "speaker": "patient",
+      "text": "and he did die in his 40s . that's what it said in the note earlier ."
+    },
+    {
+      "id": "line_0092",
+      "speaker": "doctor",
+      "text": "okay . yeah . he died in his 40s , but i thought it was from a massive heart attack . died at 47 of a massive heart-"
+    },
+    {
+      "id": "line_0093",
+      "speaker": "patient",
+      "text": "he died ... it- it's saying that it meant ... it means he died on dia ... like , he was ... he was , um , utilizing dialysis ."
+    },
+    {
+      "id": "line_0094",
+      "speaker": "doctor",
+      "text": "not because of it . okay ."
+    },
+    {
+      "id": "line_0095",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0096",
+      "speaker": "doctor",
+      "text": "i see what you're saying ."
+    },
+    {
+      "id": "line_0097",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0098",
+      "speaker": "doctor",
+      "text": "got it . cool . i'm gon na stop-"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 14-year-old female presenting for evaluation of an abnormal renal ultrasound showing an atrophic right kidney.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Past medical history review and physical examination.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Evaluation of abnormal renal ultrasound and atrophic right kidney.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient experienced sudden, severe right-sided abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was initially treated for a stomach virus with fluids, but symptoms worsened the next day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Follow-up testing including an ultrasound revealed left kidney hypertrophy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Imaging in Jacksonville confirmed the right kidney was atrophic, nonfunctioning, and smaller than the left.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Imaging also revealed cysts on the kidneys and ovaries, swollen lymph nodes, and evidence of infection.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's vomiting has resolved, but she continues to experience stomach pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports burning sensations, particularly when eating.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was previously healthy, with the current kidney issues potentially linked to a severe childhood infection.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "At age four, the patient had recurrent hospitalizations for infections treated with fluids and antibiotics without a formal workup.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient takes Pepcid 40 mg daily and Claritin as needed.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a family history of renal disease, including her father, aunt, and cousins.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's mother has a history of breast cancer.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's father had a failed renal transplant.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The father had obstructive neuropathy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The father died at age 47 from a massive heart attack.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The great aunt has end-stage renal disease, diabetes, and hypertension.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Previous GI and genetic evaluations for the patient showed no clinically significant mutations.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is feeling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has pain during urination.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is blood in the patient's urine.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0063",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports dysuria associated with certain drinks like soda, and limits intake to water and Gatorade.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0068",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam of the heart and lungs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings are normal; the patient is well-appearing, alert, and in no acute distress.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0074",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends annual ultrasounds, urinalysis, and blood pressure checks, avoiding NSAIDs, and maintaining hydration with 2L of water daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0077",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient plays softball and plans to join a drill team.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0082",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient can follow up with her primary care physician or an adult nephrologist closer to home.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "abnormal renal ultrasound with atrophic right kidney; none",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

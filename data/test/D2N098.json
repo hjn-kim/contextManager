@@ -1,0 +1,493 @@
+{
+  "id": "D2N098",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "all right . today i am seeing jose james . uh , date of birth 9/29/1957 . mr . james is a new patient who's having pain in his left shoulder and elbow . he fell five months ago going up a stairs , and the pain has been present since ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hi mr . james , i'm doctor isabella . how are you doing ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "i'm okay . thank you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "that's good . that's good . tell me what's brings you in today ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "sure . so i've been having constant pain in my left shoulder and left elbow for a while , about five months or so . hurts all the time . pretty bad at times ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "mm . that does not sound like fun . it sounds like you injured it going up the stairs ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "yes , that's correct . it was icy , and i have to walk up a flight of stairs to my house . i stepped and my feet just went out . fell on my left side . seems like my shoulder and wrist took the brunt . it's been hurting since ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "yeah , that does seem like a likely cause of your symptoms . anything seem to make the pain worse ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "well , i've always hit the gym and lifted weights . i've been trying to keep with my routine of two days a week , but it's been hard . the pain is worse when i lift , and i have n't been able to lift more than 15 or 20 pounds which is very frustrating ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "mm-hmm . i can imagine it is when you're so accustomed to your routine ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "exactly . i really enjoy my exercise , but over the past one to two weeks , i've stopped hitting the gym because the pain just was n't worth it honestly . i do keep up with my walking , though . my wife and i walk about 30 minutes almost every day . we have done this since i retired from my office job last year ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "i do not blame you , mr . james . does anything seem to help the pain that you've tried ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "not too much . i have iced a bit , but i have not taken anything for the pain . stopping exercise and some ice has helped a bit , but it still hurts enough for me to come to see you ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "yeah , okay . how about any numbness or tingling ? have you felt that at any point ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "no , doc . just pain . no tingling or numbless , numbness , thankfully ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "understood . understood . all right . well , let's go ahead and take a look and see what's going on ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "sounds good . thank you ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay . use my general physical exam template . mr . james , i'm going to gently press around your shoulder and elbow here to see where your pain might be stemming from . just let me know when it hurts ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "okay . it hurts when you press there on my elbow and here on my shoulder ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay . left shoulder and elbow , tender sa space , no warmth , erythema or deformity . positive hawkins-kennedy and neer's test . normal proximal and distar , distal upper extremity strength . intact median radial ulnar sensation and abduction to 90 degrees . normal empty tan , can test . okay , mr . james , w-what i think you are dealing with is impingement syndrome of your left shoulder . i do n't think there's an additional injury or issue with your wrist , but because everything is connected , you're experiencing pain in your wrist because of your shoulder . we do see this type of issue when someone has a fall , so it's good you came to see us , you came in to see us so we could help ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "so what are the possible treatments ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "well , we have a few options you can try . first option would be to start with physical therapy . i would recommend two sessions per week as well as any other exercises they give you to do at home . we can start there and if that does n't improve your pain , then we could try a cortisone injection ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "i like the idea of starting with the physical therapy and have a next step if it does n't help . i am not opposed to a shot but would like to try the therapy first ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "all right . great . i'll get a referral order , and they will call you within the next day or two to get you scheduled ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "mm-hmm . also , please continue to ice , especially your shoulder , and rest as much as you can ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "okay . i will ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "give us a call or email us if you have symptoms worsen , if your symptoms worsen or do not improve with the therapy ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "will do . thank you . i appreciate your help ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "you're welcome . have a great day ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "you too ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "all right . assessment is impingement syndrome of left shoulder . plan discussed with patient . referral is requested for dr. martha rivera to be in physical therapy two days per week ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 64-year-old male presenting with left shoulder and elbow pain following a fall five months ago.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Left shoulder and elbow pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports constant pain in the left shoulder and elbow for five months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient fell on his left side while walking up icy stairs five months ago, impacting his shoulder and wrist.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what factors exacerbate the patient's pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain is worse with lifting and he is unable to lift more than 15-20 pounds.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient stopped strength training 1-2 weeks ago but continues to walk 30 minutes daily and is a retired office worker.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what treatments the patient has tried for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has used ice and stopped exercising, but denies taking any pain medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced any numbness or tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any numbness or tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical examination of the shoulder and elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports tenderness in the elbow and shoulder during palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include tender subacromial space, positive Hawkins-Kennedy and Neer's tests, normal strength, intact sensation, abduction to 90 degrees, and normal empty can test; the doctor assesses impingement syndrome.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about possible treatment options.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor recommends physical therapy twice weekly, with cortisone injection as a secondary option if pain persists.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient agrees to start with physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will place a referral order for physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to continue icing and resting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to call or email if symptoms worsen or do not improve.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "left shoulder and elbow pain; wrist pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

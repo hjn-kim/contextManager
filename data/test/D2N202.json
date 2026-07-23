@@ -1,0 +1,516 @@
+{
+  "id": "D2N202",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "good morning sharon how you doing"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hi i'm i'm okay today i'm having some shoulder pain"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i see that i see that here in the nurse's notes it looks like you're having some right shoulder pain says here that you've guys have been remodeling your house what do you do you remember what you were doing when that right shoulder pain started"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yeah i was up on a ladder painting and kinda reaching out and fell took a fall and kinda braced myself but i i was painting"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay so it does sound like there might have been some direct trauma to that area now it says here that this happened about three weeks ago were you able it sounds like you were able to get up and continue but you were having some pain did you take anything at that time to help with that shoulder pain"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah i i iced the arm and then i also i also took some advil"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay now have you had any shoulder pain before of that right shoulder or is this the first time or or the first insult to that area"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "first time"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and now are you able to move that right arm for me"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yes i'm able to move but i do have some pain lifting overhead raising my arm overhead"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay alright now do you have pain all the time or does it come and go"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "it is some pain is all the time but it some is intermittent"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay now i you mentioned that you had taken some ibuprofen for that pain now let's talk a little bit about your pain rating okay zero being none ten being the worst pain you've ever felt in your life can you rate your pain for me without any tylenol or advil or any nsaid can you rate your pain for me"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "about a six"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay now when you take that medication can you rate your pain for me what what's that pain level get to"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "it goes down to about a four"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay so it does help take the edge off of that pain and and you're able to kinda move around a little bit then"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay so the remodel tell me a little bit about that my wife and i were working on our remodel and we went they just built the brand-new lowe's here in town have you guys been there yet"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no we have not"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "well i did n't know if you know this or not but you can save big money there that's the rumor"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "so yeah we we've been down there we got some pain we we got went and got some samples and then hey while we were there we ended up deciding to put down a bunch of flooring too so i really recommend you guys if you get a chance go over there and take a look at their sales and and see if you ca n't finish your remodeled project"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "that sounds great i'll have to take a look at the flooring as well"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "that sounds good so now just out of curiosity are you experiencing any numbness or tingling in in your arm or hand"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "i did when i initially hurt it but i'm not no longer having any numbness or tingling"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay so a little bit about my physical exam i'm gon na do a quick physical exam on you today now your vitals look good but specifically on your right shoulder exam you do have limited active and passive range of motion and there is tenderness to the greater tuberosity of the humerus now there is no tenderness at your sternoclavicular joint and you do have good strong bilateral hand grips and on your neurovascular exam of your right arm you do have brisk capillary refill of less than three seconds and you do have equal and bilateral response to sensation and touch which is good now taking a look at your x-ray that we did when you came in today good news is that right shoulder x-ray reveals no fracture or bony abnormality mkay so let me tell you a little bit about my assessment and plan now i your symptoms are most likely due to rotator cuff tendinopathy i think that you've injured the tendons of the muscles that make up the shoulder so that i think that's that's why you are having the that shoulder pain i do wan na order an mri of that right shoulder just to make sure that nothing else is going on now i'm gon na refer you to physical therapy and that's gon na be about six to eight weeks now my patients are very successful with their pt and let's see how you do before we make the decision that we would do additional treatment such as a steroid injection to that shoulder i do want you to continue to take an nsaid if you can tolerate tylenol i want you to go ahead and take tylenol for that pain do you have any questions comments or concerns about our treatment plan"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "no i think it sounds good ca n't wait to to get some relief"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay so i know we ordered it for six to eight weeks but i wan na see you again in two weeks and we'll evaluate how you're doing and make some additional treatment plan at that at that time okay"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "alright sounds good we will get the nurse come in and she will take care of you and i will see you in two weeks"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Sharon Wright is a 36-year-old female presenting with right shoulder pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right shoulder pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the circumstances surrounding the onset of the shoulder pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain began 3 weeks ago after falling from a ladder and bracing herself with her right arm.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient took any medication for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient treated the injury with ice and Advil.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of right shoulder pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any previous shoulder pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports constant pain when lifting her arm overhead.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the frequency of the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain is both constant and intermittent.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate her pain level without medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates her pain as 6 out of 10 without medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate her pain level with medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates her pain as 4 out of 10 with medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing numbness or tingling in her arm or hand.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she had numbness and tingling initially, but it has resolved.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: limited active/passive ROM, tenderness over greater tuberosity, no sternoclavicular tenderness, strong hand grips, brisk capillary refill, and normal sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "X-ray reveals no fracture or bony abnormality.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Assessment is rotator cuff tendinopathy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Plan includes MRI of the right shoulder, physical therapy referral, and continuing Advil/Tylenol as needed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions about the treatment plan.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will follow up in 2 weeks for re-evaluation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Right Shoulder pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

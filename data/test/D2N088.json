@@ -1,0 +1,1115 @@
+{
+  "id": "D2N088",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , andrew . how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hey , good to see you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm doing well , i'm doing well ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "good ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so , i know the nurse told you about dax . i'd like to tell dax a little bit about you ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "uh , so , andrew is a 59-year-old male with a past medical history , significant for depression , type two diabetes , and hypertension who presents today with an upper respiratory infection . so , andrew , what's going on ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah . we were doing a bit of work out in the yard in the last week or so and i started to feel really tired , was short of breath . um , we- we're not wearing masks as much at the end of the summer and i think i caught my first cold and i think it just got worse ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . all right . um , now , have you had your covid vaccines ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah , both ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . all right . and , um , do you have any history of any seasonal allergies at all ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "none whatsoever ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . all right . and when you say you're having some shortness of breath , did you feel short of breath walking around or at rest ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "uh , usually , it was lifting or carrying something . we were doing some landscaping , so i was carrying some heavy bags of soil and i , i got really winded . it really surprised me ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . and are you coughing up anything ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "not yet , but i feel like that's next ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay . and fevers ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "uh , i felt a little warm , but i , i just thought it was because i was exerting myself ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . all right . and any other symptoms like muscle aches , joint pain , fatigue ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "my elbows hurt quite a bit and my knees were pretty tired . l- like i said , i really felt some tension around my knees , but , uh , i think that was a lot to do with , uh , lifting the bags ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay . all right . um , so , you know , how about , how are you doing in terms of your other medical problems , like your depression ? how are you doing with that ? i know we've , you know , talked about not putting you on medication for it because you're on medication for other things . what's going on ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i- it's been kind of a crazy year and a half . i was a little concerned about that but , for the most part , i've been , been doing well with it . my , my wife got me into barre classes , to help me relax and i think it's working ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . all right , great . and , and in terms of your diabetes , how are you doing watching your , your diet and your sugar intake ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "uh , i've been monitoring my sugar levels while i am going to work during the week . uh , not so , uh , if its saturday or sunday i usually don't remember . uh , the diet's been pretty good for the most part , except for , you know , some house parties and things like that . but , uh , been good for the most part ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay and have they been elevated at all since this episode of your-"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay . and then , how , lastly , for your high blood pressure , have you been monitoring your blood pressures at home ? did you buy the cuff like i suggested ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "uh , same thing . during the while i'm going to work, i'm regular about monitoring it, but if its a saturday or sunday, not so much . but , uh , it's , it's been under control ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "but you're taking your medication ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay . all right . well , you know , i know that , you know , you've endorsed , you know , the shortness of breath and some joint pain . um , how about any other symptoms ? nausea or vomiting ? diarrhea ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "anything like that ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay . all right . well , i wan na go ahead and do a quick physical exam , all right ? hey , dragon , show me the vital signs . so , your vital signs here in the office look quite good ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "you know , everything's looking normal , you do n't have a fever , which is really good . um , i'm just gon na go ahead and listen to your heart and your lungs and , kind of , i'll let you know what i hear , okay ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay . so , on your physical exam , you know , your heart sounds nice and strong . your lungs , you do have scattered ronchi bilaterally on your lung exam . uh , it clears with cough . um , i do notice a little bit of , um , some edema of your lower extremities and you do have some pain to palpation of your elbows bilaterally . um , so , let's go ahead , i want to look at some of your results , okay ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "hey , dragon . show me the chest x-ray ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "so , i reviewed the results of your chest x-ray and everything looks good . there's no airspace disease , there's no pneumonia , so that's all very , very good , okay ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "good ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "hey , dragon . show me the diabetic labs ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "and here , looking at your diabetic labs , you know , your hemoglobin a1c is a little elevated at eight ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "i'd like to see that a little bit better , around six or seven , if possible ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "um , so let's talk a little bit about my assessment and my plan for you ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "so , for your first problem , this upper respiratory infection , i believe you , you have a viral syndrome , okay ? we'll go ahead and we'll send a covid test , just to make sure that you do n't have covid ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "uh , but overall , i think that , um , you know , this will resolve in a couple of days . i do n't think you have covid , you do n't have any exposures , that type of thing ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "so , i think that this will improve . i'll give you some robitussin for your cough and i would encourage you take some ibuprofen , tylenol for any fever , okay ?"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "you got it ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "for your next problem , your depression , you know , it sounds like you're doing well with that , but again , i'm happy to start on a med- , a medical regiment or ..."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": ". refer you to psychotherapy , if you think that that would be helpful ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "would you like that ?"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "u- u- um , maybe not necessarily . maybe in a , uh , few months we'll check on that ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "okay . all right ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "for your third problem , your type two diabetes , i want to go ahead and increase your metformin to 1000 milligrams , twice daily ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "and i'm gon na get an- another hemoglobin a1c in four months , okay ?"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "patient",
+      "text": "okay , sure ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "doctor",
+      "text": "hey , dragon . order a hemoglobin a1c ."
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "and lastly , for your high blood pressure , it looks like you're doing a really good job managing that . i want to go ahead and continue you on the , um , lisinopril , 20 milligrams a day ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "and i'm gon na go ahead and order a lipid panel , okay ?"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "do you need a refill of the lisinopril ?"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "actually , i do ."
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "okay . hey , dragon . order lisinopril , 20 milligrams daily ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "doctor",
+      "text": "so , the nurse will be in , she'll help you , uh , make a follow-up appointment with me . i want to see you again in about four months ."
+    },
+    {
+      "id": "line_0076",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0077",
+      "speaker": "doctor",
+      "text": "let me know if your symptoms worsen and we can talk more about it , okay ?"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "patient",
+      "text": "you got it ."
+    },
+    {
+      "id": "line_0079",
+      "speaker": "doctor",
+      "text": "all right . hey , dragon . finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 59-year-old male with a history of depression, type 2 diabetes, and hypertension presenting with an upper respiratory infection.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports fatigue, shortness of breath, and symptoms worsening after yard work and lack of mask-wearing.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has received COVID-19 vaccinations.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he has received both COVID-19 vaccinations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of seasonal allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "allergy"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any history of seasonal allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "allergy"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the shortness of breath occurs at rest or with exertion.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports shortness of breath occurs during physical exertion like lifting heavy bags.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is coughing up any phlegm.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies currently coughing up phlegm but feels it may start soon.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a fever.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies a fever but felt warm due to physical exertion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0016",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about other symptoms including muscle aches, joint pain, and fatigue.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports elbow pain and knee tension, attributing them to lifting heavy bags.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Depression",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is managing his depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports doing well with depression and finds barre classes relaxing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is managing his diet and blood sugar.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient monitors blood sugar during the work week but is inconsistent on weekends; diet is generally good despite occasional house parties.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if blood sugar levels have been elevated since the respiratory symptoms began.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies elevated blood sugar levels since the onset of respiratory symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is monitoring his blood pressure at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient monitors blood pressure regularly during the work week but less so on weekends, and reports it is under control.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking his blood pressure medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he is taking his blood pressure medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about nausea, vomiting, or diarrhea.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies nausea, vomiting, or diarrhea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0030",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes that the patient's vital signs are normal and he is afebrile.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include scattered rhonchi that clear with cough, lower extremity edema, and pain to palpation of the elbows.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The chest x-ray is unremarkable with no signs of pneumonia or airspace disease.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin A1c is elevated at 8.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the patient with a viral syndrome and will order a COVID-19 test.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends Robitussin for cough and ibuprofen or Tylenol for fever.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor offers medication or psychotherapy for depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient declines medication or psychotherapy for depression at this time.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0063",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor increases metformin to 1000 mg twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0065",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will repeat the hemoglobin A1c in four months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0068",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor continues lisinopril 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a lipid panel.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0072",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs a refill of lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0073",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he needs a refill of lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0072",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0074",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor orders a refill of lisinopril 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0075",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up appointment in four months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "upper respiratory infection; depression;type two diabetes;hypertension",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

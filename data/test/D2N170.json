@@ -1,0 +1,766 @@
+{
+  "id": "D2N170",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi joyce , how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm good . how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm doing well . so , i know the nurse told you about dax . i'd like to tell dax a little bit about you when we get started , okay ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "all right . so , joyce is a 50 year old female with a past medical history significant for copd , congestive heart failure who presents for follow-up to an abnormal lab finding . so , joyce , i , i got the results of your lab , uh , your labs . your hemoglobin was low . uh , so , i asked them to schedule a follow-up appointment with me . so , how are you feeling ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i've been feeling really tired lately . over the past couple of months , i've noticed that my energy has really gone down . i used to be really active , um , just trying to be as healthy as i can be , running, climbing . um , i at least try to do an hour or two a day . and over the past month , it's gone slowly downhill . i've just been so tired and exhausted and i have n't been able to really keep up with the way i , i was g- was going with my exercise ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . all right . um , now , have you had ... have you noticed any blood in your stools at all ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "uh , no , not really . not , not at this time ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . and are your stools , like , dark or charry or black looking ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "no . not that i've noticed ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . and are you spotting a lot with your periods ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no , i'm not ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . all right . um , and do you have any other ... i know that you are endorsing this fatigue and you feel kind of dizzy and that type of thing . do you have any other symptoms like chest pain , shortness of breath , fever , chills , body aches , anything ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no , nothing like that ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . any weight loss ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "um , i've noticed a little bit , but that's because i think i've been doing really well with my exercise . um , but nothing too significant ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay . all right . well , let me ask you a little bit about how's the , the copd doing . i , i know that , you know , you've stopped smoking several years ago , but , you know , you still have that em- those emphysema changes on your chest x-ray . so , how are you doing with that ? how's your breathing ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "it's been okay . um , i have n't been smoking . i ... after i quit , i quit cold turkey and i have n't gone back since . so , that's been doing well . i think , uh , during the changes of season , it gets a little bit harder for me to breathe , but i think that's just because of my allergies ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . all right . and then from a congestive heart failure standpoint , are you watching your diet , you're watching your salt intake ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah . i've been doing really well with that . i've been staying away from the french fries , and all the other salty foods that i love to eat , uh , and everything looks great ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "um , so , french fries are one of my favorite foods , that and fried chicken , so-"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "i give you a lot of credit for staying away from french fries ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "thank you ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "um , okay . so , you ... so , no swelling in your legs or any- anything like that ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "no , not that i've noticed ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay . and you feel like you have a good support system ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "yeah . my boyfriend is , is great and i have , um , my brother right down the road ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay . all right . good . i'm glad to hear that . uh , so , let's go ahead . i wan na just do a quick physical exam , okay ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the vital signs . all right . well , your vital signs here in the office look good , so , i'm , i'm really happy to see that with the abnormal hemoglobin that we saw . um , i'm gon na just listen to your heart and lungs and press on your belly a little bit and i'll let you know if i find anything , okay ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "all right . okay . all right . so , on physical exam , you know , i , i do n't appreciate anything cervical lymphadenopathy . your heart sounds really good , but i do hear a , a slight two out of six systolic heart , uh , murmur , um , systolic ejection murmur on your heart exam . your lungs sound clear . your abdomen ... you know , you did have a little tenderness to palpation in your right lower quadrant on your abdominal exam , uh , but i do n't appreciate any lower extremity edema . so , all that means it that we , you know , we hear that heart murmur , which we heard in the past , um , and your belly had some tenderness , so we'll have to talk about that a little bit , uh , going forward , okay ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "let's look at some of your results , okay ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the hemoglobin . so , here , looking at this , you know , your hemoglobin level is 8.2. somebody like you should have a hemoglobin o- of about 13 , 14 , okay ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "so , we need to investigate why it's low . hey , dragon , show me the anemia labs . okay . so , looking here at your labs , uh , everything looks good from , from this standpoint . i think some of your anemia labs are still pending at this time that's part of the workup ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "so , let's go over a little bit about the assessment and plan for you . so , you know , your main problem , this abnormal lab , this low hemoglobin that we found , so , you're anemic and we nee- ... you know , i'm waiting for those anemia labs to come back to find out exactly , you know , what type of anemia you have . i'd like to go ahead and schedule you for an endoscopy a- and a colonoscopy just to make sure that you're not bleeding from your , inside your belly , okay ? um , and i'm ... i'll be in touch when those labs come back to see what further workup we need to do , okay ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "for your next problem , the copd , i think you're doing great . you know , i , i do n't think that you , uh , need any further referrals at this time for that . i would just continue staying away from smoking . it does n't sound to be like you need any inhalers at this time . uh , for your third problem , your congestive heart failure , you know , i wan na continue you on the toprol , continue you on the lisinopril and we'll continue you on your current diuretic dosing of 20 , lasix 20 milligrams a day ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "i'm gon na go ahead and order that referral to g- to gastroenterology . they're the ones who will do the endoscopy and the colonoscopy , okay ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "hey , dragon , order the referral to gastroenterology . so , i'll be in touch . i'm gon na stay in close contact with you over the next week or so and , uh , we'll get this all sorted out , okay ?"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "all right . take care , joyce ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "thank you ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 50-year-old female with a history of COPD and congestive heart failure.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Follow-up for abnormal lab results.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin level was found to be low.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is feeling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports fatigue and decreased energy over the past two months, impacting her ability to exercise.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed blood in her stool.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies blood in her stool.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's stools are dark or black.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies dark or black stools.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing abnormal spotting between periods.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abnormal bleeding between menses.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about other symptoms including chest pain, shortness of breath, fever, chills, or body aches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain, shortness of breath, fever, chills, or malaise.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced weight loss.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports minor weight loss attributed to exercise.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "COPD",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient's breathing is and how she is doing with her COPD.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0016",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she has quit smoking and experiences shortness of breath during seasonal changes due to allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0016",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Congestive heart failure",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is watching her diet and salt intake.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she is following a low-salt diet and avoiding salty foods.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any swelling in her legs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies leg swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a good support system.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a good support system with her boyfriend and brother.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares the intent to perform a physical exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's vital signs are normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: no cervical lymphadenopathy, 2/6 systolic ejection murmur, clear lungs, right lower quadrant abdominal tenderness, and no lower extremity edema.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin level is 8.2.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Anemia labs are mostly normal, but some are still pending.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans to schedule an endoscopy and colonoscopy to investigate the anemia.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises continuing current COPD management without inhalers and continuing current CHF medications: Toprol, lisinopril, and Lasix 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "Lasix 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a referral to gastroenterology for endoscopy and colonoscopy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "abnormal lab finding; COPD;congestive heart failure",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

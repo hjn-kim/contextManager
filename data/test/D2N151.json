@@ -1,0 +1,1014 @@
+{
+  "id": "D2N151",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "alright teresa i see here in your chart that you seem to be experiencing some elbow pain could you tell me where it hurts"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah so it's hurting on the inside of my elbow"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "and when i i i've been doing some pottery i've been creating you know i have a pottery wheel and i've been i love my pottery and for my son's birthday i've been making a a ceramic bowl and i'm gon na paint it and i have to do some real full decorations but i've really been working on it a lot and my gosh this is hurting and i ca n't work on it right now because it's hurting so much"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "i am so sorry so i mean that's really cool that you do parttery it's something that i've wanted to pick up you know but i do n't know that i have those skills yet does the pain radiate down your arm or up your shoulder or anything"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah it does down my arm and along that inside of my arm"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay so the medial aspect okay have you did you hit it on anything"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "no not that i recall"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and have you ever injured your elbow before"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "no i have n't"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay alright so on a on a scale of one to ten with ten being your arm is actively being sought off by a chainsaw how bad is the pain"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "well i'd say it's about a seven"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "wow that's pretty bad does it keep you up at night"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yes it really does it's you know if i roll over and it it it just wakes me up"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay have you done anything to relieve the pain"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "well i have been taking some ibuprofen but that is n't really helping"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay and have you tried anything like ice or heat or anything else"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i tried a little bit of ice at first"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "but and it's just it's been hurting for about four days now"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "did n't getting better"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay okay so it's probably it do you think it's getting worse"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "well it's just not getting better"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay no i understand okay so i know that you also have like a history of hypertension and that we have you on ten milligrams of lisinopril have you been checking your blood pressures regularly"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah you know what i remember too i mean they they have been pretty good one teens to one thirties"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay alright and okay do you think that you've been good about taking your medications do you usually take them everyday"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah pretty much i i i you know set an alarm for that lisinopril"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "awesome that's great alright and so i see that you also we are treating you for diabetes as well and that we have you on five hundred milligrams of metformin twice a day how about that have you been taking that regularly"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "well sometimes i forget i mean having a medication twice a day you know sometimes i'm out doing stuff and i just forget to take it"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "and plus i kinda have a sweet tooth so you know sometimes they're a little bit higher you know like one fifty to one seventy so"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay alright so when you say a sweet tooth what are we talking about there"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i love to bak also besides my ceramics i'm really big and baking and i like to make cakes and and take them to you know parties and get togethers you know family get togethers and i like to make senna rules too i've been doing that since i was very young so i kinda noticed that"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay cinnamon rolls can be kind of hard like do you for your cakes do you do you use fondant you know to like do any of the decorations"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "no i i mine are just pretty basic they're not overly fancy"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "simpon rolls i got that recipe out of a southern living magazine"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "oof"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "a long time ago and"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "so you know it's good"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "alright well so i totally understand like baking and like the excitement of being able to give those to your family but we maybe wan na start cutting down on eating and taste testing ourselves is do you think that's something we could manage"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yeah i know i need to get better on it i probably could use maybe a refresher on just managing what i should and should n't eat how like if i need to combine a protein you know if i do eat something a little bit sweet maybe pling a protein or something with it"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "mm-hmm yeah that sounds like a"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "had some friends tell me something about that"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "yeah that sounds like a great idea and i think if that's something that we can maybe discuss to get you in contact with someone who can offer you someone with a degree that can offer you some really good advice you know i do n't wan na as much as it's really helpful to have friends i do wan na be able to give you like a source of truth right"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "yeah i i had a diabetic consult a long time ago but yeah it it would be nice to see a dietitian again and go over those and maybe there is some new stuff too"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "a hundred percent yeah you know like i one of the things that i struggle with is like are eggs good for you or bad for you you know like with cholesterol i feel like it changes every other year or something like that so you're right there may be some pieces of information that we do need to update and and you know over a fresh of course would n't hurt but if you do n't mind i'm gon na go ahead and start my physical exam i'm gon na call out my findings and just go let me know if you have any questions or if anything sounds anything that you you want me to expand on further but this is just for the recording sake so we can get everything documented okay"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "yeah and can i ask you what word what were my vital signs can you show me what my vital signs were"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "yeah that's uh uh that's a really good question so our big and favorite one is gon na be your blood pressure right so you're right like we are seeing some some definite improvement today it was one twenty over seventy and honestly that's a great place to be so that tells me that your medication is working and that maybe we can start to evaluate a bit more your respiratory rate is completely normal so i see it here as eighteen that's wonderful you are not running a fever so ninety seven . nine and you're honestly that's within like a good enough range for me you're satting pretty well your oxygen saturation is a hundred percent again so that means that you're not experiencing any kind of difficulty getting in that oxygen to the rest of your body i do wan na say that you know pain is one of the vitals that we worry about and you're saying that at it's worst your the pain in your elbow is a seven out of ten so that's something that i'm gon na evaluate and then your pulse rate seems to be appropriate as well so those are all great do you have any questions about that so far"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "no that sounds good yeah i was just curious"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "checked it in a while so"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "mm-hmm i do wan na say that like looking at your the weight we do see like maybe a five pound increase from the last time that you were here but that's completely normal right to be able like to fluctuate you know give or take five pounds so i'm not i'm not i'm not like seriously worried about it but if we do come back and notice an additional five pounds then we might have to start talking about like actually you know what let's do that right now what kind of exercise regimen are you on"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "well i do go for some walks in the evening i try to get one in on the morning too"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "so not a whole lot other than that because i'm busy with my pottery or baking so but i do try to get out and walk daily"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "okay that's awesome so like how about about how long are your walks"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "well i just walk around the neighborhood there is you know the sidewalks and there is kind of a little bit more of a nature type area that goes across the bridge and so it's probably you know maybe one to two miles a day"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "wow that's intense i was not expecting that number that's awesome okay alright so maybe this five pounds is muscle we're gon na go for it okay but thank you but that's some really important information but i'm gon na start your physical exam now okay"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "alright so i know that you said that you are experiencing elbow pain could you tell me is it your left or your right elbow"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "it's my right"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "okay alright right elbow when i touch it does it hurt on the inside"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "yes it does"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "okay so moderate tenderness at the medial epicondyle when you turn like when you turn your wrist is if you're trying to open a door knob do you experience pain"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "no not really"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "alright so turning out no pain but when you turn your wrist inwards do you have any pain"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "okay so pain with resisted pronation of right forearm when you rest your arm on a table with the palm side up alright i want you to raise your hand by bending the wrist do you experiencing any pain"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "yeah that hurts"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "alright alright so when you are when i'm pressing here and like flexing your wrist are you experiencing any pain"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "alright pain with flexion and when bending the wrist alright when i listen to you you know i'm just gon na check your heart and lungs everything sounds sounds good no murmur no rub no gallop your lungs are clear bilaterally to bilaterally to auscultation i'm not noticing any rash for your at your elbow i do n't notice any bruising any swelling we do wan na note that tenderness but otherwise there is no discoloration no lesions so that's good your pulses and are equal bilaterally and i think i think we have an idea of what we are dealing with here okay so i'm gon na go ahead and give you my impression and plan for your your first problem like your primary problem that you are here for is right elbow pain it's consistent with medial epicondylitis and that it just means it's pain caused from overuse and damage to the tendons in your arm what we are gon na do is rest it i'm gon na order a sling for your right arm and you can wear this while you're awake well i want you to apply ice to your elbow for twenty minutes three times a day i'm going to i'm gon na ask you to take six hundred milligrams of ibuprofen that's three pills every six hours with food and you can take that for one week i know it's really important that you said that you have something that a gift that you wan na make for your son but we're gon na hold off on pottery for the next couple of weeks just to give your arm a chance to heal you know like it's awesome that you wan na be able to do these things for your family but sometimes you know your body is not where your where your where your heart is like where your heart and your head are right and then so"
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "i'll i'll just let him know that that i maybe i'll take a picture of what i have so far"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "absolutely that's awesome and so it'll be like a a movie like coming soon to a shelf near you that's great for your second problem right we have this longstanding diabetes i want to increase your metformin to a thousand milligrams twice a day i know that you're saying you're having a hard time keeping up with that so i want you to do a good job of like checking and recording your blood sugars every day i do need you to follow up with me in a couple weeks i also wan na order something called an a1c since you are having a hard time with like the blood like the blood sugars everyday an a1c will give me a more accurate picture of like a longer period of time and then we might need to evaluate like what are what other options that we have if your sugars if we ca n't get them a bit more under control i do want you to follow up with me in a couple of weeks about the about your diabetes and for your third problem of hypertension we're just gon na continue you on your lisinopril at ten milligrams that's it seems to be doing it's job i'm really i'm really glad about that and it's probably due to the walking that you're doing i forgot to mention for your diabetes we are gon na i'm gon na recommend a a referral to diabetic counseling that way you can get like a bit more information on like the steps that you can take to help you with that"
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "i was gon na ask you how about my x-ray the x-ray of my elbow how did that look"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "your x-ray honestly looks great in that i do n't see any kind of fracture or bony abnormality so that's what makes me think that this is like a tendon related thing right so in reviewing your x-ray like it it does support the the the assessment and plan that i have given you i"
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "do you"
+    },
+    {
+      "id": "line_0081",
+      "speaker": "patient",
+      "text": "just true"
+    },
+    {
+      "id": "line_0082",
+      "speaker": "doctor",
+      "text": "yeah absolutely i do think for your your primary problem the elbow that we might wan na get put you in some physical rehab if the problem is taking a little longer to heal but we'll discuss that at your next visit here okay"
+    },
+    {
+      "id": "line_0083",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0084",
+      "speaker": "doctor",
+      "text": "alright no problem any other questions"
+    },
+    {
+      "id": "line_0085",
+      "speaker": "patient",
+      "text": "nope"
+    },
+    {
+      "id": "line_0086",
+      "speaker": "doctor",
+      "text": "alright thank you for keeping me accountable"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The doctor establishes the visit purpose as evaluation of right elbow pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain on the medial aspect of the right elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports right elbow pain began after increased usage of a pottery wheel.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain radiates medially down her arm.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any specific injury to the elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any previous elbow injuries.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates her pain as 7 out of 10.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain wakes her at night when rolling over.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports ibuprofen does not provide pain relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports ice did not provide pain relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain has lasted for 4 days.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The patient is taking lisinopril 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports blood pressure readings in the 110s to 130s range.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The patient is prescribed metformin 500 mg twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports sometimes forgetting to take metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports blood sugar levels ranging from 150 to 170 mg/dL.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient enjoys baking cakes and cinnamon rolls.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks for advice on managing her diet and combining foods.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient expresses interest in seeing a dietitian for diabetes management.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks for her vital signs.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reports blood pressure 120/70, respiratory rate 18, temperature 97.9, oxygen saturation 100%, and appropriate pulse.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes a 5 lb weight increase since the last visit.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient walks 1 to 2 miles daily for exercise.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0066",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes moderate tenderness at the medial epicondyle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain with resisted pronation of the right forearm.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0072",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain with flexion and bending the right wrist.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0074",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reports normal heart and lung exam, no bruising or swelling at the elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the elbow pain as medial epicondylitis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a sling, ice 20 minutes 3 times daily, and ibuprofen 600 mg every 6 hours for 1 week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to stop pottery for 2 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0076",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor increases metformin to 1000 mg twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an A1c test and refers the patient to diabetic counseling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient is to follow up in 2 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0077",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about the results of her elbow x-ray.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0078",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reports the x-ray shows no fractures or bony abnormalities.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0082",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor mentions potential physical therapy if the elbow does not heal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "right elbow pain; hypertension;diabetes type 2",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

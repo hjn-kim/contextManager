@@ -1,0 +1,533 @@
+{
+  "id": "D2N114",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "good morning Julie how are you doing today"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "i'm doing okay i'm just a little nervous about what's been going on with my headaches"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "okay so i know you were sent here by your your pcp what was your understanding of why you were sent here"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "yeah so i actually have been someone who been struggling with headaches for years now ever since i was a teenager and they used to be around my when i would have my menstrual my menses but as i got older i noticed that it has been with that and also i can get it when i'm really stressed but recently and why i went to her is because my headaches have been getting a lot more they've just been happening a lot more frequently and a lot more severe"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "okay can you tell me a little bit about them what how do they how do they feel when they come on"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "so they say mostly on my right side and it even seems like it's like behind my eye and it just like this pulsing like this really bad pulsing sensation"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay do you notice these any activities or time of the day that makes them worse i know you said they they seem to get worse around your menstrual periods but is there any time of the day or that makes them worse"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "i i have noticed that you know i've been trying to exercise more in order to lose weight but i ca n't even really exercise for very long because i start of as soon as i start to jog i my headaches the headaches come back on a lot worse so i notice it when i'm exercising"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay and do you seem to have any other symptoms when you get these headaches i've been having a ringing in my ears for a few months now and then what really scared me is that now i'm starting to get some blurred vision it's not all the time but it it will come and go but some blurred like on the"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "in my on the side of my vision"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay okay and have you experienced any numbness or tingling to your hands or feet or your face"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "no i have n't"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay so you you like to run a lot what kind of do you do you use a a good shoe you know what kind of shoes do you use for your running"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "yeah i yeah i i'm starting to get back into it i'm a big new balance person in asics so yeah those are the two brands i like to wear yeah so right now i'm using asics"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay yeah i like to run too and i use nike"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "i used to get tumor guy but i i really kinda moved over to nike"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "that's good you know it is running is a great exercise"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "it is"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "so have you had any let's get back to the exam here have you had a recent mri of your brain i saw one from a few years ago but as doctor white said anything about getting a more a recent mri"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "yeah she was gon na put one in but she wanted me to see you first and urgently so they have n't called me yet for the mri"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "okay so that's good we i think we'll we will follow up with that mri but let's go ahead and take a do a quick physical exam here i reviewed your vitals that the the assistant collected when you came in and everything there looks good including your blood pressure you know with symptoms like that that's one of those things that i'd be concerned about"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "now on your heart exam it sounds like it's normal sinus rhythm with no murmurs rubs or gallops so that's good as i listen i'm gon na go ahead and look here in your eyes the funduscopic exam shows papilledema and that's just some of swelling behind there in the eye and this let me do a a neurological exam this will take a few minutes you get up to follow my instructions as we go through that okay on neurological exam your cranial nerves one through twelve are intact including a normal cranial reflex and just went to watch you walk across the room here"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay turn around come back and okay so on musculoskeletal exam your gait is normal"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay go ahead"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "sorry"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "that's okay for your first problem your headaches your symptoms are concerning for what we call idiopathic intracranial hypertension and this is a condition that that you have increased pressure in the in your head in your brain without any known cause for it now patient also presents with often present with symptoms such as yours you know headaches worsening with activity ringing in the ears changes in your vision so i'm i'm pretty confident that that's what we're having here now why we get concerned is if the pressure continues to increase this can lead to some permanent changes in your vision so i i do wan na get a a few more tests just so we can confirm that diagnosis and the first one that we just talked about is an mri i think it's really important to get that to check for any other condition that could be contributing to your symptoms now once i have that result i'm gon na be doing also doing a spinal tap which will help me evaluate the pressure in the brain and it can also help you feel better if you do have an increased pressure by taking the decreasing the amount of that pressure just by taking a a a little bit of fluid off of that and lastly i want you to be seen by a neuro-ophthalmologist for a complete eye exam now i i know that sounds like a lot of information but i think it's really important we get that accomplished do you have any questions for me"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "yeah that is a lot and so i i'm sure i'll have more that comes up but so let's say we do all this test and it confirms what you're saying does that mean was i referred to you because that means i will need surgery"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "not necessarily if you have idiopathic intracranial hypertension there are number of medications that we can try to help decrease that pressure in your brain and this will also help you have less headaches when you exercise as exercise and weight loss are also an important part of the treatment"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "okay alright alright and i'll probably add something about so is this something i'll be doing soon is this all things i'll be doing this week"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "yeah that's a great question here i i'm gon na go ahead and we're gon na for the mri i'll have to get a preapproval from your insurance company i will work on that my my my team in the front office will get that preapproved and then once that's done we'll call you to help schedule that mri"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "okay alright thank you bye"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "bye sorry"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports experiencing headaches.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Headaches",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient for her understanding of the referral.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is a 33-year-old female who has had headaches since her teenage years, initially associated with menses, but now more frequent and severe.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as a pulsing sensation located on the right side of her head and behind her eye.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that physical activity, specifically jogging, exacerbates her headaches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports intermittent ringing in her ears for several months and intermittent blurred vision.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient specifies the blurred vision occurs on the lateral aspect of her vision.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced numbness or tingling in her hands, feet, or face.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling in her hands, feet, or face.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient enjoys running and wears Asics shoes.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had a recent MRI of the brain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she has not had a recent MRI and was referred to the current doctor by her PCP.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes that the patient's vitals, including blood pressure, are within normal limits.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The cardiac exam is normal, the funduscopic exam is positive for papilledema, and the neurological exam shows cranial nerves I-XII are intact.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The musculoskeletal exam shows a normal gait.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the patient with idiopathic intracranial hypertension and outlines a plan for an MRI, a spinal tap, and a neuro-ophthalmology referral.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if the diagnosis will require surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains that surgery is not necessarily required and that medications, exercise, and weight loss are part of the treatment.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about the timeline for the tests.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor explains the process for obtaining insurance preapproval for the MRI and scheduling the test.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "headaches",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

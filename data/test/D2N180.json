@@ -1,0 +1,551 @@
+{
+  "id": "D2N180",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "patient shirley taylor . date of birth 5/4/1961 . mrn 0000123 . patient is a 60 year old right-handed female new patient referred by dr. jacob ward for evaluation of bilateral hand numbness and tingling . please note that i personally reviewed the ct brain with and without contrasting did 2/5/21 . uh , no metastatic disease . no acute intercranial abnormalities ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hello ms. taylor . how are you doing this morning ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "hi dr . lopez . this weekend was a bit rough . i've had this numbness and tingling for a few weeks now ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "so , in both of your hands ?"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "yeah . ever since my car wreck last december when i broke them . well , once they heal , i mean , i noticed it more , the , the tingling and numbness ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "are you still wearing the splint only on your right wrist ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "no . i wear the left one also sometimes . the right one's just worse . the splint seems to help . both have gotten worse over the last month . when i broke them though , my wrist was definitely in worse shape than it is today . i've been having some mild stiffness in my neck too . i hit my head during the accident , and they told me it was a contusion ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay . and where exactly on the right side would you say the tingling and numbness is ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "on the right , i can really notice it from my middle and ring finger all the way up to my forearm , and on my left , a bit more the pinky and the ring and not the middle ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "all right . and , um , is there is pain or , or just tingling and numbness ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "uh , mainly just sore . sometimes they throb , but overall , they feel weaker too , especially when i'm using them . the tingling happens some more , but when they hurt , you know , it goes away and then the tingling's just dull ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "what kind of activities ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "well , really , i guess , just more so at night , and then it just kind of comes and goes throughout the day ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay . and do you experience any loss of sensation in your hands or fingers ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "uh , like , like feeling something ? no , not that i can think of really . in general , they might be less sensitive than they should be , but i can still feel . they gave me some nerve pain medicine , but i have n't been taking it like i should be ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay . looks like your medical history is notable for chronic kidney disease , gout , hypertension , anxiety , gerd , and diabetes ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "well , i had pre-diabetes , but i got in under control changing my diet ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay . good . and are you still on the carvedilol 25 milligrams two times a day for hypertension and lexapro 10 milligrams a day for anxiety ? looks like your allergic to sulfa drugs as well . is that correct ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "yeah , i'm still taking those and sulfa just causes me to break out in a rash ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "and no history of thyroid issues , right ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "nope ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "all right . thank you ms. taylor . i'll be right back for your exam . i want to look up that medication you mentioned for your nerve pain ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "all right . thanks ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "review of systems , please make the following changes . uh , constitutional , patient reports fatigue and weight gain . gi , um , excessive appetite and bloating . eyes , floaters . uh , cardiovascular , shortness of breath and leg swelling . endocrine , positive diabetes , always hungry . skin , nail bed trenches , dryness , itching . musculoskeletal , gout , muscle pain . neurological , parasthesia , bilateral hands ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "um , please use the default normal neuro-physical exam with the following changes . sensations normal except pin prick sensation diminished in the third and forth fingers on the right . and the fourth and fifth fingers on the left . reflexes are one plus and symmetric , two plus knees , toes are down going bilaterally , tinel's sign positive at both wrists and both elbows ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "let's move onto assessment and plan , bilateral carpal tunnel syndrome , question of bilateral cubital tunnel syndrome . i discussed my impression with the patient , i will schedule her for emg , ncv . if her symptoms do not resolve , we can consider hand clinic referral for possible symptomatic injections or carpal tunnel release surgery although she can pursue these uh , through her current orthopedist . i encouraged her to wear her splints , returned for emg , ncv . end of note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 60-year-old female presenting for evaluation of bilateral hand numbness and tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor reviewed a CT brain scan from 02/05/2021 which showed no metastatic disease or acute intracranial abnormalities.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hand numbness and tingling",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the numbness and tingling are present in both hands.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports symptoms began after a motor vehicle accident in December where she broke both wrists.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still wearing a splint only on her right wrist.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient wears splints on both wrists, reports worsening symptoms over the last month, mild neck stiffness, and a head contusion from the accident.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the specific location of the numbness and tingling on the right side.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports tingling in the right middle and ring fingers radiating to the forearm, and left pinky and ring fingers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experiences pain or only numbness and tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports soreness, throbbing, and weakness in the hands, noting that pain exacerbates the tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about activities that exacerbate the symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports symptoms occur mostly at night and come and go throughout the day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced any loss of sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies complete loss of sensation but notes decreased sensitivity and reports not taking prescribed nerve pain medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Medical History",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient clarifies she has prediabetes controlled by diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor confirms the patient is taking carvedilol 25 mg twice daily and Lexapro 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a sulfa allergy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "allergy"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is taking the medications and that sulfa causes a rash.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "allergy"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a history of thyroid issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any history of thyroid issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor documents the review of systems including fatigue, weight gain, floaters, leg swelling, shortness of breath, excessive appetite, bloating, nail bed changes, dryness, itching, gout, muscle pain, and bilateral hand paresthesia.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The physical exam shows diminished pinprick sensation in the 3rd/4th fingers (right) and 4th/5th fingers (left), 1+ symmetric reflexes, 2+ knees, downgoing toes, and positive Tinel's sign at wrists and elbows.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Assessment and Plan",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The assessment is bilateral carpal tunnel syndrome and possible bilateral cubital tunnel syndrome.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0025",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The plan includes scheduling an EMG/NCV, considering hand clinic referral for injections or surgery if symptoms persist, and encouraging splint use.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0025",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "bilateral hand numbness and tingling; none",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

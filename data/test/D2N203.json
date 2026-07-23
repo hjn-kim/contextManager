@@ -1,0 +1,466 @@
+{
+  "id": "D2N203",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "good afternoon matthew how are you"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm okay"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "it looks like here that the that you've been brought in for some vision changes and looks like you're having trouble with your right eye can you tell me a little bit about what brought you in to see me today"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yeah you know i started noticing my wife and i we we eat out almost every night and it's when especially when we go to fancy place"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i have trouble adjusting in the that dark dim environment"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay and i reviewed my technician's notes before i came in to see you and it says you know you you've been having that decreased vision when you're reading especially in dark place like you just said but it also mentions here that it looks like you told her that when you look at straight lines like in your door frame it looks like things have been looking a little crooked to you how long has that been going on"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "well you know it's been going on a little while probably getting worse over the last three to four months and you know my my office has paneling and you know how that paneling has that dark grooves in it those straight lines well they always look wavy to me"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay alright so it's been going on a few months now you mentioned that you and your wife go out to eat every night have you tried the new the new italium place over there on main street"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "my gosh yes we were just there the other night down in the it's down in the basement of that big building yeah we went there the other night and i got ta tell you it was like the saprano family was sitting across from us there was this bunch of old guys that had bottles of of red wine all over the table and they were my gosh it was so good and the food i mean i mean i ca n't tell you how great the food was"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "it was"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "it was just phenomenal"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "it was amazing my wife and i went over there the other day and when we walked downstairs it was like i was walking into a scene out of saprano's"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "but the food was amazing it was the best egg plant parmer's john i've i've ever had where really super excited about going back there here very very soon"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "yeah i had the bio marsal and it was my gosh it was to die for"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "i'll have to get that next time i go so in reviewing your paperwork here it looks like you made mention that you smoke are you still smoking about a pack a day"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah i i tried i've tried i've done hypnosis i've done lozenges i've done chewing gum and i get real close but you know i'll just go out one evening without the wife and and the next thing i know i'm i'm you know buying a cigarette off of somebody and it's it's really hard for me to get that stopped"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "yeah i i appreciate that but it's really gon na be important that you try to to either cut back or quit smoking altogether now that leads me into my next concern here it looks like you have a history of high blood pressure and i'm just wondering are you are you taking your blood pressure medication as prescribed and and are you checking your blood pressures on a regular basis"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i'm glad you just mentioned that because i have n't taken my blood pressure pill for a while it's up in the cupboard and it's back in that corner and i just i ca n't forget to take it"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay it's really gon na be important that you take your medication for your blood pressure as prescribed i'd really like to see you start doing that today and then let's let's go ahead and and let's set that that pill bottle down on the counter and see if that does n't help you remember to take that blood pressure medicine if it's okay with you i would like to do a a quick physical exam on your eyes i'm gon na go ahead and take off your glasses and put your chin here in the chin rest for me"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "okay that's a bright light"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "yeah i'm sorry about that it it's just gon na help me check the lenses in both of your eyes so it looks like the anterior segment examination reveals posterior chamber intraocular lenses in both eyes for the right eye the cornea is clear no nvi peak hole cup to disc is . two fundus examination of the right eye shows the retina to be attached three hundred and sixty degrees no holes or tears noted and rpe changes in the fovea now the posterior segment exam shows drusen in the macula retinal thickening and presence of subretinal fluid and exudate accumulation and it is positive for a hemorrhage now for your left eye the cornea is clear no mvi pecal cup to disc is . three rpe changes in the fovea no hemorrhage noted or subretinal fluid noted and the retina is attached appropriately now i reviewed the results of your diagnostic exam so the otc exam shows those drusen deposits under the rpe which is the retinal pigment epithelium and then the subretinal fluid so the srf accumulation and choroidal neovascular membrane can also be visualized in that test now the fluorescein angiography so the using the the fluorescein there reveals that the focal area of the leakage in the right eye is consistent with neurovascular age related macular degeneration now for my impression and plan it looks like the diagnostic test and the eye exams are consistent with the neovascular age related macular degeneration also called wet macular degeneration now it's advanced to a stage that usually leads to more severe vision loss happening now this happens when those abnormal blood vessels start to grow beneath the retina what happens is they leak fluid and blood which is wides called wet macular degeneration and what happens is secondary to that it creates a large blind spot in the center of your visual field that's why it it kinda looks like you'll see a black dot in the center of your vision field now it is the most common cause of severe vision loss now the good news is we have a plan for you for this now once a month i want to give you an injection of lucent now it's gon na be injected in the vitreous portion of the eye after we numb the eye so you're not gon na feel any pain and those injections yeah i know the one once i numb the eye you wo n't feel any pain in that injection at all patients report no pain at all for the actual injection"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "have you ever somebody stick a needle in your eye"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "well"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "what i mean not not yeah literally stick a needle in your eye"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "yeah literally yeah"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "the good news is injection given over time can slow the rate of the vision decline and maybe even stop it however i also have to let you know that there could be a situation where you may still note a small amount of vision loss but this is your best chance of maintaining that vision for as long as you can so i know i have given you a lot of information i wan na pause here and see if you have any questions comments or concerns before we get you scheduled for that injection"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "no i'm i mean as as long as you think it wo n't hurt a lot that will be good"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay i think it's gon na be our best plan to help slow this disease process"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "alright so i'm gon na have the nurse come in and get you prepped and we're gon na go ahead and do the first injection today"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "okay okay"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "sounds good i'll be back in a couple of minutes"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay thank you very much"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a male presenting with vision changes in the right eye.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Vision changes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports decreased vision when reading and wavy straight lines.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the vision symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports vision symptoms have been worsening over the last three to four months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still smoking one pack of cigarettes daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he smokes and has attempted to quit using hypnosis, lozenges, and gum.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "High blood pressure",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking his blood pressure medication and monitoring his blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient admits he has not been taking his blood pressure medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to take his blood pressure medication as prescribed and move the bottle to a visible location.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor declares he will perform a physical examination of the eyes.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: Right eye has posterior chamber intraocular lenses, clear cornea, 0.2 cup-disc ratio, intact retina, RPE changes, drusen, retinal thickening, subretinal fluid, exudate, and hemorrhage. Left eye has posterior chamber intraocular lenses, clear cornea, 0.3 cup-disc ratio, RPE changes, and attached retina. Diagnostic results: OCT shows drusen, SRF, and choroidal neovascular membrane. Fluorescein angiography confirms neovascular age-related macular degeneration.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor explains the diagnosis of wet macular degeneration, the mechanism of fluid/blood leakage, and the prognosis of vision loss.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor explains the treatment plan of monthly Lucentis injections to slow vision decline.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if the doctor has ever performed an eye injection.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reiterates that injections are the best chance to maintain vision and invites questions.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient expresses concern about pain during the injection.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor confirms the first Lucentis injection will be performed today.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "wet macular degeneration; high blood pressure",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

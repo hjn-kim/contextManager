@@ -1,0 +1,1244 @@
+{
+  "id": "D2N199",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi billy how are you doing the medical assistant told me that you have a cough today"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yep i'm doing pretty good you know cough started about a week ago or so you know i just started bringing up some yellow stuff and not feeling the greatest the last two days though"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay alright so the cough started a week ago but you have have started feeling worse over the last two days correct"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yep"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yep"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "alright now have you had any fevers"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "not that i remember i i feel warm but never really took my temperature"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "you feel warm okay alright any chills"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "no no chills you know just a little achy at times"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and how about any shortness of breath do you ever feel short short of breath at all"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no no i have no shortness of breath"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "no shortness of breath okay and how about any runny nose sore throat sinus pain or pressure"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah i get a like congested you know kinda drainage down my throat and you know a little bit of pressure in my sinuses"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and anyone else sick in your household"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no unfortunately just need"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "just you okay and what do you do for work"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i work as a teacher"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "you're a teacher okay well that that can you know explain a lot okay now how about your hypertension now i know that you have a history of hypertension we kinda battled with that over the over the past year or so how are you doing with that did you buy the blood pressure cuff that i asked you too"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "no"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "i do n't check it at all"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "you do n't check it at all okay that's that's okay i i looked at it here we will talk about that in a minute and are you taking the lisinopril i think we have you on twenty milligrams a day"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "i think that's what i'm taking"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay but you do take it"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah it's a white pill"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay alright yeah i'm not really sure what it looks like but okay as long as you're taking it so that's good and how about your diet are you watching your are you watching your salt intake"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "not really i just kinda i feel the blood pressure medicine would do what's supposed to do"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay alright alright well what else is going on are you a are you a sports fan i was really sad to see that the that cincinnati bangel has lost the super bowl do you follow baseball or anything like that"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "no i was n't too sad about that i'm a brown span"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "you're a brown span okay yeah"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "now when you bring up sports though you know i also have actually when i was coughing a couple earlier this today i twisted my knee"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "you twisted your knee how did you how did you do that"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i was coughing i fell down the stairs"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "you were coughing and you fell down the stairs today okay alright well how many how many stairs did you fall down"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "man it's like probably maybe it was four or five"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "four or five stairs and what knee did you injure"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "my right knee"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "your right knee and have you been able to walk since that happened that happened this morning"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yeah correct"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yeah but i i still can walk it just hurts mostly on the inside"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "mostly on the inside okay and can you can you can you bend your knee and straighten it"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yep"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "yeah okay and are you limping at all or you just walking pretty normally"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "just i have a little bit of a limp"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay does it feel like it's gon na give out"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay have you taken anything for the pain"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "no i just been taking just stuff for over the counter stuff for my cough and cold stuff kinda like dayquil"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "i do n't take anything else"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "okay have they helped at all with the cough"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "little bit little bit with the cough"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "okay alright lastly i just want to talk a little bit about your diabetes now in terms of your diabetes are you watching your sugar intake"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "no no i do n't i do n't even take my blood sugars either"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "okay are you taking what's that"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "i'm a bad patient i do n't take my blood sugars"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "that's okay you're not a bad patient that's okay it happens i know things you know you're you're busy but you know we do want i do want you to stay healthy you know you're you are a patient of mine i want i want to continue to see you over a long period of time so it's important for you to to you know watch your diet you know because we can have some complications from diabetes like kidney dysfunction and eye problems and things like that and i know that you are 74 and you know you have n't really had a lot of issues up until this point and you know so you have a you know still a long life to live so i would like to see you you know try to you know monitor your diet and and your blood sugars are you taking the metformin"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "yeah i think that's the big pill"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "okay i'm not really sure what it looks like but you're supposed to be taking a thousand milligrams twice a day are you taking it twice a day"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "yeah i'm taking my wife puts in the my box i take something twice a day i know that"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "okay how is your wife doing she is a very lovely person i i i remember seeing her at your last visit"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "she is doing fine"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "she"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "as long as she stays on the other side of the house no"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "yeah i say the same thing to my husband okay well let's go ahead i wanted you to just do a quick physical exam so i'm gon na be calling out some of my exam findings and i'm gon na let you know what they mean when i'm done okay so looking here at your vital signs you know you do n't have a fever here in the office which is good your temperature is ninety eight . four on your blood pressure it seems like you are doing a pretty good job monitoring your blood pressure your blood pressure is right where it should be it's about one twenty five over sixty two which is good your heart rate is nice and slow in the eighties and your oxygenation is fine it's ninety seven percent on room air so all of that is is really good now on on your facial exam i'm just pressing on your face here do you have any pain to palpation"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "just right underneath my eyes"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "on one on what side"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "actually both"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "okay okay on on facial examination the patient has pain to palpation of the bilateral maxillary sinuses on nasal exam there are there is erythema and edema of the nasal turbinates bilaterally with associated yellow discharge on throat exam can you open up your mouth on your throat exam the the uvula is midline there is no erythema or edema or exudate in the peritonsillar space on neck examination i do appreciate some bilateral cervical lymphadenopathy and on your lung exam there is coarse rhonchi present bilaterally that clears with cough on your heart exam your heart is in a nice regular rate and rhythm i do n't appreciate any murmur and on your right knee exam does it hurt when i press here"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "yep"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "okay there is pain to palpation on the right knee and i'm just gon na move it all around does that hurt"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "little bit yeah"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "okay so there is decreased flexion and extension of the right knee there is associated ecchymosis to the right medial knee there is no evidence of an effusion okay so billy what does all of that mean that means that you just have signs of that you have a little bit of an upper respiratory infection that might have caused some congestion in your in your lungs which we will talk about okay and then and as far as your knee exam it just shows that you do have some inflammation and some evidence that you had injured it earlier so let's just talk a little bit about you know my assessment and my plan for you for all of these issues okay so for your first problem of your cough you know i do believe that you just have a a viral syndrome at this time you probably have some mild bronchitis i really just wan na go ahead and just you know recommend some supportive care you can continue to take over the counter medications we can prescribe guaifenesin six hundred six hundred milligrams twice a day to help cough up some of that phlegm and i do n't think you need need any antibiotics at this time but certainly if your symptoms worsen i want you to call me and then we can go ahead and consider ordering a chest x-ray to make sure that you do n't have any pneumonia okay how does that sound"
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "that sounds good"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "okay so for your second problem of your right knee pain i do believe you have a a a right medial collateral ligament strain from the fall this morning and i really wan na just go ahead and and i'll prescribe some meloxicam fifteen milligrams once a day and we can refer you to physical therapy to help strengthen those muscles around that area and i'm gon na go ahead and just order a right knee x-ray just to make sure that you did n't injure any bones although i do n't think you did but we'll just go ahead and order that right knee x-ray how does that sound"
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "okay that sounds like good good plan"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "okay and then for your third problem of your hypertension let's just continue on the lisinopril twenty milligrams a day i wan na go ahead and order a lipid panel to make sure everything is okay from that standpoint and lastly your fourth problem your diabetes i wan na go ahead and order a hemoglobin a1c just to make sure we do n't have to make any adjustments to your metformin and i really want you to try to monitor your sugar intake and report your blood sugars to me through the patient portal how does that sound"
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "okay i'll try that i try my best"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "alright that sounds good i'll i'll be in touch with you with those results okay"
+    },
+    {
+      "id": "line_0081",
+      "speaker": "patient",
+      "text": "okay appreciate it"
+    },
+    {
+      "id": "line_0082",
+      "speaker": "doctor",
+      "text": "alright take care bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Cough",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a cough starting one week ago with yellow sputum and worsening symptoms over the last two days.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor confirms the timeline of the cough and worsening symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any fevers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports feeling warm but has not taken his temperature.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any chills.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chills and reports body aches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about nasal congestion, sore throat, and sinus pain or pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports nasal congestion, throat drainage, and sinus pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if anyone else in the household is sick.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's occupation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is a teacher.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been monitoring his blood pressure at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient does not check his blood pressure at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking lisinopril 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is watching his salt intake.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is not watching his salt intake.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right knee pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "other"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient twisted his right knee after falling down stairs while coughing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the injury occurred.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how many stairs the patient fell down.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient fell down four or five stairs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks which knee was injured.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient injured his right knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been able to walk since the injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient can walk but experiences pain on the inside of the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient can bend and straighten his knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient can bend and straighten his knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is limping.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a slight limp.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the knee feels like it will give out.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies the knee feels like it will give out.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has taken anything for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has only taken over-the-counter cough and cold medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is watching his sugar intake.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0054",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is not watching his sugar intake and does not check his blood sugars.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0054",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking metformin 1000 mg twice a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0054",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he takes his medication twice a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0054",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0066",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's vitals are: temperature 98.4, BP 125/62, heart rate in the 80s, and SpO2 97%.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has pain to palpation on his face.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0067",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain under his eyes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0069",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports bilateral pain under his eyes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: bilateral maxillary sinus tenderness, nasal turbinate erythema/edema with yellow discharge, midline uvula, no pharyngeal exudate, bilateral cervical lymphadenopathy, coarse rhonchi clearing with cough, regular heart rate/rhythm, no murmurs, right knee pain to palpation, decreased knee flexion/extension, and medial ecchymosis.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0074",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains the diagnosis of a viral upper respiratory infection and right medial collateral ligament strain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes guaifenesin 600 mg twice a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to call if symptoms worsen to consider a chest x-ray.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0076",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg once a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor refers the patient to physical therapy and orders a right knee x-ray.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0078",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor instructs the patient to continue lisinopril 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a lipid panel, hemoglobin A1c, and instructs the patient to monitor blood sugar and report via the portal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "cough",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

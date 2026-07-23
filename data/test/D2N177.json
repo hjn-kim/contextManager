@@ -1,0 +1,791 @@
+{
+  "id": "D2N177",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi bruce , how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hey , good to see you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "good to see you as well . uh , so i know the nurse told you a little bit about dax ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "i'd like to tell dax about you-"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "so bruce is a 60 year old male , with a past medical history , significant for depression , type two diabetes and hypertension , who presents for followup of his chronic problems ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "so , bruce , i saw you a couple months ago-"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "how are- how are you doing ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "it's been a crazy year and a half and i think the uh the anxiety , the pressure of getting ready for thanksgiving was really starting to wear on me ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "did you have a nice holiday ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "i , i did but it was uh , it was great to see everybody after about two years but it was just a lot of work ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "a lot of stress ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "yeah . yeah . and what do you have to look forward for like , the new year and that type of thing . are you- more gatherings like that ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "um planning to take a vacation . so hopefully somewhere nice and warm ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . all right . um , well how are you doing in terms of your depression . i know that we've kind of talked about this in the past ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "and we have n't put you on medication because you're on other meds and you- you have n't really wanted to do that , so what strategies are you using ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah . over the summer we tried something new . i started going for long walks outside every morning. the weather was so nice and all the plants were in full bloom that i loved to start my day that way. on the weekends, it even encouraged me to do a little in the yard myself which was a nice way to be active and get some sun. but with the seasons changing and it getting so cold out, i have not been able to keep doing it and need to find something new to do. . i'm not ready yet to try any meds , so i think i'd like to look into some alternative options ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . so yeah . so we can talk about some therapy and-"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "that type of thing ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "all right . and no ... you do n't wan na harm yourself or others ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "any thoughts like that ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "no , okay . and then in terms of your diabetes , how are you doing , you know especially with the holidays managing your- your sugar intake and that type of thing ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "uh , got through halloween okay . did n't stick to the diet too much through the thanksgiving week but it's a little bit better . so i've been trying to really monitor it ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay . and are you ... you're still taking the metformin , correct ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay . all right . and then in terms of your high blood pressure , did you buy the blood pressure cuff that i recommended ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay . and how have they been running . i have n't received any you know notes from you in the portal ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "nothing out of the ordinary . it's been pretty moderate ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "it's been pretty good . and you're still taking the lisinopril , no problems with that ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "mm-hmm . correct ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay . all right . i know you did a review of system sheet when you checked in ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "um , do you have any symptoms . chest pain , shortness of breath , belly pain-"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "blood in your stool ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "weight loss . anything like that ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay . all right . i wan na go ahead and do a quick physical exam ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "hey dragon . show me the vital signs ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "so here in the office . i agree . your blood pressure looks good . uh , i think you're doing a good job with that so keep up the good work . i'm gon na go ahead and take a listen to your heart and lungs , i'll let you know what i find ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "all right . so on physical examination , everything looks pretty good , so on your neck exam , i do n't appreciate any carotid bruits . on your heart exam i do appreciate a slight two out of six systolic ejection murmur heard at the left base , which we've heard in the past ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "your lungs are nice and clear and you do have uh one plus non-pitting edema bilaterally in your lower extremities . so what does all that mean ?"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "it just means i heard a little sound in your heart , which you know is n't anything clinically significant . we had looked into that last year ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "you do have a little swelling in your legs but that might just be from your your diet recently , okay ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "i wan na just take a look at some of your results . hey dragon , show me the ekg ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "so i just had the nurse do an ekg on you before you came in just to make sure we were n't missing anything . you're in your 60's we have some risk factors . everything looks good ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "there's no evidence that i'm concerned about anything at this time . hey dragon , show me the diabetes logs ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "so on your diabetic labs , your hemoglobin a1c is elevated . it's at eight . i'd like to see it closer to six ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "now some of them might be having to do with the holidays that type of thing but i still think that we need to get that under better control ."
+    },
+    {
+      "id": "line_0066",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "doctor",
+      "text": "so lets talk a little bit about my assessment and plan for you so for your first problem of your depression i'd like to just go ahead and refer you to uh psychiatry not for medications , but just for some talk therapy that type of thing , okay ?"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "patient",
+      "text": "that's fine ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "doctor",
+      "text": "um , for your second problem of your type two diabetes i'd like to go ahead and order a hemoglobin a1c in the next couple months . i want to increase the metformin to 1000 milligrams twice a day . and we're gon na go ahead and order a lipid panel , okay ."
+    },
+    {
+      "id": "line_0070",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0071",
+      "speaker": "doctor",
+      "text": "uh , lastly for your third problem for your hypertension i'm gon na go ahead and order an echocardiogram just to recheck it . just that heart murmur . and i'm going to go ahead and keep the lisinopril at 20 milligrams a day . do you have any questions ?"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "patient",
+      "text": "no questions ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "doctor",
+      "text": "okay the nurse will be in soon , she'll get you checked out , okay ?"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "patient",
+      "text": "you got it ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "doctor",
+      "text": "hey dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 60-year-old male with a history of depression, type 2 diabetes, and hypertension presenting for follow-up.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports increased anxiety and stress related to holiday preparations.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Depression",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what strategies the patient is using to manage depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient used walking and gardening for depression relief but needs new methods due to seasonal changes and declines medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has suicidal or homicidal ideations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies suicidal and homicidal ideations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient admits to dietary indiscretion during the holidays but is improving.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0030",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still taking metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0030",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient purchased the recommended blood pressure cuff.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports home blood pressure readings are moderate.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still taking lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about symptoms including chest pain, shortness of breath, and abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain, shortness of breath, and abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about blood in the stool.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about weight loss.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows no carotid bruits, a 2/6 systolic ejection murmur at the left base, clear lungs, and 1+ non-pitting edema bilaterally.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The EKG results are unremarkable.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0064",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The hemoglobin A1c is elevated at 8%.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0030",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0067",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will refer the patient to psychiatry for talk therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0069",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a repeat hemoglobin A1c and lipid panel.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0030",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor increases metformin to 1000 mg twice a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0030",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0071",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order an echocardiogram for the heart murmur.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor continues lisinopril 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "chronic problems; depression;type 2 diabetes;hypertension",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

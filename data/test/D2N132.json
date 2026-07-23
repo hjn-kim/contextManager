@@ -1,0 +1,663 @@
+{
+  "id": "D2N132",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hello mrs. lee , i see you're here for back pain ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "hey dragon , i'm seeing mrs. lee today for , uh , back pain . she's a 40-year-old female . so can you tell me what happened to you ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yes . i was at a birthday party and it was surprise party . so we were all like crunched behind and hiding . and when the person came in we all jumped out , and then i fell down the little stair and i rammed my back into the railing of the s- , uh , staircase ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so it was a surprise for you too ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yes it was ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "very good . okay . so , um , did it hurt because you hit it , or did you twist ? what happened when you ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i think it was my motion-"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": ". of jumping up , or something ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "and maybe a twisting ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . any pain shooting down your legs at all ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "is it on one side or the other of your back ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "um , it's more on the right ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "on the right . is there anything that makes it better or worse ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "uh , if i'm lying flat it hurts a little more , and any twisting motion for sure ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . all right . and do you have any history or any back problems before ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i did . i had a fusion done ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay , yeah that lumbar fusion . um , let's take an x-ray . hey . or let's look at an x-ray . hey dragon , show me the latest x-ray . okay , we can see where you had your fusion , t4 here on the x-ray . but i do n't see anything that looks , um , significantly abnormal . it does n't appear to have any compression fractures or anything like that . so , it's essentially , except for the fusion , a normal exam . let me do your exam for you here . can i have you stand up please ? does it hurt when i twist you that way ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . you can sit back down . if i lift your leg here , does that bother you ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "how 'bout when i lift this leg ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "any pain shooting down your legs when i do that ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay . and can you feel me touching down here ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay , great . so , you had a injury to your back when you were twisting at the birthday party . you do n't really have any pain or numbness down your legs . you have some stiffness with rotation , um , but you do n't have any evidence of a , um , what we would call a pinched nerved or radiculopathy . so , i think you basically have a strain of your lower back . um , have you been taking any medications ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "just some ibuprofen ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay . and do you have any other , um , medical problems ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "um i take medication for anxiety ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay . and that's all ? okay . um , so what we're gon na do is i'm gon na give you , um , just continue the motrin at 800mg , three times a day , with food . i want you to use some ice and heat , alternating on your back . but i do want you walking ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "um , and , uh , this should sort of take care of itself after a few days . if it's not , or it's getting worse , i want you to come back and see me over the next week ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "does that sound good ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "it does ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay , dragon . hey dragon , go ahead and order the medications and procedures and close out the note . come on i'll bring you out to check out ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "thank you ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Back pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 40-year-old female presenting with back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the mechanism of injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient fell and rammed her back into a staircase railing while twisting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain was caused by impact or twisting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the injury involved a twisting motion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has pain radiating down her legs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain radiating down her legs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is localized to one side of the back.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain is primarily on the right side.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about aggravating or alleviating factors for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that lying flat and twisting motions aggravate the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about prior back problems.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a history of lumbar fusion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Lumbar spine X-rays show no acute fracture and hardware from a prior fusion in good position.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if twisting causes pain during the physical exam.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if lifting the leg causes pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The straight leg raise test is negative.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there is pain shooting down the legs during the exam.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor checks for sensation in the lower extremities.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Sensation is intact.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the patient with a lumbar spine strain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking any medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is taking ibuprofen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about other medical problems.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a history of anxiety.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is instructed to take Motrin 800 mg three times a day with food.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor recommends alternating ice and heat and walking.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient should follow up in one week if symptoms persist or worsen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "back pain; lumbar fusion;anxiety",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

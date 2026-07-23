@@ -1,0 +1,642 @@
+{
+  "id": "D2N129",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "good afternoon , beverly . good to see you ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "nice to see you too ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so , i know my nurse told you a little bit about dax . um , now , if you do n't mind , i'd like to tell dax a little bit about you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "go for it ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "great . um , beverly's a 24 year old female patient , and i know you have a history of type 2 diabetes and high blood pressure . correct ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yep ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . so , you're here today for your yearly exam . have n't seen you in a year . how're you doing ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i've been doing well . i began working in a bakery this summer which has been super fun. i have really been enjoying working there, but i find myself, since i am so close to so many delicious treats, snacking a lot during shifts and eating a lot more desserts than i normally would."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay , so , that brings me to your diabetes . so , how have your blood sugars been ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "uh , not so good ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "so , they've been up and down because of my diet , i think , because i've been taking my medication as prescribed . um , so , i have n't missed anything there , but my diet has been pretty bad lately ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "pretty bad lately ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . and , that's really the only thing that's different is your diet , pretty much ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "and , that's because of the new job and all that ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah. it has been really challenging to resist the temptation."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "it's hard to ignore those desserts , are n't they ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "no willpower like me ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "no , no willpower ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . all right . and , and then , um , i know you've had high blood pressure , hypertension . how is , how have your blood sugars been ? have you been checking them ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "so , my blood pressure's been good . um , despite my , um , my diabetes levels being up and down ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "so , that's been good ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay , so , your blood pressures have been normal . you've been sleeping well ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yep , getting a full eight hours ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "no concerns about hurting yourself or anything like that ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay , good . okay , and i know my , um , nurse did a review of systems . other than what we've talked about so far , is there anything else that you needed to add ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "good . so , pretty much status quo except for those things that we've been working on , right ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yep ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay , good . all right . well , let me do a quick physical exam , okay ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay , squeeze my finger here . good . can you feel me touch out here ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "yep ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay . and , can you feel me touch you down here ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yep ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay . no swelling . push your leg out . good . pull it back . mm-hmm . go . good . okay . so , on my exam , um , essentially , your exam is normal . your , um , heart is regular . you do have that grade 2 , um , systolic ejection fraction back ejection murmur that you , um , that we've heard in the past . okay ? so , um , we definitely know that's there . that's unchanged , okay ? um , your lungs are clear . um , your grips are equal . neurovascular's intact . you do n't have any carotid bruits in your neck , no thyromegaly . no edema . um , pulses are good , so essentially , your exam is , is essentially normal . let's take a look at some of your lab work , okay ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the hemoglobin a1c . okay , so , blood sugars have been elevated . your hemoglobin a1c is elevated as well , so that tells me your blood sugars have been a little bit out of control . you're still taking the metformin , correct ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yes , i am ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay , and you take that twice a day ?"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "yep ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay . um , uh , hey , dragon ? show me the vital signs . okay , good news here is your blood pressure's good . everything , um , there is fine . so , um , so , my assessment is , is , um , your first problem is diabetes . it's a little out of control . we'd like that hemoglobin a1c to be under seven , um , at least . you know , preferably , under six ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "so , um , uh , i'm not gon na change your medication . i think this is diet related , so i want you to try to cut down on the snacking and additional sweets , okay ?"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "and , i want you to check your blood sugars in the morning . i want you to call them in in about two weeks so we know what your first , um , fasting blood sugar was in the morning , and then , we'll come back and see you in about two months and see if everything has straightened out . if it has n't , then we'll talk about adding another medication , okay ?"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "your second problem is your hypertension . that seems to be relatively stable . i want you to stay on your current medication . you're on li- lisinopril 10 mg once a day . just stay right on that medication . no changes at this point . seems to be doing well , okay ?"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "good . anything else i can do for you today ?"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "no . that's it ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "good . come with me , we'll get you checked out ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "thank you ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "hey , dragon ? finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 24-year-old female with a history of type 2 diabetes and hypertension.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Annual exam",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient started working at a bakery and reports increased snacking on sweets.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's blood sugar levels.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports uncontrolled blood sugars due to diet and confirms adherence to medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's blood pressure and blood sugar monitoring.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports stable blood pressure despite fluctuating blood sugars.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is sleeping well.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports sleeping 8 hours per night.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about suicidal ideation or self-harm.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies suicidal ideation or self-harm.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor initiates a physical examination.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include a grade 2/6 systolic ejection murmur, clear lungs, intact neurovascular status, and no carotid bruits, thyromegaly, or edema.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin A1c is elevated.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still taking metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the frequency of metformin administration.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient confirms taking metformin twice a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to reduce snacking and sweets.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to check fasting blood sugars, call in results in two weeks, and return for follow-up in two months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is instructed to continue lisinopril 10 mg once daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "annual exam; type 2 diabetes;hypertension",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

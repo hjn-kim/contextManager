@@ -1,0 +1,584 @@
+{
+  "id": "D2N167",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "angela good to see you today so i'm writing here in my notes that you're you're coming in you had some left knee pain so how did you hurt your knee"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah so i hurt my knee the other day when i was running around with my niece she she is learning how to take off the training wheels for her bike"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "and i fell and i think i twisted my knee in some kind of funky way"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay that that that that's not good how old are your niece"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "she is five and perfect"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "well that's good that you're trying to help her with the learning how to ride a bike"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "that sounds fun but i'm i'm sad as you hurt your knee doing it so for your knee pain are you are you able to bear weight on that leg the left leg"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "well i've been limping ever since and it really has n't gotten better so i thought it was maybe time to come see you because it happened about a week ago"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "yeah yeah it's a definitely a good time to come see me so what part of your knee would you say it hurts"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "honestly it's been hurting on both sides more so on the inside than the the outside"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "so okay so more in the medial aspect less on the lateral okay that makes sense and you said did you hear a pop when you when you twisted it"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah i did"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay alright so how would you rate your pain with your knee out of out of one to ten"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "it started off as like a four but i think it's getting worse and it's starting like it's it's like a like a throbbing kind of pain yeah"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "alright and have you taken anything for the pain"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah so i i had like a ulcer not too long ago so my doctor told me that i could n't take any like kind of advil or ibuprofen"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "so i've been taking some tylenol and i wrapped it with kinesiology tape are you familiar with that"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "yep yeah i'm i'm familiar"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "alright and has the has the ibuprofen been helping you at all"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "i ca n't take ibuprofen"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "i mean i'm sorry the tylenol"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "no it's okay but the tylenol it helps like a little bit but you know like it's it's got like a time limit right so by the time and i'm not supposed to take it like more than like every like four hours or something like that but by hour or two like it it hurts again"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay yeah that yeah you ca n't take too much of that tylenol because it'll it'll mess up your liver definitely"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "right"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "alright so go ahead and do a quick exam on your knee here so when i press here does that hurt"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yeah like when you press on the inside that hurts a lot"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay alright i'm gon na do a couple of other other maneuvers here for your knee so on your left knee exam i do appreciate some edema you also have some effusion some fluid in the knee you have moderate range of motion so you're able to move it a little bit but not all the way i also see you have some pain on flexion and extension of the knee even negative lachman's test and a negative valgus and varus test as well so all that to say is i do n't think anything is is torn in your knee based on the your physical exam so we did do a x-ray of your left knee and luckily it was normal so there is no fractures no bony abnormalities so everything is good there so let me talk to you little bit about my assessment and plan for your knee okay"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "alright so for your your left knee pain i believe you you have a mcl strain or a medial collateral ligament that's the inside of your knee i think when you were running with your knee she had somehow twisted it and so you strained that ligament there so for that what i want to do i'm going to give you some pain medication that's not an nsaid so i will put you on some tramadol you can take fifty milligrams you can do that twice a day and then you can take that tylenol as needed for breakthrough pain alright i'm gon na put you in a knee immobilizer leg knee immobilizer and you can wear that for the next week i just wan na keep the knee from moving so it can heal a little bit and reduce some of the inflammation that you're seeing here and i also want you to ice it and you can do that three or four times a day for twenty thirty minutes at a time and that should help some of that swelling as well and i i you know i know your niece is gon na be upset but i just do n't want you to be running probably for the next three weeks with her just to help us get time to let allow the knee to heal so how does that sound"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "that's alright how long do you think it'll be before i can like run or something like that"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "hmmm i think you'll be back to normal in about a month the strain does n't seem too bad but we just need to get you off of the knee so we can allow it to heal i mean once we do that you know along with you know the icing the mobilization and you taking the medication i think you'll be good to go in a month if you do feel like you're getting a little bit worse please feel free to call the office and we can get you in and possibly do more imaging such as an mri to you know to see if it's anything worse but i do n't think it is but just let us know how you feel in a couple of days"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay alright thanks"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "alright any other questions"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no that's it"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "alright great thanks"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is an 81-year-old female presenting with left knee pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Left knee pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient injured her knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient injured her knee one week ago while running with her niece.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient fell and twisted her knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is able to bear weight on the left leg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been limping since the injury one week ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to locate the knee pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain on both sides of the knee, primarily on the medial aspect.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient heard a pop during the injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she heard a pop when she twisted her knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate her pain on a scale of 1 to 10.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates her pain as a 4 out of 10, describing it as throbbing and worsening.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has taken any medication for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient cannot take ibuprofen due to a history of an ulcer.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been using Tylenol and kinesiology tape for pain relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports Tylenol provides only mild and temporary relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient feels pain when he presses on the inside of the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms significant pain when the medial aspect of the knee is palpated.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows edema, effusion, moderate range of motion, pain with flexion/extension, and negative Lachman's, valgus, and varus tests; X-rays show no fractures or abnormalities.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the patient with an MCL strain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes tramadol 50 mg twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises using a knee immobilizer for one week, icing 3-4 times daily for 20-30 minutes, and avoiding running for three weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks how long it will be before she can return to running.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor estimates recovery in about one month and advises calling the office for potential MRI if pain worsens.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "left knee pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

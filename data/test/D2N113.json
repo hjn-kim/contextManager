@@ -1,0 +1,546 @@
+{
+  "id": "D2N113",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi jacqueline how are you doing today"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay i'm just really anxious about my recent blood work that my pcp did and said that i have hepatitis c i'm just really surprised because i've been feeling fine"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay so were you ever told in the past that you have hepatitis c"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "no never"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and do do you have any history like iv drug use known that you know or do you have any known to have any like hepatitis c positive partners"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i mean like years ago i used to party a lot and even use iv drugs but i've been clean for over fifteen years now"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay well very good you know congratulations on that that's that's a great great achievement so tell me though how about alcohol use"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i used to drink a lot a lot more alcohol now i probably would say i drink about a beer a day"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "and maybe slightly more on the weekends but nothing like how i used to"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay alright how about smoking have you ever smoked"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i do smoke i'm down to one to two cigarettes a day it's just really been tough to just get rid of those two but i've cut down a lot i used to i was up to one point or a pack and a half a day"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "wow okay alright so yeah you you definitely have decreased that so that's again good for you on that one so hopefully you keep you keep that up"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "thing"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "so tell me do you have any other medication conditions"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "do i do i no otherwise i'm i'm feel pretty good i had my physical there was nothing else the the only thing i was telling my pcp is i do feel like tend to be really tired at the end of the day after working but otherwise i've been good"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay and and has work been not hard lately you've been busy it sounds like"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i know i have been busy but not really much more than usual"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "so that's why i was kind of marking because i mean i used to you know be able and be fine but i just lately have been feeling like i'm getting enough sleep but i still get very tired at the end of the day"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay alright well i hope you're not working too much and then you'll able to at least find some time with the family"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah i'm i yeah i tend to be a workaholic but yes i i am working on that"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay well i hope kids are doing okay"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "they are thank you"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay good so tell me what conditions what kind of conditions run in your family like is there do you have hypertension diabetes or"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah all of all of the above"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "hypertension diabetes and also depression"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay and depression okay alright well let's go ahead and do a quick physical exam on you here i reviewed your vitals and everything there looks good so that's good and now on general appearance you appear in no distress and no jaundice on skin exam let me go ahead and listen to your heart here great on your heart exam you have a nice regular rate and rhythm with a two out of six six systolic murmur appreciate appreciated that's that has n't changed from last year so we will just continue to monitor that monitor that as well okay"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "alright now let me listen to your lungs here very good so your your lungs are clear with no wheezes rales or rhonchi and let me go ahead and listen to your abdomen great your bowel sounds are present your abdomen is soft with no hepatospleno splenomegaly ca n't talk to appreciated so let me now check your musculoskeletal exam here great i i did n't see any gait disturbance and no edema so that's great so jacqueline i did review the results of your recent blood blood work and your hcv antibody test was positive and your liver panel that was done showing an elevated ast at thirty nine but your alt albumin and total bilirubin were all within normal limits so what that all means and let me go ahead and tell you about my assessment and plan here for your first problem of hepatitis c your initial labs are consistent with hepatitis c so based on the the once i just discussed with you there now hepatitis c is a viral infection that affects the liver so you most likely may have had it for years now so the next step that i would like to do is to confirm the diagnosis with some additional blood work that includes checking the hep c rna and also the hcv genotype okay now i would also like to determine the severity of your liver disease by checking for fibrosis of the liver and i'm gon na do this by ordering a special ultrasound and with this information i'm gon na be able to know how to proceed as far as treatment"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "alright now i know that was a lot of information do you have any questions for me"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yeah so should i be worried about my wife and my kids should they be tested as well"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "yes so we can start with the same screening that you have had for you for all of them first okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay alright so i'll make sure i'll have them set up an appointment with our our family doctor"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay great so if you do n't have any other questions i'm gon na have the nurse check you out and get all that scheduled and i'm gon na see you in about three weeks"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "alright perfect"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "take care jacqueline"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay bye"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hepatitis C",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports fatigue.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a prior history of hepatitis C diagnosis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about history of IV drug use and hepatitis C positive partners.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a history of IV drug use, with cessation over 15 years ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about current alcohol use.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports drinking approximately one beer per day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports increased alcohol consumption on weekends.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about smoking history.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient currently smokes 1-2 cigarettes per day, down from 1 to 1.5 packs per day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about other medical conditions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports fatigue at the end of the day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of hypertension, diabetes, and depression.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms family history of hypertension, diabetes, and depression.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam: patient is in no distress, no jaundice, heart has regular rate with 2/6 systolic murmur.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam: lungs clear, abdomen soft with no hepatosplenomegaly, no edema, no gait disturbance.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Lab results: HCV antibody positive, AST 39, ALT/albumin/bilirubin normal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order hepatitis C RNA, HCV genotype, and a Fibroscan.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if family members should be tested for hepatitis C.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises the patient to have spouse and children tested for hepatitis C.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0001",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will follow up in 3 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Hepatitis C",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

@@ -1,0 +1,583 @@
+{
+  "id": "D2N172",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "morning roy , how are you doing ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hey , good to see you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so , my nurse told you a little bit about dax ? so , if you do n't mind , i'm going to tell dax a little bit about you today ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "perfect ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "great , great . so , roy is a 50-year-old male patient who comes in with a history of depression , you had some , um , high blood pressure and some hypertension ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "so , tell me how have you been doing?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "sure . so it's been a , a pretty stressful winter and spring . and , uh , we've been onboarding a couple new employees and we have been pretty short-staffed in the meantime ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "um , any changes in , um , weight gain or anything like that ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "probably for the last month or so , we've been hosting some friends over vacation , and on ... you know , at the beach in the summer , so the diet is off the charts ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay . okay . gotcha , gotcha ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "out the window ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "out the window . okay . and , um , now i know you've had a history of depression . you're on zoloft , uh , 50 milligrams a day . have you been doing okay with that ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "uh , for the most part . again , it's been kind of a challenging year-and-a-half or so ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "so i have my bouts . but i- it- it's under control ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay . uh , sleeping okay at night ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "mm-"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "occasionally ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "i , i could use more sleep like everybody ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "but, uh, i'll, i'll usually wake up at about 5:00 in the morning ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "which is a little early ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "uh , no feelings of , uh , you want to hurt yourself or anybody ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "no , no ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay , good , good . and , um , your high blood pressure , um , that's been under relatively good control recently . have you found that ? your blood pressures have been okay ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "yes . that's why this is a little concerning to me , because of the , uh , recent , the recent readings ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay , gotcha . gotcha . okay . so , um , if you do n't mind , i'm going to do a quick exam . okay ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay . so , um , on my physical exam , your lungs are clear . your heart is , is regular . you do have a grade two systolic ejection murmur . we've had that before , so nothing new-"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": ". there . um , and not clinically relevant at all . um , your extremities are normal , no edema . um , you have put on a c- a , a little bit of weight ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "i want you to get back on that diet ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "because that's the key . right ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "as far as your high blood pressure , not going to change anything there . okay ? we'll just leave you on your lisinopril 5 milligrams a day , that's good ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "that's also good for your kidneys , so everything , everything good ... is good there . your third problem is your depression . been a rough year . some of that's just normal reactive stuff . so i think we'll just keep you where you are at . not going to change the zoloft . do you need a refill on your zoloft ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "uh , actually i do ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "okay . hey dragon , order a zoloft 50 milligrams daily . we'll get that refilled for you . okay ? so , um , i'd like to see you back in about a month , an- and then in about , uh , three months"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "a1c , if everything's getting back on track . okay ? anything else i can do for you today ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "no . that should do it ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "okay . come with me , we'll get you checked out . hey dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 50-year-old male with a history of depression and hypertension.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Abnormal labs",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a stressful winter and spring due to being short-staffed at work.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced weight gain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient admits to recent weight gain and poor diet due to hosting friends over the summer.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is taking Zoloft 50 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with his depression medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the last year and a half has been challenging.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient states his depression is under control.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is sleeping well.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports waking up at 5:00 a.m.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has thoughts of self-harm or harming others.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies thoughts of self-harm or suicidal ideation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's blood pressure has been under control.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient expresses concern regarding recent blood pressure readings.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: lungs clear, heart regular with grade 2 systolic ejection murmur.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: extremities normal with no edema, patient has gained weight.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to return to his diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient will continue lisinopril 5 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs a refill on Zoloft.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor orders a refill for Zoloft 50 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up visit in one month and another in three months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "abnormal labs; hypertension;depression",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

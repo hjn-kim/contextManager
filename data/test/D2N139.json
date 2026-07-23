@@ -1,0 +1,877 @@
+{
+  "id": "D2N139",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "all right , new patient , jordan roberts . date of birth : 3/2/1972 . he's a 49 year old , uh hm , with hypertension and palpitations . please copy forward his thyroid profile from march 1st , 2021 ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hello mr. roberts , how are you doing today ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "i'm fine , thank you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "good . good . so , i saw you were recently in the emergency room with high blood pressure and some palpitations ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "yeah . that was back in march i think , but my girlfriend and i , we talked about it , and on that day i had a few cups of coffee , and no breakfast . so , i think it was probably more of a panic attack than anything else ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "yeah . have you , uh , have you felt it again since ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "uh , no ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay . uh , so tell me about the blood pressure then ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "well , i've had issues with my blood pressure since i was young ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "do you have a family history of this ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "yeah . a lot of my family does have high blood pressure ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "i see ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "yeah , i thought it was getting better , and , uh , i have a new primary doctor , and she put me on a new medication about a month ago ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "uh , can you tell me which medications you're taking ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "my new med is , uh , a combo med , something 40-25 ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay . um . yes , i see that in your chart . the benicar hct . it has hydrochlorothiazide in it ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "yeah , that's it . my water pill i call it ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay . are you still taking the amlodipine , 10 milligrams daily ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "uh , yes i am ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "that's- that's a good start on a regimen . are you checking your blood pressure at home , and if yes , what numbers are you seeing ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "um , every day ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "awesome ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "yeah . every morning , i take it when i get up , and it's been running at about , uh , 146 to 155 lately ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "so you're not down in the 120s yet ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "no , not yet . well , we're trying to get there though ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay . uh , how are you doing with your salt intake ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "i'm trying to back off of it . i think i'm doing good with it , not eating too much ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "good , uh , it plays a huge part in lowering your pressure and , uh , staying away from salt is important . um , i'll give you some information on the dash eating plan , which is the only eating plan that has been shown to lower blood pressure ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "sounds good ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "are you doing any exercise ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "i do try to walk on the treadmill when i can ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay , great . um , all right . so , let's take a look ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "uh , you're gon na hear me talk throughout your exam , just so i can make sure i get everything documented ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "so , use my general physical exam template . let me take a listen to you and make sure everything sounds good ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "your heart and lungs sound good , so that's great ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "good to hear ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "all right . go ahead and lie down . uh , and let me know if anywhere i press hurts ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "nope . nowhere ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "all right . so , i'm gon na take a look at your ankles and feet . i'm just gon na look for some swelling ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "all right . it all looks good . go ahead and sit up . so , in terms of getting that pressure down , you're on three meds that are maxed out and your blood pressure is still not down . and , the question is what do we need to do to get your- to get it down . uh , your potassium one week ago was 4.0 . uh , has it been redone since in the last week ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "uh , no ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "okay . uh , four is good for your potassium level , some people have what is called resistant hypertension that is driven by something else in their body , uh , often it is a form , uh , hormonal response . if i were to take 10 people under the age of 50 who have high blood pressure who developed it at a young age , eight out of 10 would respond to reduced salt in their diet with a lower blood pressure . but , for the two out of 10 , there is something else driving it , uh , parathyroid levels or something called your adrenal glands overproduce , um , aldosterone , which we call hyperaldosterone ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "okay . so , is there something we can do about it ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "um , in these cases , there's medicine called , uh , spironolactone , that is very effective at dropping the ald- aldosterone level , and your blood pressure , and i think we should give that a try ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "all right . i mean , i'm willing to give it a try ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "okay . so , let's discuss the piss- the possible risk of , uh , being on hydrochlorothiazide , which is the fluid med that you're now on . and , the spironolactone . one issue is that they can affect your electrolyte balance . um , they can also cause dehydration . so , when ... so , you got ta make sure that you hydrate . if you do not hydrate , and you get dehydrated , you will know it because you will get dizzy standing up . um , second thing is the spironolactone can raise your potassium too far , it's rare , but it can . uh , you're starting with your potassium at four , so that gives us some room ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "all right . i guess that makes me feel a little bit better ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "yeah . and then the third thing is that spironolactone combined with hydrocholorozide- chlorothiazide can cause your sodium levels to go down . now , this does not mean- mean that you need to be eating more salt , okay ? but , it does mean that you will need to do blood tests in two weeks to make sure that it's okay ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "all right . no , that i can do . um , are there any other side effects i need to worry about ?"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "uh , dizziness possibly , as well as , uh , one in 100 guys might develop tenderness in their chest , swollen breasts , or enlarged breasts . this is a rare side effect , um , called gynecomastia , and if it happens , you just cut the medication and you let me know , but it is very uncommon ."
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "i'll definitely let you know if that happens ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "okay . uh , we'll keep working at it until your blood pressure gets better . um , it can be tricky when your blood pressure starts to go up at a young age though , it is important to get it under control because it can lead to your heart getting bigger or enlarged . um , same thing that happens when you lift weights and your muscles get bigger , uh , and if your heart pumps against high blood pressure , it can eventually lead to heart failure ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "i understand ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "yeah , so getting that under control is really important to help prevent kidney failure , strokes , and- and things like that- that you're at high risk for with high blood pressure ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "um , the american heart association has a website called heart.org , it has a lot of really good information about blood pressure to teach- to teach you about it and how to control your diet with exercise . um , if you do your treadmill routinely for 30 minutes or so most days , that could be seven to 10 points off your blood pressure ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "really ? i did n't realize that ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "yeah , yeah . it's very important to be active , lower your salt , and increase your potassium . um , the goal is to keep your salt under 2000 milligrams a day , the actual recommendation is- is 1500 milligrams per day , but most people have a hard time with that . um , so just take a look at the website and the dash diet information . um , that will give you a lot of tips and information to help you start learning about this stuff ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "okay . i'll definitely check that out ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "all right . so , we'll try the spironolactone and schedule a followup in two weeks to check your blood pressure and electrolytes . uh , if the new med does n't work , the next up is going to be the resistant hypertension clinic ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "all right . so , there they will look into secondary causes of your hypertension . they have access to newer procedure based technologies that can lower your blood pressure without medication , uh , for example , there is something called a renal , uh , denervation , uh , where they go inside the artery that feeds your kidney with almost like a little coil and heat that artery up . when they do that , they can block the nerve endings that get into your kidneys and lower your blood pressure ."
+    },
+    {
+      "id": "line_0066",
+      "speaker": "patient",
+      "text": "that's interesting ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "doctor",
+      "text": "yeah . so , that procedure has been shown to lower blood pressure by 10 points . um , there are of course some risks , so not everyone is a candidate . uh , but we'll cross that road , uh , when we need to , and let's just- let's just see how you do with the addition of the medication ."
+    },
+    {
+      "id": "line_0068",
+      "speaker": "patient",
+      "text": "sounds good to me ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "doctor",
+      "text": "all right . so , we will see you in two weeks then ."
+    },
+    {
+      "id": "line_0070",
+      "speaker": "patient",
+      "text": "sounds good . thanks doc ."
+    },
+    {
+      "id": "line_0071",
+      "speaker": "doctor",
+      "text": "yeah , you're welcome . let me know if you have any questions ."
+    },
+    {
+      "id": "line_0072",
+      "speaker": "patient",
+      "text": "will do ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "doctor",
+      "text": "all right . have a great day mr. roberts ."
+    },
+    {
+      "id": "line_0074",
+      "speaker": "patient",
+      "text": "you too ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "doctor",
+      "text": "mr. roberts presents with resistant hypertension . he's on three meds and maximum dose . i have added spironolactone to his regiment . we will need to monitor his potassium and sodium . he will have a metabolic panel and blood pressure check in two weeks . uh , next medication would be carvedilol , uh , which i try to avoid giving , it's potential for erectile dysfunction . i have talked to the patient about that , and the potential side effects of spironolactone , including the gynecomastia and electrolyte disturbances . if he is not controlled on spironolactone , the next step would be sending him to resistant hypertension clinic ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Jordan Roberts is a 49-year-old male with hypertension and palpitations.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "High blood pressure and palpitations.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient attributes his ER visit for palpitations to excessive caffeine intake on an empty stomach.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced palpitations since the ER visit.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies further episodes of palpitations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of hypertension.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a family history of hypertension.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to list his current medications.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the patient is taking Benicar HCT.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking Amlodipine 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he is taking Amlodipine 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient monitors his blood pressure at home and what the readings are.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports daily home blood pressure readings of 146 to 155.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's salt intake.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports he is actively reducing his salt intake.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient exercises.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient walks on a treadmill when he can.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical examination of the heart and lungs.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's heart and lungs are normal upon examination.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor examines the patient's ankles and feet for edema.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient is on three maximal-dose medications for hypertension.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's potassium level has been rechecked in the last week.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "plan",
+          "summary": "The doctor proposes adding spironolactone to the patient's regimen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor counsels the patient on the risks of spironolactone and hydrochlorothiazide, including electrolyte imbalance and dehydration.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will need blood tests in two weeks to monitor electrolytes.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about other potential side effects of the medication.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains the risk of dizziness and the rare side effect of gynecomastia.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0059",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor recommends the American Heart Association website (heart.org) for diet and exercise information.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises a salt intake goal of 1500 to 2000 mg per day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0063",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will return in two weeks for a blood pressure check and electrolyte monitoring.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "plan",
+          "summary": "If the new medication is ineffective, the patient will be referred to a resistant hypertension clinic.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "high blood pressure; palpitations; none",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

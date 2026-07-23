@@ -1,0 +1,470 @@
+{
+  "id": "D2N143",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "next patient is grace ross . date of birth 8-23-97 . ms. ross is a new patient . she's here today for a full spectrum std testing . the patient states that she's having symptoms of discomfort , a change in discharge , and odor in her vaginal region . she says that the right side of her vagina is starting to become painful . she denies any fevers or chills . she reports , that she recently learned , her partner has been in sexual encounters with other people , and she wants to be evaluated for all stds ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hello , ms. ross . i'm dr. diaz . it's good to meet you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "hi . yes . nice to meet you , too ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "so , how are you doing today ? i hear that you're here for std testing . is that correct ?"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "yeah . actually , i found out earlier this week , that my boyfriend has been cheating on me , for some time . i'm really worried , that i could have caught something , you know ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "i wanted to make sure i do n't have anything ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "yeah . i'm sorry to hear that . of course , we can do that today . um . well , let's see . how do you feel ? do you have any symptoms ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "well , um , i started noticing some weird discharge last week ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "uh , it smells different . it's not the same color , or consistency , as usually , it is ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "right ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "um . that part did n't even phase me , until i noticed that the right side of my vagina was hurting . just sore , you know , but that has n't gone away ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "yep . nah , that does sound like a cause for concern . how long have you been with him ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "hmm , we've been dating for three years ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "as far as , i can figure , he started cheating on me , i think , about three months ago ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "uh- . um , okay . do you ... have you ever had an irregular pap smear ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "well , yeah , i did , but it was back whenever i was 20 or so . it has n't ... and i have n't had one since ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay . and when was your last pap smear ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "uh , about six months ago . it came back normal , though ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "okay . good , okay . well , let's see ... let's take a look at you , and then , we'll get some samples for std testing . okay ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "you'll hear me talk through your exam , so that i can get it all documented . uh- ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "use my general physical exam template . pelvic exam demonstrates no external lesions . normal labia majora and labia minora . normal physiological discharge , with normal color and smell ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "ms. ross , i'm going to touch you , now . you'll feel my fingers , and the speculum in your vagina . you'll feel some pressure , now ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "cervix is normal . vaginal wall is normal . no cervical motion tenderness and no adnexal tenderness or masses noted . swabs were done for std testing ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay , ms. ross . everything looks good from a visual standpoint . i'm going to send off std testing for , uh , gonorrhea , chlamydia , trichomoniasis , and i'll have you give some blood for syphilis , hiv and hepatitis c. some of these tests will take longer than others . we will call you , if we see anything , but if you have n't heard anything , you can call us in three days for results ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "okay . sounds good . thank you , so much ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "of course , my pleasure . and , if everything is normal , i'll see you again , at your next annual checkup ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "assessment : is screen for std ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "plan : discussed with patient , and please add that she is high risk due to an abnormal pap smear in the past , and the recent discovery of her sexual partner having multiple partners , for some period of time ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "end of recording ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Ms. Ross is a 23-year-old female presenting as a new patient for full-spectrum STD testing.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports vaginal discomfort, abnormal discharge, odor, and right-sided vaginal pain, while denying fever or chills.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "STD testing",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is here for STD testing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing any symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports noticing abnormal vaginal discharge starting last week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the discharge has a different odor, color, and consistency than usual.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports persistent soreness and pain on the right side of her vagina.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how long the patient has been with her partner.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been dating her partner for three years.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has ever had an irregular Pap smear.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient had an abnormal Pap smear around age 20.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the patient's last Pap smear was.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's last Pap smear was six months ago and was normal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Physical exam",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Pelvic exam shows no external lesions, normal labia majora and minora, and normal physiological discharge.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0021",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Cervix and vaginal wall are normal; no cervical motion tenderness, adnexal tenderness, or masses noted; swabs obtained for STD testing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0021",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order tests for gonorrhea, chlamydia, trichomoniasis, syphilis, HIV, and hepatitis C, and instructs the patient to call for results in three days.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will see the patient again at her next annual checkup if results are normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "full spectrum STD testing; none",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

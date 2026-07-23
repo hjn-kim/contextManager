@@ -1,0 +1,745 @@
+{
+  "id": "D2N168",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi diane , how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay , how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm doin' okay . so i know the nurse told you about dax and i'd like to tell dax a little bit about you okay ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "diane is a 28 year old female with a past medical history , significant for , depression and hypertension who presents for emergency room follow-up ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "so diane what's going on ? i heard that your- your blood pressure was really high in the emergency room . what happened ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "yeah , so i ended up going for a walk , um , yesterday 'cause it was sunny and it was really great . and i just felt really light-headed , um , and i started to fall a bit , and , um , luckily i was with my boyfriend and he caught me , um , and then we went right to the e , to the er ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "yeah , okay . yeah , i saw that the blood pressure was pretty high , like in , like , the , almost 200 ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "did you have a headache ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "yeah i did ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay , all right . have your blood pressures been running high in the past ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "yeah , they have been . it's- it's , like , once a week , a month , it , kind of , just skyrockets ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "um , it usually ends up , um , being , i'm traveling a lot that week for work , so i'm not eating as well , um-"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "you're not taking your blood pressures , i take it-"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": ". when you're traveling ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "yeah , no , i do n't bring my cuff with me ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay , but you did buy the cuff like we talked about in the past ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "yes i did ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "okay , all right . and are you taking your medication , are you taking the lisinopril ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "yes i am ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "okay , all right . um , so i think we had started you at a , kind of , a moderate dose , so we'll have to talk about that a little bit , okay ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "then in terms of your depression , how are you doing ? i know that we did n't start you on medication , since you're on a bunch of other medications . what- what are your strategies for dealing with that and how are you doing ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "so last year i started therapy and i've been going once a week and that's really helped ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay , all right , great . and how is your support system ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "really great . my boyfriend , my mom , and my brother are- are s- , amazing and they're all super close to me , so it's been , it's been good ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay , well great . so i know you did a review of system sheet when you checked in and i know that you had the headache and the lightheadedness yesterday . do you have any other symptoms at this time , chest pain , shortness of breath , anything like that ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "uh , i have a little bit of nasal congestion , but that's just from my seasonal allergies ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay , all right . well i want to go ahead and do a quick physical exam , okay ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the blood pressure ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "so , yeah , looking at your blood pressure today here in the office , it does look a little elevated still , so we'll have to talk about that . so i'm just gon na listen to your heart and your lungs and we'll go from there okay ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "so on physical examination , i- i do n't appreciate any carotid bruits in your neck . your heart on your heart exam , it does show that you have a slight two out of six systolic ejection murmur . your , there , your lung exam shows nice clear lungs bilaterally and you do have some trace pitting edema to your lower extremities bilaterally . so what that means is , you know , i- i think ultimately , uh , you know we just need to get your blood pressure under better control , okay ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "um , uh , let me just go ahead , i want to take a look at some of your results , okay ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the ecg ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "yeah , so in reviewing the results of your ekg , it looks the same as last year . um , you do have just blood , those changes from your chronic high blood pressure that we'll address , okay ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the echocardiogram ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "and this is just the echocardiogram from just a few months ago that just , you know , show that you have that slightly leaky heart valve , nothing to do for it , and that the heart murmur is stable , okay ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "so let's just talk a little bit about , you know , my assessment and my plan for you . so , for your first problem , your high blood pressure , it's not controlled at this time , so i want to go ahead and increase the lisinopril to 40 milligrams once a day . i want you to continue to check your blood pressures and report them to me through the patient portal and we'll have to make adjustments if necessary and maybe have to add a second agent , okay ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "and then for your second problem , uh , i want , you know , for your depression , i do n't think that we need to start you on any medication , it sounds like you're doing really well from that standpoint , but you know that you can contact me if you , if you need anything , okay ?"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "do you have any questions ?"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "no , not at this time ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "okay , all right , well it's good to see you ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "good seeing you too ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 28-year-old female with a history of depression and hypertension presenting for ER follow-up.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks what happened regarding the patient's high blood pressure in the emergency room.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient experienced lightheadedness and a near-fall while walking yesterday, leading to an ER visit.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's blood pressure was nearly 200 in the emergency room.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient had a headache.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she had a headache.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's blood pressure has been running high in the past.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports her blood pressure spikes once a week per month.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient attributes blood pressure spikes to work-related travel and poor diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is monitoring her blood pressure while traveling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient does not bring her blood pressure cuff when traveling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking her lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is taking her lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Depression",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with her depression and what her management strategies are.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0025",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been attending weekly therapy for the past year, which has been helpful.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0025",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's support system.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0025",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a strong support system including her boyfriend, mother, and brother.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0025",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has other symptoms like chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports nasal congestion due to seasonal allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares the intent to perform a physical exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's blood pressure is elevated in the office.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: no carotid bruits, 2/6 systolic ejection murmur, clear lungs, and trace pitting edema in lower extremities.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The EKG is stable compared to last year, showing changes consistent with chronic hypertension.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The echocardiogram shows a slightly leaky heart valve and a stable heart murmur.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Increase lisinopril to 40 mg once a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient will monitor blood pressure and report results via the patient portal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "plan",
+          "summary": "Continue current depression management strategies with no medication changes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0025",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "ER follow-up; type 2 diabetes;depression;hypertension",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

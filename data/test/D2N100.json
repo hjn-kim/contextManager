@@ -1,0 +1,617 @@
+{
+  "id": "D2N100",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "kayla ward , date of birth , 4/28/07 . mrn 3-8-4-9-2-0 . she's here for a new visit with her mother for acne located on the face , which started about two years ago and is present most every day . she has been using persa-gel and washing regularly , which is somewhat helpful . there are no associated symptoms including itching , bleeding , or pain . no additional past medical history . she lives with her parents and sister . they have a dog , bird , and bunnies . she is in 7th grade . she plays basketball and volleyball and tap . she wears sunscreen in the summer , spf 30 . no additional family history . hi kayla , i'm dr. juan price . i hear you are starting to get some acne on the face . how about the chest and back ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "it's not too bad ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so , it's not bad on the chest or back . you've used some over the counter items like washes and persa-gel ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "do those seem to be helping ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yes , i think so , a little bit ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "good . what's your skin care routine like now ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "do you wan na know , like , the things i currently use ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "yes . what do you do for your acne in the morning ? and then what do you do at nighttime ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i wash my face , more like i wipe it down in the morning . then at night i use an elf facial cleanser called the super clarity cleanser . i finish with a toner and then the persa-gel ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "when you say , \" wipe your face in the morning , \" do you use a product or just water ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "mm , just water and a washcloth , really . if i feel really greasy , sometimes i'll use the elf cleanser in the morning , too ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . and is today a good day , bad day , or an average day for you ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "mm , i would say it's probably a good day for me , of course , since i'm here , right ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "acne is always good when you come to see the doctor . do you find that your acne flares with your periods ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no , not really ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "and do you get a regular period ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yup ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "how long have you been getting a regular period ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "mm , i think about two years ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "the biggest flare , probably , was when she started school sports in the fall , just with all the sweating ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "yup , that will do it . is there anything else that you've noticed , mrs. ward ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no . kayla really has been doing a good job with the facial care regimen . it just does n't seem to help as much as we wanted ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "got it . okay . well , let's take a look then . full exam is performed today , except for under the underwear and under the bra . multiple benign nevi on the trunk and extremities . scattered skin colored papules . open and closed comedones . and erythmateous papules on the face , primarily on the forehead and with also some on the central cheeks and chin . the chest and back are relatively spared . and the remainder of the examination is normal . so , what i'm seeing from your exam today is mild to moderate acne , mostly comodonal with small inflammatory component ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "okay , so is there anything we can do to help it ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "yes . i would like to start with a topical therapy first . every morning , you will wash your face with a mild cleanser then use a moisturizer labeled , \" noncomedogenic , \" with sunscreen spf 30 or higher . this means it wo n't clog your pores . now , in the evening , wash your face with the same cleanser and allow it to dry . apply adapalene , 0.1 % cream , in a thin layer to the areas you generally get acne . i want you to start off using this a few nights a week and slowly work up to using it every night . if it is ... excuse me , if it is very expensive or not covered by insurance , you can try different gel over the counter . you can follow that with clean and clear persa-gel in a thin layer , or where you generally get acne . and then a noncomedogenic moisturizer . you're atopic retinoid will cause some sensitivity , so you will need to wear sunscreen when you are outside . it may also cause some dryness or irritation ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "okay , i can do that ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "you also have multiple benign moles on your arms , legs , back and abdomen . this means they all look normal with no worrisome features . we will see if you have any progress over the next six months and follow up at that time ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "okay , that sounds good . thank you ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "do you have any questions for me ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no , i do n't think so ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay . if you have questions or concerns before your next visit , please call the office ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "thank you , doctor , we will ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 15-year-old female presenting for a new acne evaluation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient's acne started two years ago and is present daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports no itching, bleeding, or pain associated with her acne.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "social_history",
+          "summary": "The patient lives with parents and a sister, has pets, is in 7th grade, and participates in sports.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has acne on her chest or back.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports her acne is not severe on her chest or back.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has used over-the-counter washes and Persa-Gel.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the current over-the-counter treatments are helping.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that her current treatments are helping a little bit.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's current skin care routine.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for specific details of the patient's morning and nighttime acne routine.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient wipes her face in the morning, and at night uses e.l.f. SuperClarify Cleanser, toner, and Persa-Gel.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient uses a product or just water to wipe her face in the morning.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses water and a washcloth in the morning, occasionally using the e.l.f. cleanser if her skin feels greasy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if today is a good, bad, or average day for the patient's acne.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports today is a good day for her acne.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's acne flares with her menstrual periods.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports her acne does not flare with her periods.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has regular periods.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she has regular periods.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how long the patient has been having regular periods.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has had regular periods for about two years.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient notes her acne flares most significantly during school sports in the fall due to sweating.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows multiple benign nevi on the trunk and extremities, and mild to moderate comedonal acne on the face.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if there is anything that can be done to help her acne.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "plan",
+          "summary": "The doctor recommends a morning routine of mild cleanser and non-comedogenic moisturizer with SPF 30, and an evening routine of mild cleanser and topical retinoid (Adapalene 0.1% gel).",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reassures the patient that her moles are benign and normal, and plans to monitor them in six months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up visit in six months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any further questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "acne; moles",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

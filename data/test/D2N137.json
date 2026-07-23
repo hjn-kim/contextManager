@@ -1,0 +1,680 @@
+{
+  "id": "D2N137",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "morning christine , nice to see you ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "nice to see you too ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so i know my nurse told you a little bit of- ... um , about dax and i'm gon na tell dax a little bit about you , if that's okay ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "go for it ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay , great . um , uh , this is christine . she's a 63-year-old female patient . you're here for your routine , um , yearly exam . um , i know you have a history of high blood pressure and you've had some depression in the past . and i also know you did have a carpal tunnel release done about two years ago . um , how have you been doing ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i've been doing well . um , the depression standpoint is doing great . i've been using , um , the medication you prescribed me last time and going to therapy every week . and that's really helped me manage ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . and you're sleeping well at night ? and everything's been going well from that standpoint ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah , i've been getting a full eight hours ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . and no thoughts of hurting yourself or anything like that ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay , good . um , and , um , i- i know you've had some high blood pressure in the past . have you been checking your blood pressure ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i have . it's been a little bit up and down-"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "lately , i have n't had a normal , um , normal reading- reading in a couple of weeks . um , it's either been high or low . um , has n't really stayed put ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "has n't really stayed put ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay . and , um , you've been talking your medication though , right ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yes , i have ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "my diet's been a little all over the place . i have been really stressed with work and putting in more hours, so you know, it has been hard. i have not had time to go to the grocery store, let alone prepare and cook meals. so, i have been eating a lot of frozen meals."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "that type of thing ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "and have you had any headaches or swelling or anything like that that's been abnormal ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "i have some headaches but i just thought that was looking at a computer screen all day ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay , well , that's fair ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah , exactly ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay good . and , um ... i know my nurse did a review of systems . other than what we've just talked about , has there been anything else that you wanted to add to that ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "um , my carpal tunnel release has been doing well . on , uh , we did that , i think it was two years ago now ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "uh , on my right , um , wrist , and that's been great ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "great , great . no numbness or tingling in your hands ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "fingers ? okay , good . all right , well , um , lem me do a quick exam if that's okay ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "deep breath . squeeze my fingers for me . feel me touch you here ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yup ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "can you touch down here ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "can you push your leg out ? push this one up . pull it back . yeah , good . okay . so on my exam , um ... your exam's essentially normal , your lungs are clear , are- ... you do n't have any adenopathy in your neck , you do n't have any , um , uh , hyperthyroidism . um , your heart is regular without any murmurs . um , your grips are equal , neurologically intact , strength is good , pulses are good . so overall , um , your exam is fine . let's take a- a look at some of your labs and vital signs ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "hey dragon , show me the blood pressure . okay , so here in the office today it is a little bit elevated , okay ? so your blood pressure is a little bit high . so the results , um , do show that . um , hey dragon , show me the labs . okay , so good news is is your- your labs are all essentially normal , so the results of your labs are essentially normal , okay ? so ... um , my assessment is that your- ... you do have hypertension still . um , and i think we need to increase your blood pressure medicine a little bit , okay ? so i'm gon na increase your lisinopril to 10 milligrams a day , just once a day , um , but i'm gon na increase that a little bit , okay ? and then want you to check it and i'm gon na have you come back in a month and we'll see how you're doing with regards to that , okay ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "um , your second problem is your dep- depression , you're doing great , i do n't wan na change anything at this point . let's just stay- ... we'll change one thing with your high blood pressure-"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "so i do n't wan na change any other medications at this point in time , so let's just leave that as it is ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "and then your third problem was your carpal tunnel . that seems to be doing well . if you notice any tingling or any changes or you get some of those symptoms back , just let me know . okay ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "all right . anything else i can do for you today ?"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "no , that's it ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay . great . uh , lem me get you checked out ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "hey dragon , finalize the report ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 63-year-old female presenting for an annual exam with a history of hypertension, depression, and a right carpal tunnel release two years ago.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Depression",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports managing depression well with medication and weekly therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is sleeping well.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports sleeping eight hours per night.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has thoughts of self-harm.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies thoughts of self-harm.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been monitoring her blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports checking her blood pressure at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports fluctuating blood pressure readings over the last two weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking her blood pressure medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is taking her blood pressure medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports poor diet due to increased work stress and hours.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced headaches or swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports headaches, attributing them to increased screen time.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Carpal tunnel",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports her right carpal tunnel release from two years ago is doing well.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0027",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has numbness or tingling in her hands or fingers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0027",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling in her hands or fingers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0027",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares intent to perform a physical exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: lungs clear, no neck adenopathy, no hyperthyroidism, heart regular without murmurs, grips equal, neurologically intact, strength and pulses good.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Office blood pressure is elevated; laboratory results are normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "Increase lisinopril to 10 mg once daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Patient to monitor blood pressure at home and return in one month.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor decides to maintain the current depression treatment regimen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0005",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is instructed to contact the office if carpal tunnel symptoms return.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0027",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "annual exam; hypertension;depression;carpal tunnel release",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

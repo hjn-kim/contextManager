@@ -1,0 +1,320 @@
+{
+  "id": "D2N187",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "well good morning emily how are you"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "good morning"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "how are you doing"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "doing okay i'm okay"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "i understand you're having some sudden visual distortions and some blurring of your vision is that right"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it is yes"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay so what's going on"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "sorry to put you off i do n't think i have that script"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "oh"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "maybe a different one i wonder if patient has history of"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "macular degeneration yeah yeah i was because we do n't we do n't to do the intro anymore i was just going with that you you're coming in with sudden visual distortion and blurring of vision so i'll just you know i'll just say i'll just go ahead and go into this technician part so it looks like the technician noticed that you've been having a decrease in vision when reading and straight lines and your door frames have been looking crooked to you is that right"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "it is yes"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay what kind of venture are we gon na go into do you do you have the the script or no it it just talks"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "but it's it's not presenting like like how you're reading it like how you're talking about it is it kinda what i'm saying because like after that i'm supposed to say yeah whenever i take my husband out to like a nice restaurant i have trouble adjusting to those dim lights but i'm not really getting the question of like so what's causing it or where do you have this happening stuff like that so i'm a little confused"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay i mean i can just straight out follow the script just so we can kinda get it rolling so so i said so hi so it looks like the technician noticed that you've been having a decrease in vision when reading and straight lines in your door frames have been looking crooked to you"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "yeah and whenever i take my husband out to a nice restaurant i have trouble adjusting to those dim lights"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "uh okay so do you have a favorite restaurant you like to go to"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i do mcdonalds is one of my favorite here in arlington"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "that sounds good what what do you what's your favorite there"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "they have a great egg plant parmajon one of my favorite so i just go ahead and go with that"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "that sounds really nice very good"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "it's just"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "yeah okay well so it looks like you're still smoking a pack of cigarettes a day"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yes i tried to stop smoking every now and then but it's still been hard to totally stop"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay and how is your blood pressure been doing are you keeping up with your medication"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "i take my blood pressure when i can remember to do so"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay yeah it's really important to keep up with your blood pressure check that regularly i'm totally going off script and you know might want to keep a log of that as well and check your blood pressures regularly so okay well let me do a just a quick exam of your eyes if you can take off your glasses and just rest your chin on the chin rest okay so the anterior segment examination reveals posterior chamber intraocular lenses in both eyes right eye the cornea is clear no mvi pciol cup to disc is . two fundus examination of the right eye shows the retina to be attached three hundred and sixty degrees without any tears or holes or pe changes in the fovea posterior segment exam shows drusen in the macula thickening of the retina presence of subretinal fluid and exudates accumulation positive for hemorrhage left eye the cornea is clear no mvi cup to disc is . three or pe changes in the fovea no hemorrhage or subretinal fluid retina is attached okay so i reviewed the results of your diagnostic tests so for the oct so it shows drusen deposit and the retinal pigment epithelium subretinal fluid accumulation choroidal neovascular membrane can be visualized fluorescein angiography reveals focal areas of leakage in the right eye consistent with neurovascular age related macular degeneration so the diagnostic tests and the eye exam are really indicative of neovascular age related macular degeneration so this is advanced to a stage that usually leads to more severe vision loss and it really happens when those abnormal blood vessels start to grow beneath the retina and they will leak fluid and blood and hints the name wet amd and can create a large blind spot in the center of the visual field and this is really with the most common cause for severe loss of vision so my plan is to give you an injection of lucentes once a month it's injected into the vitreous portion of the eye after it's been numbed and injections are given regularly over a period of time it may slow the rate of vision decline or stop further vision loss but however the disease and loss it may also progress despite treatment do you have any questions"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i do not no that sounds great"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports visual distortions and blurred vision.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "ros"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to confirm the presence of visual distortions and blurred vision.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Macular degeneration",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient experiences decreased vision when reading and perceives straight lines as crooked.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports difficulty adjusting to dim lighting in restaurants.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient smokes approximately one pack of cigarettes per day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's blood pressure control and medication adherence.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports inconsistent monitoring of blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs an eye exam revealing PCIOL in both eyes, retinal attachment, drusen, subretinal fluid, and hemorrhage in the right eye.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Diagnostic testing confirms neovascular age-related macular degeneration.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "plan",
+          "summary": "The doctor recommends once-monthly Lucentis injections to manage the condition.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions regarding the diagnosis or treatment plan.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "changes in vision",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

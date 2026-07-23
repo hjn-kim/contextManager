@@ -1,0 +1,1156 @@
+{
+  "id": "D2N130",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , anna , how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay . how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm doing well . uh , so i know the nurse told you a little bit about dax . i'd like to tell dax a little bit about you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "all right . so , uh , anna is a 26-year-old female with a past medical history , significant for epilepsy , depression , and , uh , peptic ulcer disease , who presents with , uh , some joint pain . so , anna , what's going on with your , uh , what's going on with your joints ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "so , um , it's my left elbow that's really been bothering me . uh , i sit at my desk a lot for work , and type , and i stay in this motion specifically all day . and then after , um , work , it's really hard for me to , uh , open and , and close my , my elbow here , my left elbow , and it's been just really stiff and , and hurts ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . have you noticed any swelling there on the-"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah , i have ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay , and is it right here on the , on the tip ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yep , it is ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay , and are you right or left-handed ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i am right-handed ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay , so it's your non-dominant hand ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah , which is good ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "so , i can still write , which is great , but typing is , is difficult ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay , and any numbing or tingling in your hands at all ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "no , i have n't felt numbing or tingling ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "and any weakness in your arm ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "a little bit of weakness , uh , but nothing too significant ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay , and ... and how about .."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "and how about , um , any fever or chills ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "no fever or chills ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "okay . all right , well , let's talk a little bit about your epilepsy , okay ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "um , have you had any recent seizures ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "uh , no , i have n't . i think my last seizure was a year ago ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay , good ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "and you're still taking the keppra ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "yes , i am ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay , great . and then , tell me a little about your depression . how're you doing with that ? i know that you went into therapy last year , and you tried to avoid medication since you're already on the keppra . how's that doing ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "uh , therapy , therapy's been good . it , it has definitely helped . uh , i still feel a little down , uh , and , and stressed ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "okay . all right , but no , no feelings of wanting to hurt yourself or somebody else ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "no , nothing like that ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "okay . all right . and then , how are you doing with your , with your ulcer ? i know that you , you know , you had so much stress a year ago and , you know , you were having some issues there . we did the endoscopy-"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": ". and they showed that . so , how are you doing with that ?"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "i'm doing , i'm doing better . i have n't had any , um , issues with that , um , since we did the procedure , and everything's been good ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "okay , well great . let's go ahead and ... i'm gon na go ahead with , um ... and , you know , i know that the nurse did a review of systems sheet on you when you came in , and i know that you were endorsing that left elbow pain ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "any other symptoms , you know , chest pain , shortness of breath , abdominal pain , nausea or vomiting ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "no , nothing like that . i have a little bit of nasal , nasal congestion from allergies , uh , but that's it ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "okay , so you're endorsing some nasal congestion ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "okay . all right , well , let's go ahead to a physical exam , okay ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the vital signs . good , here in the office , everything looks great with your vital signs . i think that's great , so i'm just gon na take a listen to your heart and your lungs , and take a look at your elbow and , and we'll go from there , okay ?"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "all right , so , so on physical examination of your left elbow , you do have some erythema and edema of your left elbow . does it hurt when i touch ?"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "yeah , it does ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "okay , he ... she has some pain to palpation of the olecranon . of the left olecra- olecranon , and it is warm to palpation . um , can you straighten your elbow for me ?"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "yeah , it , it hurts , and it's , uh , it's a bit stiff ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "okay , so she has pain with flexion and extension of the left elbow . there's a palpable right ... or s- ... palpable left radial pulse . okay , um , so let's go over ... i just wan na take a look at some of your results , okay ?"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the left elbow x-ray . hey , dragon , show me the elbow x-ray . hey , dragon , show me the left arm x-ray . okay , so , in reviewing the results of your left arm x-ray , there's no evidence of any elbow fracture , which is not surprising , okay ?"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the endoscopy results . hey , dragon , show me the endoscopy . okay , well , your recent endoscopy showed that you ... hey , dragon , show me the endoscope . all right , so here it looks like , you know ... your endoscopy results look like you had an episode of gastritis . that's for your , your peptic ulcer disease , and so everything , you know ... you took your , your protonix , and i think everything resolved at that point , okay ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "so , let's talk a little bit about my assessment and my plan for you . so for your first problem , this left elbow pain , you know , i think you have olecranon bursitis , and we're just gon na , you know , have you , you know , get a little pillow for your elbow there . it's just caused by repetitive trauma ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "so , maybe you're slamming your elbow down a little bit on the desk , so just get a little rest there-"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": ". and we'll give you some melo- meloxicam , 15 mg , once a day . you can ice the area , okay ? um , for your next problem , the epilepsy , sounds like you're doing really well . i would go ahead and continue with the keppra , 500 mg , twice a day . do you need a refill of that ?"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "yes , i do ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "hey , dragon , order a refill of keppra , 500 mg , twice daily . for your third problem , the depression , it sounds like you're doing well with the therapy and , if you want , we can talk about medical treatment options ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "yeah , i think that would be great ."
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "okay , well , let's go ahead and we'll start you on some lexapro , 10 mg , once a day , and we'll see how you do on that , okay ?"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "all right , and then , for your last problem , the peptic ulcer disease , um , i want you to continue on the protonix , 40 mg , once a day before meals , okay ?"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "do you have any questions ?"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "no , i do n't ."
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "okay . all right . well , the nurse will come in soon and see you , okay , and i'll , i'll see you in a couple of weeks ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "all right , take care . bye ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "bye ."
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 26-year-old female with a history of epilepsy, depression, and peptic ulcer disease.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Joint pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe her joint pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports left elbow pain, stiffness, and difficulty flexing or extending the joint after working at a desk.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed any swelling in the elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms swelling in the elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the swelling is located on the tip of the elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the swelling is on the tip of the elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is right or left-handed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is right-handed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient can write but finds typing difficult due to elbow pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any numbness or tingling in her hands.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling in her hands.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any arm weakness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports minor arm weakness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any fever or chills.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies fever or chills.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Epilepsy",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any recent seizures.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0023",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports no recent seizures, with the last one occurring a year ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0023",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still taking Keppra.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0023",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is still taking Keppra.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0023",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Depression",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with her depression and therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports therapy has been helpful, but she still feels down and stressed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any suicidal or homicidal ideations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies suicidal or homicidal ideations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Peptic ulcer disease",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with her peptic ulcer disease.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0035",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports no issues with her ulcer since the endoscopy procedure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0035",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about other symptoms including chest pain, shortness of breath, abdominal pain, nausea, or vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain, shortness of breath, abdominal pain, nausea, or vomiting, but reports nasal congestion from allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Physical exam",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical examination of the left elbow reveals erythema and edema.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has pain to palpation of the left olecranon and it is warm to palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to straighten her elbow.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain and stiffness with elbow movement.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has pain with flexion and extension of the left elbow and a palpable left radial pulse.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The left arm x-ray shows no evidence of an elbow fracture.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The endoscopy results showed an episode of gastritis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0035",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the patient with left olecranon bursitis caused by repetitive trauma and recommends using a pillow to rest the arm.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0062",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg once daily and recommends icing the area.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor advises continuing Keppra 500 mg twice a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0023",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs a refill of Keppra.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0023",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0063",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she needs a refill of Keppra.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0023",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0064",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient wants to discuss medical treatment options for depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0066",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor initiates Lexapro 10 mg once daily for depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0068",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor advises continuing Protonix 40 mg once daily before meals for peptic ulcer disease.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0035",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0071",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has no further questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "joint pain; epilepsy;depression;peptic ulcer disease",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

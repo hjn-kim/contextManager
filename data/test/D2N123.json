@@ -1,0 +1,702 @@
+{
+  "id": "D2N123",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "so tyler is a 56 -year-old male who presents today complaining of difficulty swallowing and has a past medical history of diabetes and high blood pressure so tyler tell me what's going on with your swallowing problem"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "well it's just been something that i have noticed over the last you know four to five weeks it seems like something is always stuck in my throat and you know just i kinda go about my day and it kinda bothers me you know a little bit sometimes a little painful and when i try to eat it just seems like i have to i do n't know when it's something solid i kinda have to wash it down on occasion i i've never really fully choked but i have to admit that i've thought about potentially choking"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay and is it seem to be stuck in your throat or does it seem to go in your lungs area or are you coughing with this at all or just mostly when you're swallowing"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "no coughing just kinda when i swallow it's all okay with liquids but when i kinda swallow you know like a bite of a sandwich sometimes it just feels like like i just need a little help pushing it down"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and is it more kind of a like heart like steaks or heart like larger solid like things that are that you have to chew more or is it even soft stuff like you know to eat yogurt and stuff like that"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i'm not a hundred percent sure but i think it's probably more with solids"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay how about have you noticed anything different with when you're swallowing cold or or or hot liquids is there is there a temperature change any modification to that"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "it's really just about solids"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay alright so have you noticed any blood in any place or blood in your stools or are you vomiting anything up at all"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay that so no vomiting blood no coughing up blood or anything like that any weight loss or changes in your weight at all"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "not that i want"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay yeah i mean i think we all like to lose a little bit of weight but yeah it's a it says it's a struggle so no no chest pain or shortness of breath with this"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay so i i'm gon na you know we'll talk about that in a second i'll look at your throat as well and see what we need to do but it sounds like we may have to send you to a specialist to take a look at that and see if there is something causing this how about how are you doing with your diabetes by the way since i have n't seen you in a while i know we have you on metformin five hundred milligrams twice a day we checked your hemoglobin a1c last time was seven . four we talked about improving your diet and exercise how are things going"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i think they're going great i mean i'm taking my meds i'm sticking to them and i feel pretty good otherwise"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay are you checking your blood sugars in the morning or are you checking those at all"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah i do i mean once in a while i i'm in a hurry and i skip it but i have to say i probably do so about eighty percent of the time"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "and how are the numbers looking"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "they're looking you know okay they are all within you know the range that we are targeting"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay alright and any any no nausea vomiting or diarrhea or any other side effects from the metformin or anything like that"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay good so i think we should probably repeat your hemoglobin a1c it sounds like you've you know you've improved your diet and it sounds like you've you're following the regimen so maybe the numbers will be better this time and we do n't have to change your medication so that will be awesome how are you doing with your blood pressure i know we have you on norvasc we asked that you check it like you know once a week or more than that if you have time blood pressure looks good today in the office it's about one fifty i'm sorry one twenty over fifty right now so no nothing here in the office how are things at home"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "i get there now every once in a while you know the lower numbers a little bit you know higher but it's not you know usually it's either close or or on on range"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay alright good so let me examine you now so tyler i'm examining you now i'm gon na just verbalize some of my findings your neck is fine i do n't see any swelling in your neck your thyroid feels normal i do n't feel any masses in your neck there's no lymph nodes i'm looking at your throat and that looks okay there is no masses or any swelling that i can see there is no redness yeah there is no carotid bruit your lung exam is clear your heart exam is normal no murmurs on your belly exam you have some epigastric tenderness right here in the right here where i'm pressing but i do n't feel any masses or any significant swelling back there no normal back exam your extremity exam looks normal your neurological exam's fine so for this difficulty swallowing i'm concerned that you may have a narrowing in your throat that's causing this and sometimes it can be from a stricture where some narrowing of the esophagus and sometimes i need to go in and dilate that so i'm gon na go ahead and send you give you a referral for gastroenterology and have them do a scope and take a look down there i'm gon na recommend we put you on some prilosec sometimes also reflux medicine can if you have reflux sometimes that can also exacerbate this sometimes so i'm gon na put you on some prilosec twenty milligrams once a day again i'm gon na recommend that you chew your foods frequently and make sure you have a you know especially if you're eating something hard like steak or meat chew them really well so they do n't get tend to get stuck some people have sometimes things get stuck and they do n't go down and if that happens as an emergency you do have to go to the emergency department but seems like you know things are going down they just seem to sometimes slow down or get stuck temporarily so why do n't i get you a referral for gi we will start you on the prilosec and then we will have you you know if you you know if you have any other symptoms or worsenings give my office a call we will get you in or get you referred to the er if needed any questions about that"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "no that sounds great"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay and for the diabetes i'm gon na order another hemoglobin a1c i'm gon na order some more blood work today we'll check a kidney function and i notice that you have not had an eye referral so i'm gon na also give you an eye referral to ophthalmology to check your eyes for your diabetic for your for any retinopathy continue the metformin i'll have you come back in about a month and that way we'll have the results back for the blood test if we need to make any adjustments we can but i i wan na see you back in about a month and i think that's it for that any questions about that"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay and the high blood pressure i think you're doing great continue with the norvasc if you have any issues certainly call me but otherwise there is really nothing else to add for that did we forget anything or do you need refills for anything"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "you know i think i'm low on the norvasc so if you could send something to my pharmacy that would be great"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay sure i'll get you a refill for norvasc we'll get that sent over to the pharmacy okay"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "alright thanks good seeing you thanks for coming in to them"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Tyler Green is a 56-year-old male with a history of diabetes and hypertension presenting with difficulty swallowing.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Difficulty swallowing",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe his swallowing difficulty.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports difficulty swallowing solids for 4 to 5 weeks, feeling like something is stuck in his throat, with occasional pain and the need to wash food down.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is coughing or if the sensation is in the throat or lungs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies coughing and reports the sensation occurs only with solids.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the difficulty occurs with all solids or specifically larger, harder foods.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient believes the difficulty is primarily with solids.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if temperature of liquids affects the swallowing difficulty.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the issue is specific to solids.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about blood in stools or vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies blood in stools or vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about vomiting blood, coughing up blood, or weight changes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies vomiting blood, coughing up blood, or weight changes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with his diabetes management.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports he is compliant with his medication and feels well.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is checking his blood sugars.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports checking blood sugars about 80% of the time.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the blood sugar readings.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports his blood sugar readings are within the target range.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about side effects from metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies side effects from metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's blood pressure is 120/50 in the office.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with his blood pressure management.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports his blood pressure is usually within range.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam, noting epigastric tenderness but otherwise normal findings.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor refers the patient to gastroenterology for a scope and prescribes Prilosec 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an A1c, kidney function test, and ophthalmology referral, and instructs the patient to continue metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises the patient to continue Norvasc.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient requests a refill for Norvasc.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor agrees to send a refill for Norvasc to the pharmacy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0022",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Difficulty swallowing; Diabetes;High blood pressure",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

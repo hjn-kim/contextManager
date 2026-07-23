@@ -1,0 +1,727 @@
+{
+  "id": "D2N141",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "okay , so our next patient is christopher watson . date of birth 04/12/1934 . mr . watson is- is an 86-year-old male who returns in follow-up for adult hydrocephalus . this is his first visit since undergoing sh- shunt surgery , excuse me , on august 1st , 2020 ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "i have followed mr . watson since may of 2020 when he first presented with eight to ten years of progressive gait impairment , cognitive impairment , and decreased bladder control . we established a diagnosis of adult hydrocephalus with a spino catheter protocol in june 2020 , and he underwent shunt surgery on august 1st , 2020 . a medtronic strata programmable shunt in the ventricular peritoneal configuration was programmed at a level 2.0 was placed ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "good morning , mr . watson , who is the nice lady you have with you today ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "hi , doc . this is my daughter , theresa . she is the one who helps me keep things straight ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "mr . watson , have you been sick or been hosp -- hospitalized since your shu- shunt surgery three months ago ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "uh , not that i recall ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "no , he has n't . he has been doing much better ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "good , i'm glad to hear that ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "before surgery , you were having some progressive problems that affected your walking , thinking , and bladder control . are these symptoms better , worse , or unchanged ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "his walking has improved . he's now able to walk to the dining room just fine . but he could not do that before surgery . he still has times where i have to help him ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "that's impressive , mr . watson ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "yeah , i guess ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "now his bladder control did improve some after surgery , but now seems to have leveled out . so he is wearing diapers ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "no issues with sores from wearing the diaper ? and any decreased or painful urination ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "no , not at all ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "and how about cognition ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "i think i'm better . i do n't feel lost when talking to someone anymore ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "dad and i both think my sister , hannah , summarized it best . she said \" i feel like i can have a normal conversation with him again , \""
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "that's so wonderful ! now have you had any headaches or pain where the shunt is ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no . has n't bothered me one bit ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay . and any pain in your belly at all ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "ca n't say that i have ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay , sounds like you have been improving . alrighty , mr . watson , i'm going to step out of the room while my resident comes in to do a few tests for me . is that all right ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "sounds good ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay , i'm going to go out and review the ct scan you had last month , and then we'll chat about it when i come in ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "all righty , mr . watson , so you definitely have made some improvements since the shunt surgery . now on ct scan though i do believe i see a tiny bit of blood fluid collection in the right parietal region . now , i do n't believe that that's causing any symptoms , and i , it actually was n't documented by the radiologist when he read the ct scan ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "so what does that mean ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "just that i would like to leave the shunt set for another two to three months before we go in changing it . like i said , if you're not having any headaches or pain and you have improved so that's all good for me . so really there's , there's nothing to worry about ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "all right so i'll come back in three months ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "yep , that's right ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "i do have a question for you though ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "yeah , of course ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "do you think i will be able to drive again ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "ah man , mr . watson , i knew you were gon na ask me that one . i think at this point it's unlikely that your movement speed will improve to the level that would be needed for you to pass the driver safety evaluation . now , i will say that i do occasionally have patients who surprise me by improving over a nine to 12 month range . and that , that definitely could be you . you could definitely pass it at that point . so if you improve and we can continue to talk about that then , ya know , i think it could be possible , um , and i'd be happy to recommend it ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "now , you could definitely also enroll in a driver safety program without my recommendation . so you could kind of do that preemptively , and then we could continue to watch for your improvement as we go ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay . i kinda figured that anyway but i just thought i'd ask . i do n't like to burden anyone when i just need to run to the store but i also know that i need to be safe ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "yeah , your safety is our number one priority and , ya know , i'm sure your daughters do n't mind as much , right , they want to keep you here and have you safe . but , i overall am very pleased with how much you have improved . and so , i'm sure when we talk again in three months , we'll continue to be on that upward trajectory or improvement ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "i sure hope so , doc ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "we really appreciate all that you've done . do we make the appointment out front ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "yeah , that would be great . the girls up front will take care of you and get you settled for three months from now , and you both take care , all right ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "thanks"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "thank you ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "all righty , so ros is constitutional significant for impaired ability to carry out daily functions . negative for fever or unintentional weight loss . gu is significant for urinary incontinence and wearing a diaper . negative for genital sores , decreased or painful output . neurological significant for continued walking impairment and cognitive impairment . negative for headaches , recent falls , or hallucinations . psychiatric is negative for depression , excessive worrying , or mood swings ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "let's go ahead and use the short pe . vitals , let's see , blood pressure is 124/80 , heart rate 64 , respirations 18 , weight 174 pounds , and pain zero out of 10 ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "mr . watson is a pleasant and cooperative man who's able to converse easily through , um , though his daughter does add some details . the shunt sight was clean , dry , and intact with a confirmed setting of two . um he was tested um for recent and remote memory , attention span , and concentration in fund of knowledge . he scored a 26 out of 30 on the mmse when tested with spelling and 25 out of 30 when tested with calculations . of note , he was able to get two of the three memory words with cuing , and the third with multiple choice . this was a slight improvement over his initial score of 23 out of 30 with calculations and 24 out of 30 with spelling . and at the time he was unable um in the previous test , excuse me , he was unable to remember any memory words with cuing without and only one with multiple choice ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "gait testing using the tinetti assessment tool . he was tested without an assistive device and received a gait score of six to eight out of 12 and a balance score of 12 out of 16 for a total score of 18 to 20 out of 28 . this is slightly improved from his initial score of 15 to 17 out of 28 ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "cranial nerves , pupils are equal . eoms are intact . face symmetric . no disarchria . motor normal for bulk and strength . coordination slow from no- finger to nose . of note , the ct scan from the head of 10/15/2020 shows a frontal horn span at the level of foramen of monro of 4.6 centimeters with a third ventricular contour that is flat with a span of 10 millimeters . by my reading there is a tiny amount of blood in the right front region with a tiny subdermal collection . this was not noticed or noted by the radiologist who stated any extra axial fluid collections . there is also substantial small vessel ischemic change ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "diagnosis adult hydrocephalus , gait impairment , urinary incontinence and urgency , and cognitive impairment ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Mr. Watson is an 86-year-old male presenting for follow-up of adult hydrocephalus three months post-shunt surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Adult hydrocephalus follow-up.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "agenda_item"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a history of progressive gait impairment, cognitive impairment, and decreased bladder control, treated with a Medtronic Strata programmable shunt set at 2.0.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been hospitalized since his shunt surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports no hospitalizations since surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the status of the patient's walking, thinking, and bladder control symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's walking has improved, allowing him to walk to the dining room, though he still requires some assistance.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Bladder control improved initially but has leveled off, and the patient uses diapers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about diaper-related skin issues and urinary symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies skin sores or painful urination.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's cognitive status.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports improved cognition and feels less lost during conversations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about headaches or pain at the shunt site.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies headaches or shunt site pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "CT scan shows a tiny fluid collection in the right parietal region, which the doctor deems asymptomatic.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks for the clinical significance of the CT finding.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0025",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises maintaining the current shunt setting for two to three months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if he should return in three months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0027",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "follow_up"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms a follow-up appointment in three months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "follow_up"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if he will be able to drive again.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor states it is unlikely the patient can pass a driver's safety evaluation now, but improvement over 9-12 months might make it possible.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0032",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor suggests the patient can enroll in a driver safety program independently.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0032",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Review of systems: constitutional (impaired daily function, no fever/weight loss), GU (incontinence, diaper use, no sores/pain), neuro (walking/cognitive impairment, no headaches/falls/hallucinations), psych (no depression/mood swings).",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Vitals: BP 124/80, HR 64, RR 18, weight 174 lbs, pain 0/10.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam: shunt site clean/intact at 2.0; MMSE 26/30 (spelling) and 25/30 (calculations), showing improvement.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Gait exam: Tinetti score 18-20/28, showing slight improvement.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Cranial nerves intact, motor normal, coordination slow; CT scan shows frontal horn span 4.6 cm, tiny right frontal blood/subdural collection, and small vessel ischemic change.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Assessment: adult hydrocephalus, gait impairment, urinary incontinence/urgency, and cognitive impairment.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Follow up adult hydrocephalus; none",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "id": "D2N097",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "elizabeth , how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay . how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "doing okay . so i know the nurse told you about dax . i'd like to tell dax a little bit about you , okay ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "all right . elizabeth is a 66-year-old female with a past medical history of significant for depression and hypertension who presents for her annual exam . so elizabeth , it's been a year since i've seen you ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "how are you doing ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i'm doing well . there's been so many events now that we've been able to get vaccinated , i've been able to see my grandkids again , go to more birthday parties , it's been fantastic ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "yeah , i know . i've ... i mean , we've had some communication over telehealth and that type of thing , but it's not the same as being in-person , so i'm happy to see you today . now tell me a little bit about , you know , we have n't really got a chance to talk about your depression . how are you ... how are you doing with that ? i know we have n't had you on medication in the past because you're on medication for other things . what are your strategies with dealing with it ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "so i've been going to therapy once a week for the past year . um , mostly virtually , um , but starting to get in-person . virtual was a bit of a struggle , but i feel like being in-person with someone really helps me ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . and do y- do you have a good support system at home ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "yes , i do . i have my husband and , uh , my kids are right down the street from me , so i'm very lucky ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . all right . so that's good to hear ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "how about your blood pressure ? did you buy the blood pressure cuff that i-"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": ". told you to ? okay . i know that we've been in communication and your blood pressures have been running okay . the last time i spoke with you , how are they doing since we last spoke ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "they've been doing well . i've been using the cuff , um , once a day , and they seem pretty normal ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay . and are you taking the lisinopril that i prescribed ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay . great . all right . so i know that you did a review of systems sheet with the nurse when you checked in . you know , i know that you were talking about some nasal congestion . do you have any other symptoms , chest pain , shortness of breath , abdominal pain , nausea or vomiting , anything like that ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "no ? okay . all right . well , i wan na go ahead and do a quick physical exam , okay ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the vital signs . so here in the office , you know , your blood pressure looks really good , as does your heart rate . so you are doing a good job managing your blood pressure . so i'm gon na take a listen to your heart and lungs , okay ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay . so on physical examination , i do n't appreciate any carotid bruits in your neck . on your heart exam i do notice a slight 2/6 systolic ejection murmur , which we've heard in the past , so i think that's stable . your lungs in- are nice and clear , and you have some trace lower extremity edema bilaterally , so all that means is , you know , i agree , you know , maybe we should watch your diet a little bit better , okay ? but i wan na take a look at some of your results , okay ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "all right . hey , dragon , show me the ekg . and the nurses did an ekg before you came in , and that looks perfectly fine , okay ? so i wan na just go ahead and talk a little about your assessment and my plan for you . so for your first problem , your depression , i think you're doing a really good job with your strategies . i do n't think ... it does n't sound to me like i need to start you on any medication at this time , unless you feel differently ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "no , i'm , i'm , good in that department ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "for your second problem , your high blood pressure , i agree , everything looks fine here now . i wan na just continue on the lisinopril , 20 milligrams a day . and i want you to continue to watch your blood pressures as well , and if they start rising , i want you to contact me , okay ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "and for your third problem , for an annual exam maintenance , you know , you're due for a mammogram , so we'll go ahead and schedule that , okay ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "all right ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "all right . do you have any questions ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "um , can i take all my medicine at the same time ? does it matter ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "yeah . you can set an alarm so that it reminds you to take your medication . but yeah , you can , you can take them altogether ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "all right . hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 66-year-old female with a history of depression and hypertension presenting for an annual exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Depression",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is managing her depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been attending weekly therapy for the past year and finds in-person sessions more effective than virtual ones.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a good support system at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a supportive husband and children living nearby.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient purchased the blood pressure cuff.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient monitors her blood pressure daily and reports normal readings.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking the prescribed lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has symptoms including chest pain, shortness of breath, abdominal pain, nausea, or vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include no carotid bruits, a stable 2/6 systolic ejection murmur, clear lungs, and trace bilateral lower extremity edema.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The EKG is stable and normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor decides not to start new medication for depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0008",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is to continue lisinopril 20 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient should continue daily home blood pressure monitoring and contact the doctor via the portal if readings are elevated.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0013",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Healthcare maintenance",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will order a mammogram for the patient.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if she can take all her medications at the same time.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the patient can take all medications together and suggests using an alarm for reminders.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "annual exam; depression;hypertension",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "id": "D2N131",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "patient",
+      "text": "good . how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "good . are you ready to get started ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "yes , i am ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "so , susan is a 26-year-old female here for a high blood pressure check . susan , what's going on with your blood pressure ?"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "so , i've always struggled with , um , high blood pressure , but it's seeming to get really out of control lately . so , i wanted to come in and see if there's any type of new medication i can be on to help it get steady or if there is diet restrictions i should take , um , things like that ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "okay . so , i know that we've had you on the norvasc and we had to increase your dose , so you're on 10 milligrams a day now . and what are your blood pressures running at home ? you c- ... like , have they been like over 150 ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "yeah , they have been ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay . all right . and , have you had any headaches ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "i have had some headaches . i do n't know if that's just because of more stress at work or , um , because of the high blood pressure ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay . all right . so , you've had some headaches . have you had any chest pain , shortness of breath , anything like that ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "no , nothing like that ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay . um , and , you know , i know that you've had a kidney transplant a few years ago ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "everything is okay with that ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "everything's been good and solid there ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "and you're taking all of your auto , um , i- um , your immunosuppression medications ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "yes , i am ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "all right . so , let's go ahead and we'll do a quick physical exam . so , looking at you , you do n't appear any distress . your neck is nice and supple . your heart is irregular rate and rhythm . i do hear a slight , uh , two out of six systolic ejection murmur . your lungs are clear . i do see the scar on the left , uh , left plank for your kidney transplant which is healed . and you have no lower extremity edema . so , let's go ahead and look at some of your results , okay ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the creatinine . so , your kidney function looks really good . so , that's really promising after your transplant . hey , dragon , show me the ekg . and your ekg looks great , uh , perfectly normal , so that's good . um , so , my impression of you at this time ... , let me see your blood pressure ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the blood pressure . yeah , and you're right , it-"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "hm ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": ". it is high . so , there is something that we can do for that . so , let's go ahead and we'll put you on ... so , my impression of you is that your , your blood pressure is high and the norvasc is n't controlling it . and , you know , we can definitely get it under better control . so , what i would like to do is prescribe you coreg 25 milligrams , twice a day . and that will help bring your blood pressure down , okay ?"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "hey , dragon , order carvedilol 25 milligrams , twice a day . uh , i'd also like to go ahead and , uh , get a lipid panel and some routine labs on you just to make sure that everything is okay ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "hey , dragon , order a lipid panel . hey , dragon , order a complete metabolic panel . all right . and then , um , from a transplant standpoint , everything looks fine . your kidney function looks great , so we're just gon na continue you on all of those medications . so , the nurse will come in soon and she'll help you schedule all of the al- schedule a follow-up appointment with me , and we'll see what your blood pressure looks like in a couple weeks after taking that medication . okay ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "all right . thanks , susan ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "thank you ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 26-year-old female presenting for a high blood pressure check.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe her current blood pressure concerns.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a history of high blood pressure that has recently become uncontrolled and expresses interest in medication or diet changes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is currently taking Norvasc 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's home blood pressure readings have been over 150.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms her home blood pressure readings have been over 150.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been experiencing headaches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports headaches and is unsure if they are related to work stress or high blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Kidney transplant",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's post-transplant status is stable.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0011",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that her post-transplant status is good.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0011",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking her immunosuppression medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0011",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is taking her immunosuppression medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0011",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: no distress, supple neck, 2/6 systolic ejection murmur, clear lungs, healed left flank transplant scar, and no lower extremity edema.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Creatinine and EKG results are normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes carvedilol 25 mg twice a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a lipid panel and a complete metabolic panel.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises continuing current immunosuppression medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0011",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient will schedule a follow-up appointment in a couple of weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "high blood pressure check; hx kidney transplant",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

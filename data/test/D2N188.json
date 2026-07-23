@@ -1,0 +1,903 @@
+{
+  "id": "D2N188",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi jaqueline how are you i heard that you injured your ankle"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah it's not going so great"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "what what happened to your ankle"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "well i was doing something i did n't really want to be doing and i fell and now my ankle hurts"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay well what were you doing were you hiking or biking or what were you doing"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i was in a mountain biking messenger"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "you were in a mountain biking lesson and you fell off your bike and twisted your ankle"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "and what ankle was bothering you"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "the right one"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "your right ankle okay and did it twist like did your ankle twist outward or did your ankle twist inward do you know"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "my ankle twisted outward"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "your ankle twisted outward and where are you having the most pain is it is it kind of like right on your outer ankle or is it more in your foot"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "outer ankle"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "it's in your outer ankle okay alright and do you have any numbing or tingling in your toes at all"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i have some tingling i have no tingling i have some numbing going on and some numbing going on in other places"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "really like where"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "my heart"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "alright well i'm an orthopedic person so i ca n't talk to you about your numbing hearts okay now are you able to move your ankle"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "a little bit"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "are you able to walk on your ankle"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "not really"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "no"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "not so great"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "are you limping"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "you're limping okay have you taken anything for the pain"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i've taken tylenol"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "you took tylenol"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay did that help at all"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "no it did n't help alright did you hear anything pop or anything like that when"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i heard like an like a crack crackle so"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "you heard a crack"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay alright how long have you been mountain biking"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "for like three years"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "three years wow"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "or so"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "what where is your favorite place to go mountain biking"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "i do n't remember"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "is it at north point"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "no it's not at north point"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "maybe i do n't know"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "do you or do you like going to colorado"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "hmmm kind of a time"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay alright okay alright well let's go ahead and do a quick physical exam okay so i looked here at your vital signs and have you had any fever chills or anything like that since this happened"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "i've had a fever it hits the pain hits"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "you've had a fever how high was your fever"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "like two hundred"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "that's not a fever alright okay so lem me go ahead you looking at your vital signs you do n't have a fever now your temperature is ninety eight . six your blood pressure is fine at one eighteen over seventy seven and your heart rate looks good at seventy seven beats per minute on your right ankle exam there is some edema and erythema on the lateral malleolus on the right hand side there is associated ecchymosis and a few excoriations does it hurt when i press on it"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "there is pain to palpation of the right lateral malleolus there is decreased flexion and extension of the right ankle as well as internal and external rotation there is no apparent injury to the knee or the foot okay so what does that mean jacqueline seem awfully giggling right now so what does that mean so i took a i had the nurse do an x-ray on you before i came in and reviewing the results of your right ankle x-ray shows that you have no acute fracture or bony abnormality which is good you just have a some soft tissue injury so let's talk a little bit about my assessment and plan so for"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "really"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "yeah so for your assessment and plan i do believe you have a an acute right ankle sprain i wan na go ahead and put you in an air cast we can give you some crutches i wan na go ahead and prescribe some meloxicam fifteen milligrams once a day you should ice the area for about twenty minutes five times a day and weight-bear as tolerated i am anticipating you to start feeling better in the next couple of weeks if you're not come back here and see me and we will consider physical therapy or pursuing further imaging okay"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "okay bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The doctor establishes the visit purpose as the evaluation of a right ankle injury.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the circumstances of the injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports falling during an activity, resulting in ankle pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for clarification on the activity the patient was performing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was participating in a mountain biking lesson.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient fell off her bike and twisted her ankle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks which ankle is injured.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient identifies the right ankle as the injured one.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the ankle twisted inward or outward.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient states the ankle twisted outward.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to localize the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient localizes the pain to the lateral aspect of the ankle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any numbness or tingling in the toes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies tingling but reports numbness in the toes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is able to move the ankle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is able to move the ankle a little bit.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is able to walk on the ankle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports difficulty walking.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is limping.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is limping.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has taken any medication for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has taken Tylenol for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the Tylenol helped.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient states the Tylenol was not beneficial.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient heard a pop during the injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies a pop but reports hearing a crack.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how long the patient has been mountain biking.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been mountain biking for three years.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any fever or chills.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports having a fever.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the temperature of the fever.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor reports normal vitals (98.6 F, 118/77 BP, 77 HR) and physical exam findings of edema, erythema, ecchymosis, and excoriations on the lateral malleolus.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has pain with palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms pain with palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes pain with palpation, decreased range of motion, and no injury to the knee or foot.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor reports the X-ray shows no acute fracture or bony abnormality.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor assesses an acute right ankle sprain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg once daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The plan includes an Aircast, crutches, icing 20 minutes 5 times daily, weight-bearing as tolerated, and follow-up in 2 weeks if no improvement.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Right ankle injury",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

@@ -1,0 +1,820 @@
+{
+  "id": "D2N198",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "okay michael so i see in here that you're here because you're experiencing some symptoms that your pcp was concerned about i also see that he ordered a ct so could you tell me what what started what happened why do you think you are here"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hi doctor how are you"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "hi i'm great thanks for asking"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "well so yeah i just happened to have gone in for my regular visit and i just explained to my pcp that you know what i've been having some back pain it's usually on the left and you know he asked some questions and he said i should come see you"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "alright yeah back pain especially like that like was it sharp could you tell me what kind of pain it was"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "well yeah some days it was sharp some days it was n't some days it moves some days it does n't but it's mostly on the left"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "that's"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "unloving the spectrum that we have right here let's see if we can dig down and get some details well a couple of things i wan na ask have you been a bit more tired than lately"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no not recall"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "alright how about your appetite are you hungry or or not as hungry"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i i would say about his that that's pretty much unchanged"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay your appetite is unchanged alright what about your water consumption"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "that i'm sorry what did you say"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "no it's fine how about your water consumption"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yes but i've been drinking a lot more water and i do realize that i i wake up sometimes during the night to you know use the restroom to pee more than i normally do"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay so we have noticed an increase in urine output okay how do you have like any normal activities are you playing any sports"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah i ride i ride a bike every so often"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "so good yeah"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay and are you like watching any other sports like did you watch march madness"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no sorry"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "be still my heart okay that's fine i'll forgive you so"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay but how is school like are you like are are things going well like are you enjoying like your your time there"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yeah school is actually going well gotten good grades"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "nice"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "although my my physics teachers socks cheese"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "they usually do anybody who chooses to engage in physics for the rest of their life i question their choices it's fine okay but are you when you're like while you are at school like has anybody been sick i know like with you know covid has been going around but like have you noticed anybody like that sick all the time around you"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "sick all the time everybody is sick these days"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "so"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "but what about at home how about your siblings are any of them sick"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "most of them are healthy yeah most of them are healthy although you know i have a brother who smokes i have told him not to smoke he does n't listen"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "house told not to smoke at the house but you know anyway"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay so there is a smoker at home you know that does that does affect you so we might have to have a conversation with your brother and anybody else but it's good to know that people are n't sick i do see here though that you have kind of a a history of recurrent strep like you you seem to be having these sore throats a lot i think it says that you've had four in the last five months is that correct"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "yeah strep and bfs i'm not quite sure what it is just seems to come on you know i get this sore throat and fibroid i'm told i have strep"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "sometimes you know my doctor knows what he is doing strep everyday strep everyday but anyway if he says i have strep then i have strep"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "i okay i respect that and i'm glad that you you listen to him at the end of the day that's always a good thing alright so now that we've gotten like kind of a lot of the history out of the way i do want to do my physical exam is that okay"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "sure"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "alright so when i look in your throat like i'm not noticing any erythema no swelling your tonsils are midline so those look good when i'm feeling here on your neck i'm not appreciating any like lymphadenopathy no cervical adenopathy and like i wan na check those things because i just wan na make sure i'm not seeing any physical signs of like any kind of strep right now right i do n't want i wan na make sure you're not having an infection when i listen to your lungs i do n't appreciate any wheezes rales rhonchi that means i'm not hearing funky sounds your heart sounds great no murmur no rub no gallop when i press on your back remember you told me you had that left back pain when i press on it does it hurt"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay alright great no tenderness on palpation when i press on your abdomen are you feeling any pain"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "alright no rebound no guarding that's great okay so based on my physical exam we are gon na have a couple conversations one that ct that your your primary care doctor the the one that you you question his judgment it is showing a couple things that we are a little concerned about it could be that these recurrent strep episodes that you've been having it looks like they are like potentially that they are caused something called glomerular nephritis right there's just some some swelling here and we have to be careful of something like that because it could lead to like kidney disease chronic kidney disease and we wan na make sure that we cut that off right so the first thing is i'm gon na refer you for your problem of glomerulonephritis i'm gon na refer you to an ent i want them to look at you and maybe consider taking out your tonsils to see if that could help with some of the recurrent strep though that you're feeling but i would like to leave that to them to make that decision for you and me we're gon na do some more like confirmations right i'm gon na order some labs i want several a lipid panel a ua a cmp a cbc a vitamin d and a tsh all of these things will give me more information about kind of like what's happening in your body right now in terms of like your hormones and you know your iron levels and to make sure that you are like getting all the nutrition that you need and that your body is operating appropriately i know that that was a lot of words but let me know what questions do you have about your care and your treatment"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "how much are all these tests going to cost"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "they are going to be free ninety nine because your mom is paying for them"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "okay that's that's good to know"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "yes"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "and when do i when do i have to do those tests"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "i would prefer you to get them done as soon as possible so when you walk out of this room there is a a blood lab right next door i need you to go ahead and do some of those draws some of them i will need you to not have eaten we are gon na do them it's called fasting and you can make sure that you have n't eaten when you do but they will the lab techs will know so you will be able to knock out most of those today"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "okay and i'm not sure i will be able to do that today because i have a class right after this"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "and right after that i have to go to work"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "you know if i told you i'm about changing jobs did i"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "no you did n't mention that but one of the cool things about being a doctor is i can write you a note so you're gon na do it and then you can go to the class and we could figure it but like it's really cool that you're changing jobs i'm happy for you i hope you know that like it's always great to be able to make some income and make some decisions that means that you'll be able to start paying for your test soon uh"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "well yeah this new job there is no insurance and my old boss sucks so i'm hoping i'll get a new boss and you know hopefully some free food with with this ut because it's had a restaurant so we'll we'll see how that goes"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "we might have to have a conversation about the free food at the restaurant if we do n't get some of these infections under control because your salt intake is about to be very important okay"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "got it"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "alright okay so do you have any more questions before i send my nurse in"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "do i need to get a shot today"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "no shots today just stopped"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "okay and when do i have to come back for the results"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "i need you to come back in a week"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "okay can we do that over the phone by the way"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "we could if if your results are normal but if we need to have additional conversations i'm gon na need you to come back"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "excellent"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "thank you very much"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "no problem"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The doctor introduces the visit to discuss symptoms and CT scan results.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "agenda_item"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a student who reports left-sided back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the characteristics of the back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the back pain as intermittent, shifting, and primarily on the left side.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been experiencing fatigue.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies fatigue.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about changes in appetite.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports appetite is unchanged.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about water consumption.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports increased water consumption and increased nighttime urination.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient reports riding a bike occasionally.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the health of the patient's siblings.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports siblings are healthy, but one brother smokes at home.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's history of four strep throat episodes in the last five months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Physical examination.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: throat normal, no lymphadenopathy, lungs clear, heart normal, no back tenderness, no abdominal tenderness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0042",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor discusses the CT scan findings suggesting glomerulonephritis and plans for an ENT referral and lab tests (lipid panel, UA, CMP, CBC, vitamin D, TSH).",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about the cost of the tests.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0048",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks when to complete the tests.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0048",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor instructs the patient to complete the tests as soon as possible, noting some require fasting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0048",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0059",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient mentions he is changing jobs to work at a restaurant.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0062",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises the patient to watch his salt intake.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0048",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0065",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if he needs a shot today.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0067",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks when to return for results.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "follow_up"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0068",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to return in one week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0067",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "follow_up"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0069",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if the follow-up can be done over the phone.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0067",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "follow_up"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor states a telehealth follow-up is possible if results are normal, but an in-person visit is required if results are abnormal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0067",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "follow_up"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "back pain; strep throat",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

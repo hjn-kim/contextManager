@@ -1,0 +1,588 @@
+{
+  "id": "D2N163",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "julie cruz is a 17 -year-old non- binary immensipated minor with no significant past medical history presents for evaluation of newly diagnosed hypercholesterolemia patient is here at the clinic hi julie how're you doing"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm okay"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so i now i know you're worried about you know what's been happening with your with your you know with your blood cholesterol so can you tell me a little bit more about what's going on"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yeah i mean i'm worried about this finding i went for my annual checkup and they checked my cholesterol one of those finger prick tests and it came back elevated and they told me i should come and see you"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay alright well i think it's a good thing that you know we're aware of this elevated cholesterol at a young age and that we can do something about it so lem me ask you julie a couple of questions here okay so what kind of activities do you like to do"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "well i really like to go outside i ride my bicycle a lot"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "which is it's a lot of fun i ride the trails"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "that's fun very nice so you stay pretty active it sounds like"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "well i keep pretty active during the week yeah"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay very good good for you now tell me what what kind of foods do you like to eat"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "well i mean i really like chocolate chip cookies"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i mean i i try to cook pretty much everything is fresh but i i really do like like cookies and i i mean but even after that i mean i i try to eat pretty clean diet most days"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "that's why i was really surprised my cholesterol was high"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "yeah okay well we will we will try to look check and see what's going on there okay so so what kind of so have you you've done any fun activities that now that you know it's getting warm out"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah i went for a bike ride over the weekend and some friends have morning we we went for a bike ride and then we had a pick"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "that's fun"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "it was pretty nice it was a little chilly but it's nice now that it's springtime"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "yeah but yeah that sounds like fun"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "it was fun"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "techniques are fun so tell me do you do you have any history at all of you know hypercholesterol serol anemia on the like at a early age any other you know family members that that you remember that may have that problem"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "well i do n't really think so i do n't really talk to my parents too much"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "i know"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "but i i have a pretty good relationship with my grandparents"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "you know and i remember talking to my grandmother and my grandfather both and they do n't they said that when they were young they did n't have anything like that so i had mine checked last year and the doctor said it was a little borderline"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "but it was n't anything to be worried about that time it kinda just blew it off just told me to watch what i was eating and now they say it's really hot and i do n't understand what's going on"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay alright okay we'll we'll we'll we'll take a look at that okay now tell me have you had any issues you know with growing growing up bones are feeling okay you feel like you're growing okay"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "i i guess so i mean when i met with my doctor i they talked about making health goals and making sure that that i i feel okay and i i decided about two years ago that i i do n't feel much like a girl i it's it's more of just kind of a nongender and that's how i've been living"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "and but i mean i thought i was healthy"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "yeah okay well you know we can get you there too you know we can work on that so we we'll take we'll talk more about some tips to help achieve those goals okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay and tell me does anyone at home smoke"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "well when i used to live with my parents they did but i live on my own now"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "right"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "nobody smokes my apartment"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay you know if your friends come over if they smoke too or what okay"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "nope"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "no nobody that i spend time with smoke"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay now tell me is there any history at all of like maybe heart disease or sudden death you know like early early in those your family's years"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "well come to think of it i did have my my grandparents told me that that i had a cousin that died and and he was only like forty four or forty five"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "they they think that he had a heart attack"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay well i'm sorry to hear that okay so that's that's helpful information though okay let's go ahead and do physical exam on you there julie i'm gon na go ahead and take a look at your vital signs looks like your blood pressure looks good so that's good now on your heart exam i do n't appreciate any murmur rubs or gallops on your lung exam your lungs are clear on your eye exam i do n't appreciate any zenthomas and also on your neck exam here there is no thyroid megaly so now on your abdominal exam i do n't appreciate any hepatomegaly or splenomegaly why can i see these today so i reviewed the results of your cholesterol level and it was elevated at two ten so that's high so let me go ahead and tell you about my plan so for your problem of elevated cholesterol what we wan na do is you know the american academy of pediatrics actually recommends that all children be screened screened once you know they become between ages and nine and eleven and then again between ages seventeen and twenty so that's why you were screened okay so we do we yeah so we do this because studies have shown a link between high cholesterol and premature heart attacks so i wan na go ahead and order a full cholesterol panel there could be other reasons that could be causing the the high cholesterol but i'll go ahead also and check some glucose a complete metabolic panel some thyroid studies and liver panels and i wan na perform a genetic testing to see if this problem is familial or this is a secondary cause so we are also gon na go ahead i wan na follow up in a follow-up with a well balanced diet so including a variety of foods that are lower in saturated fat and sugars so i want you to follow that and i want you to meet a nutritionist and so who can give you information about what kind of foods to eat okay"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "alright now i do want you to continue to be active and exercise so that's great especially that you know your bike riding so you keep that up that's a great thing and you're doing well with that so keep that up for you okay and then i wan na follow up with another cholesterol level in three to six months after you've met with the nutritionist and then and they've you know instituted those dietary changes"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "okay it sounds good"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "okay good well take care julie i'll talk to you soon"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "alright thanks document"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "thank you bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 17-year-old non-binary minor with no significant past medical history presenting for hypercholesterolemia.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Hypercholesterolemia",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe their concerns regarding their cholesterol levels.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports an elevated cholesterol level from a recent finger prick test at their annual checkup.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient about their physical activities.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient enjoys being outside and riding their bicycle on trails.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient about their dietary habits.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports eating fresh foods but enjoys chocolate chip cookies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of hypercholesterolemia.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies family history of hypercholesterolemia and notes a previous borderline cholesterol result.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if anyone at home smokes.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports their parents smoked when they lived with them, but they now live alone and no one smokes in their apartment.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of heart disease or sudden death.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a cousin who died of a heart attack in their 40s.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam: blood pressure is good, heart is clear, lungs are clear, no xanthomas, no thyromegaly, and no hepatosplenomegaly.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor reviews the patient's cholesterol level, which is elevated at 210.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor explains the AAP guidelines for cholesterol screening and the link between high cholesterol and heart attacks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a full cholesterol panel, glucose, CMP, thyroid studies, liver panel, and genetic testing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises a balanced diet low in saturated fat and sugar and provides a referral to a nutritionist.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor encourages the patient to continue regular exercise.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up in 3 to 6 months for a repeat cholesterol level after meeting with the nutritionist.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "follow_up"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "hypercholesterolemia",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

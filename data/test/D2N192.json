@@ -1,0 +1,945 @@
+{
+  "id": "D2N192",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "karen is a 34 -year-old female with a history of chronic migraines and hypertension who is here today with abdominal pain so hi there karen it's nice to see you again listen i'm sorry you're not feeling well and you've got abdominal pain like to talk about that in some detail with you but hey i wan na use this new cool app that's gon na help me focus on you a bit more in this visit would that be okay with you"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "sure that's fine"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay great so so karen tell me about your abdominal pain what's been happening"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "well it started about ten days ago with just some mild discomfort in on my right side and it seems to be getting worse over the last couple of days especially"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and how bad would you say the pain is like it's a zero to ten on a scale today"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah it it waxes and wanes in severity it it's in general probably around a four or a five but sometimes it gets up as high as a seven or eight"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay is there anything that you notice that makes that pain worse or better like rest or movement or eating or anything else"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "it's usually a little worse after a meal"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "hmmm okay"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "in the morning before i've eaten it's it's not too bad but during the day after a meal it gets worse"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay alright and do you notice that pain radiates anywhere or moves you know any or anywhere"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "it's pretty low it might radiate a little bit to the left but otherwise it's pretty localized to the right side"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay and have you had any nausea or vomiting along with the pain"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i've had some nausea and a little bit of heartburn but no vomiting"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and and this is this is this is worse with you said worse worse with meals and is there anything else anything else that that makes it worse"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "it is a little tender if i if i press on it and certain positions seem to make it a little worse when i'm most when it's the highest"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "pain"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay sure any pain with urination or any blood in your urine"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no no urinary symptoms"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay and how about any diarrhea and any of that or blood in your stool no"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "no change in bowels"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay alright and so would you say that your appetite has been normal or decreased or any different"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "well since i'm a little nauseated i'm not quite as hungry and i feel just kind of a little overall a little more fatigued over the last week"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay okay you did n't overeat you know during the super bowl last weekend did you that was i know probably lots of junk food floating around if your house is anything like mine"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "well once the packers are out of the playoffs i do n't watch the super bowl so nothing i have n't eaten anything unusual"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay well that's good that's good and and no no travel i know you're a big big travel travel fan you know i remember you telling me about your trip to europe last summer that sounded amazing have you been traveling outside of the country again recently"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "not recently just back to wisconsin but no unusual travel or other exposures"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay alright great and okay so so tell me about your migraines how have they been are you still taking the sumatriptan you know as needed when when you developed migraine you have have you had a migraine recently"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "i have not usually they are responsive to just excedrin migraine i use the sumatriptan when i need to if it if it does n't respond to the over the counter analgesic"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "so"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "it's it's been it they've been pretty rare"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay okay great yeah you've learned a lot about it and and the treatments including the the term analgesic and all of that that's pretty impressive you've been you've been through the ringer i think with with those so okay and so you're taking excedrin when you get a migraine and then sort of would you say maybe for breakthrough migraines or worse migraines you'd take a sumatriptan occasionally"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay got it and how about your blood pressure how has that been running at home are you checking your blood pressures daily still and how how your how how have your blood pressures been"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "i have not been checking them daily i i probably check it about two or three times a week"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "and they're pretty good the upper number is usually around in the one twenties or low one thirties and the lower number usually in the seventies"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay okay not not too bad it does look like you're a little bit elevated today i i maybe i'm just making you nervous though so i hope not so are you but you're still on lisinopril twenty milligrams per day correct it looks like you might be running low do you need a refill of that"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yeah actually i was going to ask you about that if i could get a refill that would be great"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "sure we can do that and so okay but you are still taking that twenty milligrams per day correct"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "correct"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay and alright fair enough so so let's go ahead and and examine you now karen so on your physical exam pretty normal and and unremarkable for the most part on your on your heart exam i do hear that grade three out of six systolic ejection murmur that you've still got that's unchanged from prior exam that just means i hear some heart sounds you know as i'm listening to your heart there i'm not too concerned about that we'll watch that otherwise normal cardiovascular exam and then your your abdominal exam gastrointestinal exam you have some tenderness in the right upper quadrant i would say mild to moderate tenderness and now if you take a deep breath does that and i press here does that hurt you"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay yeah you have i would call an equivocal murphy's sign in the right upper quadrant on your abdominal examination as well the rest of your abdomen is soft and no significant tenderness you have no tenderness in the right lower quadrant with deep palpation and you have no cva tenderness on your back exam as well and so we will talk about about that i am a little bit concerned about the tenderness that that i find on your abdominal exam the remainder of your exam karen is pretty normal and unremarkable and and so that's good let's let's talk about my assessment and your plan so first of all for your first problem of abdominal pain you you do seem to have acute abdominal pain with right upper quadrant tenderness that i'm concerned maybe a sign of some gallstones or possibly even an infection in your gallbladder so i'm gon na order some blood tests and an ultrasound today i'm gon na order a cbc chem twelve urinalysis a pregnancy test and also right upper quadrant ultrasound and so we will we will get those tests done right away i'm gon na keep you here we'll see how those look fortunately we've got the facilities for those and if we need to send you to the emergency department based on those results we will i do n't want you to eat anything right now okay in case we find something that might require surgery alright unlikely but it's possible and then okay you know karen i meant to ask you on your history one thing by chance have you had a fever along with this abdominal pain"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "i've had some chills but no documented fevers"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "okay alright alright good yeah i i see you do n't have a fever today so that's that's good and so alright now for your second problem the migraine headaches you you do have a history of chronic migraines and and you have occasional bouts of of migraines nothing recent so let's continue the excedrin as needed over the counter for treatment there and then also the sumatriptan as needed for breakthrough migraine pain and i i would just encourage you to continue to avoid alcohol binges and caffeine binges and try to get enough sleep and all of that's easier said than done i know so but but that seems to be helping you now for your third problem of hypertension your blood pressure seems to be under adequate control so that's good we'll continue you on the lisinopril twenty milligrams per day and i will write you a refill prescription for that and send that to the pharmacy please continue to check your blood pressures daily so karen how does that all sound for a plan any other questions for me"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "i actually do need a refill on my sumatriptan as well"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay alright sure yeah no problem so for your migraines the migraine problem i'm also gon na write you that that refill prescription for sumatriptan and anything else you can think of"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "no the plan sounds good"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "alright sounds good we'll see you back in about four weeks or so and actually i am gon na follow up on your results today before i let you go but i'll check on those and and we'll we'll see how how you do and and hopefully be able to get you home today so we'll go from there i'll i'll see you shortly"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 34-year-old female with a history of chronic migraines and hypertension presenting with abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Abdominal pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the history of her abdominal pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The abdominal pain began ten days ago as mild discomfort on the right side and has worsened over the last two days.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate her pain on a scale of zero to ten.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The pain waxes and wanes, generally ranging from four to five, but occasionally reaching seven or eight.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about factors that exacerbate or alleviate the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The pain is usually worse after a meal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The pain is less severe in the morning before eating.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain radiates.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The pain is localized to the right side but may radiate slightly to the left.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about nausea and vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports nausea and heartburn, but denies vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports tenderness to palpation and that certain positions worsen the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about dysuria or hematuria.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies urinary symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about diarrhea or blood in the stool.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies changes in bowel habits.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about appetite and fatigue.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports decreased appetite due to nausea and increased fatigue over the last week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about recent travel or unusual exposures.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies recent unusual travel or exposures.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Migraines",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the status of the patient's migraines and use of sumatriptan.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses Excedrin Migraine as needed and sumatriptan for breakthrough pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that migraines have been rare.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about home blood pressure monitoring and results.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0036",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient checks blood pressure two to three times a week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0036",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Blood pressure readings are typically in the 120s-130s systolic and 70s diastolic.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0036",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is taking lisinopril 20 mg per day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0036",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs a refill for lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0036",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient requests a refill for lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0036",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include a grade 3/6 systolic ejection murmur, mild to moderate right upper quadrant tenderness, and an equivocal Murphy's sign.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms pain during the Murphy's sign assessment.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The rest of the abdominal exam is normal, with no right lower quadrant or CVA tenderness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a CBC, chem 12, urinalysis, pregnancy test, and right upper quadrant ultrasound, and instructs the patient to remain NPO.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had a fever.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports chills but denies documented fevers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to continue Excedrin and sumatriptan as needed, avoid alcohol and caffeine binges, and get enough sleep.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor will provide a refill for lisinopril 20 mg per day and instructs the patient to continue daily blood pressure monitoring.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0036",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient requests a refill for sumatriptan.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor agrees to provide a refill for sumatriptan.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans to follow up on test results today and schedule a follow-up visit in 4 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "abdominal pain; chronic migraines;hypertension",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

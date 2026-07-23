@@ -1,0 +1,552 @@
+{
+  "id": "D2N189",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi betty how are you i i read in the medical records that you ended you did end up having a heart attack they ended up putting a stent in your right coronary artery how are you doing"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm thankful to be alive but definitely struggling and definitely scary time for me"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "yeah you know i'm i'm i'm glad that we went ahead and sent you to the emergency room now i know that you were in the hospital for about forty eight hours how are you feeling since you've been home you've been home a couple of weeks now how are you doing"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "yeah they told me to really take it easy so i've just been you know doing very light work i i i do n't really do much outside of just you know sitting around and taking my medication but i would say i'm doing okay i feel like i have you know a little it i do n't feel perfect but i feel better than you know i did"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and have you had any more of that chest pain since they put that stent in or is that completely gone"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i have not had any chest pain since no a little you know sore right after surgery but that doing much better now"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay and i know that they went through your wrist for the cardiac catheterization how is your wrist doing"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "it's good i you know it was red for a while but it seems to be healing and i think there is no infection"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and you're right handed correct"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "correct yes right handed"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay alright and any shortness of breath when you walk around or move anything like that"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "yeah i i would say you know i've been trying to keep my my i i'm not doing a lot of exercise but i will say that when i go up and downstairs you know i do feel like i have shortness of breath"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay now i know they put you on that medication the brilinta are you you're taking it correct"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yes i take it twice a day every twelve hours"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay great and you're still taking your aspirin correct"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i take the baby aspirin at night is that okay"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "yeah that's perfect as long as you take it once a day and you're able to afford the brilinta any issues with cost with that"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "no i so far so good"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay alright so it's really gon na be really important for you to go ahead and continue to take these medications to prevent that stent from clogging again okay or prevent that stent from closing because we do n't want you to have another heart attack okay"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "okay yeah"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay and how about watching your diet are you able to watch your salt intake i know that you really liked a good pizza every now and again are you"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah i i have eaten pizza a few times what i'm trying to do is really be diligent and eat well throughout the week and then i have had pizza a few times on the weekends is that okay"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "you can have a piece here and there you know the pumping function of your heart was pretty normal when i saw from the hospital your ejection fraction that's the pumping function of your heart was at about fifty percent which is you know low normal but not bad so that's good so okay just i would just watch your salt intake okay"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "okay yeah i've been eating a lot of vegetables and and chicken without salt on it"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay great and then you know i i'm i'm glad that you're taking it easy now remind me this might cause you some anxiety were the denver denver nuggets swept or did they end up winning are they still in the nba playoffs i forget i know that you are a denver nuggets fan"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "i am yeah they they are not sweep they were down three games but they wanted the last one so there is a there is a chance for it come back but they they play again tomorrow"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay yeah i'm a self expand and and we just swept the brooklyn net so i was really excited about that"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "congrats that that's that's always good to sweep the nuts no one no one likes them"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "no one likes them okay well let's i wan na just go ahead and do a quick physical exam i'm just gon na be calling out some of my exam findings and i'll let you know what that means when i'm done okay so looking at your blood pressure here in the office your blood pressure looks good it's about one twenty seven over sixty which is pretty good on your neck exam i do n't appreciate any jugular venous distention there is no carotid bruits on your heart exam i do appreciate a slight three out of six systolic ejection murmur heard at the left base on your lung exam your lungs are nice and clear to auscultation bilaterally and on your musculoskeletal exam your right radial artery cardiac cath site is clean dry and intact there is no hematoma and there is a palpable radial pulse now what does that mean betty so all of that means is that you know you have a little bit of a heart murmur after having the heart attack but i looked on the echocardiogram and it showed that you know you do have mild mitral regurgitation which is just you know a little floppy valve which is is fine we'll just keep an eye on that and then everything else for the most part looks good so let's just talk a little bit about my assessment and plan okay so for your first problem of your inferior myocardial myocardial infarction i wan na go ahead and continue with your aspirin continue on your brilinta you're gon na stay on the brilinta for at least one year and aspirin you're gon na take lifelong until i tell you to okay i wan na go ahead and have you continue on the crestor forty milligrams once a day and i'm gon na go ahead and put in another echocardiogram for about six months okay do you have any questions about that"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yeah do you think i can no that sounds good i have one other more question though"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "do you think that i can swim again i miss swimming"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "yeah so at this point you're you know you're out like two weeks and your and your cath site is looks good so you can go ahead and and resume swimming now with that being said i would want you to just do a few laps here and there i do want to enroll you into cardiac rehab that's gon na give you a bit more confidence to go back to exercising and they also give a lot of dietary education and counseling in cardiac rehab does that sounds like something that you can do"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yeah i think i have to"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay i agree alright i also want you to go ahead and continue with your toprol fifty milligrams once a day and i'm gon na go ahead and order a some liver function studies and a lipid panel to follow up with the next time we meet and i want to see you again in probably six weeks okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay any questions"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no i think that's it thank you very much"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay take care bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a post-myocardial infarction patient with a stent in the right coronary artery.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced chest pain since the stent placement.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain since the surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the status of the cardiac catheterization site on the wrist.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the wrist site is healing and shows no signs of infection.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experiences shortness of breath with exertion.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports shortness of breath when climbing stairs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0010",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking Brilinta.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient takes Brilinta twice a day every 12 hours.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking aspirin.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient takes baby aspirin 81 mg at night.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is monitoring their salt intake.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's ejection fraction is approximately 50%, which is low normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports eating vegetables and chicken without salt.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a Denver Nuggets fan.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: BP 127/60, no JVD, no carotid bruits, 3/6 systolic ejection murmur at left base, lungs clear, right radial cath site clean/dry/intact with palpable pulse.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "Echocardiogram shows mild mitral regurgitation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "Continue aspirin, Brilinta for at least 1 year, and Crestor 40 mg once a day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Repeat echocardiogram ordered in 6 months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if they can resume swimming.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor clears the patient to resume swimming a few laps and recommends cardiac rehab for exercise confidence and dietary counseling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0031",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Continue Toprol 50 mg once a day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Liver function studies and lipid panel ordered; follow up in 6 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "follow up",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

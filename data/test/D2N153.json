@@ -1,0 +1,726 @@
+{
+  "id": "D2N153",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "patient",
+      "text": "i hope i did n't hurt it again"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hi gregory how are you i the medical assistant told me that you injured your knee"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "yeah yeah i heard it stepping off a curb"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "how long ago did that happen"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "about two and a half weeks ago"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "two and a half weeks ago and what what knee is bothering you"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "the right knee the outside of my right knee"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "the outside of your right knee"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay and did you actually fall down when this happened or"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "no i just sorta turned over my ankle"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "to the outside and i thought my ankle was the thing that was gon na hurt most but after the ankle soreness went away the only my knee hurt and it sort of clicks when i walk"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "and no okay so now it clicks when you walk okay does it hurt when you walk"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "no unless i stand on one foot for an extended period of time like leaning my foot up against the wall"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "then i feel like it's locked and then i sort of have to ease into walking again"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay and what have you taken for the pain"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "really nothing"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "ibuprofen but i'm not a big pill taker so i sort of sucked it up and"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "does the ibuprofen work"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "at night you know during the day i'm more active so it it really does n't impact it because i just work through it but at night it does help me to settle down and sleep better"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "does your knee hurt when you're just resting and sitting there"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "no when it's up it's fine when it's down on the floor with my foot flat it's fine it does hurt when i rest it on my heel"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay and are you able to do things like bending or things like that"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "a full squat that's when i feel the most clicking like if i go all the way down to a full squat like a catcher that's when i feel the most clicking but otherwise no there is no pain it's just the clicking and i'm fearful that that's an injury of some type"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay alright now you said squats are you are you active are you doing like burpees going to"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "no i ride the bike"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "i ride the bike i ride the bike which i'm not doing now peloton inside for the winter i do have a winter bike though"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay alright well i have a peloton who is your favorite instructor"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "i i actually do n't have a favorite instructor i have more favorite rides"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "okay what kind of rides do you like"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "i like rock music and regain music rides so whoever is doing those in a began or a medium content i'm cool with"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "i ca n't picture you as a regade person so that's interesting to know okay alright and any numbing or tingling in your foot at all"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "yes but not from the knee injury i broke my foot my second toe on my right foot and i have numbness depending upon the shoe i wear"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "okay when did you break your toe"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "i've broken it three times over the last ten years so it's just something that's a an annoyance but it was n't caused by this injury"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "okay so you do have some numbing and tingling but it's not new"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "right correct"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "alright alright well let's just go ahead and i'm gon na go ahead and do a quick physical exam i'm gon na be calling out my exam findings i'll let you know what that means so on your musculoskeletal exam on your right knee i do appreciate some slight edema you do have a slight effusion does it hurt when i press on the outside of your knee"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "no not physically"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "okay there is no pain to palpation of the right lateral knee i'm gon na be bending your knee in all sorts of positions does that hurt"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "only when you pull it to the outside"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "from my my foot when you pull it to the outside that's the only time it hurts"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "okay the patient has a positive varus test there is full range of motion there is a negative lachman sign the patient does on cardiovascular exam the patient does have a palpable dorsalis pedis and posterior tibialis pulse okay well let's just i wan na talk a little bit about i had the nurse do an x-ray on you and i looked at the results of your knee x-ray and it does n't show any acute fracture or bony abnormality which is not surprising based on your injury so let's just talk a little bit about you know my assessment and my plan for you so i think you do have a a lateral a lateral collateral ligament strain based on your exam findings and this this type of injury essentially can be healed by itself you know i do n't think we're gon na need to refer you to surgery or anything like that i want you to go ahead and i'm gon na prescribe meloxicam fifteen milligrams once a day i do wan na go ahead and refer you to physical therapy because if we strengthen up those muscles and areas around that injury then that will make your knee stronger it help prevent future injuries are you able to ice it at all during the day now you said you working you work in sales so you said you're home"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "yeah i actually i'm at home so i can ice it and i have been icing it"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "i mean twenty on twenty off at least four times a day"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "okay and so does that help at all"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "it's it it makes it feel better in the morning when i first go to my desk and at the end of the day before bed you know i take ibuprofen so i do n't have swelling overnight but honestly i have a pretty decent threshold for pain so it's not good it's not changing it by much"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "okay do you feel like your symptoms are getting worse or better i think i think pretty much for the last two weeks they've remained about the same the the only time i feel like they get worse is when i exert myself doing up and down like gardening in the yard or moving pots"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "and stuff outside that's the only time i felt like it got any worse but nothing to the point where it stayed worse"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "okay alright well let's go ahead and refer you to physical therapy if you're still having pain then we might have to consider an mri"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "any questions about that"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "okay alright well it was very nice seeing you today call me if you need anything"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "i will"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "okay bye"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 68-year-old male presenting for evaluation of a right knee injury.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient injured his knee stepping off a curb.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury occurred 2.5 weeks ago.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain on the lateral aspect of his right knee.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient turned over his ankle when the injury occurred.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports clicking in the knee with ambulation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain with ambulation unless standing on one foot for an extended period.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports locking of the knee with prolonged standing.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been taking ibuprofen for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Ibuprofen provides relief at night, but daily activity does not impact the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain at rest or with foot flat, but reports pain when resting on his heel.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports clicking during a full squat but denies pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient rides a bike for exercise.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports numbness and tingling in his right foot related to a prior toe fracture.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has fractured his 2nd toe three times in the last 10 years.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows slight edema and slight effusion in the right knee.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "There is no pain to palpation of the right lateral knee.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain when the knee is pulled to the outside.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include positive varus test, full range of motion, negative Lachman's, and palpable pulses; X-rays show no fracture or bony abnormality.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Assessment and plan for lateral collateral ligament strain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor refers the patient to physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been icing his knee 4 times per day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0052",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Icing provides relief in the morning and at the end of the day.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0054",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Symptoms have remained stable for two weeks, worsening only with exertion.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will consider an MRI if pain persists after physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "LCL strain of the right knee",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "id": "D2N109",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "so stephanie morales is a 36 -year-old female today complaining of her ankle pain and she also has a history of diabetes and high blood pressure so stephanie tell me what's going on with your ankle"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "well we had a long spring and the other day we got some snow and ice i was walking to my car and i slipped and my left ankle kinda turned underneath me"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay and so this happened couple days ago or how many days ago"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "two days ago"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "two days ago okay and so it's your left ankle and it kinda just twisted underneath you on the kind of on the inside"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah more on the it's more on the outside of my hips"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "and did you fall down or did you just kind of cut catch yourself"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "no i fell"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and were you able to get up afterwards or somebody helped you up"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i was but it was very sore and then started swelling and quite a bit of pain so it's hard to walk"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "sure have you tried anything for pain or the swelling or anything like that"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "ibuprofen some ice and elevation"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay has that helped much or not really"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "a little bit"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and any pain above your ankle does it hurt on your on your calf or your lower leg at all or knee at all"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no it's mostly just the outside of my ankle"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay got it and no bleeding or i'm sure it's a little swollen probably"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah it's swollen but no bleeding"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "well i'll have you take off your shoes in a second we'll examine you in a second but since you're here and i wanted to talk about some of your other things that you know we have n't i have n't seen you in a year so let's talk about your history of diabetes as well are you taking the metformin how's your blood sugars been how how're you managing that any issues with that"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no they've been pretty stable"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "so with my diet"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "good"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "so"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "you're checking your sugars regularly as well"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay your hemoglobin a1c last time i looked at epic was about six . eight which is really good so i think you're doing a great job we had talked about you know cutting off the sweets and sugars and stuff like that and exercising so it sounds like you're you're you're doing a pretty good job with that have you seen the ophthalmologist recently for your eye exam for your diabetes checkup or no"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i am due for one of those in the next couple of weeks"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay alright so we'll so you do you already have an appointment or do you need to make an appointment for that"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "i have an appointment"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "perfect excellent okay and how is your blood pressure been i know we watching it your blood pressure today looks pretty good it's about one seventy over i'm sorry one twenty over seventy you're taking norvasc any issues with that any do you need any refills or anything"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "i need a refill on that yes"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay alright well let me examine you here for a second so i'm gon na go ahead and do my match exam and i'm just gon na verbalize some of my findings so i can put that into my record okay so your neck exam is fine there is no bruits your lungs are clear your heart exam is normal you do have a two over six systolic ejection murmur you had that in the past unchanged from before so that's not really worried about that your belly exam is good on your ankle exam on your left ankle you do have some tenderness over the lateral malleolus and you do also have some tenderness over this bone here which is the fifth metatarsal so i do n't see any there is some swelling there some redness but there is some pain with valgus stressing of your ankle as well and let me turn off my phone here and also you do have otherwise normal sensation normal pulses so on your so my diagnosis for your ankle is i think you probably have an ankle sprain but i would like to order an x-ray of your ankle because you do have some tenderness over this bone and i'm sometimes worried about a fracture so i'm gon na go ahead and get an x-ray i'm gon na put you in a splint we're gon na put you in a in an air splint and i'll give you some crutches until i get the x-ray back i want you to do just avoid weightbearing just to make sure there is no fracture there i will give you some naprosyn five hundred milligrams twice a day for pain control keep it elevated put some ice on it i think those are all good things and if the x-ray shows a fracture i'm gon na go ahead and give you a call back and we'll send you to orthopedics but right now let's try this air splint if there is no fracture i will probably have you take off the air splint and do some partial weightbearing and see how it goes does that sound like a reasonable plan for you"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "that's a great plan i need to get back to exercising so"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "perfect and for the diabetes keep the eye appointment that you already have you know continue with the metformin i'm gon na order another hemoglobin a1c today we'll check some baseline labs as well since it's been a while since we checked them and then once if you have any issues or you know give me a call we can get you into the office and for the high blood pressure i'll go ahead and refill the norvasc today you're doing a great job with that it sounds like continue to monitor that if something changes certainly call me we can get you in sooner okay"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "sounds good sounds good good great seeing you thanks stephanie"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 36-year-old female with a history of diabetes and hypertension presenting with ankle pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Ankle pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports slipping on ice two days ago, causing her left ankle to turn.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports soreness, swelling, and difficulty walking following the injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been using ibuprofen, ice, and elevation for pain management.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has pain in her calf, lower leg, or knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain in the calf, lower leg, or knee, noting pain is localized to the outside of the ankle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about metformin adherence and blood sugar management.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin A1c is 6.8.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has seen an ophthalmologist for a diabetic eye exam.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient's blood pressure is 120/70 mmHg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0030",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about Norvasc adherence and need for refills.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0030",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: neck clear, lungs clear, heart 2/6 systolic murmur, ankle tender over lateral malleolus and fifth metatarsal with trace edema, erythema, and pain with valgus stress.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an ankle x-ray, places the patient in an air splint with crutches, and prescribes Naprosyn 500 mg twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises continuing metformin, orders a repeat A1c and baseline labs, and refills Norvasc.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Left ankle pain; Diabetes Type 2;hypertension",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

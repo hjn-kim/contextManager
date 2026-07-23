@@ -1,0 +1,578 @@
+{
+  "id": "D2N161",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "patient is an 82 -year-old male with past medical history significant for hypertension and stage three chronic kidney disease who presents for hospital follow-up after an acute on chronic chf exacerbation alright hey hey kevin how are you doing today"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hi document well i mean i thought i was doing good but then i've been trying to watch my diet like you said and i really noticed that my ankles were swelling and then one day i got really super short of breath and i even had to call nine one one now when the paramedics got there they put me on the special mask to breathe when i got to the er the doctor in the er said my blood pressure was super high"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "yeah okay so yeah so i saw that and i was notified that you were in the hospital for heart failure now i do see here that your blood pressure was two hundred over ninety are you have you been taking your medications"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "well i take them most times but i do n't know sometimes i miss a dose or two but i really do try to take it for the most part"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay well good i'm i'm glad you're trying there you do need to take them though okay consistently now you said you were watching your diet did you have some slips you said your ankles were swelling"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "well be honest with you you know i'm a big cheese man i love me some football and and we go to parties on the weekends and i mean i i ca n't help it i really like pizza and i love chicken wings and i know i should n't have them but they are good and i want to eat them when i'm with my friends"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "man i know i i totally understand i mean i do love pizza too and i love chicken minks but i do love them with dallas cowboys not so much the cheese but everybody's got your preference but but you do have to you know you have to watch those right you can you can you can have a little pizza maybe a little chicken wings every now and then but you know when you go to a lot of parties on weekends we we have to really watch that okay"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah i mean you're wrong about the cowboys but yeah i guess you're right about everything else"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay thank you so tell me how are you feeling now though"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "man doc i feel good i was in the hospital a couple of days and they gave me this medicine made me go to the bathroom like nobody's business and then they gave me this water pill through my iv and i think i'm on different medications for my blood pressure now too but and i feel so much better now"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay well that's good to hear so have you been watching your diet too and taking taking your pills since you've been home"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "yeah i've been doing just what they told me to do because i do n't wan na go back to the hospital"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay alright and we do n't want you to go back to the hospital it's never a good experience so you know being in a hospital it's better to be well and be at home and watching your chiefs play now have you bought a blood pressure cuff at home i know we talked about that"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yes ma'am i finally did what you told me to do and i ordered one and it came last week i've been checking it about every other day and my blood pressure has been really good"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "good very good how about have you been having any shortness of breath or problems sleeping since you've been home"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "nope no shortness of breath i can get up and move around i do n't have any trouble and no problem sleeping i do have a good afternoon nap"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "good that's good you need to rest every now and then as well and now tell me have you had any chest pain"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "no chest pain at all since i've been home"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay alright very good alright well i'm gon na go ahead and do a quick physical exam on you here kevin and so i'm looking at your vital signs here and your blood pressure today is actually pretty good at one twenty eight over seventy two your vital signs also look good in general your heart rate's been nice at like seventy nine so that's very nice and normal your respiratory rate is twenty six that's probably because you're talking to me here but that's that's alright and then your o2 sat is ninety nine percent so that's good and now on your neck exam there is no jugular venous distention so that's good on your heart exam i appreciate a two out of six systolic ejection murmur which i have heard this before and it's stable so we will just keep on monitoring that okay now your lungs here lem me listen okay they're clear bilaterally and let me take a look at your legs real quick here kevin okay so your lower extremities they do show a trace of edema so that that's gon na be that we're gon na be able to help that with the water pills that you're taking okay"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "now i did review the results of your echocardiogram which shows a preserved ef of fifty five percent abnormal diastolic filling and also mild to moderate mitral regurgitation so what all that means let me go ahead and tell you about my assessment and plan so for your first problem of your you know congestive heart failure it sounds like this was caused by you know dietary indiscretion in an uncontrolled hypertension so what i wan na do is i want you to continue on bumex two milligrams one daily that's that water pill that you're talking about and then i want you to continue to watch your diet and also avoid salty foods i know you love your pizza and chicken wings but we are gon na have to cut back on those okay kevin"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "alright"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "alright now i want you to weigh yourself though everyday and then call me if you gain like three pounds in two days okay"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay now i do want you to see a nutritionist too and give you some education about what foods you can eat"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "alright sounds good"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "alright now for your second problem of hypertension i do want you to continue on that cozaar a hundred milligrams daily and then also continue on that norvasc five milligrams once daily and i'm gon na go ahead and order a renal artery ultrasound just to be sure that we are n't missing anything we wan na make sure there's no other causes like secondary causes that that's gon na cause some problems with your with your kidney okay"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "alright now for your third problem your kidney disease i do want to get some more labs some more blood work to make sure that you tolerate this regimen"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "alright that sounds good"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay and if do you have any other questions for me"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "i do n't think right now"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay well then i'll see you again in three months then kevin okay take care of yourself"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "alright thanks document"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "alrighty bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is an 82-year-old male with a history of hypertension and stage 3 chronic kidney disease presenting for CHF follow-up.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "CHF",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports recent ankle swelling, shortness of breath, and an ER visit for high blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's blood pressure was 200/90 during the hospital visit.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been taking his medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient admits to occasionally missing doses of his medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0002",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been watching his diet and confirms the ankle swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient enjoys football and eating pizza and chicken wings at parties.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has purchased a blood pressure cuff for home monitoring.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he bought a cuff and has been checking his blood pressure, which is good.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced shortness of breath or sleep problems.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies shortness of breath and sleep disturbances.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0016",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows BP 128/72, HR 79, RR 26, SpO2 99%, no JVD, regular heart rate with 2/6 systolic murmur, clear lungs, and trace bilateral edema.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Echocardiogram shows EF 55%, abnormal diastolic filling, and mild to moderate mitral regurgitation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "Continue Bumex 2 mg once daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Patient advised to monitor diet and avoid salty foods.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "Patient advised to weigh daily and call if weight gain is 3 pounds in 2 days.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "Referral to nutrition provided.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "Continue Cozaar 100 mg daily and Norvasc 5 mg once daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Renal artery ultrasound ordered.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Kidney disease",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "Lab work ordered to monitor kidney function.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any other questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "Follow-up scheduled in 3 months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Hospital follow-up after acute on chronic CHF exacerbation; hypertension;stage 3 chronic kidney disease",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

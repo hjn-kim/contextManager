@@ -1,0 +1,594 @@
+{
+  "id": "D2N200",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "alright okay theresa so i understand that you're you're having a bit of some headache here and then your blood pressure has been running high can you tell me a little bit about what's happening"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah i've had blood high blood pressure for a long time my provider gave me chlorthalidone i do n't really take it because it gives me a stomachache but yeah i get headaches right here on the top of my head they kinda come and go they're throbbing tylenol helps the headache"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay alright and then so how long have you had this headache has this been recent or like acute or you've been having this for since you've had your blood pressures"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "hmmm it's been on and off for about a month"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "a month okay alright and then are you having any other kind of symptoms with that like are you having any kind of you know dizziness lightheadedness any nausea vomiting"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah sometimes i feel dizzy and my vision gets a little blurry"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay alright how about like chest pain or shortness of breath are you experiencing any of that when you have these headaches in your blood pressure"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "chest pain or shortness of breath"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay very good alright and then you said you were you've taken some tylenol for that and you said it did help a little bit or did n't sorry"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "it does help"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "it does help good very good so how often are you taking your your medication are you taking that as prescribed like daily it sounds like you missed a few times but for the most part are you taking it"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "yeah i forget a lot so i probably take it like every other day"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay every other day alright and then are you also now i know you also have some diabetes so are you how are you doing with that one are you pretty much taking your metformin everyday"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "hmmm i probably take it when i take my other medicine like every other day"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "every other day okay so i do see that you know the nurse took your your vital signs this morning that your blood pressure is running quite a bit high it was like one seventy two over ninety eight so that's that's really a little higher than where we want it to be especially that you're on your medication but what we're gon na do is we're gon na take i'm gon na take a look at you real quick and then we can discuss you know maybe there's some changes that we can do in terms of your current regimen how about diet and your have you been sticking with that low sodium diet at all"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no i love mcdonald's i eat it all the time"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "i love mcdonald's too my favorite is big mac i do n't know about you but i got ta have my big mac with those large fries which you what's your favorite mcdonald's treat there"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i need to think of what fully of fish i love flare of fish"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "well at least you're eating the fish but but they can be very high in sodium especially the fast foods so we'll have to talk about maybe they can look at you know some some diet changes as well so the other thing is for your for your blood sugar here i see that you know you're running a bit high as well it looks like you're like you're about one seventy this morning and i i i i assume that you were fasting last night is that right okay so that's that's a little higher than what we want it's not bad it's below two hundred but it's getting kinda close to the borderline from where our limit is so we will take we take a look at that and also we'll figure out what we can do with that as well alright so at this point how about are you how is how is work how is life it's been good otherwise how's the family"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "they are good i did eat a lot of my kids easter candy over the weekend so maybe that's why my sugar is high"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay alright great alright alright just just around easter okay not not too much during the the year hopefully"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yeah i try"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "well that's good so let's go ahead and do a physical exam on you real quick here okay and so i'm looking at your vital signs it looks like your blood pressure i we mentioned that today is pretty high your heart rate looks good it's with it's within normal limits here and then your oxygenation is fine so you did mention you did n't have any shortness of breath so that's good so let me just feel around your neck real quick here i do n't appreciate any jugular venous distention on your neck exam i no carotid bruits so that's good let me go ahead and listen to your lungs and your heart here real quick alright so on your auscultation of your lungs they're clear bilaterally on your heart exam though i i do sense a two out of six systolic ejection murmur now that was also there last year so it has n't changed any so we'll just keep monitoring that one and then let me take a look at your extremities here real quick theresa so let me look at your hands you got a little bit of slight edema bilaterally on your upper extremities but let me look at your legs here okay so you have a one plus pitting edema noted here on your legs bilaterally so that means you're retaining a lot of that salt that you're eating unfortunately okay so so let me go ahead and tell you about my assessment and plan here so definitely what you're experiencing is some uncontrolled hypertension now most of the time you know it's multifactorial right it's your diet it could be the medication regimen if you're not following that and then it might be that we are gon na need to change the medication around and also change your diet but i would like to start with going ahead and i want to continue your current medication regimen today i do wan na really encourage that you do take that everyday maybe set a reminder like on your you know do you use your iphone a lot for your reminders and things maybe we can go ahead and do that get a reminder make sure that you take that everyday but with that i would like to go ahead and also monitor your blood pressure let's do it three times a week it can be much when we do it everyday but maybe three times a week do you have a blood pressure monitor at home"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay so i can recommend some really good ones nowadays that you can use at home and they're not that expensive and at least it'll give you some you know idea of what your blood pressure is running at and then i want you to come back like in a month because i wan na go ahead and see how your blood pressure is doing now that you know you're you you're taking your blood pressure medication everyday the other thing is i do wan na go ahead and have a nutritionist come and talk to you about you may maybe some dietary changes i'd like for you to start a \u2013 diet it's really to to help you know a lot of reduce a lot of that sodium intake when you're when you're when you're taking in your food so a nutritionist is gon na be able to help you figure out some foods that you know that you may like that you can actually use as an alternative besides the mcdonald's although you can have that once in a blue moon but you know not not too often okay"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "okay sounds good"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "great and then for your diabetes i wan na go ahead and let's go ahead and increase your your metformin to fifteen hundred milligrams i think all for that too i want you to go ahead and continue taking your blood sugars to make sure as as you normally would to make sure that you know that change in medication is is actually being effective alright do you have any other questions for me at this time"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "nope"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay great well i'm gon na have the nurse check you out and and i'll have the scheduler schedule you for a one month follow-up we'll take a look and see how you're doing from there see if we have then we will move from there okay"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "sounds good thank you"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "thanks theresa"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient presents with a headache and high blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Headache",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a history of high blood pressure and throbbing headaches on the top of the head.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the headaches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the headaches have been occurring on and off for about a month.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about associated symptoms including dizziness, lightheadedness, nausea, or vomiting.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports experiencing dizziness and blurry vision.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about medication adherence.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient admits to taking blood pressure medication every other day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about metformin adherence.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports taking metformin every other day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's blood pressure is 172/98.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about adherence to a low-sodium diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports frequent consumption of fast food.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's fasting blood sugar is 170.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "detail"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports increased sugar intake over the weekend.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: normal heart rate, oxygenation within normal limits, no jugular venous distention, no carotid bruits, lungs clear, 2/6 systolic ejection murmur, and 1+ pitting edema in lower extremities.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor advises the patient to continue current blood pressure medication daily and monitor blood pressure three times a week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a blood pressure monitor at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient does not have a blood pressure monitor at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is to follow up in 4 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor recommends a DASH diet and referral to a nutritionist.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "Increase metformin to 1500 mg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor instructs the patient to continue monitoring blood sugars.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0012",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any other questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has no further questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "headache and high blood pressure; type 2 diabetes",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

@@ -1,0 +1,877 @@
+{
+  "id": "D2N164",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "so elizabeth is a 53 -year-old female today complaining of chest pain and she has a past medical history of diabetes and high blood pressure so elizabeth tell me what's going on with your with your chest pain"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i do n't know every time i start walking i'm just having this kind of pressure and chest pain in my chest"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay are you having it now or is it gone right now"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "right now it's not there"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay and how long have you been having this"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "probably maybe three months"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay and what seemed to bring it on anything exacerbated or relieve it"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "it mainly happens when i'm walking i like to try and walk but lately i just have n't been able to keep up with it because i'm having this pain"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "alright and well how would you describe this pain it's like a dull pain sharp pain stabbing pain how would you describe it"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "i would say it's dull it's kinda like a pressure"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and does it go anywhere or radiate any place"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay alright but no chest pain right now no shortness of breath no sweats or clamminess or anything like that right now"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "nothing right now"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay alright well certainly you know i looked at your ekg that did we did in the office when you came in the ekg i do n't see any signs of a heart attack or anything like that so i'm you know we should definitely talk about the plan for this chest pain in a few minutes but right now the good news is i do n't see any signs of a heart attack or anything like that so let's talk a little bit about your other conditions since you are here today how are you doing with your diabetes i know we have you on metformin and we talked about last time about you know improving your diet and exercise i'm glad you're exercising but i'm so sorry to hear about the chest pain so tell me about how is that going"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "yeah i mean i think my blood sugars have been a little higher because i have n't been able to be active and i'm trying with the diet you know i do love sodas so i'm really trying strength dose"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "yeah i i am addicted to diet coke myself so i i hear you on that one and we had checked your hemoglobin a1c last time it was you know seven . which is pretty good it's not you know it could be better but it's not it's not bad and we talked about sending you to ophthalmology also for an eye exam have you seen ophthalmology in the last few months or last before i saw you"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i have an appointment in two weeks it was a long waiting"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay got it and any nausea vomiting or diarrhea or anything like that with your diabetes or any side effects from your medications the metformin"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay alright good and i saw also there was a record in your i was looking at your record before previously before i walked in you also had we've been checking your blood pressure but but i think you've been into several other clinicians and they had documented high blood pressure have you noticed any findings with that or have you know have anybody talked about high blood pressure with you or mentioned that because we do n't have it in our system here yet but i did add it in today but we do n't have you on any medications yet for that"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "no i mean i do n't know doc no one told me about high blood pressure do i have high blood pressure"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "well i think the last time you were in the clinic and one of the clinics said the referrals the your blood pressure was elevated so they had mentioned that i noticed a trend in your blood pressure it's been running on a little bit on the high side we have n't really diagnosed you with that yet but i think we are something that we should definitely consider looking at your trend of your blood pressure readings over the last you know a few years"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "okay do you think that could be causing me my my chest pain"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "it certainly could be contributing to that it certainly could be a factor that we need to look at so"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "someone had told me before"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "yeah me too but we we can we can definitely you know get you started on some monitoring devices for that and also maybe start you on some some diet control things that we can do to help with the blood pressure and maybe start you on some blood pressure medications if we need to okay"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "okay sounds good"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "so let me examine you elizabeth for a second for the because we're running out of time here for a second so i'm gon na go ahead and do my exam we got ta just did my magical exam and i'm gon na go ahead and verbalize some of my findings just so i can get it documented in my note okay and i'll explain things as we go along so there is no jvd there is no swelling in your neck there's no carotid bruits your lung exam is clear i do n't hear any crackles or rhonchi your heart exam you do have a two over six systolic ejection murmur you had that in the past otherwise it's regular rate and rhythm your pulses are equal your belly exam is nice and soft your no tenderness no guarding no masses that i can feel on your belly and your back exam is fine your extremity exam you have a little bit of swelling in your lower legs one plus nonpitting edema or swelling in the in your in your ankle area here no calf tenderness so what does all this mean i'll explain that in a second so basically your exam is pretty normal except for you have a little bit of swelling in your legs so you know with this chest pain i'm a little bit so the first diagnosis that we talk about is this chest pain i'm worried about my suspicion is you have something called unstable angina especially considering your history of diabetes and the suspected history of high blood pressure and your family history of of heart disease in the past as well i'm i'm gon na go ahead and refer you to cardiology i reviewed your ekg today so that looks normal so that's good no other signs of a heart attack but i am worried that you may have some sort of a blockage going on that's causing this chest pain i'm gon na go ahead and start you on some aspirin daily i'm also gon na give you a prescription just a baby aspirin you can take eighty one milligrams once a day and also i'm gon na give you a prescription for nitroglycerin it's a it's a little pill you split underneath your tongue if you have this chest pain if it does n't go away after one or two pills i want you to go to the hospital call nine one one and go to the hospital but we will try to get you into cardiology the next week and get you set up for some sort of a stress test to look at your heart okay any questions about that"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "so anytime i have a chest pain even if i'm just like walking i have to take that pill"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "yeah if you if you stop walking the chest pain goes away you do n't have to take the pill but if you are walking or you stop and the chest pain does not go away i would take the pill and see if it goes away if it does not"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "how long like how long do i wait to see if it goes away"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "about five minutes so you can take it up to three pills every five minutes and if it does n't go away then i would you know go to the hospital and get this checked out because i worry about with this chest pain that you're having making sure it does n't lead to a heart attack those chest pain could be a you know a a a sign that you may be having some less blood flow to your heart and we need to get that checked out pretty quickly"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "alright"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "and for the second problem the diabetes you know i think you're doing fairly well continue with your eye ophthalmology appointment you have for your eye exam for the diabetic retinopathy continue the metformin five hundred milligrams twice a day i'm gon na order another hemoglobin a1c today and i'm gon na have you come back in about two weeks and we can see if we need to make any adjustments continue to try to stay away from you know the the pop and the sweet things and once we have your heart taken care of or make sure your heart is okay you can and we can hopefully resolve this chest pain that you're having get back to your exercise regimen okay any questions about that"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay and for the third diagnosis the high blood pressure you you do have a trend i've noticed in your chart that your blood pressure's been running a little bit high several other people have documented as well i'm gon na go ahead and start you on some hydrochlorothiazide it's a pretty low dose medication to help you with your blood pressure plus it'll also help with you some of the swelling you have in your in your feet i'm gon na have you use a blood pressure cuff at home and enter your findings at epic mychart and i'll get a reading of those as well and then what when you come back in two weeks we'll keep a log of your blood pressure daily in the morning when you wake up and see how things are going and then if we need to make any adjustments to the medications we can but especially considering your history and the chest pain and the diabetes and the swelling i think starting this hydrochlorothiazide is a probably a good idea"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay are there any side effects with this medication"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "yeah it can cause sometimes it can cause a little bit of make you go to the bathroom a little bit more often in the evening but generally most people do n't have a whole lot of side effects i'll give you a handout of the side effects but sometimes you can have a cross reaction with some other medications like sulfa medications but generally most people tolerate this pretty well"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "alright any other questions we got"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "that's it"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "alright well great seeing you thanks for coming in today"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "thank you appreciate it"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 53-year-old female with a history of diabetes and elevated blood pressure presenting with chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Chest pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports chest pressure and pain occurring upon exertion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is currently experiencing chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies current chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the chest pain has lasted for approximately three months.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about factors that exacerbate or relieve the chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the pain occurs during walking and limits her physical activity.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the quality of the chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the pain as dull pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the chest pain radiates.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies radiation of the chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about associated symptoms including shortness of breath, sweats, or clamminess.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies shortness of breath, sweats, or clamminess.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the EKG performed in the office is unremarkable and transitions to discussing diabetes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports higher blood sugars due to decreased activity and difficulty with dietary changes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the previous hemoglobin A1c was 7.0.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has seen ophthalmology for an eye exam.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has an ophthalmology appointment scheduled in two weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about gastrointestinal symptoms or side effects from metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies nausea, vomiting, diarrhea, or side effects from metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been told she has high blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies being previously informed of a hypertension diagnosis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes a trend of elevated blood pressure readings in the patient's records.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if high blood pressure could be causing her chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms high blood pressure could be a contributing factor to the chest pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: No JVD, no carotid bruits, clear lungs, 2/6 systolic ejection murmur, regular heart rate/rhythm, soft abdomen, 1+ nonpitting edema in ankles, no calf tenderness.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor suspects unstable angina and will refer the patient to cardiology.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes aspirin 81 mg daily and nitroglycerin as needed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to take nitroglycerin for chest pain and go to the hospital if it persists after 5 minutes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if she should take nitroglycerin for all chest pain episodes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor clarifies that nitroglycerin should be taken if chest pain persists after stopping activity.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks how long to wait before the pain should resolve.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises waiting 5 minutes and taking up to 3 pills, then seeking emergency care if pain persists.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises continuing metformin 500 mg twice daily and keeping the ophthalmology appointment.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a repeat hemoglobin A1c and schedules a follow-up in two weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0014",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes hydrochlorothiazide for hypertension and edema.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to monitor blood pressure at home and report via MyChart.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about potential side effects of hydrochlorothiazide.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains potential side effects of hydrochlorothiazide, including increased urination and possible sulfa cross-reactivity.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Chest pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

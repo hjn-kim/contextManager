@@ -1,0 +1,1068 @@
+{
+  "id": "D2N105",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "patient's name is diana scott . date of birth , 12/8/1920 . the date of service is 7/9/2021 . this is a new patient note ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "good afternoon . how are you today ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "i'm good , thank you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "good . well , what brings you in to see me today ?"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "well , my doctor says that i have a heart murmur ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "so i do n't know how big a heart murmur i have , or really even what it is ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay . so how long have you had that for ? do you have any idea , or is that completely new as far as you know ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "yeah , she said it's a new worrisome heart murmur . so of course , i'm worried as well ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "got it . okay . and are you having any symptoms at all ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "i do n't think so . i do n't know what symptoms i should be having ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay . well , so you are 100 , so we ca n't really get around that one . so i expect that you probably do n't move quite as fast as maybe you used to ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "no , i definitely do n't ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay . and do you notice that you have any chest pain or f- feel shortness of breath ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "no , i do n't have any chest pain . um , my problem is i have severe pains in my legs , and so she had me going for a chest x-ray , and that was just last week ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "and so i started taking pain pills for my legs ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay , got it , for the legs . and do you feel short of breath at all ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "if i walk too fast or too long , or if i tried to drink a whole glass of water without stopping , then yeah , i do get short of breath that way ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay . and how far can you walk before you feel short of breath or sort of overly fatigued ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "well , i do have a walker now , so i do n't know . maybe when i walk to the end of the driveway or i walk around the culdesac ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "got it . all right ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "so it is n't that bothersome to me at all . um , maybe more if i try to overdo it ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "then i , um , i get short of breath if i do overdo it though ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay , got it . and so how different would you say , um , that the symptoms are now compared to like six months ago or a year ago ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "i would say probably 70 to 80 % from about six months ago . before that i did n't notice anything at all ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay . so do you feel like it's mainly the leg pain that seems to limit you ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "my legs have been severe for about a month now ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay . and how about , do you feel lightheaded or dizzy at all ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "yeah . so i do take a pill for that when it does get bad ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "yeah , and i do n't take it every day , only when i do feel dizzy ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "okay . and so how about any passing out at all ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "okay , good . and how about irregular heartbeats ? do you ever feel like your heart is going too fast or like it skips a beat ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "i do n't notice it at all ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "okay , great . and how about any swelling in the legs at all ?"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "yeah , my ankles swell ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "okay . and how long has this been going on ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "um , i would say for probably six months . but it goes up and down , and sometimes it's worse than other times ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "okay . and how about any recent weight gain or anything else like that ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "um , i lost a little bit of weight , but i still weigh a 120 pounds , but i normally weigh about 130 pounds ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "mm-hmm . okay ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "um , but that's been going down gradually for about a year ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "okay . and then how about any fevers , chills or anything else that's , that's going on that you can think of ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "good . so mainly it sounds like you came in , um , mostly because of the murmur . is that right ? and sort of just kind of seeing what things look like ?"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "yeah , that and i feel overly tired because i take all that medication ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "okay . and so fatigue as well . and have you ever had any testing of your heart done ?"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "i'm not really sure ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "okay . it does look like you've had a decent number of sh- , uh , surgeries here , ?"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "yeah , you name it ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "all right . well , i wo n't make you repeat them since i do have a good record . um , but just give me just a second and i'm going to enter the ones we need , okay ? all right . got them . and then , are you taking all the medicines that you went through with madison ?"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "okay , good . and looking at your family history , it looks like maybe your brother had a heart attack . is that correct ?"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "it was actually my son , not my brother ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "okay , i'll make that adjustment ."
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "um , but my brother did have a stroke . but that was because he had gotten sugar diabetes , and my eldest sister did have a heart problem as well ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "okay , i see ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "yeah , so heart problems kinda run in the family ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "okay . all right . well , it looks like also that you never smoked . that's excellent . and then no allergies to medicines that you know of , is that correct ?"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "correct ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "all right . well , let's do a quick exam ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "patient",
+      "text": "all right . sounds good ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "all right . well , for physical exam , please use the regular template . all right , please just breathe normally . great . and now take a few deep breaths for me . all right . do you feel okay ? are you feeling any dizziness or anything ?"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "patient",
+      "text": "no , i feel fine ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "doctor",
+      "text": "okay , great . all right . well , that is it for the exam ."
+    },
+    {
+      "id": "line_0068",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "doctor",
+      "text": "all right . so what i'm thinking is , let's go ahead and schedule you for an echocardiogram . it's a very common test and it just takes a picture of your heart . and it'll let me see how well your heart is actually working ."
+    },
+    {
+      "id": "line_0070",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0071",
+      "speaker": "doctor",
+      "text": "and i can order that for today . um , do you have time to complete that ? it should n't take too long ."
+    },
+    {
+      "id": "line_0072",
+      "speaker": "patient",
+      "text": "yes , that's fine . i have time ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "doctor",
+      "text": "okay , great . so we will complete that today , um , to assess your overall cardiac structure and function , as well as , uh , the valve view of where diseased ."
+    },
+    {
+      "id": "line_0074",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "doctor",
+      "text": "and some hospital outcomes and what we might suggest to fix that out , i'll go over that . so one possible suspicion i'm having is it's called , um , aortic stenosis , and that just means that one of your main valves of your heart has narrowed a bit and the valve does n't really open , um , quite fully . and this could just reduce or block the blood flow from your heart into the main artery of your body , and that's called the aorta , into the rest of your body ."
+    },
+    {
+      "id": "line_0076",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0077",
+      "speaker": "doctor",
+      "text": "and if this is severe , then we might wan na perform a procedure called the transcatheter aortic valve replacement , or we just call it tavr . and it is a minimally invasive procedure to replace the valve ."
+    },
+    {
+      "id": "line_0078",
+      "speaker": "patient",
+      "text": "well , i would have to think about that . i'm not too sure i'd wan na do that , given my age of all ."
+    },
+    {
+      "id": "line_0079",
+      "speaker": "doctor",
+      "text": "yeah , sure , no problem . and we do n't have to make any decisions today , just , you know , wanted to go over a couple of these things . um , but sometimes we can also perform a surgical aortic valve replacement , or it's called an savr . but really , because of your age and medical history , um , unfortunately , that would n't be a good option for you ."
+    },
+    {
+      "id": "line_0080",
+      "speaker": "patient",
+      "text": "i see . okay . well , i guess we'll see , um , what you see from , from the , um , test ."
+    },
+    {
+      "id": "line_0081",
+      "speaker": "doctor",
+      "text": "yeah , agreed . okay . and , um , so couple other things real quick . so it looked like your blood pressure looked really good today . so we're not going to change your amlodipine or lisinopril . so just continue taking those as you are currently ."
+    },
+    {
+      "id": "line_0082",
+      "speaker": "patient",
+      "text": "okay , good ."
+    },
+    {
+      "id": "line_0083",
+      "speaker": "doctor",
+      "text": "and then , it also looks like you're taking about 20 milligrams of simvastatin for your lipids . and i will pr- , um , defer to your pcp . however , given you are having leg pain in both your legs , and given your age and no history of coronary artery d- , artery disease , it is possible that you might be able to stop your statin ."
+    },
+    {
+      "id": "line_0084",
+      "speaker": "patient",
+      "text": "really ?"
+    },
+    {
+      "id": "line_0085",
+      "speaker": "doctor",
+      "text": "yeah , um , possibly . he would have to evaluate you , but it is certainly something to discuss with him . so i will send over the results of the echocardiogram and also my recommendations and then you guys can talk about the statin ."
+    },
+    {
+      "id": "line_0086",
+      "speaker": "patient",
+      "text": "okay , that sounds great . thank you ."
+    },
+    {
+      "id": "line_0087",
+      "speaker": "doctor",
+      "text": "you're welcome . and then , um , lastly , your hyperthyroidism , uh , i see you're taking levothyroxine . and again , no change here and you can just keep taking that as you have them ."
+    },
+    {
+      "id": "line_0088",
+      "speaker": "patient",
+      "text": "okay , i will ."
+    },
+    {
+      "id": "line_0089",
+      "speaker": "doctor",
+      "text": "all right . so we will see you back here in about three or four weeks to discuss the results and your next steps . um , and we'll , uh , take care of your echocardiogram today . um , any questions ?"
+    },
+    {
+      "id": "line_0090",
+      "speaker": "patient",
+      "text": "not that i can think of . thank you so much . and i think it looks good ."
+    },
+    {
+      "id": "line_0091",
+      "speaker": "doctor",
+      "text": "okay , awesome . all right . well , have a good rest of your day , and we'll see you soon ."
+    },
+    {
+      "id": "line_0092",
+      "speaker": "doctor",
+      "text": "for physical exam , constitutional elderly otherwise no acute distress . cardiovascular normal s1 and s2 is preserved with a normal rate and regular rhythm . there is a 4/6 systolic murmur at the right upper sternal border with , uhm , mild radiation to the carotids . neurologic gait is normal for age ."
+    },
+    {
+      "id": "line_0093",
+      "speaker": "doctor",
+      "text": "for assessment and plan , probably one cardiac murmur . diana has a 4/6 systolic murmur at the upper right sternal border with mild radiation to the carotids . this is most likely representative of aortic stenosis , for symptoms could be due to severe aortic , aortic stenosis . however , her s2 is relatively preserved , which would be more consistent with , consistent with moderate . some of her outside records do note diastolic dysfunction , so it is possible she , she did have an echocardiogram at some point in the past . she does not appear significantly volume overloaded today ."
+    },
+    {
+      "id": "line_0094",
+      "speaker": "doctor",
+      "text": "her next problem is pvcs . her referral mentioned tachycardia . uh , her ekg today shows sinus rhythm with frequent pvcs , as well as an anterior septum infarct pattern . she does not have any significant palpitations and we will check an echocardiogram to assess overa- overall cardiac structure and function . depending on results as well as the severity of her aortic stenosis , we will need to consider an ischemic evaluation , or further , possibly a heart mon- monitor to assess overall burden of the pvcs . at this point , she's asymptomatic , so we will start with the echocardiogram only ."
+    },
+    {
+      "id": "line_0095",
+      "speaker": "doctor",
+      "text": "her next problem , hypolipidemia , is managed by her pcp . due to bilateral leg pain over the last month , considered tavr evaluation following echocardiogram . statin could be indicated ."
+    },
+    {
+      "id": "line_0096",
+      "speaker": "doctor",
+      "text": "and next problem , lightheadedness , dizziness . she is on meclizine for this . it is possible that some of her lightheadedness and dizziness is related to the aorta stenosis , and we will do an echocardiogram as noted above . pvcs on her ekg could be contributing , but she does not feel palpitations . we will consider a monitor , but start with the echocardiogram first as noted above . follow up three to four weeks after her echocardiogram is done to discuss results and next steps . end of dictation ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 100-year-old female named Diana Scott.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Heart murmur",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the heart murmur.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the heart murmur is new and described as worrisome.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing any symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain and reports severe bilateral leg pain for one month, for which she had a chest x-ray last week.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports shortness of breath with exertion or drinking water quickly.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses a walker and can walk around the cul-de-sac or to the end of the driveway without significant shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a 70-80% decline in functioning over the last six months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient feels lightheaded or dizzy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports occasional dizziness and takes medication as needed.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced any syncope.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experiences palpitations or irregular heartbeats.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has leg swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports ankle swelling for the past six months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about recent weight changes.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a weight decrease from 130 to 120 pounds over the last year.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about fevers or chills.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports feeling overly tired due to polypharmacy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any cardiovascular testing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0053",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking all prescribed medications.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks to confirm family history of heart attack.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient clarifies her son had a myocardial infarction.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports her brother had a stroke and diabetes, and her sister has a heart problem.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is a non-smoker and has no known drug allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0065",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam including auscultation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient feels dizzy.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0069",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an echocardiogram to assess cardiac structure and function.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0075",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor explains the suspicion of aortic stenosis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0077",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor discusses TAVR as a potential procedure if aortic stenosis is severe.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0079",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes that surgical aortic valve replacement is not an option due to age and comorbidities.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0081",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises continuing current amlodipine and lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0083",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor suggests discussing the potential discontinuation of simvastatin 20 mg with the PCP due to leg pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0087",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises continuing levothyroxine.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0089",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up in three to four weeks to discuss echocardiogram results.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "heart murmur; hypolipidemia; dizziness; lightheadedness",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

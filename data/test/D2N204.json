@@ -1,0 +1,561 @@
+{
+  "id": "D2N204",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "okay well hi joe i understand you've hurt your knee how how are you doing"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing okay this feels you know definitely feels like it's swollen and kinda hurts me a little bit"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "so what did you do what happened"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i was i was skiing with some with some friends and i was going down it was snowing pretty hard and i could n't really see as as the two paths kind of come came together and i the front end of the skis i kind of dug into the snow and i ended up basically doing a cart wheel but kinda like stopped halfway through and could feel a pop in my my right knee and then you know just pain right after that came about through the knee so"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "yeah that sounds painful and so when did this occur"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it it occurred over the weekend on saturday"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "and have you been able to to walk at all at all or no"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "a a little bit but it's definitely swollen and it's definitely painful"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay so what all have you been doing for the pain"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "just like taking some you know advil and then just icing you know icing on and off you know a little heat here and there just you know trying to comfort but that's about it"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "have you ever had any type of injury to your knee before and it is this the left or right knee"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "it's the right knee no it's the first time i've had any knee injuries"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay alright let's see take anything for it okay well let's see let's just do a quick physical exam here so so your now your vitals those look alright your no fever you're at ninety seven . nine your heart rate is sixty four sounds healthy respirations are sixteen blood pressure is one ten over seventy four your o2 sat looks good at you know ninety eight percent so look real healthy there and so i'm just gon na do a quick physical exam so i do appreciate some edema and some ecchymosis around surrounding your knee your right you said right knee right"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay positive pain to palpation and let's bring your leg out are you having pain when with flexion or extension"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "a little bit no not not crazy real pain but there is definitely some pain there"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay pain with flexion and extension and how about the range of motion having full range of motion here"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah pretty much i can get the full range just feels a little tight and will hurt"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay alright and for diagnostics so your x-ray so there's no fracture appreciated no bony abnormalities so that looks alright so let me tell you a little bit about my impression and plan with this so you have a knee contusion so for treatment we'll we need to rest that apply ice you know two three times a day for twenty minutes at a time take some nsaids or you know nonsteroidal anti- inflamma medication such as ibuprofen every six to eight hours as needed so i just wan na really get some rest with that if that does n't improve then we can go ahead and maybe come back in and we might do some physical therapy as well i do n't know i'm not sure i like this one all that well any do you have any questions on that"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no sounds very good"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay let's venture a little bit more because i need five minutes so where so where were you skiing at"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "so i was actually up we actually took a trip up up north and i was in the i'm in mount saint helen and washington so i was just walking in myself going out and stuff but yeah it was it was a good trip but cut a little short because of that yeah it was fun though i like going i like going to skiing so hopefully i can do some more"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "well washington sounds nice i have n't been there but it sounds like it's pretty nice area to be in and they have a lot of maple syrup there do n't they produce a lot of maple syrup"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "they do they do have a lot of maple syrup and it's it's it's interesting that the the winter actually is n't their busiest time for vacation or vacations or it's more into your spring into your fall with hikers and all the outdoor activities there's actually a very impulsive torist during the summertime which i never knew but one of the locals have told me that they do actually better business during the summer so the hikers kayakers and the maple syrup in the fall and everything so"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "that sounds good now i also meant to ask you so when you did this cartwheel through the air did you have any other injuries to any other parts of your body anything else that you're having any issues with"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "my shoulder feels a little bruised"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "little bit but that's about it yeah just because i kinda landed on that lead shoulder when i fell"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay let's take a quick look yeah i do appreciate a little bit of bruising here are you having any problem raising it up or or with movement with your range of motion"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "once i raise it up though it's a it is a little little tender i can feel it being tender when i raise it up"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay we'll just go ahead and get an x-ray of that right shoulder too just to be sure if you because who knows maybe you might have done something with that as well so we'll go ahead and have my nurse take you to do that and then we'll talk again alright"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "sounds great"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "The doctor initiates the visit to evaluate the patient's knee injury.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the circumstances of the injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient sustained a right knee injury while skiing when his skis caught the snow, causing him to fall and feel a pop.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the injury occurred.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury occurred on Saturday.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is able to walk.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient is able to ambulate with difficulty due to pain and swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient has been doing for pain management.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been taking Advil and using ice and heat for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about previous knee injuries.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any previous knee injuries.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's vitals are: BP 110/74, HR 64, RR 16, Temp 97.9, O2 sat 98%. Physical exam shows edema and ecchymosis on the right knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has pain with flexion or extension.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain with flexion and extension.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has full range of motion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has full range of motion but notes tightness and pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-rays show no fracture or bony abnormalities. The assessment is a knee contusion. The plan is to rest, ice 2-3 times daily for 20 minutes, and take ibuprofen every 6-8 hours as needed. Physical therapy may be considered if pain persists.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions regarding the plan.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient sustained any other injuries during the fall.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports right shoulder bruising.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient landed on his right shoulder during the fall.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor observes bruising on the shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has difficulty raising the arm or limited range of motion.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports tenderness when raising his arm.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an x-ray of the right shoulder.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "right knee injury; right shoulder pain and bruising",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

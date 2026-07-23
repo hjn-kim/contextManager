@@ -1,0 +1,1174 @@
+{
+  "id": "D2N190",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "and good morning hi beverly"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "good morning"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "how do you see your last name"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "howard"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "howard nice to meet you"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "you too"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "what can i do for you today"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "well i think i like fell off of my tandem bike with my partner and my knee has been hurting"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "ever since and when did that happen"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "maybe like two weeks ago"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay and which knee are we talking about"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "my right knee"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "alright and tell me exactly what happened"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "so we were like riding together and i think he said he saw a squirrel or something like that he's a little distractible and you know like he went down so i went down i hit it on the curb like it's really kinda it was sore i gave i i took some ibuprofen and i i like washed it out and put a band-aid on it but it's it's just been like kind of hurting everyday since then so i scheduled an appointment"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay is it getting better getting worse or just kinda lingering on"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "it's it's just holding on and i tried taking like medication right i took some ibuprofen and it was fine it just like it keeps coming back and i i read on the label i'm not supposed to take that stuff for more than two weeks right"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "well it all it all depends everyone's different we'll get to that"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "and your knee was not bothering you at all before this normal knee"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yep"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "never okay alright what do you do for living"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "well i work in a children's hospital so i like play around i i'm a i'm a a baby rocker professionally i go into like the nicu's and i i rock some of the babies"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "gotcha what do you do outside of outside of work is biking kinda your thing"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no that was his thing and i think that's why we fell i i should n't trust him but most of the time i go on walks with my dog"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay have you broke up with him already or"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "no i did n't know that knee injury was a reason to but now that you've told me maybe we should talk about that"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "we'll talk about that later too"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "alright so let's take a let's take a peek at your knee here"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "you gon na stick it through the screen or how you're gon na do this alright"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "alright then"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "i'm just i'm gon na i'm gon na grab your leg we're just gon na take it through just let it relax i'm just gon na take it through a little range of motion i'm gon na kinda poke around all different places you tell me where it hurts okay"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "okay okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "alright now i'm poking i'm poking i'm poking so on the inside part here"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "is this where it hurts"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "yeah like when you touch it it really hurts"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "right there okay tell me what's worse here or here"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "on the inside"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay so medial joint line tenderness"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "pes bursa nontender epicondyle nontender back of her knee nice and soft any pain back here"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "no i do n't think so"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay popliteal space is nontender how about over on this side"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "okay lateral side nontender skin she has got about a dime size little abrasions dry looks about a week week old right over the medial patella everything else looks good no scars okay how about can you straighten it out all the way"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "i can but sometimes it like hurts a little bit like it almost like it clicks"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "yep that's good though full full extension how far can you bend it"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "all the way back"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "okay let's see"
+    },
+    {
+      "id": "line_0051",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "doctor",
+      "text": "good good and how about the other side let me see the left knee can you bend that one all the way back too"
+    },
+    {
+      "id": "line_0053",
+      "speaker": "patient",
+      "text": "yeah that's fine"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "doctor",
+      "text": "okay full full symmetric flexion no no deformities go ahead and just let it relax"
+    },
+    {
+      "id": "line_0055",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "doctor",
+      "text": "valgus stress medial collateral ligament intact lateral collateral ligament intact okay so little kind of little laxity posterior drawer let me see the other let me see the other knee"
+    },
+    {
+      "id": "line_0057",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "doctor",
+      "text": "yeah so that that feels pretty much normal so she's got a about a one plus posterior drawer anterior drawer negative lachman negative good let's go ahead and just kinda bend and straighten for me"
+    },
+    {
+      "id": "line_0059",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "doctor",
+      "text": "good patellar patella tracks fine no crepitus alright let's go back to this medial side you're tender right there is that right"
+    },
+    {
+      "id": "line_0061",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "it's tender on the medial joint line but actually negative mcmurray negative lateral side negative mcmurray good so pretty stable you you feel like you you're kinda shifting back a little bit on this side compared to the other side does it feel unstable when you walk does it feel like it shifts"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "yeah sometimes"
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "what's what's the worst thing that that you can do that you do n't like about that knee is it walking standing sitting still getting up from a chair in and out of the car what what do n't you like"
+    },
+    {
+      "id": "line_0065",
+      "speaker": "patient",
+      "text": "walking up a hill like any kind of incline really hurts"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "doctor",
+      "text": "yeah and you're it's just you're weak are is it"
+    },
+    {
+      "id": "line_0067",
+      "speaker": "patient",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0068",
+      "speaker": "doctor",
+      "text": "you actually no"
+    },
+    {
+      "id": "line_0069",
+      "speaker": "patient",
+      "text": "yeah it hurts no"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "what about you i mean are you real weak"
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "no i would say i'm pretty strong"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "did you go to the gym"
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "i go to the gym but i swim so the"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "okay i ca n't treat people like you you you you need to work harder i quit complaining okay"
+    },
+    {
+      "id": "line_0075",
+      "speaker": "patient",
+      "text": "yes sir work harder okay"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "doctor",
+      "text": "do you do you play sports in in college or high school"
+    },
+    {
+      "id": "line_0077",
+      "speaker": "patient",
+      "text": "i did in high school"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "doctor",
+      "text": "yeah so and you and you still doing anything athletic now other than just rocking kids"
+    },
+    {
+      "id": "line_0079",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "doctor",
+      "text": "just kinda you're thinking walking the dog"
+    },
+    {
+      "id": "line_0081",
+      "speaker": "patient",
+      "text": "yeah rocking kids and walking dogs and going on the occasional swim"
+    },
+    {
+      "id": "line_0082",
+      "speaker": "doctor",
+      "text": "on the occasional swim alright how have you been swimming since you hurt your knee"
+    },
+    {
+      "id": "line_0083",
+      "speaker": "patient",
+      "text": "no no i have n't would you recommend that"
+    },
+    {
+      "id": "line_0084",
+      "speaker": "doctor",
+      "text": "well i'm not sure yet it's because we might have to do surgery on your knee here and take that leg off"
+    },
+    {
+      "id": "line_0085",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0086",
+      "speaker": "doctor",
+      "text": "it's pretty bad"
+    },
+    {
+      "id": "line_0087",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0088",
+      "speaker": "doctor",
+      "text": "we'll get we'll get to that too"
+    },
+    {
+      "id": "line_0089",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0090",
+      "speaker": "doctor",
+      "text": "so did you already have x-rays of this knee today"
+    },
+    {
+      "id": "line_0091",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0092",
+      "speaker": "doctor",
+      "text": "okay do i go into that to"
+    },
+    {
+      "id": "line_0093",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0094",
+      "speaker": "doctor",
+      "text": "look at the x-rays do you or just stop here you can okay okay and so what would what would happen now you would you could pause it"
+    },
+    {
+      "id": "line_0095",
+      "speaker": "doctor",
+      "text": "you're only cup of this"
+    },
+    {
+      "id": "line_0096",
+      "speaker": "doctor",
+      "text": "let's take a look at your pictures here and alright so this looks pretty just looking at it looks pretty normal looks pretty healthy you can see how i all the edges of the bones here look pretty good i do n't see any bone spurs of that i do n't see anything broken everything looked looks pretty good kneecap's tracking good you can see the space here there's no real space there that's actually cartilage so that looks pretty healthy and you can see the other side looks both both look the same so x-rays look i do n't see anything obvious on that but looking at your knee here you may have hit that tibia bone and kinda pushed that bone back it feels to me like you may very well have sprained your or injured your posterior cruciate ligament that's what it's feeling like"
+    },
+    {
+      "id": "line_0097",
+      "speaker": "patient",
+      "text": "hmmm"
+    },
+    {
+      "id": "line_0098",
+      "speaker": "doctor",
+      "text": "i'm not gon na know that for sure or if there is other things going on in there but i think getting an mri scan to look at what you may have done inside there i'm pretty suspicious though that you may have injured that ligament if that's the only thing you did very rarely is this gon na need surgery okay so this may be something we wan na get you into a brace here get you into some therapy and get all your motion back and get your strength back and then maybe check it back in a in a few weeks and see because a lot of times those ligaments can tighten back up"
+    },
+    {
+      "id": "line_0099",
+      "speaker": "doctor",
+      "text": "it's it's odd for just an isolated posterior ligament to need surgery"
+    },
+    {
+      "id": "line_0100",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0101",
+      "speaker": "doctor",
+      "text": "but if there's other things going on i ca n't tell you for sure that you did n't injure a meniscus too or maybe chipped some cartilage when that bone shifted so let's let's get an mri scan to look at that if that comes back with just a ligament like i'm suspecting hopefully this is something we can treat with some therapy and some bracing for a while and get this thing back to normal if after that couple months later or so you still have instability and still bothering you then it's possible we may have to do some surgery to fix that ligament"
+    },
+    {
+      "id": "line_0102",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0103",
+      "speaker": "doctor",
+      "text": "does that make sense"
+    },
+    {
+      "id": "line_0104",
+      "speaker": "patient",
+      "text": "yeah yeah so in the meantime though do you want me to still keep taking the ibuprofen"
+    },
+    {
+      "id": "line_0105",
+      "speaker": "doctor",
+      "text": "yeah i think that's fine for a short if it's helping the big thing right now is we want to get your strength back and your motion back get rid of the swelling that we still see here"
+    },
+    {
+      "id": "line_0106",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0107",
+      "speaker": "doctor",
+      "text": "so that will help with that ice ice packs a few times a day you can take the ibuprofen up to three times a day and i'll look i'll we'll look at the dose here there are some other medicines we can try that maybe do n't have to take so often that may be easier"
+    },
+    {
+      "id": "line_0108",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0109",
+      "speaker": "doctor",
+      "text": "so i can even send in a prescription for you for something that maybe just twice a day a little easier for you to take without skipping doses"
+    },
+    {
+      "id": "line_0110",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0111",
+      "speaker": "doctor",
+      "text": "okay you can just take it with breakfast and dinner"
+    },
+    {
+      "id": "line_0112",
+      "speaker": "patient",
+      "text": "mm-hmm"
+    },
+    {
+      "id": "line_0113",
+      "speaker": "doctor",
+      "text": "we'll try and see if it works better if your ibuprofen works better though go ahead and just go back to that but we can try this other prescription first"
+    },
+    {
+      "id": "line_0114",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0115",
+      "speaker": "doctor",
+      "text": "it's not very expensive and i can just call it into your pharmacy"
+    },
+    {
+      "id": "line_0116",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0117",
+      "speaker": "doctor",
+      "text": "and then we can we can get the brace fitted to you today we are not gon na look at a big big custom kind of expensive brace we will just put because it may just be temporary"
+    },
+    {
+      "id": "line_0118",
+      "speaker": "patient",
+      "text": "mm-hmm mm-hmm"
+    },
+    {
+      "id": "line_0119",
+      "speaker": "doctor",
+      "text": "and then i will get you a referral to physical therapy something that you can do close to home or close to work"
+    },
+    {
+      "id": "line_0120",
+      "speaker": "doctor",
+      "text": "and then maybe i could see you back here in maybe four to six weeks and recheck this"
+    },
+    {
+      "id": "line_0121",
+      "speaker": "patient",
+      "text": "okay how often am i gon na have to go to physical therapy"
+    },
+    {
+      "id": "line_0122",
+      "speaker": "doctor",
+      "text": "i'm gon na kinda leave that up to you and the and the therapist i would start with a couple visits and then we'll just really see how you progress and what you can do at home if what if you have access to some equipment or things that we need to do but i want you to go you know at least a few times so somebody can kinda keep an eye on you make sure you're doing the exercises right"
+    },
+    {
+      "id": "line_0123",
+      "speaker": "patient",
+      "text": "okay alright i think that sounds good"
+    },
+    {
+      "id": "line_0124",
+      "speaker": "doctor",
+      "text": "did you get did you select you last night"
+    },
+    {
+      "id": "line_0125",
+      "speaker": "patient",
+      "text": "i did"
+    },
+    {
+      "id": "line_0126",
+      "speaker": "doctor",
+      "text": "you yeah what do you think what do you roof for"
+    },
+    {
+      "id": "line_0127",
+      "speaker": "patient",
+      "text": "i so i i'm a little heart broken right now i was for the rockets and the way that these nets are crushing them it's just it's just painful"
+    },
+    {
+      "id": "line_0128",
+      "speaker": "doctor",
+      "text": "are you serious"
+    },
+    {
+      "id": "line_0129",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0130",
+      "speaker": "doctor",
+      "text": "rockets"
+    },
+    {
+      "id": "line_0131",
+      "speaker": "patient",
+      "text": "i live in dallas yes"
+    },
+    {
+      "id": "line_0132",
+      "speaker": "doctor",
+      "text": "yeah yeah that's not that's not my problem though you have not do you not watch the bulls"
+    },
+    {
+      "id": "line_0133",
+      "speaker": "patient",
+      "text": "no no"
+    },
+    {
+      "id": "line_0134",
+      "speaker": "doctor",
+      "text": "my gosh alright we're gon na have to work on you"
+    },
+    {
+      "id": "line_0135",
+      "speaker": "patient",
+      "text": "okay thanks"
+    },
+    {
+      "id": "line_0136",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0137",
+      "speaker": "patient",
+      "text": "bye"
+    },
+    {
+      "id": "line_0138",
+      "speaker": "doctor",
+      "text": "you got four to six weeks to get your attitude straight we'll talk about this later okay"
+    },
+    {
+      "id": "line_0139",
+      "speaker": "patient",
+      "text": "yes sir"
+    },
+    {
+      "id": "line_0140",
+      "speaker": "doctor",
+      "text": "alright very good any questions at all"
+    },
+    {
+      "id": "line_0141",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0142",
+      "speaker": "doctor",
+      "text": "okay so"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is Beverly Howard, a 33-year-old female.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the patient's primary concern.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right knee pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient reports right knee pain after falling off a tandem bicycle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury occurred approximately two weeks ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient hit her knee on a curb, treated it with ibuprofen and a bandage, but pain persists.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient had any prior right knee issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any previous right knee issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's occupation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient works in a children's hospital as a baby rocker in the NICU.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical examination of the right knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor identifies medial joint line tenderness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the pes bursa, epicondyle, and popliteal space are nontender.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes a dime-sized dry abrasion on the medial patella and that the lateral side is nontender.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports clicking with full extension.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes intact collateral ligaments and 1+ posterior drawer laxity.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0058",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes a negative Lachman test and normal patellar tracking.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0060",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms negative McMurray test.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0065",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain is worst when walking up an incline.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0096",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-rays show no fractures or dislocations and well-preserved joint space.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor suspects a posterior cruciate ligament injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0098",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an MRI to evaluate the injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends a brace and physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0104",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if she should continue taking ibuprofen.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0105",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises icing the knee and continuing ibuprofen if helpful.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0109",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will prescribe a medication to be taken twice daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0120",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will follow up in 4 to 6 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0121",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about the frequency of physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0122",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor recommends starting with a few physical therapy visits to ensure proper exercise technique.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0007",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "right knee pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

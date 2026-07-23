@@ -1,0 +1,543 @@
+{
+  "id": "D2N183",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "all right . this is matthew rogers . date of birth 5/24/2007 . i would like to use the acne follow-up template for him . he is here today for an acne follow-up . at the last visit on 3/3/21 he was prescribed the following : clindamycin lotion , uh , trent- tretinoin cream , 4-5 % benzoyl peroxide wash for f-face and 5-10 % for chest and back . so we're going to enter the room :"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hi there , how are y'all today ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "good , how are you ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "i'm good , thank you . uh , acne doing better ?"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "excellence , excellent . tell me , uh , what did you do for your skin this morning ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "i washed it with , uh , the benzoyl peroxide and i put the antibiotic thing , and the sunscreen moisture stuff as well ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "perfect . uh , what did you do last night ?"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "uh , i washed my face with the benzol peroxide , i put , uh , the tret-tret-tretinoin cream , sh-uh sorry i do n't know how to say that , uh , for nighttime and the sunscreen moisture stuff again ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "all right , all right , now have you had any redness , peeling , dryness , or irritation with the use of these medications at all ?"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "nope . not at all ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "excellent , excellent . and , uh , washing your chest and back with the higher strength benzoyl peroxide wash , is that right ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "uh , no . i did n't get it ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay . um , are your chest and back doing okay ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "um , i mean , i have n't put much effort into it because it has n't' really bothered me ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "fair enough . that's all right . um , if it bothers you , that's what , uh , that's why i recommended last time"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "um , so as we move into the summer it may be something that you are more interested in pursuing doing that , uh , but if you feel like the acne on your face ... do you feel like the acne on your face is improving ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "yeah . definitely ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "all right , good . good . uh , go ahead and bring your mask down . yeah . yeah . yeah . yeah . that looks good !"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "yeah . it's okay ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "definitely . uh , this is one of the fun parts of covid for me . it's like the mask comes down for my acne patients and it's like a big reveal . this lo- this looks a lot better , like a lot better . uh , i'm just going to take a look at your back and chest real quick . um , i would n't recommend making any changes to what you're doing . uh , i'm happy with how things are going . are you- are you happy with how things are going ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "all right , yeah . if that little bit bothers you , i would use a 5-10 % benzoyl peroxide base . i think that ... i think that what i have using on your face is a 4-5 % . um , usually the back and chest can handle a little , uh , a little something stronger . um , that's the only thing i would think about changing , otherwise it think this looks great ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "sounds good ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "all right , uh , do you have any questions for me ?"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "um , i do n't . i'm just going to write that down ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "uh , well you want me to write that down for you on your , uh , checkout sheet ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "uh , yeah . that'd be awesome ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "uh , the one i recommend for the chest and back is the , the PanOxyl 10 % . uh , we actually have samples of it and coupons . so i can send you home with those ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "cool . that'd be perfect ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "all right , um , so i'm going ahead and tee up a one year prescription for you because at this point i'll want to see you once a year . i want to make sure that you have enough of your medicines , um , and these are going to walgreens on broad ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "uh , yeah ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "okay . um , all right . so the tretinoin , uh , usually lasts patients a couple of months . you probably have n't refilled that , right ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "uh , yeah , we did once , i think ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "okay . okay . so i'm going to go ahead and send in a new refill for the clindamycin with 11 refills . and then the tretinoin cream with three refills . uh , that's usually about enough for a year . uh , if you run out though , just let us know . i'm happy to send more . uh , i just need to see you back once a year for your medicine . all right ? your acne printout with steps will be at your checkout sheet . and then here are your samples and coupons ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "alrighty , thank you ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "um , as far as the physical exam . scattered inflammatory papules and pustules across the upper back and posterior shoulders . there are less than 5 inflammatory papules on the forehead , cheeks , and chin . acne vulgaris is improved and well controlled on the face , but there is a mild flare on the back . recommend continuing current treatment plan for the face and initiation treatment with PanOxyl 10 % foaming wash to the back in the shower daily ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Matthew Rogers is a 14-year-old male presenting for acne follow-up.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Acne",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's acne is improving.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe his morning skincare routine.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses benzoyl peroxide wash, clindamycin lotion, and sunscreen in the morning.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe his evening skincare routine.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient uses benzoyl peroxide wash, tretinoin cream, and moisturizer in the evening.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced redness, peeling, dryness, or irritation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any redness, peeling, dryness, or irritation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is using the higher strength benzoyl peroxide wash on his chest and back.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he has not been using the higher strength benzoyl peroxide wash on his chest and back.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient's chest and back are doing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient states he has not put effort into treating his back and chest because it is not bothersome.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam of the face, noting improvement.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor examines the patient's back and chest.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is happy with the progress.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor recommends using 10% benzoyl peroxide wash for the back and chest.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor provides PanOxyl 10% samples and coupons.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor schedules a follow-up visit in one year.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor submits a one-year supply of clindamycin and tretinoin cream.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor summarizes the physical exam findings and the treatment plan.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "follow up acne; none",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

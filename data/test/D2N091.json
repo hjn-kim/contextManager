@@ -1,0 +1,571 @@
+{
+  "id": "D2N091",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi jerry , how are you doing ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hi , good to see you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "good to see you as well . um , so i know that the nurse told you about dax . i'd like to tell dax about you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "jerry is a 54 year old male with a past medical history , significant for osteoporosis and multiple sclerosis who presents for an annual exam . so jerry , what's been going on since the last time i saw you ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "uh , we have been traveling all over the country . it's been kind of a stressful summer . kinda adjusting to everything in the fall and so far it's been good , but ah , lack of sleep , it's been really getting to me ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . all right . and have you taken anything for the insomnia . have you tried any strategies for it ."
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i've tried everything from melatonin to meditation to , uh , t- stretching out every morning when i get up . nothing really seems to help though ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . all right ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "in terms of your osteoporosis , i know we have you on fosamax , any issues with your joints , any issues like-"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "no broken bones recently ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "no , nothing like that ?"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "okay . and then in terms of your multiple sclerosis , when was the last time you saw the neurologist ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "uh , about six months ago ."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "okay and you're taking the medication ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay . and any issues with that ?"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "none whatsoever ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "and any additional weakness ? i know you were having some issues with your right leg , but that seems to have improved or ?"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "yes a lingering issue with my knee surgery . but other than that it's been fine ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "pretty , pretty strong , n- nothing , nothing out of the ordinary ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay . all right , well i know you did a review of systems sheet when you checked in ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "and you were endorsing that insomnia . any other issues , chest pain , shortness of breath , anything ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "all right . well lets go ahead and do a quick physical exam ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "hey dragon , show me the vital signs . so your vital signs here in the office they look really good . i'm just going to listen to your heart and lungs and let you know what i find ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "okay . on physical examination everything looks good . you know your lungs are nice and clear . your heart sounds good . you know you do have some weakness of your lower extremities . the right is about 4 out of 5 , the left is about 3 out of 5 . but you reflexes are really good so i'm , i'm encouraged by that . and you do have some , you know , arthritic changes of the right knee ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "um , so let's go over some of your results , okay ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "hey dragon , show me the right knee x-ray . and here's the x-ray of your right knee , which shows some changes from arthritis , but otherwise that looks good . so let's talk a little bit about my assessment and plan . from an osteoporosis standpoint , we'll go ahead and order , you know , re- continue on the fosamax . do you need a refill on that ?"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "actually i do ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "hey dragon , order a refill of fosamax 1 tab per week , 11 refills . and then in t- , for your second problem , your multiple sclerosis i want you to go ahead and continue to see the neurologist and continue on those medications . and let me know if you need anything from that standpoint , okay ?"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "you got it ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "any questions ?"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "not at this point , no ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "okay , great . hey dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 54-year-old male with a history of osteoporosis and multiple sclerosis presenting for an annual exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Annual exam",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports recent travel, stress, and insomnia.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has tried any strategies for insomnia.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has tried melatonin, meditation, and morning stretching for insomnia without success.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Osteoporosis",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any joint issues.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0009",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any recent broken bones.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0009",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Multiple Sclerosis",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks when the patient last saw the neurologist.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient last saw the neurologist six months ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking their medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any issues with their medication.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about any additional weakness in the legs.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports lingering issues with his knee after surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor declares the patient's vital signs are good.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows clear lungs, good heart sounds, lower extremity weakness (4/5 right, 3/5 left), good reflexes, and arthritic changes in the right knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Right knee x-ray shows arthritic changes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs a refill on Fosamax.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0009",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor orders a refill of Fosamax 1 tab per week with 11 refills.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0009",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to continue seeing the neurologist and continue current medications for multiple sclerosis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0015",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "annual exam; osteoporosis;multiple sclerosis",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

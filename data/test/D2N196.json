@@ -1,0 +1,790 @@
+{
+  "id": "D2N196",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "mister thompson is a 67 -year-old male with a history of essential hypertension hyperlipidemia and osteoarthritis who is here today with elevated and fluctuating blood pressures so hi there mister thompson it's nice to see you again listen i understand you're having some trouble with your blood pressure control i would like to discuss that with you but first i want to ask you i'd like to use this app this new fancy app that's gon na help me focus on you a bit more in our conversation would that be okay with you"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yes that's fine"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay great it's gon na record our conversation okay perfect so jerry tell me mister thompson tell me about your blood pressure readings recently i understand you're concerned about them they have been up they have been down what's going on and any other symptoms"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "normally my blood pressure has been very well controlled over about the last three to four weeks there have been periods where i felt a little lightheaded slight headache and when i checked my blood pressure the upper number has been occasionally over one eighty which is way past you know what any of the numbers have been in the past"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay okay and okay and yeah that does sound unusual for you and so it's been high but you've also felt lightheaded at times have you checked your blood pressure when you were feeling lightheaded was it was it low at those times or have you done that"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "i've done it both when i felt fine and then when i had the lightheaded episodes actually it's been on the high side"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay alright understood and you have n't passed out or anything have you"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "not recently"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay and have you had any chest pain or trouble breathing along with you know your elevated blood pressure"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "sometimes a little heaviness in my chest but no no nothing sustained and i do n't have any respiratory or breathing difficulty"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay excellent and how about any headaches or other neurologic symptoms like numbness or weakness or you know balance instability or anything like that"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "little unsteady when i get the dizziness and a slight headache when the blood pressure numbers have been a little higher"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay and when you say dizzy are you feeling lightheaded like you might pass out or you feeling that the world spinning around you or what"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "just a little fuzzy where you just feel more lightheaded"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay alright understood and you've not had any any fever or nausea vomiting anything like that have you or diarrhea"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay and are you feeling any palpitations or your heart racing anything unusual there"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "not usually no"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay and are you still taking the lisinopril twenty milligrams once per day no actually i see we last visit we increased that to twice per day you're still taking that lisinopril twenty milligrams twice per day"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yes i am"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay you are not missing doses or anything are you by chance"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "very rarely"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay great great you're still using that pill box that we suggested i think you had a pretty good system going there maybe maybe you're using that app now to take to keep track of one when to take your medicine are you doing that"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yes yeah i've i've used the pillbox and then tried the app it was a little confusing but i'm i'm pretty much on on track with staying on my medication schedule pretty accurately"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "that's great i think i think i remember you saying it was tricky to get that app set up but then your grandson helped you with it and those kids amazing what they can do these days right anything like that i always trust them my kids before me so hey by the way how did he do in his softball or in his in his little league tournament last month i think you said he had a big tournament coming up how did that go"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "they they did great they they got all the way to the finals and then the team that the team that beat them was probably a little older a little bit more season but they had a great time"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "wow wow how fun that's fantastic well congrats good stuff alright well listen so so you're still taking your your lisinopril how about for your hyperlipidemia your your high cholesterol there are you still taking that atorvastatin"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay excellent and your osteoarthritis i know you've been you know a golfer in the past and you know you wan na get out on the course and things is that still under control are you able to get out and and and walk the full course and things still"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "most of the time you know there are times when the weather changes that i have to maybe play less play less or or skip a day"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "yeah yeah but you're still okay well you're still able to get out and then you're kinda taking i think you're taking some tylenol for for you know mild mild pain and changing your activity as needed is that right"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "correct"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay alright good good okay well listen let's go ahead and examine you here jerry so on your physical exam for the most part it's pretty normal and unremarkable on your heart exam you still have that grade three out of six systolic ejection murmur that's unchanged from your prior and just means yeah i'm hearing some heart sounds from the valves that's that's not surprising and i'm not concerned about it we're just watching that one otherwise on your your lung exam you have some mild bibasilar rales but no wheezes or rhonchi and excellent air movement and you have trace lower extremity edema on your extremity exam there bilaterally and otherwise really pretty normal exam so let's let's talk about my assessment and your plan alright so first of all for your first problem of your elevated blood pressure i do think your blood pressure is a little bit out of control meaning we need to make some adjustments i'm going to actually increase your your lisinopril to sixty milligrams twice per day and i'm also going to add twenty five milligrams per day of hydrochlorothiazide and that should help even things out i want you to check your blood pressure measurements twice a day for me for the next two weeks then let's see you back in two weeks and we'll we'll check on how you're doing and also for your second problem of hyperlipidemia i i wan na keep you on the atorvastatin i'm also going to send couple of blood tests i'm gon na send a cholesterol panel also a cbc with differential and a comprehensive metabolic panel and we'll check a urinalysis as well look and see how your kidneys are doing there as well and so we'll continue the current management with your atorvastatin there for your hyperlipidemia now for your third problem osteoarthritis i want you to continue to stay active as best you can do n't over do it but walking and you know getting out golfing when you can that's great you can take tylenol for the pain if you have some mild some mild pain there and yeah otherwise i think that cover it i think the adjustments in your blood pressure medicine should help and i wan na see you back in four weeks no let's make two weeks in follow-up and otherwise any questions for me how does that sound"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "i do n't think so anything that i need to do when the weather warms up as far as you know my fluids drinking liquids and things"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "yeah you know be sure you're staying well hydrated you know six to eight glasses of water per day is a good good idea and you you know when when it warms up you're certainly gon na prespire more and lose lose more fluid so so i would i would recommend that you continue to have you know a a standard six to eight glasses of of fluid intake per day but yeah that you know that should do it and if you're feeling particularly dehydrated you might wan na increase that if you have an increased activity level so alright any other questions for me"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "how much beer should i drink"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "probably not the best thing with you know with with with your high blood pressure fluctuating the way it is so not more than a couple drinks a week hate to tell you"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "alright okay great seeing you we'll see you back see you in a couple of weeks you take care"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 67-year-old male with a history of essential hypertension, hyperlipidemia, and osteoarthritis.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Elevated and fluctuating blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe his recent blood pressure readings and any associated symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports blood pressure has been well controlled until the last three to four weeks, with recent readings over 180 accompanied by lightheadedness and headache.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient checked his blood pressure during lightheaded episodes and if it was low.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that his blood pressure was on the high side during lightheaded episodes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced syncope.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies recent syncope.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced chest pain or dyspnea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports occasional chest heaviness but denies dyspnea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about headaches, numbness, weakness, or balance instability.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports unsteadiness with dizziness and headache when blood pressure is high.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to clarify the nature of his dizziness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient describes the dizziness as feeling lightheaded or fuzzy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced fever, nausea, vomiting, or diarrhea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies fever, nausea, vomiting, or diarrhea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced heart palpitations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies heart palpitations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking lisinopril 20 mg twice per day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he is taking lisinopril 20 mg twice per day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is missing any doses.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports he very rarely misses doses.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hyperlipidemia",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking atorvastatin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he is taking atorvastatin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Osteoarthritis",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's osteoarthritis is under control and if he can still walk the golf course.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports he can usually golf, but weather changes sometimes require him to play less or skip a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking Tylenol for pain and adjusting activity as needed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he takes Tylenol for mild pain and adjusts activity as needed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor describes physical exam findings: grade 3/6 systolic ejection murmur, mild bibasilar rales, and trace bilateral lower extremity edema.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "plan",
+          "summary": "The doctor plans to increase lisinopril to 60 mg twice daily, add hydrochlorothiazide 25 mg daily, and have the patient monitor blood pressure twice daily for two weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "plan",
+          "summary": "The doctor plans to continue atorvastatin and order a cholesterol panel, CBC with differential, CMP, and urinalysis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0026",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "plan",
+          "summary": "The doctor advises the patient to stay active, continue golfing and walking, and take Tylenol for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0028",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The patient will follow up in two weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about fluid intake recommendations for warmer weather.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor recommends 6 to 8 glasses of water daily, increasing intake if dehydrated or more active.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks about alcohol consumption limits.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor advises limiting alcohol to no more than two drinks per week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "elevated and fluctuating BP; hypertension;hyperlipidemia; osteoarthritis",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

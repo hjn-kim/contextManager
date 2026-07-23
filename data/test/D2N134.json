@@ -1,0 +1,923 @@
+{
+  "id": "D2N134",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "we're gon na go right to the front- . so when you touch that- hi , michelle , how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm good . how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm good . so i know the nurse told you about dax . i'd like to dax a little bit about you , okay ?"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "all right . so , michelle is a 31-year-old female with a past medical history of type 2 diabetes and hypertension who presents with abnormal lab finding . so , michelle , it came back to me that you had had a positive long ... lyme titer ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "and so , uh , can you , you , you know , can you tell me a little bit about it ? i know the last time i saw you , you had had an insect bite , and you know , it came back positive for lyme . so how are you feeling ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i've been feeling ... i could feel better . um ... i've been feeling tired , um , really lacking a lot of energy , and i have swollen joints in my elbows , just really hurts ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . all right . and have you had any , any body aches ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah , i have ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . all right . um , and i know that you were out hiking in the woods and , and that type of thing a couple of weeks ago , and we thought that that's where you got the bite . so , um , how's your , how's your appetite ? have you been okay ? a little nauseous ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "yeah , i've been a little nauseous . i have n't been able to eat much . i've been trying just to keep , you know , toast and crackers and that's all about i've been able to stomach , really ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay , and , and i know that you had had that , that , uh , bite there . have you noticed any other rash anywhere else ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah , i have ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . all right . sometimes they kind of describe it as looking as like a bull's-eye ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "is that what it looked like ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . all right . well , um , have you had any , any high fevers ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "uh , no , not that i've noticed ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "all right . um , and how about from a diabetes standpoint ? how ... how's your blood sugar been running ? especially now that you kind of have this , like , acute thing going on ? have your blood sugars been okay ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "they've been okay . i've noticed that they sometimes get a little high and a little low . um , but nothing too far out of range ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . all right . um , and you're still taking the metformin ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay . all right . good . and then in terms of your high blood pressure , are you monitoring the blood pressures at home ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah , i , i have a ... i bought a cuff last year , and i've been , um , taking it myself at home . those have looked good . i've been staying away from the salty foods ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "um , so that's been good ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay . and , um , so you're still taking the lisinopril ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay , great . all right , well , you know , i know that you did the review of systems sheet when you checked in , and i know that you're endorsing some nausea and some joint pain and some body aches . any other symptoms ? abdominal pain ? diarrhea ? anything like that ?"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "no , nothing like that ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay . um , so let's go ahead , and we'll ... i'm gon na do a quick physical exam ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the vital signs . so i'm looking here at your vital signs . they look great . you do n't have a fever at that ... at this time , so that's really encouraging . i'm just gon na check you out , and , uh , i'm gon na listen to your heart and lungs and look for any rashes and let you know what i find , okay ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay , so on physical examination , you know , you do have some swelling of your , uh , elbow joints bilaterally . um , does it hurt when i touch them ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "yeah , it does ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay , so she has pain to palpation to both elbow joints . um , and on your skin examination , you do have a bull's-eye rash on your , um , abdomen on the left-hand side . um , it's , it's warm to palpation . any pain with that ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "no , no pain for that ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "non-tender to palpation , no evidence of cellulitis . um , and the rest of , you know , the rest of your exam is pretty normal , okay ? so let me just go over some of the results with you , okay ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the lyme titer . so you can see here , you know , in reviewing the results of your lyme titer , it is elevated . so we're gon na go ahead and do some further testing , but we're gon na , you know , we're gon na look into that , okay ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the labs . and in reviewing the results of your labs , everything else looks good . so again , you know , you do n't have an elevated white blood cell count or anything like that . so i think we got this early enough , and we can go ahead and , and treat it , okay ?"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "so i wan na talk a little bit about , you know , my assessment and my plan for you . so for your first problem , this newly diagnosed lyme disease , i wan na go ahead and prescribe you doxycycline , 100 milligrams twice a day . you have to take it for three weeks , okay ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "i'm gon na just touch base with an infectious disease doctor to make sure that there's not anything else that we need to do , okay ? and i wan na see you again next week for a follow-up for this , okay ?"
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "okay . so for your second problem , your type 2 diabetes , i wan na go ahead and order a hemoglobin a1c and just this ... make sure we do n't have to make any changes to the metformin , okay ?"
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "hey , dragon , order a hemoglobin a1c . and for your last problem , your high blood pressure . it looks today like everything is fine . i think you're doing a really good job of managing your hypertension , and i'm going to continue you on the lisinopril , 10 milligrams a day , and i'm gon na go ahead and order a lipid panel , and , um , i want you to continue to record your blood , blood pressure regularly , okay ?"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "all right . do you need a refill of that ?"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "uh , yes , i do ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "okay . hey , dragon , order lisinopril , 10 milligrams daily . do you have any questions ?"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "no , i do n't ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "okay , so i'm gon na , you know , the nurse is gon na come in , and she's gon na check you out , and then we'll make a follow-up appointment for you , okay ?"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "hey , dragon , finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 31-year-old female with a history of type 2 diabetes and hypertension presenting with abnormal labs.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Lyme disease",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient how she is feeling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports fatigue, lack of energy, and bilateral elbow joint pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has body aches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she has body aches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's appetite and nausea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports nausea and difficulty eating, consuming only bland foods like toast and crackers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed any other rashes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the presence of another rash.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the rash looks like a bullseye.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the rash looks like a bullseye.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had any high fevers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies having any high fevers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient's blood sugar levels have been.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports blood sugars are mostly okay with occasional minor fluctuations.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still taking metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is still taking metformin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is monitoring her blood pressure at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports monitoring blood pressure at home with good results and avoiding salty foods.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still taking lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is still taking lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about abdominal pain and diarrhea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal pain and diarrhea.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes normal vital signs and no fever.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor observes bilateral elbow joint swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the elbow joints are painful to touch.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms the elbow joints are painful to touch.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor identifies a bullseye rash on the left abdomen that is warm to palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the rash is non-tender with no evidence of cellulitis and the rest of the exam is normal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the Lyme titer is elevated.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes other labs are normal, including white blood cell count.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes doxycycline 100 mg twice a day for 3 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0048",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will consult infectious disease and schedule a follow-up visit for next week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a hemoglobin A1c to evaluate diabetes management.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0020",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor continues lisinopril 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a lipid panel and advises the patient to continue monitoring blood pressure at home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor orders a refill for lisinopril 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "abnormal labs for Lyme titer; type 2 diabetes;hypertension",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

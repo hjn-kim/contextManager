@@ -1,0 +1,580 @@
+{
+  "id": "D2N162",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hi gregory hi how are you doing today"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "good how are you"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "i'm alright so i understand that you were having some you know right ankle pain and some swelling after you fell can you can you tell me a little bit about what happened"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "yeah so i was going out to take off the trash and i you know i was icy and i i was being very careful and then i noticed that there must have been a little patch of ice or something because all i know is that i slipped and i was on the ground and i was being really really careful"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "okay yeah i know especially this this winter has been rough so you got ta watch for those little ice patches sometimes well okay so this occurred yesterday after falling on the ice so have you been able to walk on it at all"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "when it first happened i could n't and i actually had a friend who was with me he was she was actually coming to visit and so she had to help me up and so last night i was you know keeping it elevated i was resting it icing it so today it feels a little better like i could put a little bit more weight on it but i'm definitely still limping it it's not my normal"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "okay alright and tell me what have you been doing for that foot pain since then"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "you know other than the icing i have taken some ibuprofen and i do feel like it's it it is helping"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "okay okay very good alright and tell me have you ever injured this ankle before"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "you know considering i do a lot of sports my favorite right now is soccer or my favorite always is soccer and i've had a lot of injury but i ca n't remember if i actually injured this ankle i do n't think i ever have"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "okay alright well good i mean considering how long you've been playing soccer i know you're actually playing for the community league now so that is really great representing the community"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "yes it's so much fun"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "yeah and and do your kids come and watch you play"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "yeah they come and watch and then now the oldest one is old enough to play himself so they have a leak for four and five -year-olds so he should be starting that soon too so i know he's really gon na enjoy that"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "that's gon na be exciting for him"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "so much fun"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "that's a great you had a great soccer league of your own here in your family"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": "yeah my husband's really into soccer too"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "play a lot so"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "oh"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "well you i guess you'll be watching it for a while instead of playing it though"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "i well i hope not not for too long"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "yeah we'll we'll see what we can do just to get you back out there again okay so tell me have you experienced any kind of numbness in your foot at all"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "no not that no i have n't had any numbness"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay alright very good well let me go ahead and do a physical exam on you real quick here let me take a look at your vital signs good good everything here looks good lem me go ahead and take a look at your right ankle real quick i'm just gon na pull your pant leg up here and then look look at it now on the skin here there is ecchymosis and that's bruising this bruising gregory and over the lateral malleolus associated swelling now lem me go ahead and just feel around here how does that feel"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "that hurts"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "i'm sorry so you definitely there is some tenderness to palpation and anterolaterally in the soft tissue there is no laxity on anterior drawer and inversion stress and there is no bony tenderness on palpation of the foot now i'm just gon na take a look at your right foot here just to make sure it's still intact here so okay good on the neurovascular exam of your right foot your capillary refill is less than three seconds with strong dorsalis pedis pulse and your sensation is intact to light touch so that's good sign now so gregory i did review the results of your right ankle x-ray and it showed no fracture so that's good so let's go ahead and talk about my assessment and plan so for your problem of right ankle pain what i'm seeing is that your symptoms are consistent with right ankle sprain so what i would like to do is i would like you to keep your leg elevated and especially when you're seated and to continue to ice it okay"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "alright and then you're going to also be given an aircast which is really gon na help stabilize the ankle and then you also be given some crutches for the next one to two days and then you may start walking on it as tolerated"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "do you have any questions any other questions for me"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "so when will i will i be able to play"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "well let's see now your symptoms should significantly improve in the next two weeks and what i'll do is i'm gon na follow up with you then and then see how you're doing okay and then just please continue to take the nsaids as needed to help with any of that pain that you may have okay"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "and then we will see in in a few weeks how how if you're ready to go play soccer again okay alright"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "alrighty"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "well do you have any other questions for me or is there anything else i can do for you"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "no i think that's it thank you"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "okay well i will have the nurse check you out and then if you experience any kind of symptoms in the next you know before your next visit with me go ahead and feel free to call the clinic okay"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "alright alright take care gregory"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "alright thank you"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "bye"
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "bye"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Gregory Hernandez is a 42-year-old male presenting with right ankle pain and swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Right ankle pain and swelling",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient slipped on ice while taking out the trash yesterday.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been able to walk on the ankle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was unable to walk immediately after the injury, but has been icing and elevating it and can now bear some weight.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient has been doing for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been icing the ankle and taking ibuprofen for pain relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has injured this ankle before.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient does not recall any previous injury to this ankle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient plays soccer for a community league.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has experienced any numbness in the foot.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies any numbness in the foot.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor performs a physical exam, noting ecchymosis and swelling over the lateral malleolus.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows tenderness to palpation anterolaterally, no laxity on anterior drawer/inversion stress, no bony tenderness, intact neurovascular status, capillary refill <3 seconds, strong dorsalis pedis pulse, and intact sensation.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The ankle x-ray shows no evidence of fracture.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Right ankle sprain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to keep the leg elevated and continue icing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0029",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0031",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is provided an Aircast and crutches for 1-2 days, then weight-bearing as tolerated.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0029",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks when he will be able to play soccer again.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0029",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor expects symptoms to improve in 2 weeks and will follow up then to assess progress and return to play.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0029",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient is advised to take NSAIDs as needed for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0029",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is instructed to call the clinic if symptoms worsen before the next visit.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0029",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Right ankle pain and swelling",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

@@ -1,0 +1,1262 @@
+{
+  "id": "D2N178",
+  "source": "virtscribe",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "okay . maria martin , date of birth 03/05/1946 , has been informed and consents to have this visit recorded . the patient is here for follow-up ."
+    },
+    {
+      "id": "line_0001",
+      "speaker": "doctor",
+      "text": "hi , maria . how have you been doing ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "patient",
+      "text": "same i guess . pretty good ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "doctor",
+      "text": "okay , so you got my letter last time on the results . your sugars are not very well controlled ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "patient",
+      "text": "yeah , i got them ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "doctor",
+      "text": "okay . so did you increase your glimepiride ?"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "patient",
+      "text": "did i increase it ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "doctor",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "patient",
+      "text": "i'm still taking the two milligrams ."
+    },
+    {
+      "id": "line_0009",
+      "speaker": "doctor",
+      "text": "yeah . so we want you to , as the letter said , from the last time , when your a1c was 9.9 , we wanted you to increase it to four milligrams twice a day , so let's start that ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "patient",
+      "text": "okay , sure . so you want me to take two of the pills , now twice a day ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "doctor",
+      "text": "yes . uh , how much of it do you have ?"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "patient",
+      "text": "well , i just filled it ."
+    },
+    {
+      "id": "line_0013",
+      "speaker": "doctor",
+      "text": "okay , good . so yeah , you can take two of them twice a day , of what you have . the new prescription will be for four milligrams twice a day ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "doctor",
+      "text": "great . and are you trying to eat healthier : less sugars , less carbohydrates ?"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "patient",
+      "text": "uh , well ..."
+    },
+    {
+      "id": "line_0017",
+      "speaker": "doctor",
+      "text": "not really ?"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "patient",
+      "text": ". well , i have n't had any pasta ; i just do n't really like it , so we do n't have any in the house . we do n't often have bread , and if we do , we buy wheat bread ."
+    },
+    {
+      "id": "line_0019",
+      "speaker": "doctor",
+      "text": "okay . but even the wheat bread , try to cut down on the number of slices you eat per day ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "patient",
+      "text": "i just usually have two in the morning . i do n't care for sandwiches much ; maybe peanut butter sandwiches once in a while ."
+    },
+    {
+      "id": "line_0021",
+      "speaker": "doctor",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "patient",
+      "text": "i hardly drink , drink any sodas ."
+    },
+    {
+      "id": "line_0023",
+      "speaker": "doctor",
+      "text": "well , that's great ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "patient",
+      "text": "i drink club soda ."
+    },
+    {
+      "id": "line_0025",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "patient",
+      "text": "seltzer water , that's what i prefer , so that's my water . i do n't drink regular water ."
+    },
+    {
+      "id": "line_0027",
+      "speaker": "doctor",
+      "text": "okay , that's fine . how about your eye exams ? are they up-to-date ?"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "patient",
+      "text": "yep . i just got new glasses ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "doctor",
+      "text": "okay . who do you go see ?"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "patient",
+      "text": "i go to liberty road , the group up there ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "doctor",
+      "text": "okay . the , um , the optimum optometrists , right ?"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "patient",
+      "text": "they keep changing doctors each time i go ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "doctor",
+      "text": "a new doc each time ?"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "patient",
+      "text": "yeah . i got a really nice one i used to see a year ago ."
+    },
+    {
+      "id": "line_0035",
+      "speaker": "doctor",
+      "text": "was that dr. sanchez ?"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0037",
+      "speaker": "doctor",
+      "text": "okay . and you saw him not too long ago ?"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "patient",
+      "text": "yeah . i just got my prescription from him . well , see , i had the iodine for my eyes ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "doctor",
+      "text": "cataracts , yep , okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "patient",
+      "text": "so he did that and then i had to wait for a month to get healed up and then he wrote my prescription ."
+    },
+    {
+      "id": "line_0041",
+      "speaker": "doctor",
+      "text": "perfect . and then you've got the high blood pressure ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "patient",
+      "text": "yeah . a couple of weeks ago , it was 116 on the dot ."
+    },
+    {
+      "id": "line_0043",
+      "speaker": "doctor",
+      "text": "okay . well , we will recheck it . you're on a combination of medications . you are on the met- met- uh , metoprolol , 50 milligrams once a day , you're on the lisinopril with hydrochlorothiazide , at 20 , with 25 milligrams once a day , and you're on the amlodipine , 10 milligram once a day . are you taking all of those ?"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "patient",
+      "text": "well , yeah ."
+    },
+    {
+      "id": "line_0045",
+      "speaker": "doctor",
+      "text": "perfect . and then you've got the high cholesterol and the vascular disease in your legs . you're on atorvastatin . are you tolerating it okay ?"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "patient",
+      "text": "yeah , but honestly , my feet feel like hell ."
+    },
+    {
+      "id": "line_0047",
+      "speaker": "doctor",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "patient",
+      "text": "all the time , my legs are bugging me ; i ca n't do much walking ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "doctor",
+      "text": "okay . yeah , the feet i think is what we call peripheral neuropathy ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "patient",
+      "text": "also , i have the pain up to my hip ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "okay . you have pain in the hips and upper legs ?"
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "yeah , all of it ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "okay . so those do seem relatively stable , right ? and are you trying to get the walking in ?"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "okay . and you are smoking still ?"
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "yeah , still smoking ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "not ready to quit ?"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "no , not really ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "it's a bad combination ."
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "i know . i'll think about it ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "okay . now , let's do my review of systems . you're not having any headaches or dizziness ?"
+    },
+    {
+      "id": "line_0062",
+      "speaker": "patient",
+      "text": "headaches or dizziness , no ."
+    },
+    {
+      "id": "line_0063",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "patient",
+      "text": "nothing , feeling totally normal ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "good , good . and the vision is better with the cataract surgery ? that's been good ?"
+    },
+    {
+      "id": "line_0066",
+      "speaker": "patient",
+      "text": "yeah . not happy with this lens ; it's kinda funny . the other one is good ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "doctor",
+      "text": "hmm , sometimes they can go in and clean up the eye with laser , but we'll see what they say ."
+    },
+    {
+      "id": "line_0068",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "doctor",
+      "text": "okay . no shortness of breath or coughing ?"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "patient",
+      "text": "i've been coughing here lately because i've been congested ."
+    },
+    {
+      "id": "line_0071",
+      "speaker": "doctor",
+      "text": "what does it look like when it comes up ?"
+    },
+    {
+      "id": "line_0072",
+      "speaker": "patient",
+      "text": "it's relatively clear ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "doctor",
+      "text": "no fever , chills , no shortness of breath ?"
+    },
+    {
+      "id": "line_0074",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "doctor",
+      "text": "okay . no chest pains or pressure or tightness ?"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0077",
+      "speaker": "doctor",
+      "text": "nausea , vomiting , gi symptoms ?"
+    },
+    {
+      "id": "line_0078",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0079",
+      "speaker": "doctor",
+      "text": "okay . peeing okay ?"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "patient",
+      "text": "not good . it's , you know , i'm old ; it takes me a little more time ."
+    },
+    {
+      "id": "line_0081",
+      "speaker": "doctor",
+      "text": "slower stream but stable ?"
+    },
+    {
+      "id": "line_0082",
+      "speaker": "patient",
+      "text": "yes , but i do pee ..."
+    },
+    {
+      "id": "line_0083",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0084",
+      "speaker": "patient",
+      "text": ". several times per day ."
+    },
+    {
+      "id": "line_0085",
+      "speaker": "doctor",
+      "text": "mm-hmm . how many times do you have to get up at night ?"
+    },
+    {
+      "id": "line_0086",
+      "speaker": "patient",
+      "text": "not too bad , just once in a while ."
+    },
+    {
+      "id": "line_0087",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0088",
+      "speaker": "patient",
+      "text": "then i have to pee by morning . i do tend to drink my drinks in the evening ."
+    },
+    {
+      "id": "line_0089",
+      "speaker": "doctor",
+      "text": "okay . all right , let's have a look at you ."
+    },
+    {
+      "id": "line_0090",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0091",
+      "speaker": "doctor",
+      "text": "physical exam : carotids are normal , pulse is no buits . heart exam : rhythm is regular , normal rate , s1 and s2 are crisp . i do not hear any murmurs today , okay . have you lean forward for me . take some deep breaths , in and out . okay , lungs are clear . i do n't hear any rasps or wheezing today ."
+    },
+    {
+      "id": "line_0092",
+      "speaker": "patient",
+      "text": "my coughing got better this morning ."
+    },
+    {
+      "id": "line_0093",
+      "speaker": "doctor",
+      "text": "you cleared out the lungs ? all right , let me take a look at your feet ."
+    },
+    {
+      "id": "line_0094",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0095",
+      "speaker": "doctor",
+      "text": "okay . extremities are without edema . pulses are palpable on the dorsalis pedis posterial tibial . she has thickened nails ."
+    },
+    {
+      "id": "line_0096",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0097",
+      "speaker": "doctor",
+      "text": "yeah . mildly dry skin , no skin breakdown . l- let me know if you can feel this ."
+    },
+    {
+      "id": "line_0098",
+      "speaker": "patient",
+      "text": "okay . i closed my eyes . yeah , yeah , okay ."
+    },
+    {
+      "id": "line_0099",
+      "speaker": "doctor",
+      "text": "mildly decreased sensation in the tips of the first and second toes . okay , we're done with your exam ."
+    },
+    {
+      "id": "line_0100",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0101",
+      "speaker": "doctor",
+      "text": "okay . so again , try to keep the feet moisturized ."
+    },
+    {
+      "id": "line_0102",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0103",
+      "speaker": "doctor",
+      "text": "you do have a little bit of periphe- peripheral neuropathy . um , there is a medication we can use if they get really bad , but you're already on so many medications ."
+    },
+    {
+      "id": "line_0104",
+      "speaker": "patient",
+      "text": "my girl that i talk to and stuff , she uses on her feet ; she really likes it . it's , like , a foot scrub or some type of cream . i put it on when i think of it after the shower . so i could get my own instead ."
+    },
+    {
+      "id": "line_0105",
+      "speaker": "doctor",
+      "text": "that sounds good . so for now , your sugars , we're gon na check your ... we're going to recheck your blood work today , but the sugars last time we checked , the a1c , your blood sugar average was above nine . i really want you to increase the glimepiride . so the ones you have at home , the two milligram , take two of them twice a day ."
+    },
+    {
+      "id": "line_0106",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0107",
+      "speaker": "doctor",
+      "text": "okay . watch for low sugars , weak , shaky , sweaty . if that happens , let us know , and i do n't expect it to ."
+    },
+    {
+      "id": "line_0108",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0109",
+      "speaker": "doctor",
+      "text": "okay . the new prescription that i'm going to write is gon na be for the , uh , four milligram pill . so when you get the new one , just one pill twice a day . also , continue the metformin , okay ? blood pressure , when i rechecked it , i got 140 over 60 s- so the numbers at home are better , so we're gon na continue the combination of medications . we'll check kidney function today ."
+    },
+    {
+      "id": "line_0110",
+      "speaker": "doctor",
+      "text": "for your cholesterol though , you're on the high dose of atorvastatin or lipitor to protect the arteries , so we really wan na keep you on that ."
+    },
+    {
+      "id": "line_0111",
+      "speaker": "patient",
+      "text": "yeah , no problem ."
+    },
+    {
+      "id": "line_0112",
+      "speaker": "doctor",
+      "text": "i want you to quit smoking , but we've had this battle before ."
+    },
+    {
+      "id": "line_0113",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0114",
+      "speaker": "doctor",
+      "text": "hmm . and then , we will leave everything else the same . we'll get the labs today and we'll see you back here in four months . sound good ?"
+    },
+    {
+      "id": "line_0115",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0116",
+      "speaker": "doctor",
+      "text": "great . have a good day , ma'am . take care of yourself ."
+    },
+    {
+      "id": "line_0117",
+      "speaker": "patient",
+      "text": "thank you . you too ."
+    },
+    {
+      "id": "line_0118",
+      "speaker": "doctor",
+      "text": "bye ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "Maria Martin is a 75-year-old female presenting for a follow-up visit.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes management.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The patient's blood glucose is poorly controlled with a recent A1C of 9.9%.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient increased her glimepiride dosage.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is still taking 2 mg of glimepiride.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to increase glimepiride to 4 mg twice a day.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is instructed to take two 2 mg glimepiride tablets twice daily, and a new prescription for 4 mg tablets will be provided.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is reducing sugar and carbohydrate intake.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she does not eat pasta, rarely eats bread, and prefers wheat bread when she does.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she drinks club soda and seltzer water instead of soda.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's eye exams are up to date.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms her eye exams are up to date and she recently received new glasses.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she sees Dr. Sanchez for her eye care.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she recently underwent cataract surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a home blood pressure reading of 116 mmHg a few weeks ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The patient is taking metoprolol 50 mg daily, lisinopril/hydrochlorothiazide 20/25 mg daily, and amlodipine 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is compliant with her blood pressure medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hyperlipidemia and peripheral vascular disease.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is tolerating atorvastatin.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports she is tolerating atorvastatin but experiences significant foot and leg pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0049",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor identifies the patient's foot pain as peripheral neuropathy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0050",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain extending to her hips.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is still smoking.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0056",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is still smoking.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0057",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is ready to quit smoking.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0061",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is experiencing headaches or dizziness.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0065",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's vision has improved following cataract surgery.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0066",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports improvement in one eye but dissatisfaction with the lens in the other eye.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0069",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has shortness of breath or a cough.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0070",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a productive cough due to recent congestion.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0079",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is having urinary symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0080",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a slower urine stream which she attributes to aging.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0085",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how often the patient gets up at night to urinate.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0086",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports occasional nocturia, which she attributes to evening fluid intake.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0091",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: normal carotids, regular heart rhythm, clear lungs, no edema, palpable pulses, and thickened nails.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0099",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: mildly decreased sensation in the tips of the first and second toes bilaterally.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0101",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to keep her feet moisturized.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0045",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0105",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders blood work to recheck A1C and kidney function.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0107",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor counsels the patient on signs of hypoglycemia.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0003",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0109",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor confirms the patient will continue her current blood pressure and cholesterol medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0041",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0114",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient is scheduled for a follow-up visit in four months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "diabetes follow up; urination",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

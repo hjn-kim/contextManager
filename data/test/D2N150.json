@@ -1,0 +1,674 @@
+{
+  "id": "D2N150",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "alright scott so so i understand that you you had some right knee injury can you tell me a little bit about what happened"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "yeah i was trying to go out and play some pickup soccer games over the weekend and went to go plank kick the ball and and just felt a pop in my right knee"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay and and how long ago did that happen"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "about three days ago"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "three days okay and when did you notice any swelling anything like that"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it it's swollen some some of that swelling has gone down"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "but it it mainly just it it feels like that i just i ca n't my knee is just not as functionally it's not moving as well as what it used to be it seems to be a little limited"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay alright and then so how's the pain with your knee on a scale of one to ten one being the least pain ten being the worst pain how's how's it been ranging"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "it's somewhere between six and seven right now it's about four or five with some of the swelling going down"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay alright and did you take anything at all to relieve the pain"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "anti-inflammatories"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay alrighty and did that help"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah the ibuprofen helped a little bit but i'm on it pretty on a pretty regular basis right now"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "gotcha okay now tell me are you able to bend or straighten your leg ever since then"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "i can bend it but it hurts towards the end of the motion and i can straighten it but it does n't it feels like i have to help get it straightened"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay alright and then how about you able to bear any weight on it or walk on it at all"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "i can still bear weight on it but it feels just really loose it it does n't feel normal"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "gotcha okay alright well let's go ahead and take a look at your knee here real quick before i take a look at your knee here i'm gon na do a physical exam and in terms of your gait here i did notice that you do have a marked limp on your looks like it's your right leg upon ambulation so let me go ahead and take a look at that right knee real quick i do appreciate some significant effusion in the right knee just a slight bit of ecchymosis let me just feel around here scott how does that feel does that hurt when i kinda press on that there"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "a little bit of pain there not not really bad it's it feels like it's just more on the inside of my knee"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "yep okay so you definitely feeling some a little bit of pain to palpation at the medial joint line now i'm gon na have you lie on your back and also i'm gon na do some maneuvering here of your leg i'm gon na do a real quick test on you here okay alright how does that feel"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "just feels just feels loose it hurts when you pull it at the very end"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay sorry about that alright so you're definitely having some difficulty with some passive range of motion here and you're lacking a few degrees of terminal extension to about a hundred and fifteen degrees as well as lacking about maybe twenty to thirty degrees of terminal flexion on the secondary secondary to the pain here and you do have a positive lachman exam so one more thing i wan na take a look at real quick i'm gon na take a look at your toes here real quick very good so neurovascularly your bilateral lower extremities are intact and it looks like you have a muscle strength of a five out of five so scott you know based on my examination here your right knee injury is really suggestive of anterior cruciate ligament tear and you've heard of it probably even heard as acl tear sometimes especially when a lot of people do sports and they injure their knee that that can happen so my plan for you though is i wan na i wan na go ahead and order an mri because i wan na evaluate the integrity of that acl now you may need surgery but we'll we'll first take a look at that mri result and reevaluate and reevaluate that first but in the meantime i wan na go ahead and order some anti-inflammatory medication meloxicam fifty milligrams a day it's gon na help reduce that swelling and the pain and then i want you to go ahead and ice the knee if you need to if you're still seeing some swelling and some pain you can go ahead and use ice as well but i definitely would like for you to moderate your activities so i would like for you to wear a knee immobilizer and then also use crutches when you walk around just to help you a little bit so not to put too much stress and strain on that knee does that sound like a plan"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "it it does now well i need to limit my work activities i i typically sit behind a desk but it's not been very comfortable sitting here lately"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "yeah definitely so yeah so you you can limit the activities for sure in terms of your work activities i know if you sit too long sometimes it can be painful because you do need to move that leg a little bit so it does n't lock up so i i would like for you to you know do do some slight activities not enough to stress your legs but definitely move move them a little bit every now and then so it does n't lock up on you okay"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "alright i do want you to i know you are i know you actually jog often so i want you to just slow that down for a bit no jogging for a while until we get you know results of your mri till we figure out what we what we are gon na be doing okay"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "okay"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "alright and how's your dog you has it been jogging with you before this incident"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "how's just how's my dog or how is my job"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "your your dog"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "my my my dog is okay"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "good"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "is doing really well and and he enjoys still playing around outside but looks like wo n't be able to do that for a little bit"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "very good alright well i'm gon na go ahead and have the nurse take you to the scheduler to get your mri and i'll get back with you as soon as we get the results of that"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay sounds good thank you"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "thank you"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Right knee injury.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the circumstances of the knee injury.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0001",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient felt a pop in his right knee while playing soccer three days ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how long ago the injury occurred.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The injury occurred three days ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the presence of swelling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the knee was swollen, but some swelling has subsided.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports decreased functionality and limited movement in the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to rate their pain on a scale of one to ten.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain as 6-7/10 currently and 4-5/10 when swelling decreases.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has taken any medication for pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports taking anti-inflammatories.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the medication provided relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports regular use of ibuprofen with some relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient can bend or straighten the leg.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient can bend the knee with pain at the end of motion and feels he needs help to straighten it.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient can bear weight on the knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient can bear weight but reports the knee feels loose and abnormal.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor observes a marked limp on the right leg and notes significant effusion and slight ecchymosis on the right knee.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports pain at the medial joint line upon palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms pain to palpation at the medial joint line.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the knee feels loose and painful at the end of passive range of motion.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes difficulty with passive ROM, lack of terminal extension to 115 degrees, lack of 20-30 degrees of terminal flexion, positive Lachman's test, neurovascularly intact, and 5/5 muscle strength.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the injury as a possible ACL tear.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders an MRI to evaluate the ACL.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends ice, activity modification, a knee immobilizer, and crutches.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient asks if he needs to limit work activities.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "social_history",
+          "summary": "The patient works at a desk.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises the patient to limit work activities and perform light movement to prevent locking.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": false,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to avoid jogging until MRI results are reviewed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The patient will follow up after the MRI results are available.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "right knee injury",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

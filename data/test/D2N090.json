@@ -1,0 +1,1077 @@
+{
+  "id": "D2N090",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , albert . how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "hey , good to see you ."
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "it's good to see you too . so , i know the nurse told you about dax . i'd like to tell dax a little bit about you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "so , albert is a 62-year-old male , with a past medical history significant for depression , type 2 diabetes , and kidney transplant , who is here today for emergency room follow-up ."
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "so , i got a notification that you were in the emergency room , but , but what were you there for ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "well , i , uh , i was n't really , uh , staying on top of my , uh , blood sugar readings , and i felt kinda woozy over the weekend . and i was little concerned , and my wife wanted to take me in and just have me checked out ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . and , and was it , in fact , high ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "yeah , it was ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . did you ... were you admitted to the hospital ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "uh , no ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . all right . and , uh , are you ... did they see a reason , as to why it was elevated ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "uh , yeah . my mother was actually in the hospital the last week. she had a bit of a fall and had to do a hip replacement. she's feeling better now but we have been just grabbing meals at the cafeteria or picking up fast food on our way home and i just really was n't monitoring what i was eating ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay . that's sorry to hear . and are you feeling better now ?"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "uh , actually , when we got home from the , uh , f- from the visit , i felt a lot better ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay . and since then , have you been following your diet pretty closely ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . 'cause we do n't wan na end up in the hospitaltoo"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "all right . um , okay . and , so , before that happened , how are you doing with your diet ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "uh , during the week , i've been fine , 'cause i've been very busy . on the weekends , doing things . you're seeing people . you're having people over . it's , i- not , not as consistent on the weekend ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . all right . um , is there a way that you think that that can improve ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "uh , s- stop eating ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay . all right . well , let's talk about your , your kidney transplant . how are-"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": ". you doing ? you're taking immunotherapy meds ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "yeah . i've , i've been pretty diligent about it , following doctor's orders , so it's been , it's been pretty good so far ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay . and , and y- the last time i saw that you saw dr. reyes , was about three weeks ago , and everything seemed to be fine ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "that's correct ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "your kidney function is good ."
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay . all right . and in terms of your depression , how are you , how are you doing ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "and it's been about a , a tough , ugh , year-and-a-half or so , but i've been pretty good with it . i , i have my moments , but i- as long as i find some time to relax , at least in the afternoon , then , then it seems to work out okay ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay . so , i know that we've kind of talked about holding off on medical therapy-"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": ". 'cause you're on so many other meds ."
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "um , is that something that you wan na revisit , or do you wan na look into therapy , or do you think anything's needed right now ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "uh , i think i probably wan na shy away from any therapy . my , my wife got me into meditation recently and , and , uh , i , i find that relaxing . so , i think i'd like to continue that , at least for a couple more months and see how it goes ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "okay . all right . that sounds good . all right . well , i know the nurse did a quick review of systems with you , when you-"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": ". checked in . do you have any symptoms , any chest pain or shortness of breath ?"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "none whatsoever ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "lightheadedness ? dizziness ?"
+    },
+    {
+      "id": "line_0047",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0048",
+      "speaker": "doctor",
+      "text": "no ? okay . um , and i just wan na go ahead and do a quick physical exam ."
+    },
+    {
+      "id": "line_0049",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0050",
+      "speaker": "doctor",
+      "text": "hey , dragon . show me the vital signs ."
+    },
+    {
+      "id": "line_0051",
+      "speaker": "doctor",
+      "text": "so , looking here right now , your vital signs look great . you know , your pulse ox is great . your h- your blood pressure and heart rate are right where they should be ."
+    },
+    {
+      "id": "line_0052",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0053",
+      "speaker": "doctor",
+      "text": "so , i'm gon na just check you out , and i'm gon na let you know what i find . okay ?"
+    },
+    {
+      "id": "line_0054",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0055",
+      "speaker": "doctor",
+      "text": "okay . so , on your physical exam , everything looks really good . um , you do n't appear in any distress at this time . i do n't appreciate any carotid bruits . your heart , on your heart exam , i do hear that slight 2/6 systolic ejection murmur , but we heard that in the past ."
+    },
+    {
+      "id": "line_0056",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0057",
+      "speaker": "doctor",
+      "text": "your lungs sound nice and clear , but i notice , you know , 1+ , uh , edema in your lower extremities . okay ?"
+    },
+    {
+      "id": "line_0058",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0059",
+      "speaker": "doctor",
+      "text": "um , so , let's go ahead . i wan na look at some of your results . okay ?"
+    },
+    {
+      "id": "line_0060",
+      "speaker": "patient",
+      "text": "sure ."
+    },
+    {
+      "id": "line_0061",
+      "speaker": "doctor",
+      "text": "hey , dragon . show me the glucose ."
+    },
+    {
+      "id": "line_0062",
+      "speaker": "doctor",
+      "text": "so , right now , your blood sugar is about 162 . have you eaten before you came in here ?"
+    },
+    {
+      "id": "line_0063",
+      "speaker": "patient",
+      "text": "i did not ."
+    },
+    {
+      "id": "line_0064",
+      "speaker": "doctor",
+      "text": "okay . all right . um , hey , dragon . show me the diabetes labs ."
+    },
+    {
+      "id": "line_0065",
+      "speaker": "doctor",
+      "text": "okay . i'm looking at your diabetes labs . you know , your hemoglobin a1c is about 8 , and that's a , that's a little high ."
+    },
+    {
+      "id": "line_0066",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0067",
+      "speaker": "doctor",
+      "text": "so , not only , you know , have your blood sugars , were they high that one day , they were , they've been a little elevated ."
+    },
+    {
+      "id": "line_0068",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0069",
+      "speaker": "doctor",
+      "text": "so , we'll talk about , you know , how to go ahead and , and fix that . okay ?"
+    },
+    {
+      "id": "line_0070",
+      "speaker": "doctor",
+      "text": "so , let me talk a little bit about my assessment and my plan for you ."
+    },
+    {
+      "id": "line_0071",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0072",
+      "speaker": "doctor",
+      "text": "so , for your first problem , this hyperglycemia , you know , i wan na go ahead and increase your lantus to 20 units at night . okay ? i want you to continue your monitor your blood sugar and let me know how they're running 'cause we might have to adjust that further ."
+    },
+    {
+      "id": "line_0073",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0074",
+      "speaker": "doctor",
+      "text": "okay ? um , and i wan na order another hemoglobin a1c in a couple months . hey , dragon . order a hemoglobin a1c ."
+    },
+    {
+      "id": "line_0075",
+      "speaker": "doctor",
+      "text": "for your next problem , your depression , i think you're doing a great job with your current strategies with the meditation . we will hold off on medication or therapy at this time , and you know to call me if you need anything , right ?"
+    },
+    {
+      "id": "line_0076",
+      "speaker": "patient",
+      "text": "mm-hmm ."
+    },
+    {
+      "id": "line_0077",
+      "speaker": "doctor",
+      "text": "okay . and for your third problem , your kidney transplant , your kidney function looks stable . uh , i'm gon na just have you go back to dr. reyes , to manage all of your immunosuppression medications ."
+    },
+    {
+      "id": "line_0078",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0079",
+      "speaker": "doctor",
+      "text": "um , and then , he knows to reach out to me if he needs anything . okay ?"
+    },
+    {
+      "id": "line_0080",
+      "speaker": "patient",
+      "text": "you got it ."
+    },
+    {
+      "id": "line_0081",
+      "speaker": "doctor",
+      "text": "all right . well , the nurse will be in soon to check you out . okay ?"
+    },
+    {
+      "id": "line_0082",
+      "speaker": "patient",
+      "text": "perfect ."
+    },
+    {
+      "id": "line_0083",
+      "speaker": "doctor",
+      "text": "hey , dragon . finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 62-year-old male with a history of depression, type 2 diabetes, and kidney transplant, presenting for an ER follow-up.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "social_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient for the reason for his emergency room visit.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports he was not monitoring his blood sugar and felt woozy, leading his wife to take him to the ER.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient's blood sugar was actually high.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms his blood sugar was elevated.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient was admitted to the hospital.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was not admitted to the hospital.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the reason for the elevated blood sugar was identified.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient attributes the elevated blood sugar to poor diet and lack of monitoring while caring for his mother in the hospital.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is feeling better now.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports feeling better after returning home.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been following his diet closely since the ER visit.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he has been following his diet closely.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient was managing his diet before the ER visit.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports his diet was consistent during the week but inconsistent on weekends.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has ideas for improving his diet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0006",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Kidney transplant",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking his immunotherapy medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports being diligent with his immunotherapy medications and following doctor's orders.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0030",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient saw Dr. Reyes three weeks ago and everything was fine.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor confirms the patient's kidney function is good.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Depression",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks how the patient is doing with his depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports he has been doing well with his depression for the past year and a half by finding time to relax.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient wants to revisit medical therapy or look into counseling for his depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0041",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient declines therapy and prefers to continue meditation for his depression.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0045",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies chest pain or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0046",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any lightheadedness or dizziness.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0047",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies lightheadedness or dizziness.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0051",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's vital signs, including pulse ox, blood pressure, and heart rate, are normal.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0055",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings: no distress, no carotid bruits, 2/6 systolic ejection murmur, clear lungs.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0057",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam finding: 1+ edema in the lower extremities.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0062",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's fasting blood glucose is 162.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient ate before the appointment.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0063",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he did not eat before the appointment.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0065",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient's hemoglobin A1c is 8, which is elevated.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0072",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor increases Lantus insulin to 20 units at night and instructs the patient to continue monitoring blood sugar.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0074",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a repeat hemoglobin A1c in a couple of months.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0075",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor advises continuing meditation for depression and holding off on medication or therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0034",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0077",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor instructs the patient to continue seeing Dr. Reyes for management of immunosuppression medications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "ER follow-up; depression;type 2 diabetes;kidney transplant",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

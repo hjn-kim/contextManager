@@ -1,0 +1,732 @@
+{
+  "id": "D2N206",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hey joshua good to see you today so take a look at your chart here brenda and i see that you're coming in you you have i think you have a kidney stone so can you tell me what's going on how are you feeling and you're my my patient"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "and i'm your patient yeah"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "yeah"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "i've been having pains let's just say for the last two weeks"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "it's it starts up in the right flank and radiates down to my groin and you know it it's under control but i have bouts where it kinda gets a little out of control"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay so is it is it a constant pain or does it come and go for you"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "it comes and goes it depends on how much i've been drinking and you know what sort of activities i've been doing but it's still there"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "alright so have you noticed any pain when you've been urinating"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "not really"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay have you noticed any blood in your urine"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "no blood i did have an episode where the pain radiated to one of my testicles which was kinda weird but but yeah it it sort of calmed down a little bit in that regards"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay have you taken anything for the pain"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "yeah i've been taking some ibuprofen and that kinda like calms it down a little bit but it persists"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay and what would you say like your pain score is out of ten"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "it's probably a four out of ten when it gets a little more out of control for the most part it's probably in the order of one or two out of ten"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay so it is it's it's it's not too bad"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "it's a new ones yeah but i know it's there it does n't go away"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay yeah yeah a lot of my patients you know have that that minor pain so you"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "i'm a horrible active by the way"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "no yeah that's that's that's totally fine that's totally fine you know i'm just playing the doctor on tv so good good alright so have you had any other symptoms nausea vomiting anything like that"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "no nausea no vomiting i had some i felt like it might have been like chills but no fevers nothing along those lines"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay that's good do you know anybody in your family that has had kidney stones in the past"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "yeah all in my family has had kidney stones in the past"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "no well they did n't set you up good did they"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yeah i i i guess i can blame them but but yeah it's been a it's been an issue with the family for as long as i've been aware of"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay alright and i'm reading here it looks like you've had them before as well right"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i have yeah i passed some by myself and i've had to have surgery a couple of times as well"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay so the ones that you passed by yourself how many days would you say it would take to to pass"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "usually within within a week i manage to to get them out"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay alright so you got anything fun plan for the weekend"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "just getting this pain under control"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay well that that sounds like a good plan we can definitely help you out with that alright so i'm gon na do a quick physical exam on you looks like your blood pressure is a little bit elevated and i think that's probably because you're in pain and that's understandable everything else looks fine so on pressing on your abdomen does that hurt"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "no no no pain"
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "alright so press here in the back and your cva does that back here in"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "yeah it's a little tender yeah it's little tender"
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "okay so on your physical exam there seems to be no tenderness to palpation of your abdomen there is cva tenderness on your your right side here and that's due to that kidney stone so we did get a a ct scan before you came in so it does show that you have a stone measuring point five centimeters in size located on the proximal right ureter so that's that duct that passes from your kidney to your bladder i do n't see any evidence of high flow nephrosis so there is nothing obstructing causing swelling in your your kidney so that's good to hear so i do n't think you hopefully wo n't need any surgery for this one so let's talk a bit little bit about on my assessment and plan so you know you've done this a couple of times you have that kidney stone so what i want you to do is just have you continue to push fluids and hopefully we can pass the stone your pain your pain you're doing okay right now so i'm just gon na continue you on that ibuprofen do you think that's that's working you said for you"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "so far so good but since the weekend is coming around i i i rather have something stronger if it's possible"
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "okay so i can prescribe you some tramadol you know that should help fifty milligrams that should help you out if you do have any of that pain if you get any breakthrough pain from that you can take that ibuprofen it should help you you know with everything and hopefully you can get through that weekend i know you went to the your pcp prior to coming to see me did they give you a strainer"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "they did they did yeah and i've been i've been using that but so far nothing"
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "okay so continue to use the strainer whenever you urinate so hopefully we can catch the stone i'm also gon na order a bmp a urinalysis and urine culture and based on what that shows we can see if we need to put you on any antibiotics i do n't think you have an infection but you know there is that possibility and then i want to see you again in one to two weeks if you are still having symptoms and if you know you still have the stone with you we can talk about further treatment possible lithotripsy you know that's the shockwave treatment i'm pretty sure you've had that prior to"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "yeah yeah yeah yeah that's what i want"
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "what that is okay so do you have any other questions for me"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "no i'm friend"
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "alright so i'll see you again in two weeks i'll have my nurse come in and bring you that prescription for the tramadol and i think we are all good"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "perfect thank you"
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "alright great"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is an 18-year-old male presenting with right flank pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Kidney stone",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has experienced pain for the last two weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The pain starts in the right flank and radiates to the groin, with intermittent bouts of increased severity.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is constant or intermittent.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The pain is intermittent and influenced by fluid intake and activity level.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has pain with urination.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies pain with urination.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has noticed blood in the urine.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies hematuria and reports one episode of pain radiating to a testicle.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has taken any medication for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been taking ibuprofen for pain relief.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the patient's pain score out of ten.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient rates the pain as 4/10 at its worst and 1-2/10 otherwise.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about nausea, vomiting, or other symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies nausea and vomiting, reports possible chills, and denies fevers.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about family history of kidney stones.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports a significant family history of kidney stones.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "family_history"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has a personal history of kidney stones.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has a history of kidney stones treated both conservatively and surgically.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks how long it typically takes the patient to pass stones independently.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient usually passes stones within a week.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes slightly elevated blood pressure, likely due to pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0033",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies abdominal tenderness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0035",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms CVA tenderness on the right side.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam shows no abdominal tenderness but positive right-sided CVA tenderness; CT scan shows a 0.5 cm stone in the proximal right ureter with no hydronephrosis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0037",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The patient requests stronger pain medication for the weekend.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes tramadol 50 mg for breakthrough pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient received a strainer from his primary care physician.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0039",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms he has a strainer and has been using it.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a BMP, urinalysis, and urine culture, and schedules a follow-up in 1-2 weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "Right flank pain",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

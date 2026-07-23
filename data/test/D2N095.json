@@ -1,0 +1,830 @@
+{
+  "id": "D2N095",
+  "source": "virtassist",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "hi , cheryl . how are you ?"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "i'm doing well . how are you ?"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "i'm doing well . so i know the nurse told you a little bit about dax . i'd like to tell dax about you ."
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "cheryl is a 34-year-old female with a past medical history significant for hypertension , who presents today with back pain . cheryl , what happened to your back ?"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "so i've been walking a lot lately . i've been walking to ... 30 minutes to an hour or so a day . and all of a sudden , um , when i was walking , my , um , back just kind of seized up on me . and i do n't really know what it was . maybe i was going a little bit faster . but it just all kind of clenched ."
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay . so you felt like , maybe like a spasm or something like that ?"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "yeah ."
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay . and how many days ago was that ?"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "that was about six days ago now ."
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "okay . and what have you taken for the pain ?"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "i've been taking ibuprofen . um , and then i've been putting some heat on it . but it's still pretty stiff ."
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "okay . all right . um , and did you have any trauma before that happened ? were you doing anything strenuous like crossfit or lifting boxes or anything like that before you went for , for the walk ?"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "i have been lifting more , um , probably around three times a week . so i do n't know if it was because i was doing deadlifts that day and then walked ."
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "um , maybe i was using my back more than my legs ."
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay . all right . and was it any particular area in your back ? was it the lower back ?"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "yeah , it was ."
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "okay . on one side versus the other ?"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "um , kind of both equally ."
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay . all right . and any numbing or tingling in your legs or your feet ?"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "no , i have n't felt anything like that ."
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "okay . any weakness in your lower extremities ?"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no ."
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay . all right . and then in terms of your blood pressure , how are you doing ?"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "so i got that cuff that you suggested the ... our ... the last visit , and i've been doing readings at home . and that's been looking great , too . i've been watching my diet . again , my boyfriend's been great and dieting with me so i do n't have to do it alone . and everything's been good ."
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay . excellent . and you're taking the lisinopril ?"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "yes ."
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay . wonderful . okay . so i know you did a review of systems sheet with the nurse , and i know you endorse , you know , this back pain . um , do you have any other symptoms ? fever , chills , congestion , cough , chest pain , shortness of breath ?"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "i have a little bit of nasal congestion , but that's just from my seasonal allergies ."
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "okay . all right . well , let's go ahead . i want to do a quick physical exam on you ."
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "okay ? hey , dragon , show me the vital signs . so good- you know , here in the office , your vital signs look great . your blood pressure's really well controlled , which is good . so that's a good job . so i'm going to take a listen to your heart and lungs . i'm going to examine your back , and i'm going to let you know what i find . okay ?"
+    },
+    {
+      "id": "line_0033",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0034",
+      "speaker": "doctor",
+      "text": "okay . all right . so on physical examination , you know , everything looks good . you know , on your heart exam , i do hear that slight two out of six systolic ejection murmur , but you've had that before . that seems stable to me . on your back exam , you do have some pain to palpation on the right lateral aspect of your lumbar spine , and you do have pain with flexion and extension as well , and you have a negative straight leg raise . so what does that mean ? so we're going to go over that . okay ? let's ... let me look at some of your results , though , first . okay ?"
+    },
+    {
+      "id": "line_0035",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0036",
+      "speaker": "doctor",
+      "text": "we did an x-ray before you saw me , so let's look at that . hey , dragon , show me the back x-ray . so looking here at this x-ray of the lumbar spine , everything looks good . there's good boney alignment . there's no obvious fracture , you know , which is not surprising based on your history . okay ?"
+    },
+    {
+      "id": "line_0037",
+      "speaker": "patient",
+      "text": "hmm ."
+    },
+    {
+      "id": "line_0038",
+      "speaker": "doctor",
+      "text": "hey , dragon , show me the labs . and your labs that we did before you came in all look great . there's no elevated white blood cell count . there's no signs of infection . again , those are all really good . okay ? so let me go over with you about my assessment and my plan for you . so for your first problem , this back pain , i think you have a lumbar strain , and , you know , that might've happened , you know , lifting something or exercising . and so what i want to do is prescribe meloxicam , 15 milligrams once a day . uh , i want you ... you can ice the area , and you can also apply heat sometimes as well . um , you know , i'm going to refer you to physical therapy just to do some strengthening exercises of your back , um , because i do want you to continue to be able to work out and exercise . okay ?"
+    },
+    {
+      "id": "line_0039",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0040",
+      "speaker": "doctor",
+      "text": "and for your last problem , your high blood pressure , again , everything looks great here . um , you know , i think you're doing a really good job with that as well . i want you to continue on the lisinopril , 10 milligrams a day . and then , uh , let me know if you notice any increases in your blood pressure readings . okay ?"
+    },
+    {
+      "id": "line_0041",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0042",
+      "speaker": "doctor",
+      "text": "do you need a refill of the lisinopril ?"
+    },
+    {
+      "id": "line_0043",
+      "speaker": "patient",
+      "text": "yes , i do , actually ."
+    },
+    {
+      "id": "line_0044",
+      "speaker": "doctor",
+      "text": "okay . hey , dragon ? order lisinopril 10 milligrams po daily . okay . uh , so the nurse will be in soon , and she'll get you checked out . okay ?"
+    },
+    {
+      "id": "line_0045",
+      "speaker": "patient",
+      "text": "okay ."
+    },
+    {
+      "id": "line_0046",
+      "speaker": "doctor",
+      "text": "all right . hey , dragon ? finalize the note ."
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 34-year-old female with a history of hypertension presenting with back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Back pain",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks the patient to describe the onset of her back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports walking 30 to 60 minutes daily and experienced a sudden back spasm while walking.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0006",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient experienced a muscle spasm.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the duration of the symptoms.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The back pain began six days ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks what the patient has taken for the pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been using ibuprofen and heat, but the back remains stiff.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there was any trauma or strenuous activity prior to the onset of pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient lifts weights three times a week and performed deadlifts on the day the pain started.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient suspects she may have used her back more than her legs during deadlifts.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0016",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks for the location of the back pain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0017",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The pain is located in the lower back.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the pain is unilateral or bilateral.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The pain is bilateral.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0020",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about numbness or tingling in the legs or feet.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0021",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies numbness or tingling.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about lower extremity weakness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient denies lower extremity weakness.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Hypertension",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the status of the patient's blood pressure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports good home blood pressure readings and dietary modifications.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient is taking lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she is taking lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about other symptoms including fever, chills, congestion, cough, chest pain, or shortness of breath.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports nasal congestion due to seasonal allergies.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": null,
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0032",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The doctor notes the patient's blood pressure is well-controlled and declares intent to perform a physical exam.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0034",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam findings include a stable 2/6 systolic ejection murmur, pain to palpation on the right lateral lumbar spine, pain with flexion and extension, and a negative straight leg raise.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0036",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Lumbar spine x-ray shows good bony alignment with no fractures.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0038",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Labs are within normal limits with no signs of infection.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "other"
+          }
+        },
+        {
+          "type": "detail",
+          "summary": "The doctor assesses the patient with a lumbar strain.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes meloxicam 15 mg once daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor recommends ice and heat application and refers the patient to physical therapy.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0004",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0040",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor instructs the patient to continue lisinopril 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor asks the patient to report any elevated blood pressure readings.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0042",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient needs a refill of lisinopril.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0043",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she needs a refill.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "medication"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0044",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "medication",
+          "summary": "The doctor orders a refill of lisinopril 10 mg daily.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0024",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "back pain; hypertension",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}

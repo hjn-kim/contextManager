@@ -1,0 +1,642 @@
+{
+  "id": "D2N155",
+  "source": "aci",
+  "utterances": [
+    {
+      "id": "line_0000",
+      "speaker": "doctor",
+      "text": "so hey christina good to see you today i see you're here you have a nonhealing foot ulcer well also looks like in my notes that you got some you've got type two diabetes and that probably the reason for your ear but ulcer not healing so how you doing today what's going on"
+    },
+    {
+      "id": "line_0001",
+      "speaker": "patient",
+      "text": "doing pretty good except i ca n't get this ulcer to heal"
+    },
+    {
+      "id": "line_0002",
+      "speaker": "doctor",
+      "text": "okay how long has that wound been present"
+    },
+    {
+      "id": "line_0003",
+      "speaker": "patient",
+      "text": "maybe about a year"
+    },
+    {
+      "id": "line_0004",
+      "speaker": "doctor",
+      "text": "a year well that that's a that's a a long time so when it started i guess did you have any trauma to the foot or did was it just all of a sudden"
+    },
+    {
+      "id": "line_0005",
+      "speaker": "patient",
+      "text": "no trauma it just it seemed like a little blister and then i picked at it and it did get a little bit red and infected so i talked to my primary about it"
+    },
+    {
+      "id": "line_0006",
+      "speaker": "doctor",
+      "text": "okay"
+    },
+    {
+      "id": "line_0007",
+      "speaker": "patient",
+      "text": "i went on some antibiotics it seemed to get better but nothing is really making it go away"
+    },
+    {
+      "id": "line_0008",
+      "speaker": "doctor",
+      "text": "okay when was the last time you were on antibiotics"
+    },
+    {
+      "id": "line_0009",
+      "speaker": "patient",
+      "text": "it's probably been five months"
+    },
+    {
+      "id": "line_0010",
+      "speaker": "doctor",
+      "text": "five months alright do you remember which antibiotics you were on"
+    },
+    {
+      "id": "line_0011",
+      "speaker": "patient",
+      "text": "keflex"
+    },
+    {
+      "id": "line_0012",
+      "speaker": "doctor",
+      "text": "keflex alright so kinda does your foot hurt or is it just just the"
+    },
+    {
+      "id": "line_0013",
+      "speaker": "patient",
+      "text": "no pain but i do n't have much feeling in my foot"
+    },
+    {
+      "id": "line_0014",
+      "speaker": "doctor",
+      "text": "alright so you've got neuropathy yeah that that that makes sense with the the diabetes so have you had any other symptoms like a fever chills any drainage coming from it"
+    },
+    {
+      "id": "line_0015",
+      "speaker": "patient",
+      "text": "lately there has been a lot more drainage and i just feel a little more tired"
+    },
+    {
+      "id": "line_0016",
+      "speaker": "doctor",
+      "text": "okay alright well that that sounds good so today is thursday so what do you have for the weekend"
+    },
+    {
+      "id": "line_0017",
+      "speaker": "patient",
+      "text": "not too much i'll probably be walking around at the zoo on this ulcer all weekend and eating out and not doing anything my doctor wants me to do"
+    },
+    {
+      "id": "line_0018",
+      "speaker": "doctor",
+      "text": "no yeah i yeah i know you do have that diabetes i know your pcp probably would n't be excited about you you eating out and all that but you know hopefully we can we i can at least get your your foot a little bit better so your diabetes i know we talked a little bit earlier how is that going for you is it controlled you know what's your your blood sugars running"
+    },
+    {
+      "id": "line_0019",
+      "speaker": "patient",
+      "text": "yeah they are running better than they were but they are still in the two hundreds so my doctor does n't like that my last a1c was about ten"
+    },
+    {
+      "id": "line_0020",
+      "speaker": "doctor",
+      "text": "okay alright yeah i i you probably definitely need to get back with your pcp about that because the a1c is is pretty high and i know he probably had you on some medication and insulin and metformin and insulin just to try to to get that lower but"
+    },
+    {
+      "id": "line_0021",
+      "speaker": "patient",
+      "text": "yes"
+    },
+    {
+      "id": "line_0022",
+      "speaker": "doctor",
+      "text": "you know we are here for your foot so let's let me take a look at that so we will do a quick exam of your foot so you do n't have any fever your vitals look good so on your your right foot exam i can see here you do have a one by two centimeter two inch circular wound on the dorsal aspect of the lateral right foot so it's just proximal to the fifth mtp joint i do see some yellow slough that's present with minimal granulation tissue you have no surrounding erythema or cellulitis and there is n't any evidence of fluid collection i do n't see necrosis so there is no dead tissue around it there's no odor and i i do n't appreciate any bony exposure and does it hurt when i touch it here"
+    },
+    {
+      "id": "line_0023",
+      "speaker": "patient",
+      "text": "no"
+    },
+    {
+      "id": "line_0024",
+      "speaker": "doctor",
+      "text": "okay so we did a x-ray of your right foot before you came in and it showed no evidence of osteomyelitis that means that there is no bone infection which is really good so let me just talk a little about my assessment and plan of your your foot so you do have that diabetic foot ulcer so what i'm gon na do is i'm going to order a abi or ankle brachial index and that's just to determine your blood supply just to see if we can actually heal that wound i know it's been there for about a year which is a pretty long time and so we just need to see if we can if you do have that blood flow just in case we need to to make other goals for that foot just to depend upon that i'm also gon na do a debridement here have you had that done before of the"
+    },
+    {
+      "id": "line_0025",
+      "speaker": "patient",
+      "text": "yes i think so"
+    },
+    {
+      "id": "line_0026",
+      "speaker": "doctor",
+      "text": "okay so you know you know pretty much about that so i'm just gon na try to take off some of that dead tissue we'll do that here in the office afterwards and then i'm going to prescribe you some colaganase ointment and you could just add that to your wound once a day and cover it with a sterile dressing and we're gon na try to continue that until we see it start to shrink and hopefully you know that will work between the debridement and then the ointment did they give you at your pcp they give you a surgical shoe or have you been wearing your regular shoes"
+    },
+    {
+      "id": "line_0027",
+      "speaker": "patient",
+      "text": "i've just been wearing my regular shoes"
+    },
+    {
+      "id": "line_0028",
+      "speaker": "doctor",
+      "text": "okay so we're gon na get you a surgical shoe and i want you to to wear that and that can help you take pressure off the area because i know you said you're gon na walk around with this zoo this this weekend so i definitely do n't want you to put much pressure on it from now on and hopefully that can help it heal and so after all that i'm just gon na see you back in two weeks and we could take another look and possible do another debridement of the ulcer so do you have any questions for me"
+    },
+    {
+      "id": "line_0029",
+      "speaker": "patient",
+      "text": "i do n't think so"
+    },
+    {
+      "id": "line_0030",
+      "speaker": "doctor",
+      "text": "alright so i'll see you back in two weeks and i hope you have fun at the zoo this weekend"
+    },
+    {
+      "id": "line_0031",
+      "speaker": "patient",
+      "text": "thank you"
+    },
+    {
+      "id": "line_0032",
+      "speaker": "doctor",
+      "text": "alright thanks"
+    }
+  ],
+  "annotations": [
+    {
+      "utterance_id": "line_0000",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "social_history",
+          "summary": "The patient is a 77-year-old female with type 2 diabetes presenting for a non-healing foot ulcer.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "social_history"
+          }
+        },
+        {
+          "type": "agenda_item",
+          "summary": "Evaluation of a non-healing right foot ulcer.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "chief_complaint"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0002",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about the duration of the foot ulcer.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0003",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports the ulcer has been present for approximately one year.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0004",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if there was any trauma associated with the onset of the ulcer.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0005",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports no trauma, noting it started as a blister that she picked at, which then became red and infected.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0007",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports that previous antibiotics improved symptoms but did not resolve the ulcer.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0008",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks when the patient last took antibiotics.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0009",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient last took antibiotics five months ago.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0010",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks which antibiotic the patient was prescribed.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0011",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient was prescribed Keflex.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0012",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks if the foot is painful.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0013",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports no pain but notes decreased sensation in the foot.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "hpi"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0014",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "question",
+          "summary": "The doctor asks about systemic symptoms like fever, chills, or drainage.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0015",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports increased drainage from the ulcer and fatigue.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "ros"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0018",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "agenda_item",
+          "summary": "Diabetes management.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks about the patient's blood sugar control.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "mentioned",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0019",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports blood sugars in the 200s and a recent A1C of 10.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0018",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "pmh"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0022",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "Physical exam of the right foot shows a 1.0 cm x 2.0 cm wound on the dorsal aspect of the lateral foot, yellow slough, minimal granulation, no erythema, no cellulitis, no fluid collection, no necrosis, no odor, and no bony exposure.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the wound is painful to palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0023",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient reports no pain to palpation.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "physical_exam"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0024",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "X-ray of the right foot shows no evidence of osteomyelitis.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "discussed",
+            "clinical_category": "assessment"
+          }
+        },
+        {
+          "type": "follow_up",
+          "summary": "The doctor plans to order an ankle brachial index (ABI) to assess blood supply.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has had a debridement before.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0025",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient confirms she has had a debridement before.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0026",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor will perform an in-office debridement.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "medication",
+          "summary": "The doctor prescribes collagenase ointment to be applied once daily with a sterile dressing.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has been wearing a surgical shoe.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0027",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has been wearing regular shoes.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0028",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "follow_up",
+          "summary": "The doctor orders a surgical shoe to offload the foot and schedules a follow-up in two weeks.",
+          "eval_only": {
+            "linked_agenda_item_id": "line_0000",
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "plan"
+          }
+        },
+        {
+          "type": "question",
+          "summary": "The doctor asks if the patient has any questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    },
+    {
+      "utterance_id": "line_0029",
+      "relevant": true,
+      "detail_list": [
+        {
+          "type": "detail",
+          "summary": "The patient has no questions.",
+          "eval_only": {
+            "linked_agenda_item_id": null,
+            "first_mention": true,
+            "resolution_status": "resolved",
+            "clinical_category": "other"
+          }
+        }
+      ]
+    }
+  ],
+  "case_description": "non-healing right foot ulcer; increased drainage;fatigue",
+  "metadata": {
+    "annotator": "gemini-3.1-flash-lite-preview",
+    "include_eval": true
+  }
+}
