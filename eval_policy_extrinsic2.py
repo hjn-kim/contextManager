@@ -101,14 +101,11 @@ DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v2-llama-3.2-3b"
 # its training data — no leakage into the learned-vs-baseline comparison.
 # Verified: 0 overlapping conversation ids.
 DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "test"
-# Matches the budgets the cached baseline rows in
-# output/strategy_comparison_780.csv were computed at, so a default run only
-# has to fill in the "learned" rows instead of re-running every baseline
-# through real LLM inference.
+# Budgets every strategy is evaluated at. Every run recomputes all of them
+# (baselines included) through real LLM inference — nothing is read back from a CSV.
 DEFAULT_BUDGETS = [64, 100, 128, 256]
-# Separate from eval_policy_extrinsic.py's outputs: the CSV is a cache keyed by
-# (strategy, model, budget), so writing 780-d rows into the same file would mix
-# two different policy architectures in one comparison.
+# Separate file from eval_policy_extrinsic.py's output so the 780-d results are
+# not mixed with the 396-d run's. Overwritten fresh on every run (no cache).
 DEFAULT_CSV = PROJECT_ROOT / "output" / "strategy_comparison_780.csv"
 DEFAULT_PLOT_DIR = PROJECT_ROOT / "output" / "plots_strategy_comparison_780"
 DEFAULT_POLICY_MODEL = PROJECT_ROOT / "eviction_mlp" / "eviction_mlp_attention_780.pt"
