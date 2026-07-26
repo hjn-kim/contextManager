@@ -8,7 +8,7 @@ metric in src/metrics.py (ROUGE, BERTScore, detection P/R/F1, agenda
 completeness, linking/first-mention/resolution accuracy).
 
 The Agenda LLM is held FIXED to the LoRA model (--model-path, default
-tria-hongik/atlas-c1-v2-llama-3.2-3b). What is compared is the EVICTION
+tria-hongik/atlas-c1-v3-llama-3.2-3b). What is compared is the EVICTION
 STRATEGY on top of that one model:
   - baseline strategies : fifo, sliding, random, attention, oracle
   - learned             : the trained EvictionMLP policy (Component 3)
@@ -73,7 +73,7 @@ from prompts import REALTIME_SYSTEM, REALTIME_USER
 # =============================================================================
 
 DEFAULT_BASE_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
-DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v2-llama-3.2-3b"
+DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v3-llama-3.2-3b"
 # data/valid holds the held-out conversations (D2N068+). The policy was trained
 # on the train split (D2N001-067) only, so this is disjoint from the policy's
 # training data — no leakage into the learned-vs-baseline comparison.

@@ -49,7 +49,7 @@ numbers are real, but they are measured off-policy.
 
 Model
 -----
-Defaults to the private LoRA adapter tria-hongik/atlas-c1-v2-llama-3.2-3b on
+Defaults to the private LoRA adapter tria-hongik/atlas-c1-v3-llama-3.2-3b on
 top of its recorded base model (same resolution logic as
 eval_policy_extrinsic.py). Pass --hf-token or set HF_TOKEN / HUGGING_FACE_HUB_TOKEN.
 
@@ -109,7 +109,7 @@ from prompts import REALTIME_SYSTEM, REALTIME_USER  # noqa: E402
 # checkpoint, so it is reproduced verbatim here rather than "fixed" -- the
 # attention numbers must come from the same prompt the rest of the pipeline uses.
 
-DEFAULT_MODEL = "tria-hongik/atlas-c1-v2-llama-3.2-3b"
+DEFAULT_MODEL = "tria-hongik/atlas-c1-v3-llama-3.2-3b"
 DEFAULT_BASE_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
 DEFAULT_DATA = PROJECT_ROOT / "data" / "train"
 DEFAULT_OUT = PROJECT_ROOT / "output" / "oracle_attention.jsonl"

@@ -32,7 +32,7 @@ metric in src/metrics.py (ROUGE, BERTScore, detection P/R/F1, agenda
 completeness, linking/first-mention/resolution accuracy).
 
 The Agenda LLM is held FIXED to the LoRA model (--model-path, default
-tria-hongik/atlas-c1-v2-llama-3.2-3b). What is compared is the EVICTION
+tria-hongik/atlas-c1-v3-llama-3.2-3b). What is compared is the EVICTION
 STRATEGY on top of that one model:
   - baseline strategies : fifo, sliding, random, attention, oracle
   - learned             : the trained 780-d PairEvictionMLP (src/policy2.py)
@@ -95,7 +95,7 @@ from prompts import REALTIME_SYSTEM, REALTIME_USER
 # =============================================================================
 
 DEFAULT_BASE_MODEL = "meta-llama/Llama-3.2-3B-Instruct"
-DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v2-llama-3.2-3b"
+DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v3-llama-3.2-3b"
 # data/test holds the held-out conversations (D2N068+). The 780-d policy's
 # attention labels came from data/train (D2N001-067), so this is disjoint from
 # its training data — no leakage into the learned-vs-baseline comparison.

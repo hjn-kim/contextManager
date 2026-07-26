@@ -2,7 +2,7 @@
 ATLAS Baseline Eviction-Strategy Evaluation (fixed LoRA model)
 ===============================================================
 Runs the FIXED LoRA Agenda LLM (--model-path, default the C1 adapter
-tria-hongik/atlas-c1-v2-llama-3.2-3b) through the streaming harness under
+tria-hongik/atlas-c1-v3-llama-3.2-3b) through the streaming harness under
 every baseline eviction strategy — fifo, sliding, random, attention — plus
 an oracle (unlimited budget, keeps every sentence; an upper bound rather
 than a real strategy), scoring against gold annotations with every metric
