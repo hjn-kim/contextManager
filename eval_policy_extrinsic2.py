@@ -673,6 +673,18 @@ def model_label(strategy_name: str, args) -> str:
 # earlier run (e.g. an eviction .pt that was retrained under the same filename).
 # =============================================================================
 
+def read_existing_rows(csv_path: Path) -> list:
+    """Existing CSV rows as dicts, or [] if the file is absent/empty.
+
+    Used to preserve strategies a partial run (e.g. --strategies learned) did
+    not recompute. Values stay strings; write_plots re-casts budget/value.
+    """
+    if not csv_path.exists():
+        return []
+    with open(csv_path, newline="", encoding="utf-8") as f:
+        return list(csv.DictReader(f))
+
+
 def write_rows(csv_path: Path, rows: list):
     """Overwrite the CSV with exactly this run's rows.
 
@@ -790,6 +802,12 @@ def main():
 
     parser.add_argument("--data-dir", default=str(DEFAULT_DATA_DIR))
     parser.add_argument("--budgets", nargs="+", type=int, default=DEFAULT_BUDGETS)
+    parser.add_argument("--strategies", nargs="+", default=list(STRATEGIES_TO_COMPARE),
+                        choices=STRATEGIES_TO_COMPARE,
+                        help="which eviction strategies to evaluate (default: all). "
+                             "e.g. --strategies learned  runs the learned policy only. "
+                             "Strategies you omit keep their existing rows in the CSV, so "
+                             "the comparison plots still show baselines vs learned.")
     parser.add_argument("--limit", type=int, default=None, help="limit number of conversations (debug)")
 
     parser.add_argument("--dtype", default="bfloat16", choices=["bfloat16", "float16", "float32"])
@@ -824,7 +842,7 @@ def main():
     # Shared across every strategy/budget so identical trajectories score once.
     report_cache = {}
     new_rows = []
-    for strategy_name in STRATEGIES_TO_COMPARE:
+    for strategy_name in args.strategies:
         model = model_label(strategy_name, args)
         # No cache: always compute every budget for every strategy.
         missing_budgets = list(args.budgets)
@@ -868,19 +886,32 @@ def main():
         log_cache_stats(llm)
         free_llm(llm)
 
-    if new_rows:
-        write_rows(csv_path, new_rows)
-        print(f"\nWrote {len(new_rows)} rows to {csv_path}")
+    # Preserve CSV rows for strategies we did NOT rerun this time, so
+    # `--strategies learned` refreshes only the learned rows instead of wiping
+    # the baselines. A full run (every strategy) preserves nothing -> plain
+    # overwrite, exactly as before.
+    rerun = set(args.strategies)
+    preserved = [r for r in read_existing_rows(csv_path) if r.get("strategy") not in rerun]
+    merged_rows = preserved + new_rows
+
+    if merged_rows:
+        write_rows(csv_path, merged_rows)
+        msg = f"\nWrote {len(new_rows)} new rows"
+        if preserved:
+            msg += (f" (+{len(preserved)} preserved for "
+                    f"{sorted({r['strategy'] for r in preserved})})")
+        print(msg + f" to {csv_path}")
     else:
         print(f"\nNo rows produced.")
 
     if not args.no_plots:
         # Plot the baselines plus the CURRENT learned checkpoint only, so a CSV
         # that accumulated several learned checkpoints does not mix them on the
-        # same chart.
+        # same chart. Read from the merged set so preserved baselines still show
+        # up when only 'learned' was rerun.
         learned_label = policy_model_name(args.policy_model)
         plot_rows = [
-            r for r in new_rows
+            r for r in merged_rows
             if r.get("model") in ("baseline", learned_label)
         ]
         write_plots(plot_rows, Path(args.plot_dir))
