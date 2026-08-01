@@ -78,7 +78,7 @@ DEFAULT_C1_ADAPTER = "tria-hongik/atlas-c1-v3-llama-3.2-3b"
 # on the train split (D2N001-067) only, so this is disjoint from the policy's
 # training data — no leakage into the learned-vs-baseline comparison.
 # (Formerly data/aci, which is the same set under an older path name.)
-DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "valid"
+DEFAULT_DATA_DIR = PROJECT_ROOT / "data" / "test"
 # Matches the budgets the cached baseline rows in output/strategy_comparison*.csv
 # were computed at. Changing these means every baseline has to be re-run through
 # real LLM inference before a learned-vs-baseline table is comparable.
