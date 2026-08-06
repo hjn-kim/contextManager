@@ -1,5 +1,4 @@
 실행
-$env:GOOGLE_API_KEY="AIzaSyBzpKLIwd2v5gE7N-u5GubCqH8ig3_ZX2s"
 python annotation_gemini.py --mode batch --input train.csv --output output/ --limit
 
 
